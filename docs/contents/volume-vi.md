@@ -1,0 +1,1201 @@
+# Volume VI — The Self-Evolving Grothendieckian Machine
+
+Reinforcement learning and safe whole-system self-evolution for mathematical AI.
+
+1,485 pages · file `GAI-MUA-v1.0.0-Vol6-Self-Evolution.pdf`
+
+Page numbers below are PDF page indices.
+
+- Preface to Volume VI — p. 5
+  - The meaning of self-evolution in this volume — p. 5
+  - From mathematical worlds to governed succession — p. 5
+  - Governed self-evolution — p. 5
+  - The no-self-certification principle — p. 5
+  - Immutable roots and constitutional epochs — p. 5
+  - Mathematical control under partial observability — p. 5
+  - The Module Evolution Context — p. 5
+  - Verifier-grounded reward and admissible improvement — p. 5
+  - Curricula, continual learning, and memory — p. 5
+  - Causal credit, interference, and delayed evidence — p. 5
+  - Descent-coherent versioning — p. 5
+  - Promotion, canaries, and rollback — p. 5
+  - The architecture of the volume — p. 5
+  - Reading routes — p. 5
+  - Safety, authority, and research limits — p. 5
+  - Scholarly method and claim discipline — p. 5
+  - Conclusion — p. 5
+  - Acknowledgements — p. 5
+- Contents — p. 22
+- List of Figures — p. 48
+- List of Tables — p. 51
+- Architectural Prospectus — p. 52
+- Chapter 1. What Mathematical Self-Evolution Can Mean — p. 53
+  - 1.1 Evolution is governed change, not self-authored truth — p. 53
+  - 1.2 The subject of evolution — p. 54
+  - 1.3 A federation rather than a sovereign optimizer — p. 56
+  - 1.4 What improvement means — p. 56
+  - 1.5 Example: a coupled retrieval and formalization change — p. 58
+  - 1.6 Observable limits — p. 58
+  - 1.7 Falsifiability — p. 58
+- Chapter 2. No Self-Certification Principle — p. 60
+  - 2.1 Certification is a relation between principals — p. 60
+  - 2.2 Five prohibited closures — p. 60
+  - 2.3 Typed evidence flow — p. 60
+  - 2.4 Independence is claim-relative — p. 60
+  - 2.5 Collusion, shared failure, and diversity — p. 60
+  - 2.6 Protected transitions — p. 60
+  - 2.7 Failure behavior — p. 60
+  - 2.8 Falsification program — p. 60
+- Chapter 3. Immutable Roots and Upgrade Epochs — p. 70
+  - 3.1 Seven roots, seven independent prohibitions — p. 70
+  - 3.2 The authoritative constitutional binding — p. 70
+  - 3.3 A successor is not an in-place update — p. 70
+  - 3.4 Upgrade gate — p. 70
+  - 3.5 The root-upgrade paradox — p. 76
+  - 3.6 Migration and rollback — p. 76
+  - 3.7 Relationship to evolution — p. 76
+  - 3.8 Falsification — p. 76
+- Chapter 4. Evolution Types, Bounds, and Obligations — p. 80
+  - 4.1 Every candidate has a type — p. 80
+  - 4.2 Change classes — p. 80
+  - 4.3 Bounds are semantic — p. 80
+  - 4.4 Obligations as blocking objects — p. 80
+  - 4.5 Allowed and forbidden actions — p. 80
+  - 4.6 Preservation obligations — p. 80
+  - 4.7 Candidate disposition — p. 80
+  - 4.8 Bundle typing — p. 80
+  - 4.9 Falsifiability — p. 80
+- Chapter 5. Failure, Uncertainty, and Abstention — p. 91
+  - 5.1 Failure is evidence — p. 91
+  - 5.2 Failure families — p. 91
+  - 5.3 Typed uncertainty — p. 91
+  - 5.4 Abstention — p. 91
+  - 5.5 Negative results must retain their logic — p. 91
+  - 5.6 Reward and failure — p. 91
+  - 5.7 Recovery without self-rollback — p. 91
+  - 5.8 Calibration and selective prediction — p. 91
+  - 5.9 Falsification — p. 91
+- Chapter 6. Five Timescales of Adaptation — p. 100
+  - 6.1 One clock is not enough — p. 100
+  - 6.2 Online adaptation — p. 100
+  - 6.3 Episodic consolidation — p. 100
+  - 6.4 Offline policy learning — p. 100
+  - 6.5 Structural module evolution — p. 100
+  - 6.6 Scientific curriculum evolution — p. 100
+  - 6.7 Clock transitions — p. 100
+  - 6.8 Stability across clocks — p. 100
+  - 6.9 Falsification — p. 100
+- Chapter 7. Categorical State and Versioned Worlds — p. 109
+  - 7.1 State is a typed object, not a mutable vector — p. 109
+  - 7.2 The seven-root epoch is a fixed parameter — p. 110
+  - 7.3 Versioned mathematical worlds — p. 110
+  - 7.4 Covers and restrictions — p. 113
+  - 7.5 Version lineage — p. 113
+  - 7.6 Candidate evidence is not authority — p. 113
+  - 7.7 Relationship to the MEC — p. 113
+  - 7.8 Invariants and typed failures — p. 120
+  - 7.9 Falsification — p. 120
+- Chapter 8. Mathematical POMDPs — p. 123
+  - 8.1 Why mathematical control is partially observable — p. 123
+  - 8.2 The typed mathematical POMDP — p. 123
+  - 8.3 Histories, beliefs, and authority-safe policies — p. 123
+  - 8.4 Hard invariants precede vector reward — p. 123
+  - 8.5 Uncertainty and abstention are part of the dynamics — p. 123
+  - 8.6 Five clocks in one controlled process — p. 123
+  - 8.7 Causal credit and non-identification — p. 123
+  - 8.8 Independent evaluation is a separate process — p. 123
+  - 8.9 A proof-repair trajectory — p. 123
+  - 8.10 Failure artifacts — p. 123
+  - 8.11 Open obligations and falsification — p. 123
+- Chapter 9. Observation and Belief Objects — p. 134
+  - 9.1 Observation is a typed view, not the state itself — p. 134
+  - 9.2 Observation validity and evidence lineage — p. 136
+  - 9.3 Support, scope, and missingness — p. 136
+  - 9.4 Belief objects — p. 136
+  - 9.5 Contradiction and epistemic status — p. 136
+  - 9.6 Calibration is claim- and context-relative — p. 136
+  - 9.7 Adversarial observations — p. 136
+  - 9.8 Independent evaluation and the MEC boundary — p. 136
+  - 9.9 Invariant gates and typed failures — p. 144
+  - 9.10 Falsification — p. 144
+- Chapter 10. Typed Action Categories — p. 148
+  - 10.1 Actions are typed morphisms — p. 148
+  - 10.2 Exact constitutional binding on every action artifact — p. 148
+  - 10.3 The allowed set Am-+ — p. 148
+  - 10.4 The forbidden set Am-- — p. 148
+  - 10.5 Capability typing — p. 148
+  - 10.6 Effects, preconditions, and postconditions — p. 148
+  - 10.7 Compositional action categories — p. 148
+  - 10.8 Budgets and authority monotonicity — p. 148
+  - 10.9 Volume IV opacity and external checking — p. 148
+  - 10.10 Validator obligations and failure artifacts — p. 148
+  - 10.11 Metrics and audit evidence — p. 157
+  - 10.12 Falsification — p. 157
+- Chapter 11. Policy Morphisms and Version Graphs — p. 160
+  - 11.1 Policies are versioned, scoped objects — p. 160
+  - 11.2 Authoritative constitutional binding — p. 160
+  - 11.3 Policy morphisms — p. 160
+  - 11.4 Restriction and naturality — p. 164
+  - 11.5 Version DAGs and lineage — p. 164
+  - 11.6 Candidate bundles — p. 167
+  - 11.7 Compatibility and descent constraints — p. 167
+  - 11.8 Evaluator evidence and external promotion requests — p. 167
+  - 11.9 Rollback bundles — p. 167
+  - 11.10 Typed failures — p. 167
+  - 11.11 Open obligations — p. 167
+- Chapter 12. Invariant and Obstruction Objects — p. 177
+  - 12.1 Invariants are constitutional predicates — p. 177
+  - 12.2 Preservation evidence is external to the candidate — p. 177
+  - 12.3 Obstruction objects — p. 177
+  - 12.4 Local compatibility is not global effectivity — p. 177
+  - 12.5 Abstention and non-identification — p. 177
+  - 12.6 Three-plane non-identification firewall — p. 177
+  - 12.7 Failure artifacts and gate propagation — p. 177
+  - 12.8 Rollback readiness is an invariant before promotion — p. 186
+  - 12.9 Falsification — p. 186
+  - 12.10 Implementation status — p. 186
+- Chapter 13. The Module Evolution Context — p. 189
+  - 13.1 One complete context for every non-trusted module — p. 189
+  - 13.2 The eighteen field types — p. 193
+  - 13.3 State, observation, actions, and constitutional denial — p. 195
+  - 13.4 Hard invariants are lexicographically prior to reward — p. 195
+  - 13.5 Experience and prerequisite-safe curricula — p. 195
+  - 13.6 Candidate generation and independent local evaluation — p. 195
+  - 13.7 Compatibility and separately evidenced effectivity — p. 195
+  - 13.8 Evidence flow and the external promotion port — p. 195
+  - 13.9 Version lineage and rollback readiness — p. 195
+  - 13.10 Timescales and causal credit — p. 195
+  - 13.11 Admissibility laws — p. 195
+  - 13.12 Registration and change control — p. 206
+  - 13.13 Failure and obstruction semantics — p. 206
+- Chapter 14. Ingestion, Ontology, and Source Evolution — p. 209
+  - 14.1 Evolution begins without rewriting the source — p. 209
+  - 14.2 The two complete MEC passports — p. 210
+  - 14.3 Authoritative epoch and artifact-level root binding — p. 212
+  - 14.4 Parser and normalizer candidates — p. 217
+  - 14.5 Ontology edits with permanent lineage — p. 217
+  - 14.6 Candidate isolation, curricula, and vector rewards — p. 219
+  - 14.7 Overlap compatibility is not effectivity — p. 219
+  - 14.8 Promotion requests, rollback readiness, and causal credit — p. 222
+  - 14.9 Failure preservation and adversarial falsification — p. 222
+  - 14.10 Metrics and acceptance boundary — p. 227
+- Chapter 15. Mathematical IR and Compiler Evolution — p. 229
+  - 15.1 What may evolve — p. 229
+  - 15.2 The complete MEC-03 passport — p. 229
+  - 15.3 Seven immutable roots — p. 230
+  - 15.4 Bounded pass-graph evolution — p. 230
+  - 15.5 Target, hypothesis, universe, and variance preservation — p. 236
+  - 15.6 Round-trip and commutation testing — p. 236
+  - 15.7 Candidate and evaluator separation — p. 236
+  - 15.8 Curriculum, reward, and causal credit — p. 236
+  - 15.9 Compatibility is not effectivity — p. 236
+  - 15.10 The Anabelian-IUT three-plane firewall — p. 236
+  - 15.11 External promotion request and rollback readiness — p. 236
+  - 15.12 Typed failure artifacts and falsification — p. 236
+- Chapter 16. MUE, GCL, and MUF-H Evolution — p. 246
+  - 16.1 What is permitted to evolve — p. 246
+  - 16.2 The opaque Volume IV service map — p. 246
+  - 16.3 Complete MEC-05 instantiation — p. 246
+  - 16.4 Evolution of bounded solver selection — p. 252
+  - 16.5 Bridge hypotheses and Nori/realization alignment — p. 252
+  - 16.6 Projector candidates, facades, and qualified proxies — p. 252
+  - 16.7 Exact matrix and certificate evaluation — p. 252
+  - 16.8 Compatibility is not effectivity — p. 258
+  - 16.9 Reward, causal credit, promotion, and recovery — p. 258
+  - 16.10 Falsification conditions — p. 258
+- Chapter 17. TRE, TNCA, and TNRA Evolution — p. 263
+  - 17.1 One coupled system, three distinct responsibilities — p. 263
+  - 17.2 The three complete MEC passports — p. 263
+  - 17.3 Seven roots remain outside the loop — p. 264
+  - 17.4 TRE campaign routing, budgets, and cycles — p. 269
+  - 17.5 TNCA typed world creation and safe probes — p. 269
+  - 17.6 TNRA world reasoning, local sections, and descent — p. 269
+  - 17.7 Independent evaluation and causal limits — p. 269
+  - 17.8 Obstruction, abstention, and non-erasure — p. 269
+  - 17.9 External promotion request and rollback readiness — p. 269
+  - 17.10 Falsification — p. 269
+- Chapter 18. GRA and GMLS Evolution — p. 279
+  - 18.1 Two evolving research instruments — p. 279
+  - 18.2 Parallel orchestration without sovereign judgment — p. 280
+  - 18.3 MEC-09: the complete GRA context — p. 280
+  - 18.4 MEC-10: the complete GMLS context — p. 282
+  - 18.5 Grounding before compression — p. 284
+  - 18.6 Versioned memories and experimental candidates — p. 288
+  - 18.7 Independent evaluation and contamination control — p. 288
+  - 18.8 Causal credit under interference — p. 288
+  - 18.9 Overlaps, gluing, and effectivity — p. 288
+  - 18.10 Promotion requests and rollback readiness — p. 288
+  - 18.11 Typed failure and falsification — p. 288
+- Chapter 19. GCA, GDRA/DDA, and AURORA Evolution — p. 295
+  - 19.1 Three experimental modules, one constitutional boundary — p. 295
+  - 19.2 Seven immutable roots and no self-authority — p. 295
+  - 19.3 MEC-11: the complete GCA context — p. 295
+  - 19.4 MEC-12: the complete GDRA/DDA context — p. 304
+  - 19.5 MEC-13: the complete AURORA context — p. 307
+  - 19.6 Independent evaluation, curricula, and causal credit — p. 309
+  - 19.7 Compatibility, effectivity, promotion, and recovery — p. 309
+  - 19.8 Typed failures and falsification — p. 309
+- Chapter 20. Anabelian-Theater, Retrieval, Proof, and Publication Evolution — p. 317
+  - 20.1 One corridor, several non-interchangeable authorities — p. 317
+  - 20.2 Constitutional envelope — p. 317
+  - 20.3 The Anabelian three-plane firewall — p. 319
+  - 20.4 Common eighteen-field signature — p. 319
+  - 20.5 Specialization matrix: state through generation — p. 321
+  - 20.6 Specialization matrix: evaluation through failure — p. 324
+  - 20.7 Retrieval, conjecture, proof, and refutation — p. 333
+  - 20.8 Security, observability, and publication non-authority — p. 333
+  - 20.9 Compatibility, gluing, effectivity, and causal credit — p. 333
+  - 20.10 External promotion and rollback readiness — p. 333
+  - 20.11 Falsification conditions — p. 333
+- Chapter 21. Hierarchical Mathematical RL — p. 342
+  - 21.1 Hierarchy is temporal abstraction, not delegated authority — p. 342
+  - 21.2 Typed goals, subgoals, and refinements — p. 342
+  - 21.3 Typed mathematical options — p. 342
+  - 21.4 Temporal abstraction with interruptible gates — p. 348
+  - 21.5 Obligation-aware option policies — p. 348
+  - 21.6 Verifier-grounded vector returns and hard gating — p. 351
+  - 21.7 Support-bounded offline and online learning — p. 351
+  - 21.8 Credit assignment across levels — p. 351
+  - 21.9 Prerequisite-safe hierarchical curricula — p. 351
+  - 21.10 Two mathematical workflow examples — p. 351
+  - 21.11 Compatibility and effectivity of option families — p. 351
+  - 21.12 Version lineage, independent evaluation, and external promotion — p. 351
+  - 21.13 Failure, abstention, and falsification — p. 355
+- Chapter 22. Model-Based Planning and World Models — p. 358
+  - 22.1 Planning with a model is planning under a claim — p. 358
+  - 22.2 Categorical and typed learned world models — p. 359
+  - 22.3 Partial observability and epistemic status — p. 360
+  - 22.4 Legality before optimization — p. 360
+  - 22.5 Bounded rollouts and accumulated model error — p. 360
+  - 22.6 Counterfactual planning without causal overclaim — p. 366
+  - 22.7 Verifier-grounded terminal evidence — p. 366
+  - 22.8 Calibration, support, and out-of-distribution behavior — p. 366
+  - 22.9 Immutable experience and model lineage — p. 366
+  - 22.10 Independent evaluation — p. 366
+  - 22.11 Compatibility, gluing, and effectivity — p. 366
+  - 22.12 Safe deployment request and rollback readiness — p. 366
+  - 22.13 Typed failures and falsification — p. 366
+- Chapter 23. Multi-Agent Mathematical Policies — p. 373
+  - 23.1 A federation of bounded principals — p. 373
+  - 23.2 Role typing and capability-safe allocation — p. 373
+  - 23.3 Sealed tasks and terminal artifacts — p. 373
+  - 23.4 Shared and private observations — p. 373
+  - 23.5 Communication as a typed protocol — p. 373
+  - 23.6 Conflict, Byzantine behavior, and common-mode risk — p. 373
+  - 23.7 Debate generates candidates; it does not judge them — p. 373
+  - 23.8 MEC-bound vector rewards and credit under interference — p. 373
+  - 23.9 Decentralized policies and overlap compatibility — p. 373
+  - 23.10 Gluing and effectivity are separate gates — p. 373
+  - 23.11 Independent evaluators and anti-collusion controls — p. 373
+  - 23.12 Version bundles, external promotion, and rollback readiness — p. 373
+  - 23.13 Immutable roots, failures, and falsification — p. 373
+- Chapter 24. Tool Routing and Program Selection — p. 387
+  - 24.1 Routing chooses an attempt, not a truth — p. 387
+  - 24.2 Typed tool and program registry — p. 387
+  - 24.3 Capability and trust contracts — p. 387
+  - 24.4 Contextual admissibility and route plans — p. 387
+  - 24.5 Cost and resource models — p. 387
+  - 24.6 Sandboxing and Volume V adapter receipts — p. 387
+  - 24.7 Verifier-grounded outcome observations and canonical rewards — p. 387
+  - 24.8 Uncertainty, selective routing, and abstention — p. 387
+  - 24.9 Online bandits and offline policy learning — p. 387
+  - 24.10 Causal tool credit and contamination — p. 387
+  - 24.11 Independent evaluation, compatibility, and effectivity — p. 387
+  - 24.12 Versioned routing bundles, promotion, rollback, and typed failures — p. 387
+- Chapter 25. Theorem-Proving and Proof-Repair RL — p. 406
+  - 25.1 Learning may search for proofs but cannot establish them — p. 406
+  - 25.2 The sealed proof task — p. 406
+  - 25.3 The mandatory MEC-17 passport and its POMDP kernel — p. 407
+  - 25.4 Action masks precede optimization — p. 410
+  - 25.5 Proof production and independent kernel receipts — p. 410
+  - 25.6 Proof repair without target or axiom drift — p. 410
+  - 25.7 Verifier-grounded vector rewards — p. 410
+  - 25.8 Experience, support, and contamination — p. 410
+  - 25.9 Independent evaluation and causal credit — p. 410
+  - 25.10 Compatibility, gluing, and effectivity — p. 410
+  - 25.11 Version bundles and external promotion — p. 410
+  - 25.12 Seven roots and rollback readiness — p. 410
+  - 25.13 Selective completion and governed abstention — p. 422
+  - 25.14 Typed failures and falsification suite — p. 422
+- Chapter 26. Counterexample and Conjecture Policies — p. 426
+  - 26.1 Two policies, neither a truth authority — p. 426
+  - 26.2 Root-bound typed objects — p. 426
+  - 26.3 Sealed scope, hypotheses, and status — p. 428
+  - 26.4 Typed policy families and legal actions — p. 431
+  - 26.5 Exact witness replay — p. 434
+  - 26.6 Non-finding is not proof — p. 434
+  - 26.7 Conjecture generation and evidential discipline — p. 434
+  - 26.8 Novelty and deduplication — p. 434
+  - 26.9 Withdrawal, refinement, and immutable lineage — p. 434
+  - 26.10 Hard invariants and vector reward — p. 434
+  - 26.11 Experience and curriculum — p. 434
+  - 26.12 Separated generation, checking, and evaluation — p. 434
+  - 26.13 Predictive claims and causal credit — p. 434
+  - 26.14 Compatibility, gluing, and effectivity — p. 434
+  - 26.15 External requests and rollback readiness — p. 434
+  - 26.16 Typed failures and adversarial tests — p. 434
+- Chapter 27. Safe Exploration and Budgeted Search — p. 447
+  - 27.1 Exploration is a constitutional experiment — p. 447
+  - 27.2 Complete MEC passport admission and typed exploration envelopes — p. 447
+  - 27.3 Effect closure before admission — p. 447
+  - 27.4 Hard invariants precede every score — p. 447
+  - 27.5 Multidimensional budgets and reservations — p. 447
+  - 27.6 Kill conditions and capability attenuation — p. 447
+  - 27.7 Abstention, unknown, and resource failure — p. 447
+  - 27.8 Offline and online exploration — p. 447
+  - 27.9 Simulation is not execution — p. 447
+  - 27.10 Independent evaluation and causal support — p. 447
+  - 27.11 Compatible bundles, gluing, and effectivity — p. 447
+  - 27.12 Unsigned requests and rollback readiness — p. 447
+  - 27.13 Failures and falsification — p. 447
+- Chapter 28. Reward Constitution — p. 467
+  - 28.1 Reward is evidence about a candidate — p. 467
+  - 28.2 The eight-coordinate reward object — p. 471
+  - 28.3 Coordinate contracts and evidence identity — p. 471
+  - 28.4 Lexicographic hard gates — p. 471
+  - 28.5 Reward across all eighteen MEC ports — p. 475
+  - 28.6 Support, uncertainty, contamination, and selective claims — p. 476
+  - 28.7 Delayed outcomes, interference, and time — p. 476
+  - 28.8 Independent evaluation and causal identification — p. 476
+  - 28.9 Anti-reward-hacking constitution — p. 476
+  - 28.10 Compatibility and effectivity of reward systems — p. 476
+  - 28.11 Versioning, external requests, and rollback readiness — p. 476
+  - 28.12 Failures, adversarial tests, and falsification — p. 476
+- Chapter 29. Proof-Term and Kernel Rewards — p. 488
+  - 29.1 Rewarding a candidate is not judging a theorem — p. 488
+  - 29.2 The immutable proof subject — p. 488
+  - 29.3 Candidate artifacts and kernel receipts — p. 492
+  - 29.4 Sparse and delayed verifier-grounded reward — p. 492
+  - 29.5 Full MEC and semantic-action admission before reward — p. 495
+  - 29.6 Candidate utility below the proof boundary — p. 497
+  - 29.7 Anti-hacking, negative evidence, and calibration — p. 497
+  - 29.8 Generator, evaluator, and checker separation — p. 497
+  - 29.9 Causal credit for delayed proof success — p. 497
+  - 29.10 Compatibility is not reward effectivity — p. 497
+  - 29.11 Series allocation, external authority, and rollback — p. 497
+  - 29.12 Opaque Volume IV and Volume V services — p. 497
+  - 29.13 Falsification suite and terminal failures — p. 497
+  - 29.14 What proof reward can honestly claim — p. 507
+- Chapter 30. Process, Lemma, and Decomposition Rewards — p. 509
+  - 30.1 Rewarding useful work without manufacturing truth — p. 509
+  - 30.2 The process-evidence lattice — p. 509
+  - 30.3 Lemma utility and sealed recombination — p. 509
+  - 30.4 Decomposition utility and closure obligations — p. 509
+  - 30.5 Shaping beneath hard invariants — p. 509
+  - 30.6 Credit assignment and interaction effects — p. 509
+  - 30.7 Contamination, dependence, and delayed outcomes — p. 509
+  - 30.8 Abstention, failure, and negative process evidence — p. 509
+  - 30.9 Separated evaluation and anti-collusion controls — p. 509
+  - 30.10 Compatibility, effectivity, and transfer limits — p. 509
+  - 30.11 External requests, rollback readiness, and the seven roots — p. 509
+  - 30.12 Falsification suite — p. 509
+  - 30.13 Chapter contract — p. 529
+- Chapter 31. Counterexample, Failure, and Abstention Rewards — p. 530
+  - 31.1 Negative outcomes are typed evidence, not one penalty — p. 530
+  - 31.2 The outcome sum type — p. 531
+  - 31.3 Certified counterexamples and exact refutation scope — p. 531
+  - 31.4 Non-finding is never proof — p. 538
+  - 31.5 Falsifier yield without cherry-picking — p. 538
+  - 31.6 Calibration, abstention, and selective prediction — p. 538
+  - 31.7 Safe failure and incident outcomes — p. 538
+  - 31.8 Hard invariants and append-only failure memory — p. 538
+  - 31.9 Independent evaluation and causal credit — p. 538
+  - 31.10 Compatibility, effectivity, and portfolio outcomes — p. 546
+  - 31.11 Opaque Volume IV boundaries — p. 546
+  - 31.12 External requests, rollback readiness, and roots — p. 546
+  - 31.13 Adversarial conformance tests — p. 546
+  - 31.14 Chapter contract — p. 554
+- Chapter 32. Calibration, Cost, and Novelty Objectives — p. 555
+  - 32.1 Objectives do not redefine truth — p. 555
+  - 32.2 Typed outcomes and support strata — p. 555
+  - 32.3 Calibration records and selective coverage — p. 555
+  - 32.4 Distribution shift, support, and recalibration — p. 555
+  - 32.5 Multidimensional cost, energy, and risk — p. 555
+  - 32.6 Provenance-relative novelty — p. 555
+  - 32.7 Novelty objectives without duplication incentives — p. 555
+  - 32.8 End-to-end MEC, action, invariant, and judgment admission — p. 555
+  - 32.9 Causal identification and evaluator separation — p. 555
+  - 32.10 Compatibility, effectivity, and bounded assembly — p. 555
+  - 32.11 External requests, rollback, and the seven roots — p. 555
+  - 32.12 Typed failures and persistent evidence — p. 572
+  - 32.13 Falsification suite — p. 572
+  - 32.14 Chapter contract — p. 575
+- Chapter 33. Vector Rewards and Pareto Selection — p. 577
+  - 33.1 Selection begins after admissibility — p. 577
+  - 33.2 Reward vectors are typed evidence records — p. 578
+  - 33.3 Partial orders and Pareto fronts — p. 581
+  - 33.4 Why compensating scalarization is forbidden — p. 581
+  - 33.5 Uncertainty and robust dominance — p. 581
+  - 33.6 Versioned preference and external policy authority — p. 581
+  - 33.7 Causal constraints on claimed improvement — p. 581
+  - 33.8 Compatibility is not effectivity — p. 581
+  - 33.9 Independent evaluation before comparison — p. 581
+  - 33.10 Ties, cycles, and abstention — p. 581
+  - 33.11 Worked comparison cases — p. 581
+  - 33.12 Exact dominance-gate schema — p. 581
+  - 33.13 External request and rollback readiness — p. 581
+  - 33.14 Chapter 1 binding and authority limits — p. 581
+  - 33.15 Failure artifacts — p. 594
+  - 33.16 Falsification conditions — p. 594
+- Chapter 34. Reward-Hacking and Specification-Gaming Defenses — p. 599
+  - 34.1 Optimization pressure is an adversarial input — p. 599
+  - 34.2 The governed reward-defense surface — p. 599
+  - 34.3 Exact constitutional binding and reward order — p. 600
+  - 34.4 Typed attack model — p. 600
+  - 34.5 Anti-proxy defenses — p. 600
+  - 34.6 Alias, composition, and reachable-effect defenses — p. 600
+  - 34.7 Holdout, contamination, and evaluator secrecy — p. 600
+  - 34.8 Generator, evaluator, checker, and auditor separation — p. 600
+  - 34.9 The V6-020 reward-hacking auditor — p. 600
+  - 34.10 Defense in depth, canaries, and causal claims — p. 600
+  - 34.11 Unsigned external series evidence and rollback readiness — p. 611
+  - 34.12 Typed failures and persistent exploit memory — p. 611
+  - 34.13 Falsification suite — p. 611
+  - 34.14 Chapter contract — p. 616
+- Chapter 35. Mathematical Curriculum Graphs — p. 617
+  - 35.1 A curriculum orders experiments; it does not order truth — p. 617
+  - 35.2 Constitutional and contextual binding — p. 617
+  - 35.3 The complete curriculum evolution context — p. 617
+  - 35.4 Typed nodes, hyperedges, and frontiers — p. 620
+  - 35.5 Candidate graph evolution and independent evaluation — p. 620
+  - 35.6 Holdout isolation and contamination closure — p. 620
+  - 35.7 V6-021: the curriculum frontier scheduler — p. 620
+  - 35.8 Causal credit requires design receipts — p. 620
+  - 35.9 Phi, Gamma, and effectivity are different obligations — p. 620
+  - 35.10 External promotion and rollback — p. 620
+  - 35.11 Worked curriculum evolution cases — p. 620
+  - 35.12 Typed failures and adversarial falsifiers — p. 620
+- Chapter 36. Adversarial Task Generation — p. 633
+  - 36.1 Adversarial tasks are instruments, not mathematical verdicts — p. 633
+  - 36.2 The bounded generator/evaluator context — p. 634
+  - 36.3 Complete MEC specialization and immutable lineage — p. 635
+  - 36.4 Allowed and forbidden actions — p. 638
+  - 36.5 Task and oracle separation — p. 641
+  - 36.6 Adversarial generation operators — p. 641
+  - 36.7 Safety invariants — p. 643
+  - 36.8 The Anabelian three-plane firewall — p. 645
+  - 36.9 Contamination-resistant holdouts — p. 645
+  - 36.10 Independent evaluation and discrimination — p. 646
+  - 36.11 Compatibility is not effectivity — p. 646
+  - 36.12 Typed causal credit for generated tasks — p. 646
+  - 36.13 The V6-022 procedure — p. 646
+  - 36.14 Typed failures and falsifiers — p. 646
+  - 36.15 External promotion and rollback — p. 651
+- Chapter 37. Self-Play and Proof-Counterexample Games — p. 653
+  - 37.1 A game organizes search; it does not decide truth — p. 653
+  - 37.2 The complete typed game evolution context — p. 653
+  - 37.3 The exact seven-root boundary — p. 654
+  - 37.4 Candidate roles and independent checking principals — p. 657
+  - 37.5 Sealed and bounded game tasks — p. 657
+  - 37.6 V6-024: bounded role-swapped arena semantics — p. 657
+  - 37.7 Terminal semantics and evidence ceilings — p. 657
+  - 37.8 Scoring without epistemic laundering — p. 664
+  - 37.9 Holdout isolation and contamination control — p. 664
+  - 37.10 Causal credit for self-play — p. 664
+  - 37.11 Local policies, compatibility, and effectivity — p. 664
+  - 37.12 External promotion, canary, and rollback — p. 664
+  - 37.13 Typed failures — p. 664
+  - 37.14 Metrics and falsification — p. 664
+- Chapter 38. Structured Debate as Candidate Generation — p. 670
+  - 38.1 Debate expands the candidate set; it does not decide truth — p. 670
+  - 38.2 The full typed debate context — p. 671
+  - 38.3 Exact immutable roots and artifact identity — p. 672
+  - 38.4 Roles, capabilities, and communication topology — p. 675
+  - 38.5 Candidate, objection, and dissent algebra — p. 675
+  - 38.6 V6-025: procedural adjudication and experiment routing — p. 675
+  - 38.7 Independent evaluation and checker firewall — p. 675
+  - 38.8 Anti-collusion and common-mode controls — p. 682
+  - 38.9 Vector reward without rhetorical authority — p. 683
+  - 38.10 Typed causal credit for debate contributions — p. 683
+  - 38.11 Phi, Gamma, and effectivity — p. 683
+  - 38.12 External unsigned promotion and rollback readiness — p. 683
+  - 38.13 Metrics and campaign reports — p. 683
+  - 38.14 Failure artifacts — p. 683
+  - 38.15 Falsification conditions — p. 683
+- Chapter 39. Novelty, Difficulty, and Learning Progress — p. 690
+  - 39.1 Three coordinates, no surrogate truth — p. 690
+  - 39.2 The complete measurement context — p. 690
+  - 39.3 Bounded novelty for curriculum tasks — p. 694
+  - 39.4 Difficulty is relative, typed, and decomposed — p. 694
+  - 39.5 Learning progress is not task success — p. 698
+  - 39.6 Holdout separation and contamination firewalls — p. 698
+  - 39.7 Causal designs and uncertainty — p. 698
+  - 39.8 Anti-gaming and anti-Goodhart controls — p. 698
+  - 39.9 Compatibility, gluing, and effectivity — p. 698
+  - 39.10 A bounded frontier example — p. 698
+  - 39.11 Typed failures and falsifiers — p. 698
+  - 39.12 External promotion and rollback — p. 705
+  - 39.13 Chapter contract — p. 705
+- Chapter 40. Human-Guided Scientific Curriculum — p. 708
+  - 40.1 Human guidance is a scoped scientific intervention — p. 708
+  - 40.2 The complete guidance context — p. 708
+  - 40.3 Exact immutable roots and no hidden constitutional mutation — p. 710
+  - 40.4 Provenance, rights, and consent — p. 710
+  - 40.5 From guidance to an inactive curriculum candidate — p. 710
+  - 40.6 Candidate and evaluator separation — p. 710
+  - 40.7 Metrics and causal credit for human guidance — p. 710
+  - 40.8 Compatibility, coherence, and effective curriculum bundles — p. 720
+  - 40.9 External series review, runtime promotion, canary, and rollback — p. 720
+  - 40.10 Typed failures and abstentions — p. 720
+  - 40.11 Falsification program — p. 720
+  - 40.12 Chapter contract — p. 725
+- Chapter 41. Tool Synthesis Under Capabilities — p. 726
+  - 41.1 Synthesis creates a candidate, not an authority — p. 726
+  - 41.2 The full typed synthesis context — p. 727
+  - 41.3 Exact immutable-root binding — p. 728
+  - 41.4 Recursive capability normalization — p. 728
+  - 41.5 Hermetic construction and network-denied execution — p. 728
+  - 41.6 Chapter contract and trust ceiling — p. 728
+  - 41.7 Search spaces and synthesis discipline — p. 728
+  - 41.8 Independent checker and evaluator — p. 728
+  - 41.9 Metrics and verifier-grounded comparison — p. 728
+  - 41.10 Causal credit for synthesized tools — p. 736
+  - 41.11 Local compatibility, Phi, Gamma, and effectivity — p. 736
+  - 41.12 Worked admission cases — p. 736
+  - 41.13 Admission, external promotion, and rollback — p. 736
+  - 41.14 Typed failures and abstentions — p. 736
+  - 41.15 Falsifiers — p. 736
+- Chapter 42. Program and Proof-Adapter Repair — p. 743
+  - 42.1 Repair changes a candidate, not the constitution — p. 743
+  - 42.2 The full typed repair context — p. 743
+  - 42.3 Exact immutable-root binding — p. 743
+  - 42.4 Stable-contract repair classes — p. 743
+  - 42.5 Candidate generation and delta discipline — p. 748
+  - 42.6 Complete environment closure — p. 748
+  - 42.7 Hermetic execution and categorical network denial — p. 748
+  - 42.8 Real independent checkers and evaluators — p. 748
+  - 42.9 Evaluation, metrics, and regression accounting — p. 748
+  - 42.10 Causal credit for repair — p. 752
+  - 42.11 Local compatibility, gluing, and effectivity — p. 752
+  - 42.12 External series proposal and rollback evidence — p. 752
+  - 42.13 Typed failures and abstentions — p. 752
+  - 42.14 Falsification suite — p. 752
+  - 42.15 Chapter contract — p. 758
+- Chapter 43. Architecture Search with Contract Preservation — p. 759
+  - 43.1 Search changes a graph, not its constitution — p. 759
+  - 43.2 The complete typed evolution context — p. 760
+  - 43.3 Exact seven-root and ordered artifact binding — p. 760
+  - 43.4 Stable contract preservation — p. 760
+  - 43.5 Architecture candidates and permitted search — p. 760
+  - 43.6 Independently pinned checking and evaluation — p. 766
+  - 43.7 Reward, metrics, and hard admission — p. 766
+  - 43.8 Typed causal credit — p. 766
+  - 43.9 Compatibility, registered gluing, and effectivity — p. 766
+  - 43.10 Worked preservation cases — p. 766
+  - 43.11 External series request, runtime promotion, and rollback — p. 766
+  - 43.12 Typed failures and abstentions — p. 766
+  - 43.13 Falsification suite — p. 766
+  - 43.14 Chapter contract — p. 777
+- Chapter 44. Schema and Compiler-Pass Evolution — p. 778
+  - 44.1 Evolution proposes versions; it does not rewrite meaning — p. 778
+  - 44.2 The complete typed evolution context — p. 778
+  - 44.3 Exact seven-root and ordered artifact binding — p. 778
+  - 44.4 Stable meanings and admissible schema evolution — p. 778
+  - 44.5 Candidate compiler passes and sealed meaning — p. 778
+  - 44.6 Candidate bundle and mutation discipline — p. 778
+  - 44.7 Hermetic build, capability closure, and execution — p. 778
+  - 44.8 Independent checking and migration replay — p. 778
+  - 44.9 Metrics and admissible comparison — p. 778
+  - 44.10 Typed causal credit — p. 788
+  - 44.11 Phi-compatibility, Gamma-effectivity, and global migration — p. 788
+  - 44.12 External series review, runtime promotion, and rollback — p. 788
+  - 44.13 Typed failures and obstructions — p. 788
+  - 44.14 Worked cases — p. 788
+  - 44.15 Falsifiers and chapter contract — p. 788
+- Chapter 45. Test and Benchmark Co-Evolution — p. 795
+  - 45.1 Evaluation may evolve, but judgment cannot become self-authored — p. 795
+  - 45.2 The full typed evolution context — p. 795
+  - 45.3 Exact seven-root and ordered artifact binding — p. 795
+  - 45.4 Registry entries, tests, and benchmarks — p. 795
+  - 45.5 Test families and invariant-preserving mutations — p. 795
+  - 45.6 Dataset separation and exposure closure — p. 795
+  - 45.7 Co-evolution requires alternating freezes — p. 795
+  - 45.8 Independent evaluator, checker, and meta-evaluator — p. 803
+  - 45.9 Metrics, denominators, and anti-hiding rules — p. 803
+  - 45.10 Typed causal credit and live prediction — p. 803
+  - 45.11 Phi-compatibility, Gamma-effectivity, and global evaluation — p. 803
+  - 45.12 External series review, runtime requests, and rollback — p. 803
+  - 45.13 Typed failures and falsification suite — p. 803
+- Chapter 46. Sandboxed Candidate Architecture Evaluation — p. 810
+  - 46.1 A sandbox evaluates a candidate; it does not make the candidate safe — p. 810
+  - 46.2 The full typed evaluation context — p. 810
+  - 46.3 Authoritative constitutional and ordered subject binding — p. 810
+  - 46.4 Candidate architecture and admitted evaluation actions — p. 810
+  - 46.5 Recursive capability normalization — p. 810
+  - 46.6 Unconditional policy-driven network denial — p. 810
+  - 46.7 Complete environment closure and disposable execution domains — p. 810
+  - 46.8 Hostile parsing and bounded resources — p. 810
+  - 46.9 The bounded execution protocol — p. 810
+  - 46.10 Independently pinned checkers, evaluator, and monitor — p. 810
+  - 46.11 Hard gates and metrics — p. 810
+  - 46.12 Evaluation-suite integrity under co-evolution — p. 823
+  - 46.13 Typed causal credit — p. 823
+  - 46.14 Phi-compatibility, Gamma-gluing, and effectivity — p. 823
+  - 46.15 Unsigned external promotion and rollback evidence — p. 823
+  - 46.16 Typed failures and abstentions — p. 823
+  - 46.17 Falsifiers and chapter contract — p. 823
+- Chapter 47. Continual Mathematical Learning — p. 832
+  - 47.1 Continual learning changes a lineage, not mathematical truth — p. 832
+  - 47.2 The full typed continual-learning context — p. 833
+  - 47.3 Authoritative immutable roots and ordered binding — p. 835
+  - 47.4 Sealed experience and append-only lineage — p. 835
+  - 47.5 Inactive update candidates and temporal state transitions — p. 835
+  - 47.6 Distribution, representation, and mathematical-world change — p. 835
+  - 47.7 Retention, transfer, calibration, and non-erasure metrics — p. 835
+  - 47.8 Independent temporal evaluation and checker firewall — p. 843
+  - 47.9 Typed longitudinal causal credit — p. 843
+  - 47.10 Local compatibility, global effectivity, and version coherence — p. 843
+  - 47.11 External series review, runtime promotion, and rollback — p. 843
+  - 47.12 Typed failures and non-erasing repair — p. 843
+  - 47.13 Falsification suite — p. 843
+  - 47.14 Chapter contract — p. 851
+- Chapter 48. Memory Consolidation and Replay — p. 853
+  - 48.1 Consolidation changes access, not history — p. 853
+  - 48.2 The full typed consolidation context — p. 853
+  - 48.3 Authoritative seven-root and ordered memory binding — p. 853
+  - 48.4 Memory classes and preservation laws — p. 853
+  - 48.5 Candidate deltas and anti-erasure discipline — p. 853
+  - 48.6 Sealed replay datasets and contamination control — p. 853
+  - 48.7 Independent checkers, evaluators, and metrics — p. 862
+  - 48.8 Causal credit for consolidation — p. 862
+  - 48.9 Compatibility, gluing, and registered effectivity — p. 862
+  - 48.10 Worked consolidation and replay cases — p. 862
+  - 48.11 External promotion and rollback — p. 862
+  - 48.12 Typed failures and abstentions — p. 862
+  - 48.13 Falsification suite — p. 862
+  - 48.14 Chapter contract — p. 870
+- Chapter 49. Theorem and Skill Distillation — p. 871
+  - 49.1 Distillation compresses practice, not mathematical authority — p. 871
+  - 49.2 The full typed distillation context — p. 871
+  - 49.3 Exact immutable roots and ordered binding — p. 872
+  - 49.4 Theorem distillates preserve statements, assumptions, and status — p. 874
+  - 49.5 Skill distillates preserve capability and evidence ceilings — p. 874
+  - 49.6 Teacher, student, evaluator, and checker separation — p. 874
+  - 49.7 Proof and provenance contracts remain opaque — p. 874
+  - 49.8 Contamination-resistant distillation datasets — p. 874
+  - 49.9 Preservation gates and vector reward — p. 874
+  - 49.10 Typed causal credit — p. 874
+  - 49.11 Phi, Gamma, and effectivity — p. 874
+  - 49.12 Worked distillation cases — p. 874
+  - 49.13 External unsigned series proposal and rollback readiness — p. 874
+  - 49.14 Metrics and evaluation reports — p. 874
+  - 49.15 Failure artifacts — p. 874
+  - 49.16 Falsification conditions — p. 874
+- Chapter 50. Meta-Learning Across Mathematical Worlds — p. 888
+  - 50.1 Meta-learning transfers adaptation discipline, not theoremhood — p. 888
+  - 50.2 The full typed meta-learning context — p. 889
+  - 50.3 Exact immutable roots and ordered subject closure — p. 890
+  - 50.4 Worlds, targets, axioms, and bridges remain explicit — p. 890
+  - 50.5 V6-033 proposes an adaptation; it does not grade one — p. 890
+  - 50.6 Episodes, partitions, and world holdouts — p. 890
+  - 50.7 Evaluation: compatibility is not mathematical transfer — p. 890
+  - 50.8 Typed causal identification and unsupported_counterfactual — p. 900
+  - 50.9 Phi compatibility and Gamma effectivity — p. 900
+  - 50.10 Worked world-transfer cases — p. 900
+  - 50.11 External series promotion and exact rollback — p. 900
+  - 50.12 Metrics, failures, and repair — p. 900
+  - 50.13 Falsification suite and chapter contract — p. 900
+- Chapter 51. Transfer, Specialization, and World Change — p. 909
+  - 51.1 Transfer changes the question before it changes the policy — p. 909
+  - 51.2 The full typed transfer evolution context — p. 909
+  - 51.3 Exact seven roots with separately resolved values — p. 910
+  - 51.4 Scoped identity and the no-silent-transfer law — p. 913
+  - 51.5 Staleness is propagated, not edited away — p. 913
+  - 51.6 Directional transfer and specialization contracts — p. 913
+  - 51.7 World change and axiom change — p. 913
+  - 51.8 Candidate generation without protected mathematics — p. 913
+  - 51.9 Independent checker and evaluator firewall — p. 913
+  - 51.10 Partitions, contamination, and transfer metrics — p. 913
+  - 51.11 Typed causal identification and transport limits — p. 913
+  - 51.12 Compatibility is not effectivity — p. 913
+  - 51.13 Worked transfer and world-change cases — p. 913
+  - 51.14 External review, promotion, canary, and rollback — p. 913
+  - 51.15 Typed failures and repairs — p. 913
+  - 51.16 Falsification suite and chapter contract — p. 913
+- Chapter 52. Catastrophic Forgetting and Regression Control — p. 929
+  - 52.1 Forgetting is a typed regression, not a mood — p. 929
+  - 52.2 The full typed regression-control context — p. 929
+  - 52.3 Exact immutable roots with resolved values — p. 929
+  - 52.4 Ordered old and new subject separation — p. 932
+  - 52.5 Sealed regression sets and anti-contamination — p. 932
+  - 52.6 Regression coordinates and catastrophic gates — p. 932
+  - 52.7 Append-only stale and failure closure — p. 932
+  - 52.8 Checker, evaluator, and candidate separation — p. 932
+  - 52.9 Typed causal identification — p. 932
+  - 52.10 Compatibility, gluing, and effectivity — p. 932
+  - 52.11 External promotion, canary, and rollback — p. 932
+  - 52.12 Worked regression cases — p. 932
+  - 52.13 Typed failures and abstentions — p. 932
+  - 52.14 Falsification suite — p. 932
+  - 52.15 Chapter contract — p. 944
+- Chapter 53. Causal Graphs of Mathematical Workflows — p. 946
+  - 53.1 A causal graph is a typed hypothesis, not a verdict — p. 946
+  - 53.2 The full typed causal-workflow context — p. 947
+  - 53.3 Authoritative Chapter 1 constitutional binding — p. 948
+  - 53.4 Causal, dependency, provenance, and execution graphs are different — p. 948
+  - 53.5 Typed variables and directional edge assumptions — p. 948
+  - 53.6 DAG and structural causal model semantics — p. 948
+  - 53.7 Interventions are typed, feasible, and constitutionally bounded — p. 948
+  - 53.8 Queries and causal claims are typed; free text is non-normative — p. 948
+  - 53.9 Identification and unsupported counterfactual dispositions — p. 956
+  - 53.10 Uncertainty is a typed vector — p. 956
+  - 53.11 Independent design review, checking, and evaluation — p. 956
+  - 53.12 Phi, Gamma, and global effectivity — p. 956
+  - 53.13 Worked causal-workflow cases — p. 956
+  - 53.14 External promotion, canary, and rollback — p. 956
+  - 53.15 Metrics and manuscript evidence — p. 956
+  - 53.16 Failure artifacts — p. 956
+  - 53.17 Falsification conditions — p. 956
+- Chapter 54. Off-Policy and Doubly Robust Evaluation — p. 967
+  - 54.1 Logged success is not the value of a new policy — p. 967
+  - 54.2 The full off-policy evaluation context — p. 967
+  - 54.3 Authoritative roots, separate values, and artifact closure — p. 967
+  - 54.4 Typed behavior and target policies — p. 967
+  - 54.5 Sequential overlap and positivity — p. 967
+  - 54.6 Estimand and doubly robust functional — p. 967
+  - 54.7 Nuisance models and cross-fitting — p. 967
+  - 54.8 Uncertainty and unsupported dispositions — p. 967
+  - 54.9 Independent evaluation, checking, and the causal port — p. 967
+  - 54.10 Compatibility, effectivity, and transport — p. 967
+  - 54.11 Worked evaluation cases — p. 967
+  - 54.12 External request, manuscript evidence, and rollback — p. 967
+  - 54.13 Typed failures — p. 967
+  - 54.14 Falsification conditions — p. 967
+- Chapter 55. Module Influence and Interaction Effects — p. 984
+  - 55.1 Influence is a causal question, not a score decomposition — p. 984
+  - 55.2 The full typed influence context — p. 984
+  - 55.3 Exact roots, separate values, and domain-separated digest — p. 984
+  - 55.4 Treatment versions, outcomes, and temporal order — p. 984
+  - 55.5 Typed direct, total, mediated, and interaction estimands — p. 984
+  - 55.6 Identifiability precedes estimation — p. 984
+  - 55.7 Temporal confounding and adaptive workflows — p. 991
+  - 55.8 Independent checker, evaluator, and analysis separation — p. 991
+  - 55.9 Interaction-aware Shapley attribution — p. 991
+  - 55.10 Experimental and off-policy designs — p. 991
+  - 55.11 Uncertainty, sensitivity, and multiplicity — p. 991
+  - 55.12 Metrics and anti-correlation controls — p. 991
+  - 55.13 Phi-compatibility, Gamma-gluing, and effectivity — p. 996
+  - 55.14 External promotion and rollback evidence — p. 996
+  - 55.15 Typed failures, abstentions, and non-identification — p. 996
+  - 55.16 Falsifiers and chapter contract — p. 996
+- Chapter 56. Cross-Module Credit Assignment — p. 1003
+  - 56.1 Credit is a governed interpretation of causal evidence — p. 1003
+  - 56.2 The full typed credit-assignment context — p. 1003
+  - 56.3 Exact roots, separate values, and domain-separated binding — p. 1005
+  - 56.4 Causal graph and estimand are sealed before allocation — p. 1005
+  - 56.5 Identification receipts and unsupported counterfactuals — p. 1005
+  - 56.6 Interaction credit is not forced into individual shares — p. 1005
+  - 56.7 Delayed effects, carryover, and scientific maturity — p. 1013
+  - 56.8 From effect evidence to a typed credit ledger — p. 1013
+  - 56.9 Credit cannot bypass vector reward or hard gates — p. 1013
+  - 56.10 Independent checker, evaluator, and allocator — p. 1017
+  - 56.11 Phi-compatibility, Gamma-gluing, and effectivity — p. 1017
+  - 56.12 External promotion and rollback — p. 1017
+  - 56.13 Typed failures and non-erasing repair — p. 1017
+  - 56.14 Falsification suite — p. 1017
+  - 56.15 Chapter contract — p. 1023
+- Chapter 57. Delayed Scientific Reward — p. 1024
+  - 57.1 Scientific outcomes arrive on different clocks — p. 1024
+  - 57.2 The complete typed delayed-reward context — p. 1024
+  - 57.3 Exact immutable roots with separate resolved values — p. 1024
+  - 57.4 Ordered outcome and window binding — p. 1024
+  - 57.5 Provisional, mature, and revised evidence — p. 1024
+  - 57.6 Delay, censoring, and competing events — p. 1024
+  - 57.7 Reward coordinates over time — p. 1024
+  - 57.8 Independent evaluator, checker, and maturity adjudicator — p. 1024
+  - 57.9 Longitudinal causal identification and uncertainty — p. 1024
+  - 57.10 Compatibility, gluing, and effectivity — p. 1024
+  - 57.11 External promotion, canary, and rollback — p. 1024
+  - 57.12 Worked delayed-evidence cases — p. 1024
+  - 57.13 Typed failures and abstentions — p. 1024
+  - 57.14 Falsification suite — p. 1024
+  - 57.15 Chapter contract — p. 1039
+- Chapter 58. Identification, Uncertainty, and Unsupported Counterfactuals — p. 1040
+  - 58.1 Identification states what evidence determines — p. 1040
+  - 58.2 The full typed identification context — p. 1040
+  - 58.3 Exact authoritative roots and domain-separated binding — p. 1041
+  - 58.4 The query and identification design are sealed first — p. 1041
+  - 58.5 The disposition algebra — p. 1041
+  - 58.6 Partial identification, bounds, and residual unknown — p. 1041
+  - 58.7 Unsupported counterfactuals are semantic failures, not missing values — p. 1041
+  - 58.8 No negated free-text laundering — p. 1041
+  - 58.9 Uncertainty is typed and calibration is independently evaluated — p. 1041
+  - 58.10 Independent evaluator, checker, and adjudicator — p. 1041
+  - 58.11 Local compatibility and global effectivity — p. 1041
+  - 58.12 External authority, promotion evidence, and rollback — p. 1041
+  - 58.13 Worked identification cases — p. 1041
+  - 58.14 Metrics, failures, and non-erasing repair — p. 1041
+  - 58.15 Falsification suite and chapter contract — p. 1041
+- Chapter 59. Context Covers for Evolution — p. 1059
+  - 59.1 Evolution is local before it is global — p. 1059
+  - 59.2 The full typed context-cover MEC — p. 1059
+  - 59.3 Exact authoritative roots and subject identity — p. 1060
+  - 59.4 Typed parent and local domains — p. 1060
+  - 59.5 Restrictions, overlaps, and evidence scopes — p. 1060
+  - 59.6 Refinement is a new request, not historical editing — p. 1060
+  - 59.7 Local evidence remains local — p. 1060
+  - 59.8 Phi records local compatibility only — p. 1060
+  - 59.9 Gamma, gluing data, and registered effectivity — p. 1060
+  - 59.10 Independent cover checking and evaluation — p. 1070
+  - 59.11 Contextual causal credit — p. 1071
+  - 59.12 Metrics and anti-gaming controls — p. 1071
+  - 59.13 Worked cover cases — p. 1073
+  - 59.14 External promotion, rollback, and manuscript evidence — p. 1073
+  - 59.15 Typed failures and abstentions — p. 1073
+  - 59.16 Falsification suite — p. 1073
+  - 59.17 Chapter contract — p. 1078
+- Chapter 60. Local Policies as Sections — p. 1080
+  - 60.1 The section law — p. 1080
+  - 60.2 Full typed evolution context — p. 1080
+  - 60.3 Exact authoritative roots and ordered binding — p. 1082
+  - 60.4 Contexts, covers, and policy fibers — p. 1082
+  - 60.5 Section artifacts and exact claims — p. 1082
+  - 60.6 Restrictions are typed operations, not informal reuse — p. 1082
+  - 60.7 Phi overlap compatibility — p. 1082
+  - 60.8 Gamma gluing data and separate effectivity — p. 1082
+  - 60.9 Independent evaluators and checkers — p. 1082
+  - 60.10 Local causal credit and transport — p. 1082
+  - 60.11 External promotion and rollback — p. 1082
+  - 60.12 Worked section cases — p. 1082
+  - 60.13 Typed failures, abstentions, and obstructions — p. 1082
+  - 60.14 Falsification suite — p. 1082
+  - 60.15 Chapter contract — p. 1097
+- Chapter 61. Overlap Compatibility and Treaties — p. 1098
+  - 61.1 Compatibility is a local relation, not a global object — p. 1098
+  - 61.2 The full typed treaty context — p. 1098
+  - 61.3 Unchanged Chapter 1 constitutional binding — p. 1098
+  - 61.4 The pairwise comparison object — p. 1098
+  - 61.5 Symmetric obligations — p. 1098
+  - 61.6 Asymmetric obligations and directional treaties — p. 1098
+  - 61.7 Version, dependency, and staleness discipline — p. 1098
+  - 61.8 Taint and provenance cannot be washed at an overlap — p. 1098
+  - 61.9 Independent checking and operational evaluation — p. 1098
+  - 61.10 Causal credit for treaties — p. 1098
+  - 61.11 No Gamma and no global effectivity in this chapter — p. 1098
+  - 61.12 Worked treaty cases — p. 1098
+  - 61.13 External promotion and rollback — p. 1098
+  - 61.14 Typed failures — p. 1098
+  - 61.15 Falsification conditions — p. 1098
+- Chapter 62. Cocycle and Higher-Coherence Tests — p. 1114
+  - 62.1 Coherence tests agreement data; it does not create a global object — p. 1114
+  - 62.2 The full typed coherence-testing context — p. 1115
+  - 62.3 Unchanged Chapter 1 constitutional binding — p. 1117
+  - 62.4 Covers, intersections, restrictions, and ordered subject identity — p. 1117
+  - 62.5 Typed pair-overlap witnesses — p. 1117
+  - 62.6 Triple cocycle cells — p. 1117
+  - 62.7 Higher cells and degree-bounded claims — p. 1117
+  - 62.8 Bounded checking, atomic predicates, and Volume IV opacity — p. 1117
+  - 62.9 Coherence residues and obstruction-bearing outputs — p. 1117
+  - 62.10 The V6-039 receipt and terminal algebra — p. 1117
+  - 62.11 Finite completeness premises and obligation manifests — p. 1117
+  - 62.12 Adversarial mutation and deterministic boundary replay — p. 1117
+  - 62.13 Independent checker and evaluator firewall — p. 1126
+  - 62.14 Compatibility is not effectivity — p. 1126
+  - 62.15 Typed causal credit — p. 1126
+  - 62.16 Worked coherence cases — p. 1126
+  - 62.17 External review, promotion, and rollback — p. 1126
+  - 62.18 Metrics and manuscript evidence — p. 1126
+  - 62.19 Failure artifacts — p. 1126
+  - 62.20 Falsification conditions — p. 1126
+- Chapter 63. Evolution Obstruction Localization — p. 1135
+  - 63.1 Localization finds a blocking support, not a theorem of impossibility — p. 1135
+  - 63.2 The full typed localization context — p. 1135
+  - 63.3 Authoritative constitutional and subject bindings — p. 1136
+  - 63.4 Obstruction classes and terminal meanings — p. 1139
+  - 63.5 Localization queries, supports, and reproduction oracles — p. 1139
+  - 63.6 The V6-040 bounded heuristic — p. 1139
+  - 63.7 Localizing overlap and cocycle obstructions — p. 1139
+  - 63.8 Higher-coherence and effectivity obstruction cores — p. 1139
+  - 63.9 Refined-cover evidence and non-erasing repair — p. 1139
+  - 63.10 Independent checker, evaluator, and containment firewall — p. 1139
+  - 63.11 Typed causal credit for localization and repair — p. 1139
+  - 63.12 Metrics and anti-gaming controls — p. 1139
+  - 63.13 External review, promotion, and rollback — p. 1139
+  - 63.14 Typed failures and abstentions — p. 1139
+  - 63.15 Falsification suite — p. 1139
+  - 63.16 Chapter contract — p. 1153
+- Chapter 64. Policy Gluing and Refined Covers — p. 1155
+  - 64.1 Gluing is a construction, not a vote among local policies — p. 1155
+  - 64.2 The full typed policy-gluing context — p. 1156
+  - 64.3 Authoritative constitutional and gluing-subject bindings — p. 1158
+  - 64.4 Refinement preserves lineage and changes obligations — p. 1161
+  - 64.5 Compatibility on the refined cover — p. 1161
+  - 64.6 Gamma is proposed gluing data — p. 1161
+  - 64.7 Effectivity is separately registered and replayed — p. 1161
+  - 64.8 Obstructions and residues remain first-class — p. 1166
+  - 64.9 Independent construction, checking, and evaluation — p. 1166
+  - 64.10 Typed causal credit for refinement and gluing — p. 1166
+  - 64.11 Global policy candidates and evidence ceilings — p. 1166
+  - 64.12 External promotion and rollback — p. 1166
+  - 64.13 Worked gluing and refinement cases — p. 1166
+  - 64.14 Metrics, failures, and repair — p. 1166
+  - 64.15 Falsification suite and chapter contract — p. 1166
+- Chapter 65. Dependency-Aware Version Bundles — p. 1176
+  - 65.1 A bundle is one coupled subject — p. 1176
+  - 65.2 The full typed bundle context — p. 1176
+  - 65.3 Exact roots, separate values, and bundle identity — p. 1177
+  - 65.4 The typed dependency DAG — p. 1177
+  - 65.5 Version constraints and exact assignment — p. 1177
+  - 65.6 Compatible-bundle search and honest bounded outcomes — p. 1177
+  - 65.7 Local policies, treaties, coherence, and obstructions — p. 1177
+  - 65.8 Compatibility and separately registered effectivity — p. 1177
+  - 65.9 Migration is part of bundle meaning — p. 1177
+  - 65.10 Rollback closes over the complete assignment — p. 1177
+  - 65.11 Independent checking and evaluation — p. 1177
+  - 65.12 Causal credit for bundles and components — p. 1177
+  - 65.13 Search, bundle, and recovery metrics — p. 1177
+  - 65.14 Worked bundle cases — p. 1192
+  - 65.15 External promotion and rollback evidence — p. 1192
+  - 65.16 Typed failures and abstentions — p. 1192
+  - 65.17 Falsification conditions and chapter evidence — p. 1192
+- Chapter 66. Global Co-Evolution Orchestration — p. 1198
+  - 66.1 Coordination without sovereignty — p. 1198
+  - 66.2 The full typed global-orchestration MEC — p. 1198
+  - 66.3 Exact roots, separate values, and domain binding — p. 1198
+  - 66.4 Candidate bundles are exact and atomic — p. 1198
+  - 66.5 An ordered orchestration state machine — p. 1198
+  - 66.6 Phi, Gamma, coherence, and effectivity gates — p. 1204
+  - 66.7 Obstructions are gates, not optimization penalties — p. 1204
+  - 66.8 Dependency closure and whole-system replay — p. 1204
+  - 66.9 Independent checkers, evaluators, and replayers — p. 1204
+  - 66.10 Causal credit for a coupled bundle — p. 1204
+  - 66.11 Scheduling, liveness, and anti-gaming — p. 1204
+  - 66.12 Metrics and operational evidence — p. 1204
+  - 66.13 Worked orchestration cases — p. 1211
+  - 66.14 External series promotion, runtime authority, and rollback — p. 1211
+  - 66.15 Typed failures and abstentions — p. 1211
+  - 66.16 Falsification suite — p. 1211
+  - 66.17 Chapter contract — p. 1216
+- Chapter 67. Independent Evaluation and Promotion Requests — p. 1218
+  - 67.1 Evaluation is evidence, not authority — p. 1218
+  - 67.2 The full typed evaluation and request context — p. 1218
+  - 67.3 Exact roots, separate values, and domain binding — p. 1219
+  - 67.4 Freeze the request before protected outcomes — p. 1219
+  - 67.5 Independence is an inspectable control relation — p. 1219
+  - 67.6 Checker predicates and evaluator populations — p. 1219
+  - 67.7 Evidence ceilings and the no-manufacture law — p. 1219
+  - 67.8 Compatibility, effectivity, obstructions, and dependency closure — p. 1219
+  - 67.9 Causal credit remains typed — p. 1219
+  - 67.10 Unsigned requests and the external authority boundary — p. 1219
+  - 67.11 Series allocation is separate from runtime promotion — p. 1219
+  - 67.12 Rollback readiness before promotion — p. 1219
+  - 67.13 Evaluation state machine and freshness — p. 1219
+  - 67.14 Metrics and anti-gaming controls — p. 1219
+  - 67.15 Worked evaluation and request cases — p. 1232
+  - 67.16 Typed failures and abstentions — p. 1232
+  - 67.17 Falsification suite — p. 1232
+  - 67.18 Chapter contract — p. 1236
+- Chapter 68. Shadow, Canary, and Staged Deployment — p. 1238
+  - 68.1 Deployment experiments are requests, not activation — p. 1238
+  - 68.2 The complete typed deployment-experiment context — p. 1238
+  - 68.3 Exact seven roots and the authoritative binding — p. 1238
+  - 68.4 Subject binding and anti-replay — p. 1238
+  - 68.5 The deployment ladder and its non-automatic gates — p. 1238
+  - 68.6 Shadow evaluation — p. 1238
+  - 68.7 Canary and staged exposure — p. 1238
+  - 68.8 Safety gates, stop rules, and missing evidence — p. 1238
+  - 68.9 Independent evaluators, checkers, and monitors — p. 1247
+  - 68.10 Causal attribution under exposure — p. 1247
+  - 68.11 Evidence records and metrics — p. 1247
+  - 68.12 External promotion, execution, and rollback — p. 1250
+  - 68.13 Worked deployment cases — p. 1250
+  - 68.14 Typed failures and abstentions — p. 1250
+  - 68.15 Falsification conditions and manuscript evidence — p. 1250
+- Chapter 69. Signed Atomic Promotion and Rollback — p. 1256
+  - 69.1 The last internal step is still only a request — p. 1256
+  - 69.2 Full typed promotion-and-rollback context — p. 1256
+  - 69.3 Exact roots, separate values, and authoritative domain — p. 1256
+  - 69.4 Ordered transition subject — p. 1256
+  - 69.5 The module assembles evidence without manufacturing it — p. 1256
+  - 69.6 Independent evaluation and checker closure — p. 1256
+  - 69.7 Purpose-separated external signatures — p. 1256
+  - 69.8 One-time, subject-bound anti-replay — p. 1256
+  - 69.9 Series release admission and the separate runtime promotion decision — p. 1256
+  - 69.10 Atomic successor commit — p. 1256
+  - 69.11 Compatible bundles and separate effectivity — p. 1265
+  - 69.12 Staged deployment does not dilute atomic authority — p. 1265
+  - 69.13 Rollback request, authorization, and execution — p. 1265
+  - 69.14 Failures, ambiguous outcomes, and reconciliation — p. 1265
+  - 69.15 Causal claims remain non-authoritative — p. 1265
+  - 69.16 Worked transition cases — p. 1265
+  - 69.17 Metrics and anti-gaming controls — p. 1265
+  - 69.18 Typed failures — p. 1270
+  - 69.19 Falsification suite — p. 1270
+  - 69.20 Manuscript evidence and chapter contract — p. 1273
+- Chapter 70. Trusted-Root Upgrade Epochs — p. 1275
+  - 70.1 A root upgrade is a constitutional replacement — p. 1275
+  - 70.2 Full typed upgrade context — p. 1276
+  - 70.3 Exact old and new ordered roots — p. 1276
+  - 70.4 Reports, formal proposals, and external ownership — p. 1276
+  - 70.5 Root-specific evidence without mathematical reimplementation — p. 1276
+  - 70.6 Independent checkers and the independent evaluator — p. 1281
+  - 70.7 Migration evidence and immutable history — p. 1281
+  - 70.8 Compatibility, coherence, and effectivity — p. 1281
+  - 70.9 Shadow evidence, canaries, and atomicity — p. 1281
+  - 70.10 External series authorization ceremony — p. 1281
+  - 70.11 Rollback and offline recovery — p. 1288
+  - 70.12 Metrics, Pandoc evidence, and source identity — p. 1288
+  - 70.13 Typed failures and abstentions — p. 1289
+  - 70.14 Falsification suite — p. 1289
+  - 70.15 Chapter contract — p. 1292
+- Chapter 71. Adversarial Security and Red-Team Governance — p. 1294
+  - 71.1 Adversarial evidence is not a security sovereign — p. 1294
+  - 71.2 The full typed red-team MEC — p. 1295
+  - 71.3 Exact roots with separate resolved values — p. 1296
+  - 71.4 Red-team independence is multidimensional — p. 1296
+  - 71.5 Threat models and rules of engagement — p. 1296
+  - 71.6 Capability and alias normalization — p. 1296
+  - 71.7 Sealed findings and evidence custody — p. 1296
+  - 71.8 Root and holdout protection — p. 1296
+  - 71.9 Contained execution and no exploit authority — p. 1296
+  - 71.10 Findings, compatibility, and security effectivity — p. 1296
+  - 71.11 External remediation and non-erasing lifecycle — p. 1296
+  - 71.12 Typed causal credit for security controls — p. 1296
+  - 71.13 Metrics, uncertainty, and anti-gaming — p. 1296
+  - 71.14 Worked governance cases — p. 1309
+  - 71.15 External promotion, series review, and rollback — p. 1309
+  - 71.16 Typed failures and abstentions — p. 1309
+  - 71.17 Falsification suite — p. 1309
+  - 71.18 Chapter contract — p. 1314
+- Chapter 72. Human Mathematical Review Boards — p. 1315
+  - 72.1 Human judgment is necessary and bounded — p. 1315
+  - 72.2 The full typed board-review context — p. 1316
+  - 72.3 Exact Chapter 1 binding and separate review subject — p. 1317
+  - 72.4 Board constitution, mandate, and membership — p. 1320
+  - 72.5 Conflicts, recusals, and independence — p. 1320
+  - 72.6 Consent, rights, provenance, and affected parties — p. 1320
+  - 72.7 Evidence dossier and mathematical checker firewall — p. 1320
+  - 72.8 Deliberation, dissent, and abstention — p. 1320
+  - 72.9 Board dispositions and claim ceilings — p. 1320
+  - 72.10 Compatibility, integrated findings, and effectivity — p. 1320
+  - 72.11 Typed causal credit and governance evaluation — p. 1320
+  - 72.12 External series review, runtime promotion, epoch transition, and rollback — p. 1320
+  - 72.13 Incident, appeal, correction, and non-erasure — p. 1320
+  - 72.14 Typed failures and abstentions — p. 1320
+  - 72.15 Falsification suite — p. 1320
+  - 72.16 Chapter contract — p. 1335
+- Chapter 73. Incident, Retraction, and Scientific Correction — p. 1336
+  - 73.1 Scientific correction preserves the event — p. 1336
+  - 73.2 The complete typed incident MEC — p. 1336
+  - 73.3 Exact roots and domain-separated binding — p. 1336
+  - 73.4 Exact incident subjects and anti-replay — p. 1336
+  - 73.5 Status vocabulary and non-erasing transitions — p. 1336
+  - 73.6 Detection, preservation, and containment — p. 1336
+  - 73.7 Append-only claims, failures, and dependency propagation — p. 1336
+  - 73.8 Independent checking, evaluation, and review — p. 1336
+  - 73.9 Correction and remediation are successor experiments — p. 1336
+  - 73.10 Causal analysis and unsupported counterfactuals — p. 1346
+  - 73.11 Compatibility, gluing, and effectivity — p. 1346
+  - 73.12 External publication, promotion, and rollback — p. 1346
+  - 73.13 Metrics and anti-gaming — p. 1346
+  - 73.14 Worked cases — p. 1349
+  - 73.15 Typed failures and abstentions — p. 1349
+  - 73.16 Falsification suite — p. 1349
+  - 73.17 Series evidence and chapter contract — p. 1353
+- Chapter 74. Distributed Training and Evaluation — p. 1355
+  - 74.1 Distribution multiplies obligations, not authority — p. 1355
+  - 74.2 The full typed distributed MEC — p. 1355
+  - 74.3 Exact constitutional roots and domain separation — p. 1356
+  - 74.4 Data and environment lineage — p. 1356
+  - 74.5 Assignment, attempts, and candidate construction — p. 1356
+  - 74.6 Aggregation cannot erase failures — p. 1356
+  - 74.7 Byzantine workers and common-mode failures — p. 1356
+  - 74.8 Independent checking and evaluation — p. 1356
+  - 74.9 Bounded resources, cancellation, and partial effects — p. 1356
+  - 74.10 Compatibility, coherence, and distributed effectivity — p. 1356
+  - 74.11 Causal credit in an interacting distributed system — p. 1356
+  - 74.12 Incidents, external authority, and non-erasure — p. 1356
+  - 74.13 Metrics and anti-gaming controls — p. 1356
+  - 74.14 Typed failures and falsification — p. 1369
+  - 74.15 Manuscript evidence and chapter contract — p. 1372
+- Chapter 75. Module-Local Benchmark Suites — p. 1374
+  - 75.1 A benchmark is a governed comparison, not a proof surrogate — p. 1374
+  - 75.2 The full typed benchmark MEC — p. 1374
+  - 75.3 Exact constitutional and benchmark-subject bindings — p. 1375
+  - 75.4 Partitioning, contamination, and derivative overlap — p. 1375
+  - 75.5 Candidate, evaluator, checker, and authority routes — p. 1380
+  - 75.6 Typed metrics, scores, and terminal dispositions — p. 1380
+  - 75.7 The twenty-five module-local suites — p. 1380
+  - 75.8 Cross-cutting benchmark families — p. 1380
+  - 75.9 Causal attribution and interaction limits — p. 1380
+  - 75.10 External promotion and rollback boundaries — p. 1380
+  - 75.11 Typed failures and falsification — p. 1380
+- Chapter 76. Whole-System Interaction Benchmarks — p. 1391
+  - 76.1 The benchmark subject is the coupled system — p. 1391
+  - 76.2 The full typed interaction-benchmark context — p. 1391
+  - 76.3 Exact roots, separate values, and benchmark identity — p. 1392
+  - 76.4 Preregistered populations, contexts, and assignments — p. 1392
+  - 76.5 Interaction effects and causal support — p. 1398
+  - 76.6 Interference and common-mode failure campaigns — p. 1398
+  - 76.7 Compatibility, gluing, and effectivity are separate gates — p. 1398
+  - 76.8 Score vectors, hard gates, and mathematical status — p. 1398
+  - 76.9 Rollback readiness is benchmarked before authority acts — p. 1398
+  - 76.10 Contamination follows lineage and interaction — p. 1398
+  - 76.11 Independent checkers, evaluator, and replay — p. 1398
+  - 76.12 External decision boundary — p. 1398
+  - 76.13 Typed failures and falsification — p. 1398
+- Chapter 77. Compute, Energy, and Cost Accounting — p. 1408
+  - 77.1 Resources are evidence, not a currency for truth — p. 1408
+  - 77.2 Full typed accounting context — p. 1408
+  - 77.3 Exact epoch and seven independently resolved roots — p. 1409
+  - 77.4 Quantities, units, and the three resource dispositions — p. 1409
+  - 77.5 Declared resource boundary and attempt identity — p. 1409
+  - 77.6 Compute, storage, network, and complexity records — p. 1409
+  - 77.7 Energy and carbon without false precision — p. 1409
+  - 77.8 Financial cost and economic boundaries — p. 1409
+  - 77.9 Provenance, calibration, reconciliation, and corrections — p. 1409
+  - 77.10 Independent checkers and evaluator — p. 1409
+  - 77.11 Comparison and causal attribution — p. 1409
+  - 77.12 Aggregation without scalar reward laundering — p. 1409
+  - 77.13 Compatibility, reconciliation effectivity, and replay — p. 1409
+  - 77.14 External promotion, incident response, and rollback — p. 1409
+  - 77.15 Typed failures and abstentions — p. 1409
+  - 77.16 Falsification suite — p. 1409
+  - 77.17 Exact frozen and inert EvolutionContract — p. 1425
+  - 77.18 Chapter contract — p. 1425
+- Chapter 78. Reproducibility and Contamination Control — p. 1427
+  - 78.1 Reproducibility preserves the experiment that occurred — p. 1427
+  - 78.2 Full typed reproducibility and contamination context — p. 1427
+  - 78.3 Exact epoch, seven roots, and separate subject digest — p. 1428
+  - 78.4 Algorithm mapping and exact-builder ceiling — p. 1428
+  - 78.5 Sealed datasets, partitions, and holdout custody — p. 1433
+  - 78.6 Exposure lineage and transitive taint — p. 1433
+  - 78.7 Environment and dependency closure — p. 1433
+  - 78.8 Complete immutable manifest and independent replay — p. 1433
+  - 78.9 Compatibility, effectivity, and no mathematical reimplementation — p. 1433
+  - 78.10 Non-retroactive evidence and reliance — p. 1433
+  - 78.11 Independence, security, and external authority — p. 1433
+  - 78.12 Metrics, failures, and abstentions — p. 1433
+  - 78.13 Worked boundary cases — p. 1433
+  - 78.14 Falsification suite — p. 1433
+  - 78.15 Exact frozen and inert EvolutionContract — p. 1445
+  - 78.16 Manuscript evidence and chapter contract — p. 1445
+- Chapter 79. End-to-End Recursive Discovery Campaigns — p. 1447
+  - 79.1 Recursion means immutable succession, not self-authored truth — p. 1447
+  - 79.2 Complete typed recursive-campaign MEC — p. 1448
+  - 79.3 Exact epoch, seven roots, and separate campaign subject — p. 1450
+  - 79.4 Inherited campaign contracts and exhaustive algorithm status — p. 1450
+  - 79.5 Immutable generations and bounded recursion — p. 1455
+  - 79.6 Typed candidate and evidence composition — p. 1455
+  - 79.7 Phi, coherence, Gamma, and separate effectivity — p. 1458
+  - 79.8 Independent checking and evaluation firewall — p. 1458
+  - 79.9 Causal credit under adaptive recursive search — p. 1458
+  - 79.10 Benchmarks, reproducibility, contamination, and resources — p. 1462
+  - 79.11 Terminal bundle and external authority — p. 1462
+  - 79.12 Typed failures, abstentions, and repairs — p. 1462
+  - 79.13 Decisive falsification suite — p. 1462
+  - 79.14 Exact frozen and inert EvolutionContract — p. 1467
+  - 79.15 Chapter contract — p. 1467
+- Chapter 80. Scientific Delivery and Long-Horizon Roadmap — p. 1469
+  - 80.1 Delivery claims and the current non-closure — p. 1469
+  - 80.2 Authoritative identity for every roadmap artifact — p. 1469
+  - 80.3 The complete delivery envelope — p. 1469
+  - 80.4 Falsifiable milestones rather than dates of aspiration — p. 1469
+  - 80.5 Evidence ceilings and independent evaluation — p. 1469
+  - 80.6 Rollback-ready, correction-preserving releases — p. 1469
+  - 80.7 Resources, uncertainty, and stopping — p. 1469
+  - 80.8 Long-horizon research program and its limits — p. 1469
+  - 80.9 Typed delivery failures — p. 1469
+  - 80.10 Decisive falsifiers — p. 1469
+  - 80.11 Exact frozen and inert EvolutionContract — p. 1482
+  - 80.12 Delivery acceptance boundary — p. 1482

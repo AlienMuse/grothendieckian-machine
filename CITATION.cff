@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+type: dataset
+title: "GAI-MUA: The Grothendieckian Machine"
+abstract: "A Mathematical Universe Architecture for Verifiable and Self-Evolving Artificial Intelligence. A six-volume monograph in mathematics, formal reasoning, system architecture, and self-evolving mathematical artificial intelligence."
+authors:
+  - family-names: "Liu"
+    given-names: "Vincent"
+    email: "elsevier2012@hotmail.com"
+version: "1.0.0"
+date-released: "2026-10-20"
+doi: "10.5281/zenodo.23480696"
+license: "CC-BY-NC-ND-4.0"
+url: "https://github.com/AlienMuse/grothendieckian-machine"
+keywords:
+  - "Grothendieck"
+  - "algebraic geometry"
+  - "schemes"
+  - "topos theory"
+  - "descent"
+  - "motives"
+  - "higher category theory"
+  - "derived geometry"
+  - "perfectoid spaces"
+  - "condensed mathematics"
+  - "anabelian geometry"
+  - "AI for mathematics"
+  - "mathematical artificial intelligence"
+  - "formal verification"
+  - "automated reasoning"
+  - "theorem proving"
+  - "categorical computation"
+  - "mathematical discovery"
+  - "system architecture"
+  - "provenance"
+  - "self-evolving systems"
+  - "reinforcement learning"
+  - "AI safety"
+preferred-citation:
+  type: book
+  title: "GAI-MUA: The Grothendieckian Machine — A Mathematical Universe Architecture for Verifiable and Self-Evolving Artificial Intelligence"
+  authors:
+    - family-names: "Liu"
+      given-names: "Vincent"
+  year: 2026
+  edition: "Research Architecture Edition 1"
+  collection-title: "WiseMotif Monograph of Mathematical Intelligence, Series 01"
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23480696"
+  url: "https://doi.org/10.5281/zenodo.23480696"

@@ -1,0 +1,986 @@
+# Volume V — The Modular Grothendieckian Machine
+
+Modular implementation of the Grothendieckian Machine.
+
+1,146 pages · file `GAI-MUA-v1.0.0-Vol5-Modular-Machine.pdf`
+
+Page numbers below are PDF page indices.
+
+- Preface to Volume V: The Modular Machine — p. 5
+  - The place of this volume — p. 5
+  - From mathematical worlds to machine contracts — p. 5
+  - Trusted roots and constitutional non-self-sufficiency — p. 5
+  - Typed artifacts, stable identity, and provenance — p. 5
+  - Categorical compilation and preservation debt — p. 5
+  - Sources, graphs, retrieval, and the discipline of evidence — p. 5
+  - Proof and computation adapters — p. 5
+  - Modular research systems with semantic preservation — p. 5
+  - Platform, secure operations, and recovery — p. 5
+  - Reproducibility, publication, and release evidence — p. 5
+  - The executable reference scope — p. 5
+  - Relations to Volumes I–IV and VI — p. 5
+  - Reading routes — p. 5
+  - How to read statuses, boundaries, and failures — p. 5
+  - Security and assurance limits — p. 5
+  - Intellectual acknowledgements — p. 5
+  - Conclusion — p. 5
+- Contents — p. 21
+- List of Figures — p. 43
+- List of Tables — p. 46
+- Architectural Prospectus — p. 47
+- Chapter 1. The Immutable Constitutional Root — p. 48
+  - 1.1 A machine with powers must also have disabilities — p. 48
+  - 1.2 Trust is a graph, not a halo — p. 48
+  - 1.3 The non-self-authorization proposition — p. 49
+  - 1.4 Root contracts — p. 49
+  - 1.5 Constitutional state transitions — p. 50
+  - 1.6 Falsifiability and release tests — p. 50
+  - 1.7 Boundary with Volume VI — p. 50
+- Chapter 2. Content-Addressed Mathematical Artifacts — p. 52
+  - 2.1 Mathematical objects and machine artifacts — p. 53
+  - 2.2 Canonical bytes — p. 55
+  - 2.3 Corrections are successors, not edits — p. 55
+  - 2.4 Dependency closure and stale propagation — p. 55
+  - 2.5 Mathematical equivalence remains evidence-bearing — p. 55
+  - 2.6 Storage and retrieval consequences — p. 55
+  - 2.7 Adversarial test matrix — p. 57
+  - 2.8 Traceability forward — p. 58
+- Chapter 3. Proof Receipts and Independent Replay — p. 60
+  - 3.1 A proof candidate is not a proof receipt — p. 60
+  - 3.2 Receipt states — p. 61
+  - 3.3 Sealing the target — p. 61
+  - 3.4 Independent replay — p. 61
+  - 3.5 Axiom closure — p. 61
+  - 3.6 Cross-prover and external certificates — p. 61
+  - 3.7 Failure receipts — p. 61
+  - 3.8 Falsification suite — p. 61
+  - 3.9 What a receipt proves — p. 65
+- Chapter 4. Target-Fidelity and Axiom Auditing — p. 66
+  - 4.1 The danger of proving the wrong proposition — p. 66
+  - 4.2 Source specification — p. 66
+  - 4.3 Structural comparison before semantic proof — p. 66
+  - 4.4 Axiom audit — p. 66
+  - 4.5 Target-fidelity proposition — p. 66
+  - 4.6 Scope and boundedness — p. 66
+  - 4.7 Anabelian-IUT fidelity — p. 66
+  - 4.8 Mutation tests — p. 70
+  - 4.9 Falsifiability — p. 70
+- Chapter 5. Policy, Capability, and Signing Roots — p. 72
+  - 5.1 Three distinct questions — p. 72
+  - 5.2 Capability objects — p. 72
+  - 5.3 Policy decisions — p. 72
+  - 5.4 Signatures say what they sign — p. 72
+  - 5.5 Separation theorem for conforming workflows — p. 72
+  - 5.6 Tests for authority confusion — p. 72
+  - 5.7 No self-signing — p. 72
+  - 5.8 Volume VI boundary — p. 72
+  - 5.9 Falsifiability — p. 72
+- Chapter 6. Promotion, Retraction, and Rollback Authority — p. 78
+  - 6.1 Three operations that must not be conflated — p. 78
+  - 6.2 Promotion dossiers — p. 78
+  - 6.3 No self-promotion — p. 78
+  - 6.4 Retraction and correction — p. 78
+  - 6.5 Rollback bundles — p. 78
+  - 6.6 No self-rollback — p. 78
+  - 6.7 Atomicity and lineage — p. 78
+  - 6.8 Promotion is not proof — p. 78
+  - 6.9 Falsification and incident drills — p. 78
+  - 6.10 Forward references — p. 83
+- Chapter 7. Schema Registry and Compatibility Law — p. 84
+  - 7.1 Schemas are executable boundaries — p. 84
+  - 7.2 Four levels of validity — p. 84
+  - 7.3 Compatibility is typed — p. 85
+  - 7.4 Compatibility law — p. 85
+  - 7.5 Validator independence and versioning — p. 85
+  - 7.6 Schema evolution without semantic laundering — p. 87
+  - 7.7 Test obligations — p. 87
+  - 7.8 Traceability — p. 87
+- Chapter 8. ArtifactEnvelope and Provenance Contracts — p. 90
+  - 8.1 The thin waist — p. 92
+  - 8.2 Envelope invariants — p. 92
+  - 8.3 Provenance contract — p. 95
+  - 8.4 Immutable provenance — p. 95
+  - 8.5 Epistemic and plane tags — p. 95
+  - 8.6 Authority-safe attestations and signatures — p. 95
+  - 8.7 Envelope validation algorithm — p. 96
+  - 8.8 Failure semantics — p. 96
+  - 8.9 Backward migration and explicit incompatibility — p. 96
+  - 8.10 Falsification — p. 96
+- Chapter 9. World, Category, Homotopy, and Diagram Schemas — p. 100
+  - 9.1 Why a mathematical schema is not a bag of names — p. 100
+  - 9.2 WorldSpec — p. 100
+  - 9.3 CategorySpec — p. 100
+  - 9.4 DiagramSpec — p. 100
+  - 9.5 Homotopy and higher coherence — p. 100
+  - 9.6 Literal and architectural uses of descent — p. 100
+  - 9.7 Anabelian-IUT schema separation — p. 100
+  - 9.8 Validators and negative controls — p. 100
+  - 9.9 Typed phase failures — p. 100
+  - 9.10 Exact Volume IV/Volume V trace — p. 100
+  - 9.11 Falsifiability and forward trace — p. 106
+- Chapter 10. Epistemic State and Dependency Machines — p. 107
+  - 10.1 Two axes, not one ladder — p. 107
+  - 10.2 Transition records — p. 107
+  - 10.3 Dependency kinds — p. 107
+  - 10.4 No upward propagation by association — p. 107
+  - 10.5 Retraction and staleness propagation — p. 107
+  - 10.6 Abstention and unknown — p. 107
+  - 10.7 Three-plane state machines — p. 107
+  - 10.8 State-machine tests — p. 107
+  - 10.9 Exact Volume IV/Volume V trace — p. 107
+  - 10.10 Falsifiability — p. 114
+- Chapter 11. Events, Workflows, Failures, and Obligations — p. 116
+  - 11.1 Failure is an output type — p. 116
+  - 11.2 Event contract — p. 116
+  - 11.3 Workflow contract — p. 116
+  - 11.4 Typed failure artifacts — p. 116
+  - 11.5 Proof obligations — p. 116
+  - 11.6 Failure minimization — p. 116
+  - 11.7 Obstructions rather than concealed merges — p. 116
+  - 11.8 Resource and reproducibility records — p. 116
+  - 11.9 Test program — p. 116
+  - 11.10 Exact Volume IV/Volume V trace — p. 116
+  - 11.11 Falsifiability — p. 126
+- Chapter 12. Stable EvolutionContract Interfaces — p. 128
+  - 12.1 An interface without an optimizer — p. 128
+  - 12.2 Contract surface — p. 128
+  - 12.3 Stable module descriptor — p. 128
+  - 12.4 Integrity contracts are not evolution contracts — p. 128
+  - 12.5 Authority separation at every port — p. 128
+  - 12.6 Volume IV traceability — p. 128
+  - 12.7 Three-plane preservation — p. 131
+  - 12.8 Conformance tests — p. 131
+  - 12.9 Falsifiable Volume V/VI boundary — p. 132
+  - 12.10 Handoff — p. 132
+- Chapter 13. Foundation IR and Universe Discipline — p. 133
+  - 13.1 The semantic load-bearing layer — p. 134
+  - 13.2 Universes are constraints, not decorations — p. 136
+  - 13.3 Signatures, binders, and judgments — p. 136
+  - 13.4 Variance as a checked polarity — p. 136
+  - 13.5 ALG-007: universe and variance checking — p. 136
+  - 13.6 Scope, provenance, and target fidelity — p. 138
+  - 13.7 Typed failures — p. 138
+  - 13.8 Conditional soundness and replay — p. 138
+  - 13.9 Falsifiability and boundary — p. 138
+- Chapter 14. Categorical and Diagram Compiler — p. 142
+  - 14.1 Compilation preserves structure or emits debt — p. 142
+  - 14.2 Category and functor IR — p. 142
+  - 14.3 Diagrams as typed functors — p. 142
+  - 14.4 ALG-005: source-to-IR compilation — p. 142
+  - 14.5 Algebraic geometry through categorical variance — p. 147
+  - 14.6 Finite nerves — p. 147
+  - 14.7 Exact Volume IV/Volume V trace — p. 147
+  - 14.8 Certificates, provenance, and independent replay — p. 148
+  - 14.9 Typed failures — p. 148
+  - 14.10 Falsifiability and boundary — p. 148
+- Chapter 15. Finite Site, Topos, and Sheaf Compiler — p. 151
+  - 15.1 What “topos compiler” means here — p. 151
+  - 15.2 Finite sites — p. 151
+  - 15.3 Presheaves as contravariant programs — p. 152
+  - 15.4 Matching families and the finite sheaf decision — p. 152
+  - 15.5 Cech nerves without cohomological inflation — p. 152
+  - 15.6 Finite condensed test sites — p. 152
+  - 15.7 Exact Volume IV/Volume V trace — p. 152
+  - 15.8 Target fidelity and provenance — p. 155
+  - 15.9 Typed failures and obstructions — p. 155
+  - 15.10 Conditional correctness and falsification — p. 155
+- Chapter 16. Descent, Stack, and Higher-Coherence Compiler — p. 158
+  - 16.1 From local data to an auditable gluing judgment — p. 159
+  - 16.2 Compiler contract — p. 159
+  - 16.3 The descent pipeline — p. 159
+  - 16.4 Schemes, groupoids, and presented stacks — p. 162
+  - 16.5 Higher coherence is degree-indexed — p. 162
+  - 16.6 Refinement and repair remain non-authoritative — p. 162
+  - 16.7 Certificates and failure artifacts — p. 162
+  - 16.8 Target fidelity and immutable provenance — p. 162
+  - 16.9 ALG correspondence and proposal status — p. 162
+  - 16.10 Falsification — p. 166
+- Chapter 17. Derived, Six-Operation, Motivic, and Anabelian IR — p. 168
+  - 17.1 One compiler boundary, several non-interchangeable meanings — p. 168
+  - 17.2 Typed compilation contract — p. 168
+  - 17.3 Derived IR — p. 168
+  - 17.4 The six-operation calculus — p. 168
+  - 17.5 Motivic IR is explicitly a proxy — p. 168
+  - 17.6 The three Anabelian-IUT planes — p. 168
+  - 17.7 The cross-plane compiler and consequence firewall — p. 168
+  - 17.8 Certificates, failures, and provenance — p. 168
+  - 17.9 Proposal status and falsification — p. 168
+- Chapter 18. Normalization, Optimization, and Certificate Emission — p. 177
+  - 18.1 Optimization under a sealed meaning — p. 177
+  - 18.2 Pass contract — p. 177
+  - 18.3 Three classes of normalization — p. 177
+  - 18.4 Rewrite rules are typed artifacts — p. 177
+  - 18.5 Target-fidelity guard — p. 177
+  - 18.6 Morphism-property obligations — p. 177
+  - 18.7 Proof-bearing optimization — p. 177
+  - 18.8 Certificate emission — p. 177
+  - 18.9 Immutable provenance boundary — p. 177
+  - 18.10 Determinism, boundedness, and tests — p. 177
+  - 18.11 ALG correspondence and proposal status — p. 177
+- Chapter 19. Source Acquisition, Licensing, and Checksums — p. 185
+  - 19.1 Acquisition begins in quarantine — p. 186
+  - 19.2 The acquisition object — p. 186
+  - 19.3 Acquisition provenance — p. 190
+  - 19.4 Source identity, editions, and exact locators — p. 190
+  - 19.5 Licensing is a typed evidence problem — p. 190
+  - 19.6 Checksums and content bindings — p. 190
+  - 19.7 Typed interfaces and authority boundaries — p. 190
+  - 19.8 Immutable provenance and correction — p. 190
+  - 19.9 Three-plane source discipline — p. 190
+  - 19.10 Failure artifacts — p. 190
+  - 19.11 Validation and adversarial tests — p. 190
+  - 19.12 Traceability status — p. 190
+  - 19.13 Exact inert EvolutionContract — p. 190
+  - 19.14 Closing obligations — p. 190
+- Chapter 20. Mathematical Document Normalization — p. 200
+  - 20.1 A stable boundary between source bytes and mathematical interpretation — p. 200
+  - 20.2 The normalization contract — p. 200
+  - 20.3 Lossless span and locator preservation — p. 200
+  - 20.4 Multilingual text without destructive harmonization — p. 200
+  - 20.5 OCR and mathematical layout — p. 200
+  - 20.6 Deterministic canonical forms — p. 200
+  - 20.7 Typed failures and residual uncertainty — p. 206
+  - 20.8 Validation and independent replay — p. 206
+  - 20.9 Traceability and downstream handoff — p. 206
+- Chapter 21. Entity, Symbol, and Notation Resolution — p. 210
+  - 21.1 Resolution is typed interpretation, not textual cleanup — p. 210
+  - 21.2 Stable identifiers at three distinct levels — p. 210
+  - 21.3 Scoped ambiguity is a first-class result — p. 210
+  - 21.4 Binder-aware and capture-avoiding resolution — p. 210
+  - 21.5 Aliasing is not equivalence — p. 210
+  - 21.6 Status preservation and the three-plane firewall — p. 210
+  - 21.7 Typed validators — p. 210
+  - 21.8 Replay receipts and failure artifacts — p. 216
+  - 21.9 V4-ALG and V5-CMP traceability — p. 216
+  - 21.10 Contract boundary and falsification — p. 216
+- Chapter 22. Definition, Theorem, Proof, and Claim Extraction — p. 220
+  - 22.1 Extraction records what a source presents — p. 220
+  - 22.2 Four principal extraction types — p. 220
+  - 22.3 Exact source-span fidelity — p. 220
+  - 22.4 Statement, proof, and dependency boundaries — p. 220
+  - 22.5 Proof-material status — p. 220
+  - 22.6 Conditional and attributed claims — p. 220
+  - 22.7 Independent replay and evidence ports — p. 220
+  - 22.8 Validators and the Anabelian plane firewall — p. 220
+  - 22.9 Typed failure artifacts — p. 220
+  - 22.10 Stable traceability and falsification — p. 220
+- Chapter 23. Source Lineages and Epistemic Partitioning — p. 231
+  - 23.1 Source possession is not source understanding — p. 231
+  - 23.2 The immutable source-lineage DAG — p. 231
+  - 23.3 Claim identity and epistemic partitions — p. 231
+  - 23.4 Supersession, correction, and retraction — p. 231
+  - 23.5 License boundaries are lineage boundaries — p. 231
+  - 23.6 Content-addressed and Merkle evidence — p. 231
+  - 23.7 Three Anabelian-IUT planes — p. 231
+  - 23.8 Validators and deterministic replay — p. 231
+  - 23.9 Falsification and forward trace — p. 241
+- Chapter 24. Ingestion Quality, Quarantine, and Retraction — p. 245
+  - 24.1 Ingestion ends with evidence, not trust — p. 245
+  - 24.2 A typed quality vector — p. 245
+  - 24.3 Hard gates and purpose profiles — p. 245
+  - 24.4 Quarantine as an event-sourced state machine — p. 245
+  - 24.5 Retraction and correction propagation — p. 245
+  - 24.6 Failures and evidence receipts — p. 245
+  - 24.7 Rollback readiness is not rollback authority — p. 245
+  - 24.8 Security and observability contracts — p. 245
+  - 24.9 Conformance and adversarial tests — p. 245
+  - 24.10 Open obligations — p. 256
+  - 24.11 Exact inert EvolutionContract — p. 256
+- Chapter 25. Theorem and Concept Graphs — p. 258
+  - 25.1 A graph organizes judgments; it does not make them — p. 258
+  - 25.2 Typed theorem and concept nodes — p. 258
+  - 25.3 Statement, hypotheses, scope, and status are separate axes — p. 258
+  - 25.4 Morphisms and hyperedges — p. 262
+  - 25.5 Equivalence is not relatedness — p. 262
+  - 25.6 Contradictions are typed objects — p. 262
+  - 25.7 Query and replay contracts — p. 262
+  - 25.8 Provenance, content addressing, and graph snapshots — p. 262
+  - 25.9 Append-only graph updates — p. 262
+  - 25.10 Validation, failures, and security — p. 262
+  - 25.11 Frozen EvolutionContract and subordinate graph hooks — p. 262
+  - 25.12 Conformance and forward trace — p. 262
+- Chapter 26. Proof and Obligation Dependency Graphs — p. 274
+  - 26.1 A proof is not a list of citations — p. 274
+  - 26.2 Typed vertices and four dependency planes — p. 274
+  - 26.3 Artifact and hyperedge contracts — p. 277
+  - 26.4 Target fidelity is a mandatory graph guard — p. 277
+  - 26.5 Cycles and recursive structures — p. 277
+  - 26.6 Partial proofs and residual obligations — p. 277
+  - 26.7 Invalidation and staleness propagation — p. 277
+  - 26.8 Cut, frontier, and repair queries — p. 277
+  - 26.9 Certificates, replay, and typed graph failures — p. 277
+  - 26.10 Validators, tests, and security — p. 277
+  - 26.11 Inert EvolutionContract surface — p. 286
+  - 26.12 Falsifiability and forward trace — p. 286
+- Chapter 27. Merkle Provenance and Immutable Lineage — p. 290
+  - 27.1 What a hash can and cannot establish — p. 291
+  - 27.2 Domain-separated identities — p. 291
+  - 27.3 Canonical semantic bytes — p. 291
+  - 27.4 Merkle trees and Merkle DAGs — p. 291
+  - 27.5 Inclusion, absence, and consistency evidence — p. 291
+  - 27.6 Append-only lineage and epoch references — p. 291
+  - 27.7 Parent, data, code, and environment closure — p. 291
+  - 27.8 Redaction, retention, and selective disclosure — p. 291
+  - 27.9 Cross-repository federation — p. 291
+  - 27.10 Replay, supersession, and retraction — p. 291
+  - 27.11 Validators and failure artifacts — p. 302
+  - 27.12 Threats and conformance tests — p. 302
+  - 27.13 Stable substrate and inert evolution — p. 303
+- Chapter 28. Semantic, Structural, and Formal Indexes — p. 305
+  - 28.1 An index locates; it does not judge — p. 305
+  - 28.2 Immutable subjects and typed index keys — p. 306
+  - 28.3 Semantic indexes and non-authoritative embeddings — p. 306
+  - 28.4 Structural indexes: graphs, paths, and shapes — p. 306
+  - 28.5 Formal indexes: identity, matching, and signatures — p. 306
+  - 28.6 Universe, variance, and scope filters — p. 306
+  - 28.7 Index schemas, provenance, and contamination controls — p. 306
+  - 28.8 Updates, invalidation, and reproducible rebuilds — p. 306
+  - 28.9 Deterministic query contracts — p. 313
+  - 28.10 Evaluation without truth claims — p. 313
+  - 28.11 Validators, failures, security, and observability — p. 313
+  - 28.12 Inert evolution surface and open obligations — p. 313
+- Chapter 29. Hybrid Retrieval and Context Assembly — p. 319
+  - 29.1 Retrieval proposes evidence; it does not judge it — p. 319
+  - 29.2 Query contract and declared use — p. 319
+  - 29.3 Four independent retrieval channels — p. 319
+  - 29.4 Deterministic query planning — p. 319
+  - 29.5 Fusion without score-authority confusion — p. 319
+  - 29.6 Diversity and duplicate control — p. 319
+  - 29.7 Dependency closure and support boundaries — p. 319
+  - 29.8 Freshness, contradiction, supersession, and retraction — p. 319
+  - 29.9 Bounded context assembly — p. 319
+  - 29.10 Citation locators and non-fabrication — p. 319
+  - 29.11 Contamination partitions — p. 319
+  - 29.12 Abstention, failures, and observability — p. 319
+  - 29.13 Validators, replay, and adversarial tests — p. 319
+  - 29.14 Security and constitutional boundary — p. 329
+  - 29.15 Acceptance boundary — p. 329
+- Chapter 30. Freshness, Contradiction, Supersession, and Retraction — p. 333
+  - 30.1 Current is a qualified view — p. 333
+  - 30.2 Three temporal coordinates — p. 333
+  - 30.3 Contradiction is data, not cleanup — p. 333
+  - 30.4 Supersession is a graph — p. 333
+  - 30.5 Retraction is an append-only transition — p. 333
+  - 30.6 Downstream staleness propagation — p. 333
+  - 30.7 Query-time views — p. 333
+  - 30.8 Correction, restoration, and renewed reliance — p. 333
+  - 30.9 Races, partitions, and late events — p. 333
+  - 30.10 Validators, evidence, and typed failures — p. 333
+  - 30.11 Security, observability, and tests — p. 341
+  - 30.12 Inert evolution boundary and falsifiability — p. 341
+- Chapter 31. Lean 4 Proof Adapter — p. 346
+  - 31.1 The adapter is a boundary, not a badge — p. 347
+  - 31.2 Stable request and result contract — p. 348
+  - 31.3 Sealing the formal target — p. 353
+  - 31.4 Sealing the Lean environment — p. 353
+  - 31.5 Imports, universes, options, and elaboration — p. 353
+  - 31.6 Declaration capture and proof-term extraction — p. 353
+  - 31.7 Kernel replay and the authority split — p. 353
+  - 31.8 Axiom and declaration inventory — p. 353
+  - 31.9 Deterministic builds and artifact packaging — p. 353
+  - 31.10 Sandbox, capabilities, and resource bounds — p. 353
+  - 31.11 Diagnostics and failure artifacts — p. 353
+  - 31.12 Phase interface and idempotency — p. 353
+  - 31.13 Conformance, mutation, and replay tests — p. 353
+  - 31.14 Observability without authority — p. 363
+  - 31.15 Immutable roots and the inert evolution boundary — p. 363
+- Chapter 32. Coq and Isabelle Ports — p. 366
+  - 32.1 One envelope, two non-equivalent foundations — p. 366
+  - 32.2 The common proof-adapter envelope — p. 366
+  - 32.3 Sealed target translation — p. 366
+  - 32.4 The Coq typed port — p. 366
+  - 32.5 The Isabelle typed port — p. 366
+  - 32.6 Modules, theories, locales, and contexts — p. 366
+  - 32.7 Version and environment pinning — p. 366
+  - 32.8 Certificate import and provenance — p. 366
+  - 32.9 Diagnostics and validators — p. 366
+  - 32.10 Differential and adversarial tests — p. 366
+  - 32.11 No new authority — p. 380
+  - 32.12 Inert EvolutionContract and falsifiability — p. 380
+- Chapter 33. SAT, SMT, and Model-Finder Adapters — p. 383
+  - 33.1 Solvers produce evidence, not authority — p. 383
+  - 33.2 Sealed typed tasks — p. 383
+  - 33.3 SAT adapter and proof certificates — p. 383
+  - 33.4 SMT theories, logics, models, cores, and proofs — p. 383
+  - 33.5 Model finders and bounded semantics — p. 383
+  - 33.6 Exact execution and resource identities — p. 383
+  - 33.7 Translation soundness obligations — p. 383
+  - 33.8 Provenance, sandboxing, and side effects — p. 391
+  - 33.9 Schemas, APIs, and validators — p. 391
+  - 33.10 Adversarial conformance tests — p. 395
+  - 33.11 Inert EvolutionContract and authority boundary — p. 400
+  - 33.12 Falsifiability and handoff — p. 401
+- Chapter 34. Sage, GAP, Singular, PARI, and CAS Adapters — p. 403
+  - 34.1 Several adapters, not one imaginary machine — p. 403
+  - 34.2 Capability manifests and separate mathematical jurisdictions — p. 403
+  - 34.3 Canonical typed requests — p. 403
+  - 34.4 Domains, parents, and coercion barriers — p. 403
+  - 34.5 Exact, conditional, bounded, and heuristic operations — p. 403
+  - 34.6 Package, backend, and version closure — p. 403
+  - 34.7 Randomness and nondeterminism — p. 403
+  - 34.8 Scripts, transcripts, results, and certificates — p. 403
+  - 34.9 Independent replay and checking — p. 403
+  - 34.10 Bounds, isolation, and hostile outputs — p. 403
+  - 34.11 APIs, failures, and provenance — p. 403
+  - 34.12 Validators and conformance tests — p. 403
+  - 34.13 Stable handoff and inert evolution — p. 403
+- Chapter 35. Verified Numerics and Exact-Algebra Services — p. 423
+  - 35.1 Computation must state what kind of fact it returns — p. 424
+  - 35.2 Common request and scope contract — p. 425
+  - 35.3 Exact scalar domains — p. 425
+  - 35.4 Polynomials, matrices, and finite structures — p. 425
+  - 35.5 Interval and ball arithmetic — p. 425
+  - 35.6 Precision escalation without favorable-result hunting — p. 425
+  - 35.7 Exact reconstruction is candidate generation plus verification — p. 425
+  - 35.8 Certified linear algebra and root isolation — p. 425
+  - 35.9 Certificate checkers and deterministic identities — p. 425
+  - 35.10 API, sandbox, and provenance — p. 425
+  - 35.11 Error, unknown, and abstention are different — p. 425
+  - 35.12 Release tests, seven roots, and the inert evolution boundary — p. 425
+- Chapter 36. Adapter Trust, Sandboxing, and Certificate Import — p. 442
+  - 36.1 Adapters translate evidence; they do not create authority — p. 442
+  - 36.2 Trust attaches to a judgment — p. 444
+  - 36.3 Three execution boundaries — p. 446
+  - 36.4 Least privilege and deterministic controls — p. 446
+  - 36.5 Supply-chain and dependency identity — p. 446
+  - 36.6 Hostile parsing and bounded certificates — p. 446
+  - 36.7 Certificate format, version, and semantics — p. 446
+  - 36.8 Independent checker registry — p. 446
+  - 36.9 Import pipeline and local proof receipts — p. 446
+  - 36.10 Theorem, axiom, and target fidelity — p. 446
+  - 36.11 Contamination and correlated evidence — p. 454
+  - 36.12 Quarantine, revocation, and retraction — p. 454
+  - 36.13 Observability and incident artifacts — p. 454
+  - 36.14 Policy decisions and disposition — p. 454
+  - 36.15 Red-team and conformance program — p. 454
+  - 36.16 Deployment and the inert evolution boundary — p. 458
+- Chapter 37. MUE and the Geometric-Cohomological Layer — p. 460
+  - 37.1 The MUE boundary begins with retained mathematical structure — p. 461
+  - 37.2 Exact Volume IV relations, without relocation or invention — p. 461
+  - 37.3 Service decomposition and authority boundaries — p. 462
+  - 37.4 Canonical GCL schemas — p. 466
+  - 37.5 Finite diagrams and effective-pair discipline — p. 466
+  - 37.6 Realizations, faces, and residues — p. 466
+  - 37.7 Exact judgments and proxy ceilings — p. 466
+  - 37.8 Effectivity is separate from compatibility — p. 466
+  - 37.9 Receipts, provenance, and independent evaluation — p. 466
+  - 37.10 Seven roots and capability security — p. 466
+  - 37.11 Typed failures and observability — p. 477
+  - 37.12 Validators, tests, and falsification — p. 477
+  - 37.13 The inert EvolutionContract surface — p. 479
+  - 37.14 Acceptance boundary — p. 479
+- Chapter 38. Finite MUF-H and Realization Services — p. 483
+  - 38.1 A bounded backend with a deliberately narrow name — p. 483
+  - 38.2 Exact traceability ownership — p. 483
+  - 38.3 Service boundary and result families — p. 484
+  - 38.4 Scope, assumptions, and finite proxy qualification — p. 487
+  - 38.5 Exact realization channels and matrices — p. 487
+  - 38.6 Compatibility is not effectivity — p. 487
+  - 38.7 Finite comodule-proxy construction — p. 487
+  - 38.8 Projectors and the Chow-compatible facade — p. 487
+  - 38.9 Realization prisms — p. 487
+  - 38.10 Scores, bridge plans, and actual bridges — p. 487
+  - 38.11 Transaction flow, API, and cache identity — p. 487
+  - 38.12 Independent checking and producer evidence — p. 487
+  - 38.13 Sandboxing and resource bounds — p. 487
+  - 38.14 Typed failures, provenance, and freshness — p. 487
+  - 38.15 Conformance tests and observability — p. 499
+  - 38.16 Seven roots and the inert evolution contract — p. 501
+- Chapter 39. TRE Campaign Runtime — p. 503
+  - V3 Part VII consumer bindings — p. 504
+  - 39.1 A campaign runtime is not a theorem prover — p. 504
+  - 39.2 Exact Volume IV relations and non-reimplementation — p. 504
+  - 39.3 Typed campaign state — p. 507
+  - 39.4 Typed execution DAG and recurrence discipline — p. 507
+  - 39.5 Service invocation and capability attenuation — p. 507
+  - 39.6 Evidence classes, target fidelity, and theorem status — p. 513
+  - 39.7 Compatibility is not effectivity — p. 513
+  - 39.8 Checkpoints, restart, and deterministic replay — p. 513
+  - 39.9 Failure artifacts and recovery contracts — p. 513
+  - 39.10 Evaluator independence and evidence assembly — p. 518
+  - 39.11 Threat controls and sandbox boundary — p. 518
+  - 39.12 Validators, conformance, and differential tests — p. 518
+  - 39.13 Observability and audit — p. 518
+  - 39.14 Seven roots, promotion, and rollback readiness — p. 518
+  - 39.15 Exact inert EvolutionContract — p. 521
+- Chapter 40. TNCA World-Creation Module — p. 524
+  - 40.1 Creation means a typed proposal — p. 524
+  - 40.2 Sealed creation requests — p. 524
+  - 40.3 The candidate-world bundle — p. 525
+  - 40.4 World identity and native/alien non-collapse — p. 525
+  - 40.5 History, loss, and capability records — p. 525
+  - 40.6 Sourced operators and the Volume IV boundary — p. 525
+  - 40.7 Layered validation — p. 534
+  - 40.8 Compatibility is not effectivity — p. 537
+  - 40.9 Workflow and service APIs — p. 537
+  - 40.10 Deterministic replay, caches, and provenance — p. 537
+  - 40.11 Sandbox and capability security — p. 537
+  - 40.12 Failure artifacts and observability — p. 537
+  - 40.13 Adversarial and conformance tests — p. 543
+  - 40.14 Exact inert EvolutionContract — p. 545
+  - 40.15 Authority boundary and falsifiability — p. 545
+- Chapter 41. TNRA World-Reasoning Module — p. 547
+  - 41.1 Reasoning inside a sealed world — p. 547
+  - 41.2 Stable request and execution plan — p. 549
+  - 41.3 World, copy, history, link, and loss bindings — p. 551
+  - 41.4 Routing, localization, and materialization — p. 551
+  - 41.5 Typed judgments and epistemic ceilings — p. 551
+  - 41.6 Compatibility is not effectivity — p. 551
+  - 41.7 Local execution, coherence, and result assembly — p. 556
+  - 41.8 Transport without identity laundering — p. 558
+  - 41.9 Validation, replay, and provenance — p. 558
+  - 41.10 Policy, security, and authority separation — p. 558
+  - 41.11 Failures and observability — p. 558
+  - 41.12 Conformance and adversarial tests — p. 564
+  - 41.13 Exact inert EvolutionContract — p. 565
+- Chapter 42. GRA Parallel Research Module — p. 567
+  - 42.1 A parallel lane, not a parliament of machines — p. 568
+  - 42.2 Sealed research requests — p. 570
+  - 42.3 Typed research DAGs — p. 574
+  - 42.4 Capability-scoped workers and role separation — p. 574
+  - 42.5 Idempotence, retries, and deterministic identity — p. 574
+  - 42.6 Replay that reconstructs the run — p. 574
+  - 42.7 Research artifacts, partial results, and negative evidence — p. 574
+  - 42.8 Evidence aggregation without majority truth — p. 574
+  - 42.9 Service contracts and APIs — p. 574
+  - 42.10 Validators and security boundary — p. 574
+  - 42.11 Failures and observability — p. 574
+  - 42.12 Conformance and adversarial tests — p. 574
+  - 42.13 Seven roots, external rollback, and the exact inert contract — p. 574
+- Chapter 43. GMLS Master Loop and Language Packages — p. 588
+  - 43.1 A language forge, not a truth forge — p. 589
+  - 43.2 The world-scoped work order — p. 591
+  - 43.3 Stable master-loop state machine — p. 591
+  - 43.4 Stage artifacts and monotone obligations — p. 591
+  - 43.5 Typed language packages — p. 591
+  - 43.6 Parsers, notation compilers, and binder safety — p. 591
+  - 43.7 Compilation without semantic invention — p. 591
+  - 43.8 Provenance, targets, and status preservation — p. 591
+  - 43.9 Package lifecycle — p. 600
+  - 43.10 Compatibility is not effectivity — p. 600
+  - 43.11 Independent validation — p. 600
+  - 43.12 Sandbox and capability security — p. 604
+  - 43.13 Typed failures and obstructions — p. 604
+  - 43.14 Observability without control authority — p. 605
+  - 43.15 Conformance and adversarial tests — p. 605
+  - 43.16 Rollback readiness, not rollback — p. 607
+  - 43.17 Fixed roots and no self-authority — p. 607
+  - 43.18 Exact inert EvolutionContract — p. 607
+- Chapter 44. Semantic Grounding and Theory Reconstruction — p. 610
+  - 44.1 Grounding is interpretation, not proof — p. 610
+  - 44.2 Proposal-only component and opaque algorithm boundary — p. 610
+  - 44.3 Seven roots and the fidelity stack — p. 613
+  - 44.4 Stable semantic schemas — p. 615
+  - 44.5 Grounding workflow and reconstruction evidence — p. 615
+  - 44.6 Contradictions, unknowns, and non-proof signals — p. 615
+  - 44.7 Compatibility and effectivity are separate — p. 623
+  - 44.8 Validators and independent replay — p. 623
+  - 44.9 Security, observability, tests, and failures — p. 623
+  - 44.10 Exact inert EvolutionContract and external disposition — p. 626
+- Chapter 45. GCA Contextual Cognition — p. 629
+  - V3 Part VII consumer bindings — p. 630
+  - 45.1 Contextual cognition is a service, not an authority — p. 630
+  - 45.2 Seven fixed roots and the authority ceiling — p. 632
+  - 45.3 Stable contexts — p. 632
+  - 45.4 Covers and local task boundaries — p. 632
+  - 45.5 Treaties and directional capability links — p. 632
+  - 45.6 Theaters, native and alien identities, and retained loss — p. 632
+  - 45.7 Scoped memory without ambient truth — p. 632
+  - 45.8 Obstruction and evidence contracts — p. 632
+  - 45.9 Validators, compatibility, and separate effectivity — p. 632
+  - 45.10 Replay, provenance, and deterministic reconstruction — p. 632
+  - 45.11 Security and observability — p. 632
+  - 45.12 Exact inert Chapter-12 EvolutionContract — p. 632
+  - 45.13 Tests, failures, and acceptance — p. 632
+- Chapter 46. GDRA Descent Runtime and DDA Workers — p. 648
+  - V3 Part VII consumer bindings — p. 649
+  - 46.1 Descent execution without authority inflation — p. 649
+  - 46.2 Exact traceability and proposal status — p. 649
+  - 46.3 Chapter 8 constitutional binding inside every artifact — p. 651
+  - 46.4 Stable descent artifacts — p. 653
+  - 46.5 Runtime state machine and ordered execution — p. 653
+  - 46.6 DDA worker discipline — p. 653
+  - 46.7 Overlap compatibility under ALG-108 — p. 653
+  - 46.8 Effectivity is a separate judgment — p. 653
+  - 46.9 The ALG-109 gate does not promote — p. 653
+  - 46.10 Validators, replay, and evidence ordering — p. 653
+  - 46.11 Typed failures and falsifiers — p. 663
+  - 46.12 Conformance and adversarial test specification — p. 664
+  - 46.13 Security, observability, and recovery readiness — p. 666
+  - 46.14 Exact inert EvolutionContract — p. 666
+  - 46.15 Acceptance boundary — p. 666
+- Chapter 47. AURORA Identity and Relational IR — p. 669
+  - 47.1 A relational calculus with a constitutional ceiling — p. 669
+  - 47.2 Exhaustive approved-algorithm mapping and proposal status — p. 669
+  - 47.3 Chapter 8 constitutional binding in every artifact — p. 670
+  - 47.4 Identity-bearing artifact and world contracts — p. 672
+  - 47.5 Relational IR: typed, directional, and non-collapsing — p. 672
+  - 47.6 The identity ladder is a profile, not a scalar — p. 672
+  - 47.7 History, reconstruction, and obstruction — p. 672
+  - 47.8 Provenance fidelity and target fidelity — p. 672
+  - 47.9 Service surface, validators, and independent replay — p. 672
+  - 47.10 Conformance, mutation, and adversarial tests — p. 681
+  - 47.11 Typed failures and falsifiers — p. 682
+  - 47.12 Security, observability, and metrics without control — p. 683
+  - 47.13 Exact inert EvolutionContract — p. 683
+  - 47.14 Acceptance boundary — p. 683
+- Chapter 48. GMUS-GMLS Bidirectional Integration — p. 687
+  - V3 Part VII consumer binding — p. 687
+  - 48.1 Bidirectional does not mean semantically reversible — p. 687
+  - 48.2 Chapter 8 constitutional binding on every artifact — p. 687
+  - 48.3 Common envelope and non-collapsing identities — p. 689
+  - 48.4 GMUS-to-GMLS: from research artifacts to a language-construction brief — p. 689
+  - 48.5 GMLS-to-GMUS: from language and descent artifacts to a research-execution brief — p. 689
+  - 48.6 Transactional handoff, versioning, and composition — p. 689
+  - 48.7 Exhaustive Volume IV integration inventory — p. 689
+  - 48.8 Compatibility and effectivity are independent coordinates — p. 704
+  - 48.9 Checked round trips and explicit residues — p. 704
+  - 48.10 Validation, replay, capability, and evidence discipline — p. 704
+  - 48.11 Exact inert EvolutionContract — p. 707
+  - 48.12 Failures, adversarial tests, and falsifiers — p. 707
+- Chapter 49. Anabelian Theorem-Adapter Service — p. 712
+  - V3 Part VII consumer binding — p. 712
+  - 49.1 Reconstruction only under a named theorem — p. 712
+  - 49.2 Exact traceability and implementation honesty — p. 712
+  - 49.3 Chapter 8 constitutional binding for every artifact — p. 715
+  - 49.4 Canonical theorem and application contracts — p. 718
+  - 49.5 Plane A contracts for ALG-030 and ALG-070–ALG-074 — p. 718
+  - 49.6 ALG-075 is a boundary compiler, not an inference bridge — p. 718
+  - 49.7 Plane B and Plane C are non-importable result domains — p. 718
+  - 49.8 Epistemic, taint, and provenance discipline — p. 718
+  - 49.9 Independent validation and replay — p. 718
+  - 49.10 Typed failures and falsifiers — p. 718
+  - 49.11 Metrics without epistemic control — p. 731
+  - 49.12 Exact inert EvolutionContract — p. 731
+  - 49.13 Acceptance boundary — p. 731
+- Chapter 50. Enriched Shadow and Inner-Ambiguity Store — p. 734
+  - 50.1 What this store is allowed to remember — p. 734
+  - 50.2 Exact Chapter 8 constitutional header — p. 735
+  - 50.3 Stable schema family — p. 735
+  - 50.4 Store invariants and transaction law — p. 735
+  - 50.5 Exhaustive Volume IV mapping and current status — p. 742
+  - 50.6 Independent validators and deterministic replay — p. 744
+  - 50.7 Failure artifacts — p. 746
+  - 50.8 Inert EvolutionContract surface — p. 747
+  - 50.9 Falsifiers and release tests — p. 747
+  - 50.10 Handoff — p. 750
+- Chapter 51. Site-Guided Cognitive Cycle Implementation — p. 752
+  - 51.1 What “implementation” means here — p. 752
+  - 51.2 Exact traceability and ownership — p. 752
+  - 51.3 Exact Chapter 8 constitutional binding in every artifact — p. 753
+  - 51.4 Stable site and cycle schemas — p. 753
+  - 51.5 Ordered execution and bounded repair — p. 753
+  - 51.6 Plane taint and evidence ceilings — p. 753
+  - 51.7 Validators, replay, and conformance tests — p. 753
+  - 51.8 Failures, obstructions, and falsifiers — p. 765
+  - 51.9 Security, observability, and recovery — p. 765
+  - 51.10 Exact inert EvolutionContract — p. 765
+  - 51.11 Acceptance boundary — p. 765
+- Chapter 52. Theater-Mediated Comparison Runtime — p. 770
+  - 52.1 A runtime contract without an implemented runtime — p. 772
+  - 52.2 Exhaustive algorithm mapping, classes, and current status — p. 772
+  - 52.3 Chapter 8 constitutional binding and the immutable boundary — p. 775
+  - 52.4 Universal envelope and closed comparison classes — p. 775
+  - 52.5 Ordered comparison protocol — p. 779
+  - 52.6 Direction, loss, and comparison residue — p. 779
+  - 52.7 Transitive taint and three-plane consequence ceilings — p. 779
+  - 52.8 Independent checker, evaluator, and replay — p. 779
+  - 52.9 Capability security, observability, and recovery — p. 779
+  - 52.10 Failure artifacts and decisive falsifiers — p. 779
+  - 52.11 Exact inert EvolutionContract — p. 788
+  - 52.12 Acceptance boundary and handoff — p. 788
+- Chapter 53. Alien Copies, Comparison Prisms, and Witness Validation — p. 790
+  - 53.1 Validation is a bounded judgment, not a proof generator — p. 790
+  - 53.2 Exact traceability, classes, and proposal-only status — p. 790
+  - 53.3 The exact Chapter 8 constitutional binding — p. 793
+  - 53.4 Stable alien-copy and history artifacts — p. 793
+  - 53.5 Directional links and conservative loss — p. 793
+  - 53.6 Comparison-prism contracts — p. 793
+  - 53.7 Witness bundles and non-self-validation — p. 793
+  - 53.8 Plane, epistemic status, boundary, firewall, and transitive taint — p. 793
+  - 53.9 Validator pipeline and independent replay — p. 793
+  - 53.10 Storage, capability security, and observability — p. 802
+  - 53.11 Inert service and EvolutionContract boundary — p. 802
+  - 53.12 Failures, metrics, falsifiers, and acceptance — p. 802
+- Chapter 54. Literal-IUT Formalization and Consequence Firewall — p. 807
+  - V3 Part VII consumer binding — p. 807
+  - 54.1 Literal formalization without arithmetic truth promotion — p. 807
+  - 54.2 Exact traceability and the immutable six-row cluster — p. 807
+  - 54.3 Chapter 8 constitutional binding and a separate immutable firewall — p. 809
+  - 54.4 Inert formalization contract and source parameters — p. 809
+  - 54.5 Stable Plane C schema family — p. 809
+  - 54.6 Exhaustive status and consequence law — p. 809
+  - 54.7 Provenance, transitive taint, and evidence ceilings — p. 816
+  - 54.8 Ordered validators and consequence reachability — p. 818
+  - 54.9 Deterministic replay — p. 819
+  - 54.10 Failure artifacts and exact logical force — p. 819
+  - 54.11 Exact inert EvolutionContract — p. 819
+  - 54.12 Falsifiers, acceptance boundary, and handoff — p. 819
+- Chapter 55. Durable Workflow and Event Fabric — p. 825
+  - 55.1 Durability is memory with rules — p. 825
+  - 55.2 Exhaustive traceability and proposal-only status — p. 825
+  - 55.3 One constitutional binding on every artifact — p. 826
+  - 55.4 Deterministic identifier law — p. 826
+  - 55.5 Workflow definition, run, and state projection — p. 826
+  - 55.6 Event commitment and ordering — p. 826
+  - 55.7 Idempotency, attempts, retries, and crash consistency — p. 826
+  - 55.8 Causal lineage, provenance, checkpoints, and replay — p. 826
+  - 55.9 Compatibility is separate from registered effectivity — p. 826
+  - 55.10 Failures, obligations, and rollback readiness — p. 826
+  - 55.11 Side effects, network isolation, and observability — p. 826
+  - 55.12 Validators, tests, and decisive falsifiers — p. 826
+  - 55.13 Exact inert EvolutionContract — p. 840
+  - 55.14 Acceptance boundary — p. 840
+- Chapter 56. Transactional Metadata and Artifact Storage — p. 842
+  - 56.1 Persistence without semantic inflation — p. 842
+  - 56.2 Exact ordered binding to the seven canonical roots — p. 843
+  - 56.3 Stable storage schema family — p. 843
+  - 56.4 Atomic visibility across metadata and artifact bytes — p. 843
+  - 56.5 Concurrency and exact idempotency — p. 843
+  - 56.6 Metadata versioning and lineage — p. 843
+  - 56.7 Retention, availability, and physical repair — p. 843
+  - 56.8 Compatibility is not effectivity — p. 843
+  - 56.9 Recovery evidence and external activation — p. 843
+  - 56.10 Exhaustive traceability status — p. 843
+  - 56.11 Independent validation and replay — p. 855
+  - 56.12 Exact inert EvolutionContract — p. 855
+  - 56.13 Typed failures and falsifiers — p. 855
+  - 56.14 Handoff — p. 859
+- Chapter 57. Compute Scheduling, Caching, and Resource Budgets — p. 860
+  - 57.1 Compute is an effect, not a verdict — p. 861
+  - 57.2 Exhaustive traceability and class preservation — p. 861
+  - 57.3 Exact seven-root binding in every artifact — p. 862
+  - 57.4 Work orders, determinism profiles, and resource budgets — p. 862
+  - 57.5 Deterministic scheduling and capability-safe dispatch — p. 862
+  - 57.6 Resource observation, reconciliation, and typed exhaustion — p. 862
+  - 57.7 Cache identity, eligibility, and invalidation — p. 862
+  - 57.8 Offline and network policy — p. 862
+  - 57.9 Compatibility and operational effectivity — p. 862
+  - 57.10 Resource and complexity accounting under ALG-122 — p. 862
+  - 57.11 Validators, tests, failures, and falsifiers — p. 862
+  - 57.12 Security, observability, and recovery readiness — p. 876
+  - 57.13 Exact inert EvolutionContract — p. 876
+  - 57.14 Acceptance boundary — p. 876
+- Chapter 58. Service APIs and Typed SDKs — p. 880
+  - 58.1 An API is a boundary, not an authority — p. 880
+  - 58.2 Exact ordered seven-root binding — p. 880
+  - 58.3 Versioned service and SDK schema family — p. 882
+  - 58.4 Common request, response, and artifact-reference contracts — p. 885
+  - 58.5 Exact closed error unions — p. 885
+  - 58.6 Idempotency and outcome recovery — p. 885
+  - 58.7 Snapshot pagination — p. 885
+  - 58.8 Streaming, resumption, and partial results — p. 885
+  - 58.9 Capabilities, identity, and side-effect ceilings — p. 885
+  - 58.10 Generated SDKs and offline behavior — p. 885
+  - 58.11 Compatibility is not effectivity — p. 885
+  - 58.12 Exhaustive traceability and proposal-only status — p. 885
+  - 58.13 Validation, replay, and the exact inert EvolutionContract — p. 896
+  - 58.14 Failures, adversarial tests, and falsifiers — p. 896
+- Chapter 59. CLI, Notebook, and Research Workbench — p. 901
+  - 59.1 One semantics behind three surfaces — p. 901
+  - 59.2 Exact Chapter 8 constitutional binding — p. 901
+  - 59.3 Stable common execution schemas — p. 901
+  - 59.4 Capabilities and side-effect discipline — p. 906
+  - 59.5 Secret handling and redaction — p. 906
+  - 59.6 Offline and network policy — p. 906
+  - 59.7 Explicit evidence ceilings — p. 909
+  - 59.8 Deterministic export — p. 910
+  - 59.9 Replay, compatibility, and effectivity — p. 910
+  - 59.10 Exhaustive JSON mapping and proposal status — p. 910
+  - 59.11 Inert EvolutionContract — p. 912
+  - 59.12 Typed failures and falsifiers — p. 912
+  - 59.13 Handoff — p. 915
+- Chapter 60. External Tool and Collaboration Interfaces — p. 917
+  - 60.1 An external boundary is a reduction of trust — p. 917
+  - 60.2 Proposal-only component and exhaustive JSON mapping — p. 917
+  - 60.3 Exact seven roots with separately resolved values — p. 918
+  - 60.4 External identities and interface descriptors — p. 919
+  - 60.5 Capability normalization and attenuation — p. 921
+  - 60.6 Unconditional policy-driven network controls — p. 921
+  - 60.7 Sealed imports — p. 921
+  - 60.8 Sealed exports, consent, and licensing — p. 921
+  - 60.9 Collaboration spaces, contributions, and reviews — p. 921
+  - 60.10 Compatibility and effectivity remain separate — p. 921
+  - 60.11 Independent receipts and non-importation of authority — p. 921
+  - 60.12 Validation, replay, failures, and falsifiers — p. 921
+  - 60.13 Metrics without authority — p. 932
+  - 60.14 Exact inert EvolutionContract — p. 932
+  - 60.15 Acceptance boundary — p. 932
+- Chapter 61. Capability Security and Scoped Identity — p. 935
+  - 61.1 Contract boundary — p. 936
+  - 61.2 Exhaustive traceability, classes, and status — p. 936
+  - 61.3 Security lineage without conformance inflation — p. 937
+  - 61.4 Exact constitutional binding — p. 937
+  - 61.5 Scoped identity is descriptive, not authorizing — p. 939
+  - 61.6 Capability grants and recursive normalization — p. 939
+  - 61.7 Delegation attenuation and least privilege — p. 939
+  - 61.8 Alias closure and effect denial — p. 944
+  - 61.9 Revocation and freshness evidence — p. 944
+  - 61.10 Compatibility, authorization, and effectivity — p. 944
+  - 61.11 Independent roles, events, and recovery — p. 944
+  - 61.12 Failure artifacts and closed dispositions — p. 944
+  - 61.13 Falsifiers and adversarial acceptance — p. 944
+  - 61.14 Inert evolution boundary — p. 950
+  - 61.15 Acceptance boundary — p. 950
+- Chapter 62. Sandboxing and Side-Effect Governance — p. 953
+  - 62.1 Contract boundary — p. 953
+  - 62.2 Exhaustive traceability, class, and status — p. 953
+  - 62.3 Exact constitutional binding — p. 954
+  - 62.4 Closed policy, request, and resource contracts — p. 955
+  - 62.5 Environment closure — p. 955
+  - 62.6 Capability projection and admission — p. 955
+  - 62.7 Filesystem, process, and network denial — p. 955
+  - 62.8 Hostile parsing and bounded output — p. 955
+  - 62.9 Side-effect intents and receipts — p. 955
+  - 62.10 Execution, compatibility, and effectivity — p. 965
+  - 62.11 Independent replay and evidence separation — p. 965
+  - 62.12 Violations and failures — p. 965
+  - 62.13 Decisive falsifiers — p. 965
+  - 62.14 Metrics without authority — p. 970
+  - 62.15 Inert evolution boundary — p. 970
+  - 62.16 Acceptance boundary — p. 970
+- Chapter 63. Observability, Traceability, and Incident Analysis — p. 973
+  - 63.1 Observation is not verdict — p. 973
+  - 63.2 Exact constitutional binding with separate root values — p. 973
+  - 63.3 Five record families that must not collapse — p. 974
+  - 63.4 Bounded metrics and label discipline — p. 976
+  - 63.5 Trace schemas, correlation, and deterministic reconstruction — p. 976
+  - 63.6 Secret redaction and disclosure-safe evidence — p. 979
+  - 63.7 Append-only provenance and evidence custody — p. 979
+  - 63.8 Semantic failures and infrastructure failures — p. 979
+  - 63.9 Detection, alerts, and incident analysis — p. 979
+  - 63.10 Containment, remediation, and external authority — p. 979
+  - 63.11 Compatibility and effectivity — p. 979
+  - 63.12 Exhaustive traceability and proposal status — p. 979
+  - 63.13 Validation, replay, and exact inert EvolutionContract — p. 987
+  - 63.14 Failures, tests, and decisive falsifiers — p. 987
+- Chapter 64. Evaluation Harness and Benchmark Registry — p. 992
+  - 64.1 Evaluation measures predicates; it does not manufacture truth — p. 992
+  - 64.2 Exhaustive traceability and proposal-only status — p. 992
+  - 64.3 Complete constitutional binding with separate root values — p. 995
+  - 64.4 Stable benchmark and dataset registry contracts — p. 996
+  - 64.5 Holdout custody and contamination — p. 999
+  - 64.6 Independent checker and evaluator manifests — p. 999
+  - 64.7 Evaluation runs, cases, metrics, and dispositions — p. 999
+  - 64.8 Failure minimization and bounded counterexample search — p. 999
+  - 64.9 Registry lifecycle, compatibility, and effectivity — p. 999
+  - 64.10 Validation, replay, security, and observability — p. 999
+  - 64.11 Failures, tests, and decisive falsifiers — p. 999
+  - 64.12 Exact inert EvolutionContract — p. 1012
+  - 64.13 Acceptance boundary — p. 1012
+- Chapter 65. Deployment, Backup, Disaster Recovery, and Rollback — p. 1014
+  - 65.1 Recovery is a witnessed transition, not an administrative verb — p. 1014
+  - 65.2 Proposal-only status and exhaustive Volume IV mapping — p. 1014
+  - 65.3 Complete constitutional binding — p. 1015
+  - 65.4 Immutable deployment identity and lineage — p. 1016
+  - 65.5 Deployment compatibility, execution, and effectivity — p. 1016
+  - 65.6 Backup sets and preservation evidence — p. 1016
+  - 65.7 Isolated restore and disaster recovery — p. 1016
+  - 65.8 Canary evidence without activation authority — p. 1016
+  - 65.9 Rollback readiness, anti-replay, and external execution — p. 1016
+  - 65.10 Independent validation and replay — p. 1016
+  - 65.11 Exact inert EvolutionContract — p. 1027
+  - 65.12 Failures, tests, and falsifiers — p. 1027
+  - 65.13 Metrics and acceptance boundary — p. 1029
+- Chapter 66. Supply-Chain, Dependency, and Model Security — p. 1031
+  - 66.1 The dependency closure is part of the machine — p. 1031
+  - 66.2 Exact constitutional binding: stable roots and resolved values — p. 1031
+  - 66.3 Stable supply-chain schema family — p. 1032
+  - 66.4 Pinning, source acquisition, and hermetic builds — p. 1032
+  - 66.5 Dependency and model threat boundaries — p. 1032
+  - 66.6 Compatibility is not effectivity — p. 1032
+  - 66.7 Independent validators and replay — p. 1032
+  - 66.8 Exhaustive JSON mapping and proposal-only status — p. 1040
+  - 66.9 Exact inert EvolutionContract — p. 1042
+  - 66.10 Typed failures and decisive falsifiers — p. 1042
+  - 66.11 Closing assurance boundary — p. 1045
+- Chapter 67. Single-Source PDF/DOCX Publishing — p. 1046
+  - 67.1 One semantic publication, two renderings — p. 1047
+  - 67.2 Exhaustive traceability and proposal-only status — p. 1047
+  - 67.3 Complete constitutional binding — p. 1049
+  - 67.4 Canonical source, order, and publication identity — p. 1049
+  - 67.5 Common semantic intermediate and paired build request — p. 1049
+  - 67.6 Deterministic PDF transformation — p. 1049
+  - 67.7 Deterministic DOCX transformation — p. 1049
+  - 67.8 Cross-format semantic parity — p. 1049
+  - 67.9 Typography, figures, and accessibility — p. 1049
+  - 67.10 Build receipts, compatibility, and effectivity — p. 1049
+  - 67.11 Provenance, evidence ceilings, and publication status — p. 1049
+  - 67.12 Independent validation and replay — p. 1049
+  - 67.13 Typed failures, tests, and decisive falsifiers — p. 1060
+  - 67.14 Exact inert EvolutionContract — p. 1062
+  - 67.15 Acceptance boundary — p. 1062
+- Chapter 68. HTML+CSS Mathematical Figure System — p. 1064
+  - 68.1 A figure is a semantic artifact — p. 1064
+  - 68.2 Proposal-only status and exhaustive Volume IV mapping — p. 1064
+  - 68.3 Exact constitutional binding on every artifact — p. 1066
+  - 68.4 Source package, identity, and lineage — p. 1066
+  - 68.5 Semantic figure specification — p. 1066
+  - 68.6 Fixed 16:10 geometry — p. 1066
+  - 68.7 Legibility, color, and accessibility — p. 1066
+  - 68.8 Pinned rendering and sealed outputs — p. 1066
+  - 68.9 Compatibility, effectivity, and admission — p. 1066
+  - 68.10 Validators, replay, and adversarial tests — p. 1073
+  - 68.11 Typed failures and falsifiers — p. 1075
+  - 68.12 Exact inert EvolutionContract — p. 1075
+  - 68.13 Metrics and acceptance boundary — p. 1075
+- Chapter 69. Reproducible Research and Release Manifests — p. 1080
+  - 69.1 Reproducibility is an exact-subject claim — p. 1080
+  - 69.2 Proposal status and exhaustive Volume IV mapping — p. 1080
+  - 69.3 Complete constitutional binding — p. 1082
+  - 69.4 Deterministic framing and ordered source identity — p. 1082
+  - 69.5 Hash records and manifest closure — p. 1082
+  - 69.6 Research-run manifests — p. 1082
+  - 69.7 Manuscripts, figures, tests, and research outputs — p. 1089
+  - 69.8 Independent replay and comparison — p. 1089
+  - 69.9 Release manifests and evidence assembly — p. 1089
+  - 69.10 Compatibility is not effectivity — p. 1089
+  - 69.11 Exact inert EvolutionContract — p. 1089
+  - 69.12 Typed failures, tests, and falsifiers — p. 1089
+  - 69.13 Metrics and acceptance boundary — p. 1095
+- Chapter 70. End-to-End Mathematical Campaigns — p. 1097
+  - 70.1 End-to-end means closed accounting, not universal success — p. 1097
+  - 70.2 Proposal-only component and inventory-scoped traceability — p. 1097
+  - 70.3 Exact constitutional binding for every campaign artifact — p. 1099
+  - 70.4 Stable campaign definition and sealed objective — p. 1100
+  - 70.5 Typed execution graph without semantic flattening — p. 1100
+  - 70.6 Invocation, handoff, and terminal unions — p. 1100
+  - 70.7 Preserving GMUS/GMLS and other semantic boundaries — p. 1100
+  - 70.8 Evidence ledger, checkpoints, and crash recovery — p. 1100
+  - 70.9 Campaign terminal bundle and reproducibility — p. 1100
+  - 70.10 Compatibility and separately registered effectivity — p. 1100
+  - 70.11 External authority and consequence firewall — p. 1100
+  - 70.12 Failures, adversarial tests, and decisive falsifiers — p. 1100
+  - 70.13 Exact inert EvolutionContract — p. 1111
+  - 70.14 Acceptance boundary — p. 1111
+- Chapter 71. EvolutionContract Without Self-Promotion — p. 1114
+  - 71.1 A contract for change that cannot cause change — p. 1114
+  - 71.2 The exact frozen twelve-method surface — p. 1114
+  - 71.3 Exact seven-root binding with separate values — p. 1114
+  - 71.4 Module descriptor and immutable ports — p. 1116
+  - 71.5 Observation and experience without learning — p. 1118
+  - 71.6 Candidate admission and sandbox execution — p. 1118
+  - 71.7 External-only evaluator and checker — p. 1118
+  - 71.8 Evidence assembly and the no-manufacture law — p. 1122
+  - 71.9 Unsigned canary and promotion requests — p. 1122
+  - 71.10 Rollback readiness without rollback — p. 1122
+  - 71.11 Compatibility, effectivity, and authority — p. 1122
+  - 71.12 Inventory-scoped traceability and proposal-only status — p. 1122
+  - 71.13 Failures and decisive falsifiers — p. 1128
+  - 71.14 Closing assurance boundary — p. 1129
+- Chapter 72. Reference Release Roadmap and Handoff to Volume VI — p. 1131
+  - 72.1 A closing chapter that cannot declare closure — p. 1131
+  - 72.2 Exact proposal status and inventory-scoped traceability — p. 1131
+  - 72.3 Exact constitutional binding — p. 1132
+  - 72.4 The evidence-gated reference roadmap — p. 1133
+  - 72.5 Open obligations are first-class release artifacts — p. 1134
+  - 72.6 Release evidence manifests and the no-manufacture rule — p. 1134
+  - 72.7 External series allocation and integration admission — p. 1137
+  - 72.8 Compatibility, effectivity, and release authority — p. 1137
+  - 72.9 The Volume VI handoff manifest — p. 1137
+  - 72.10 Volume VI owns learning and candidates, not Volume IV mathematics — p. 1137
+  - 72.11 Independent roles and release security — p. 1137
+  - 72.12 The only evolution surface is inert — p. 1137
+  - 72.13 Failures and durable non-closure — p. 1137
+  - 72.14 Decisive falsifiers — p. 1137
+  - 72.15 Acceptance and handoff boundary — p. 1144

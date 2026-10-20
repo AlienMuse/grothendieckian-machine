@@ -1,0 +1,2897 @@
+# Volume II — The Modern Grothendieckian Synthesis
+
+Modern higher, derived, motivic, perfectoid, condensed, and anabelian geometry.
+
+4,016 pages · file `GAI-MUA-v1.0.0-Vol2-Modern-Synthesis.pdf`
+
+Page numbers below are PDF page indices.
+
+- Preface to Volume II — p. 5
+  - The place of this volume — p. 5
+  - Collaborators, successors, and mathematical transformation — p. 5
+  - A grammar of transformations — p. 7
+  - The modern worlds — p. 7
+  - The epistemic firewall — p. 7
+  - Map of the volume — p. 7
+  - Reading routes — p. 7
+  - How comparisons are to be read — p. 7
+  - Relations to the other volumes — p. 7
+  - Source and proof conventions — p. 7
+  - Limits and open obligations — p. 7
+  - Conclusion — p. 7
+  - Scholarly gratitude — p. 7
+- Contents — p. 21
+- List of Figures — p. 82
+- List of Tables — p. 87
+- Architectural Prospectus — p. 88
+  - Source and transformation principle — p. 88
+  - Twelve-part allocation — p. 88
+  - Bridge programs — p. 89
+- Chapter 1. The collaborator ecology around Grothendieck — p. 91
+  - Structural and mathematical principles — p. 91
+  - 1.0. Locked contract, attribution discipline, and non-preemption — p. 92
+  - 1.1 Why ecology is the correct historical object — p. 92
+  - 1.2 Source-critical chronology of collaborative forms — p. 94
+  - 1.3 Dieudonné and the treatise interface — p. 94
+  - 1.4 Serre as peer correspondent, source of pressure, and divergent interface — p. 94
+  - 1.5 The seminar as a distributed proof and redaction system — p. 97
+  - 1.6 Artin, Verdier, and the change of categorical machinery — p. 98
+  - 1.7 Deligne: inheritance, replacement, and new structure — p. 99
+  - 1.8 Illusie and the visibility of invisible labor — p. 100
+  - 1.9 Other named nodes and local attribution — p. 100
+  - 1.10 Mathematical interaction types — p. 100
+  - 1.11 Fact, interpretation, and D and R synthesis — p. 102
+  - 1.12 Failure boundaries and counter-readings — p. 103
+  - 1.13 Chapter-local source passport and bibliography — p. 103
+  - 1.14 Universes, categorical height, and later interfaces — p. 108
+  - 1.15 Atomic claims, traces, universes, and obligations — p. 108
+  - 1.16 Exit boundary — p. 111
+- Chapter 2. Serre-Grothendieck exchanges and mathematical divergence — p. 113
+  - Structural and mathematical principles — p. 113
+  - 2.0 Locked contract and reading rule — p. 114
+  - 2.1 Non-preemption and chapter boundaries — p. 114
+  - 2.2 Source passport, selection effects, and locators — p. 114
+  - 2.3 January to July 1955: questions, correction, and publication pressure — p. 116
+  - 2.4 Representative mathematics I: FAC as a finite cohomological world — p. 116
+  - 2.5 Representative mathematics II: GAGA as an exact comparison — p. 118
+  - 2.6 Representative mathematics III: the Tôhoku categorical lift — p. 119
+  - 2.7 From coherent varieties to schemes: divergence by enlargement — p. 120
+  - 2.8 1959–1964: continuing exchange after interests separate — p. 120
+  - 2.9 Two later positions: completion and circumvention — p. 121
+  - 2.10 Serre’s 1986 challenge to the rising-sea method — p. 122
+  - 2.11 The 1987 endpoint: divergence without a declared internal break — p. 122
+  - 2.12 What “mathematical divergence” means here — p. 123
+  - 2.13 Atomic exchange records — p. 127
+  - 2.14 Universes, traces, and downstream use — p. 128
+  - 2.15 Figure notes — p. 129
+  - 2.16 Claim ledger and source concordance — p. 130
+  - 2.17 Open obligations and isolated-artifact gates — p. 132
+  - 2.18 Conclusion — p. 132
+- Chapter 3. Deligne and the transformation of cohomological structure — p. 136
+  - Structural and mathematical principles — p. 136
+  - 3.0. Chapter contract, publication identity, and status vocabulary — p. 137
+  - 3.1 Universes, coefficients, and non-preemption boundary — p. 137
+  - 3.2 From cohomology groups to cohomological structure — p. 137
+  - 3.3 The Hodge transition: two filtrations, purity, and mixedness — p. 140
+  - 3.4 The arithmetic transition: Frobenius becomes a weight-bearing operator — p. 140
+  - 3.5 Nearby cycles and the organization of degeneration — p. 140
+  - 3.6 Tannakian reconstruction: cohomological structure as symmetry — p. 140
+  - 3.7 Contribution, collaboration, and inherited infrastructure — p. 146
+  - 3.8 Later reception without retroactive attribution — p. 146
+  - 3.9 A source-grounded transformation profile — p. 148
+  - 3.10 GAI-MUA definition layer: the structured cohomology passport — p. 148
+  - 3.11 GAI-MUA research layer and bounded audit procedures — p. 149
+  - 3.12 Atomic claim, trace, and obligation ledger — p. 150
+  - 3.13 Chapter-local primary source passports — p. 150
+  - 3.14 Cross-world comparison checklist — p. 150
+  - 3.15 Selected bibliography — p. 150
+  - 3.16 Closing synthesis — p. 150
+- Chapter 4. Artin, Verdier, and Illusie — p. 157
+  - Structural and mathematical principles — p. 157
+  - 4.0. Locked contract and attribution discipline — p. 158
+  - 4.1 Universes, mathematical types, and non-preemption — p. 158
+  - 4.2 Source-critical map: people, documents, and collective architectures — p. 159
+  - 4.3 Artin I: approximation is not algebraization — p. 160
+  - 4.4 Artin II: algebraization, effectivity, and representability — p. 161
+  - 4.5 Verdier I: localization and the derived category — p. 161
+  - 4.6 Verdier II: duality and the six-operation architecture — p. 163
+  - 4.7 Illusie I: why derivations require a complex — p. 164
+  - 4.8 Illusie II: deformation, obstruction, and indexing discipline — p. 165
+  - 4.9 Interfaces among Artin, Verdier, and Illusie — p. 166
+  - 4.10 Counterexamples, failure modes, and quarantined claims — p. 167
+  - 4.11 Proof maps and hypothesis audit — p. 168
+  - 4.12 GAI-MUA machine interface — p. 169
+  - 4.13 Atomic claim, dependency, TraceRef, and obligation ledgers — p. 170
+  - 4.14 Primary source dossier — p. 172
+  - 4.15 Research programs and later reception — p. 172
+  - 4.16 Closing synthesis — p. 172
+- Chapter 5. Arithmetic geometry after the foundational period — p. 176
+  - Structural and mathematical principles — p. 176
+  - 5.0. Locked contract and epistemic discipline — p. 177
+  - 5.1 Universes, arithmetic types, and non-preemption — p. 177
+  - 5.2 Source-critical dossier and attribution firewall — p. 178
+  - 5.3 Arithmetic models: from a generic fiber to controlled reduction — p. 179
+  - 5.4 Heights: quantitative geometry with a finiteness firewall — p. 182
+  - 5.5 Galois representations and cohomological descent — p. 183
+  - 5.6 The Faltings 1983 theorem cluster — p. 185
+  - 5.7 What changed in the Faltings-era proof architecture — p. 186
+  - 5.8 Examples and exact nonimplications — p. 187
+  - 5.9 Bounded p-adic interface — p. 189
+  - 5.10 Bounded anabelian interface — p. 189
+  - 5.11 Proof maps and machine interface — p. 190
+  - 5.12 Atomic claim, dependency, source, and obligation ledgers — p. 192
+  - 5.13 Closing transition — p. 194
+- Chapter 6. Motivic and Homotopical Descendants — p. 197
+  - Structural and mathematical principles — p. 197
+  - 6.0 Locked contract, purpose, and epistemic partition — p. 198
+  - 6.1 Adjacency, ownership, and non-preemption — p. 198
+  - 6.2 Source-critical dossier and attribution rules — p. 199
+  - 6.3 Universes, bases, coefficients, and presentation types — p. 200
+  - 6.4 The derived lineage: retention before motivation — p. 200
+  - 6.5 From correspondences to triangulated motives — p. 200
+  - 6.6 Motivic cohomology as an interface, not a total identification — p. 200
+  - 6.7 The unstable A-1-homotopy descendant — p. 200
+  - 6.8 Stabilization and motivic spectra — p. 208
+  - 6.9 DM, SH, and the comparison firewall — p. 208
+  - 6.10 Triangulated, dg, model, and stable-infinity presentations — p. 208
+  - 6.11 Relative and six-operation descendants — p. 208
+  - 6.12 Exact nonimplications and counterexamples — p. 212
+  - 6.13 Genealogical matrix — p. 213
+  - 6.14 GAI-MUA machine synthesis — p. 214
+  - 6.15 Claims, dependencies, and TraceRef — p. 214
+  - 6.16 Open-status and obligation ledger — p. 218
+  - 6.17 Closing source-critical synthesis — p. 220
+- Chapter 7. Higher and derived descendants — p. 222
+  - Structural and mathematical principles — p. 222
+  - 7.0. Locked contract, status discipline, and scope — p. 224
+  - 7.1 Universes, object types, and strict non-preemption — p. 223
+  - 7.2 The first higher transition: localization retains mapping homotopy — p. 223
+  - 7.3 Models of infinity-categories: comparisons without collapse — p. 225
+  - 7.4 From coherent diagrams to higher categorical practice — p. 227
+  - 7.5 Infinity-topoi as a descendant interface — p. 227
+  - 7.6 The derived transition: replacement before geometry — p. 228
+  - 7.7 Derived algebraic geometry: from affine tests to geometricity — p. 229
+  - 7.8 Cotangent and deformation interfaces, with index discipline — p. 229
+  - 7.9 Spectral descendants and the base-ring boundary — p. 231
+  - 7.10 Parameter spaces, moduli, and representability nonimplications — p. 231
+  - 7.11 Historical synthesis: a braided, not linear, succession — p. 232
+  - 7.12 Exact source dossier and theorem-bearing interfaces — p. 232
+  - 7.13 GAI-MUA definitions and machine interface — p. 237
+  - 7.14 Atomic synthesis, research, conjecture, and quarantine ledger — p. 239
+  - 7.15 Dependency, TraceRef, universe, and obligation ledgers — p. 240
+  - 7.16 Closing boundary: what descends, what remains open — p. 243
+- Chapter 8. p-adic, condensed, anabelian, and arithmetic-moduli lineages — p. 246
+  - Structural and mathematical principles — p. 246
+  - 8.0. Chapter contract, atomic statuses, and six-corridor firewall — p. 247
+  - 8.1 Universes, variance, source versions, and non-preemption — p. 248
+  - 8.2 The p-adic comparison corridor — p. 248
+  - 8.3 Perfectoid and prismatic precursors — p. 251
+  - 8.4 Condensed and solid mathematics — p. 252
+  - 8.5 Established anabelian reconstruction — p. 253
+  - 8.6 Literal IUT: definitions, publication facts, and disputed edges — p. 254
+  - 8.7 The arithmetic-moduli corridor — p. 255
+  - 8.8 Exact bridges and prohibited shortcuts — p. 256
+  - 8.9 Worked micro-examples and rejection tests — p. 257
+  - 8.10 Attribution map and controversy boundary — p. 258
+  - 8.11 GAI-MUA corridor and lineage passports — p. 258
+  - 8.12 Exact source dossier — p. 261
+  - 8.13 Atomic claim and nonimplication ledger — p. 262
+  - 8.14 Dependency, TraceRef, universe, and obligation ledgers — p. 265
+  - 8.15 Closing synthesis — p. 267
+- Chapter 9. Comparison as a mathematical operator — p. 269
+  - Structural and mathematical principles — p. 269
+  - 9.1 Scope, status, and governing distinction — p. 270
+  - 9.2 The inherited world and the pressure to compare — p. 270
+  - 9.3 Source dossier: four comparison lineages — p. 271
+  - 9.4 The established comparison datum — p. 271
+  - 9.5 Spectral sequences as staged comparison machines — p. 271
+  - 9.6 Worked comparison I: GAGA on projective space — p. 277
+  - 9.7 Worked comparison II: the period in H-1( Gm) — p. 277
+  - 9.8 Worked comparison III: finite étale and singular cohomology — p. 277
+  - 9.8A Worked comparison IV: periods of an elliptic curve — p. 277
+  - 9.9 Comparison and filtration — p. 277
+  - 9.10 The comparison-preservation profile — p. 277
+  - 9.11 Interface to the Volume I realization prism — p. 277
+  - 9.12 Failure atlas — p. 277
+  - 9.13 Rising-sea gain and cost — p. 277
+  - 9.14 Formalization targets and open obligations — p. 277
+  - 9.15 Chapter-local source records — p. 287
+  - 9.16 Atomic claim and status ledger — p. 287
+- Chapter 10. Filtration, Weight, and Purity — p. 291
+  - Structural and mathematical principles — p. 291
+  - 10.1 Scope and epistemic boundary — p. 292
+  - 10.2 Inherited world and mathematical pressure — p. 292
+  - 10.3 Source dossier — p. 293
+  - 10.4 Filtrations and strictness — p. 293
+  - 10.5 Filtered complexes and spectral sequences — p. 293
+  - 10.6 Pure and mixed Hodge structures — p. 293
+  - 10.7 Open curves: boundary creates a higher weight — p. 293
+  - 10.8 Singular proper curves: singular incidence creates a lower weight — p. 293
+  - 10.9 Weil weights — p. 293
+  - 10.10 Monodromy and relative weight — p. 293
+  - 10.11 Perverse purity, semisimplicity, and decomposition — p. 293
+  - 10.12 Comparison maps that preserve weight and filtration — p. 293
+  - 10.13 The weight-aware invariant record — p. 293
+  - 10.14 Interface to realization prisms and preservation profiles — p. 293
+  - 10.15 Counterexample and failure atlas — p. 303
+  - 10.16 Rising-sea gain and new cost — p. 303
+  - 10.17 Formalization targets and open obligations — p. 305
+  - 10.18 Navigation audit — p. 306
+  - 10.19 Chapter-local source records — p. 306
+  - 10.20 Atomic claim and status ledger — p. 306
+  - 10.21 Trace, figure, and build obligations — p. 306
+- Chapter 11. Derivation and enhancement — p. 313
+  - Structural and mathematical principles — p. 313
+  - 11.1 Scope, status, and the boundary of the chapter — p. 314
+  - 11.2 The pressure: exactness fails and truncation forgets — p. 314
+  - 11.3 Ambient categories, universes, grading, and signs — p. 315
+  - 11.4 The derived passage — p. 315
+  - 11.5 Resolutions and total derived functors — p. 315
+  - 11.6 Calculation: derived tensor and the hidden self-intersection — p. 315
+  - 11.7 Derived categories are plural — p. 315
+  - 11.8 Triangulated structure and triangulated information loss — p. 315
+  - 11.9 Differential graded enhancement — p. 315
+  - 11.10 A infinity-enhancement and transferred higher multiplication — p. 315
+  - 11.11 Stable infinity-categorical enhancement — p. 315
+  - 11.12 Three enhancement languages: comparison without collapse — p. 323
+  - 11.13 Functoriality and coherent derived operations — p. 325
+  - 11.14 Uniqueness and nonuniqueness boundaries — p. 325
+  - 11.15 Cotangent complexes and deformation information — p. 326
+  - 11.16 Derived intersections and Tor-independence — p. 326
+  - 11.17 Preservation and loss ledger — p. 326
+  - 11.18 Triangulated diagnosis by three probes — p. 330
+  - 11.19 V2-MT trace and dependencies — p. 330
+  - 11.20 Figure notes: FIG-V2-011 — p. 331
+  - 11.21 Established theorem spine and exact source dossier — p. 331
+  - 11.22 Proof maps for deep results — p. 333
+  - 11.23 Counterexample and failure atlas — p. 333
+  - 11.24 Research targets and obligations — p. 333
+  - 11.25 Summary and status audit — p. 339
+- Chapter 12. Localization and Stabilization — p. 341
+  - Structural and mathematical principles — p. 341
+  - 12.0 Chapter identifiers and scope — p. 343
+  - 12.1 Interface inherited from derivation and enhancement — p. 341
+  - 12.2 Categorical localization by a universal property — p. 343
+  - 12.3 Calculus of fractions: roofs are earned, not assumed — p. 344
+  - 12.4 Reflective localization and idempotent structure — p. 345
+  - 12.5 Bousfield localization: invariant result and model-dependent machine — p. 347
+  - 12.6 Localization of infinity-categories — p. 348
+  - 12.7 Stable infinity-categories — p. 348
+  - 12.8 Spectrum objects and the act of stabilization — p. 350
+  - 12.9 Exact localization inside stable categories — p. 350
+  - 12.10 Preservation and loss ledger — p. 350
+  - 12.11 Examples and nonexamples in one diagnostic grid — p. 356
+  - 12.12 Proof maps — p. 357
+  - 12.13 Transformation synthesis: localize, then stabilize when justified — p. 357
+  - 12.14 V2-MT-004 trace and proposed records — p. 357
+  - 12.15 Figure notes: FIG-V2-012 — p. 361
+  - 12.16 Source locator ledger — p. 362
+  - 12.17 Summary — p. 365
+  - 12.18 Obligations — p. 365
+- Chapter 13. Completion and almost equivalence — p. 368
+  - Structural and mathematical principles — p. 368
+  - 13.0 Chapter identifiers and scope — p. 370
+  - 13.1 The pressure: finite-order views do not automatically assemble — p. 368
+  - 13.2 Ordinary adic completion — p. 368
+  - 13.3 The inverse-limit mechanism — p. 368
+  - 13.4 Exactness under Noetherian finiteness — p. 372
+  - 13.5 Universal property and idempotence — p. 373
+  - 13.6 Derived completion — p. 373
+  - 13.7 Derived idempotence and the completion reflector — p. 373
+  - 13.8 Ordinary versus derived completion — p. 373
+  - 13.9 Completion examples and nonexamples — p. 377
+  - 13.10 Almost-zero objects — p. 377
+  - 13.11 The almost category and almost equivalence — p. 377
+  - 13.12 Almostification as a transformation grammar — p. 377
+  - 13.13 Interaction of completion and almostification — p. 379
+  - 13.14 Preservation and loss ledger — p. 379
+  - 13.15 Proof maps — p. 381
+  - 13.16 Counterexample and failure ledger — p. 381
+  - 13.17 Figure notes: FIG-V2-013 — p. 381
+  - 13.18 Exact source locator dossier — p. 384
+  - 13.19 V2-MT-003 trace and proposed records — p. 384
+  - 13.20 Summary — p. 388
+  - 13.21 Obligations — p. 388
+- Chapter 14. Categorical ascent and higher coherence — p. 391
+  - Structural and mathematical principles — p. 391
+  - 14.0 Chapter contract and epistemic boundary — p. 392
+  - 14.1 Interfaces inherited from Chapters 11–13 — p. 392
+  - 14.2 The ascent ladder — p. 392
+  - 14.3 Coherence data versus strictness — p. 392
+  - 14.4 Equality, isomorphism, equivalence, and contractible choice — p. 396
+  - 14.5 Truncation and decategorification — p. 396
+  - 14.6 Enrichment — p. 396
+  - 14.7 Internalization — p. 396
+  - 14.8 Examples that justify ascent — p. 396
+  - 14.9 Nonexamples and failure modes — p. 396
+  - 14.10 The precise V2-MT-005 transformation grammar — p. 396
+  - 14.11 Representative proofs and proof maps — p. 402
+  - 14.12 Preservation and loss ledger — p. 402
+  - 14.13 Chapter-owner firewall for Chapters 53–62 — p. 404
+  - 14.14 Source-grounded synthesis of the transformation — p. 405
+  - 14.15 Figure notes: FIG-V2-014 — p. 405
+  - 14.16 Exact source locator dossier — p. 407
+  - 14.17 Trace, statuses, and obligations — p. 410
+  - 14.18 Conclusion — p. 412
+- Chapter 15. Tilting, descent, and change of characteristic — p. 415
+  - Structural and mathematical principles — p. 415
+  - 15.0 Chapter identifiers and scope — p. 416
+  - 15.1 Interfaces inherited from Chapters 9–14 — p. 416
+  - 15.2 Descent as the compatibility test — p. 416
+  - 15.3 Four operations that must not be conflated — p. 419
+  - 15.4 The perfectoid interface, stated without duplicating Chapters 64–67 — p. 421
+  - 15.5 Transported structures and their descent profiles — p. 421
+  - 15.6 Worked example I: equal characteristic as a fixed point — p. 424
+  - 15.7 Worked example II: a mixed-characteristic root tower — p. 424
+  - 15.8 Worked example III: rational annuli and Čech descent — p. 424
+  - 15.9 Worked example IV: torsors and finite locally constant data — p. 424
+  - 15.10 Counterexample and failure atlas — p. 424
+  - 15.11 Representative proof maps — p. 424
+  - 15.12 Invariant, loss, and descent ledgers — p. 424
+  - 15.13 Figure notes: FIG-V2-015 — p. 432
+  - 15.14 Typed records, atomic traces, and universes — p. 433
+  - 15.15 Exact source ledger — p. 435
+  - 15.16 Summary — p. 437
+  - 15.17 Obligations and static admission gates — p. 437
+- Chapter 16. Reconstruction, counting, and modern rising seas — p. 441
+  - Structural and mathematical principles — p. 441
+  - 16.0 Chapter contract, scope, and statuses — p. 442
+  - 16.1 Adjacent ownership and inherited interfaces — p. 442
+  - 16.2 Reconstruction as a scoped inverse problem — p. 444
+  - 16.3 The Neukirch–Uchida archetype — p. 444
+  - 16.4 Reconstruction passports and strength control — p. 444
+  - 16.5 Definable counting — p. 446
+  - 16.6 The Pila–Zannier strategy as a dependency graph — p. 446
+  - 16.7 Counting examples and failure diagnostics — p. 446
+  - 16.8 Modern rising seas — p. 446
+  - 16.9 Preservation and loss across a rising sea — p. 452
+  - 16.10 Extreme cross-world transport and the three-plane firewall — p. 452
+  - 16.11 Audit records and machine semantics — p. 452
+  - 16.12 Representative proof maps and negative tests — p. 452
+  - 16.13 Atomic claim and status ledger — p. 456
+  - 16.14 Explicit non-preemption map — p. 456
+  - 16.15 Figure notes: FIG-V2-016 — p. 456
+  - 16.16 Exact source and claim dossier — p. 458
+  - 16.17 TraceRef and dependency record — p. 458
+  - 16.18 Machine and admission obligations — p. 461
+  - 16.19 Conclusion — p. 462
+- Chapter 17. FAC and coherent sheaf foundations — p. 465
+  - Structural and mathematical principles — p. 465
+  - 17.0 Chapter identifiers and scope — p. 467
+  - 17.1 Why FAC changed the usable unit of geometry — p. 466
+  - 17.2 Finite algebra before sheafification — p. 468
+  - 17.3 Sheaves of modules and local algebra — p. 468
+  - 17.4 Quasi-coherent sheaves and the affine equivalence — p. 468
+  - 17.5 Exactness and the coherent abelian world — p. 468
+  - 17.6 Ideals, closed subschemes, and torsion sheaves — p. 474
+  - 17.7 Support, annihilators, and local detection — p. 474
+  - 17.8 Finite locally free sheaves and vector bundles — p. 474
+  - 17.9 Tensor, Hom, pullback, and pushforward profiles — p. 478
+  - 17.10 Affine cohomology and the algebraization of local calculation — p. 478
+  - 17.11 Projective foundations: Proj, twists, generation, and vanishing — p. 478
+  - 17.12 Worked projective calculations — p. 485
+  - 17.13 Examples and nonexamples in a diagnostic atlas — p. 485
+  - 17.14 Preservation, loss, and hypothesis ledgers — p. 491
+  - 17.15 Figure notes: FIG-V2-017 — p. 496
+  - 17.16 Proof maps and machine-facing records — p. 497
+  - 17.17 Atomic claim, trace, and dependency ledger — p. 499
+  - 17.18 Exact source ledger — p. 502
+  - 17.19 Obligations, research targets, and static gates — p. 504
+  - 17.20 Summary — p. 505
+- Chapter 18. GAGA and analytic-algebraic comparison — p. 509
+  - Structural and mathematical principles — p. 509
+  - 18.0 Chapter contract and theorem boundary — p. 510
+  - 18.1 Adjacent ownership and exported interfaces — p. 510
+  - 18.2 Algebraic and analytic worlds — p. 512
+  - 18.3 Local rings, completions, and exact analytification — p. 512
+  - 18.4 Coherent analytic sheaves — p. 512
+  - 18.5 The projective GAGA theorem package — p. 512
+  - 18.6 Proof architecture of GAGA — p. 518
+  - 18.7 A representative calculation on projective space — p. 518
+  - 18.8 Full faithfulness and algebraization consequences — p. 518
+  - 18.9 Cohomology comparison and its exact meaning — p. 518
+  - 18.10 Properness, projectivity, and compactness — p. 518
+  - 18.11 Nonproper failures — p. 518
+  - 18.12 Nilpotents, points, and structure — p. 518
+  - 18.13 Comparison grammar and machine records — p. 518
+  - 18.14 Preservation and loss ledger — p. 533
+  - 18.15 Proof maps and machine-negative tests — p. 534
+  - 18.16 Figure notes: FIG-V2-018 — p. 538
+  - 18.17 Exact source and atomic claim dossier — p. 539
+  - 18.18 Explicit non-preemption and comparison firewalls — p. 541
+  - 18.19 TraceRef and dependency record — p. 541
+  - 18.20 Obligations — p. 543
+  - 18.21 Conclusion — p. 544
+- Chapter 19. Local fields and Galois cohomology — p. 547
+  - Structural and mathematical principles — p. 547
+  - 19.0 Chapter identifiers and scope — p. 549
+  - 19.1 Adjacent ownership and exported interfaces — p. 548
+  - 19.2 What is a local field? — p. 548
+  - 19.3 Finite extensions and ramification — p. 550
+  - 19.4 Absolute Galois groups, inertia, and Frobenius — p. 550
+  - 19.5 Continuous Galois cohomology — p. 550
+  - 19.6 Restriction, corestriction, inflation, and cup products — p. 550
+  - 19.7 Hilbert 90 — p. 550
+  - 19.8 Kummer theory and explicit first cohomology — p. 550
+  - 19.9 The Brauer group and the local invariant — p. 550
+  - 19.10 Local class field theory — p. 550
+  - 19.11 Local Tate duality — p. 550
+  - 19.12 Worked cohomological calculations — p. 572
+  - 19.13 Counterexample and failure atlas — p. 572
+  - 19.14 Henselian mechanisms and local lifting — p. 572
+  - 19.15 Ramification representations and conductor boundaries — p. 572
+  - 19.16 Cyclic cohomology and periodic calculations — p. 580
+  - 19.17 Preservation, loss, and normalization ledgers — p. 580
+  - 19.18 Proof maps and machine-negative tests — p. 585
+  - 19.19 Figure notes: FIG-V2-019 — p. 587
+  - 19.20 Machine-facing records — p. 588
+  - 19.21 Atomic claims and TraceRef — p. 589
+  - 19.22 Exact source ledger — p. 590
+  - 19.23 Obligations and research targets — p. 592
+  - 19.24 Summary — p. 594
+- Chapter 20. Hodge structures and filtrations — p. 597
+  - Structural and mathematical principles — p. 597
+  - 20.0 Chapter contract and scope — p. 599
+  - 20.1 Inherited interfaces and adjacent ownership — p. 598
+  - 20.2 Filtrations before Hodge structures — p. 598
+  - 20.3 Pure Hodge structures — p. 598
+  - 20.4 Morphisms, strictness, and the abelian category — p. 598
+  - 20.5 Tensor products, duals, and Tate twists — p. 598
+  - 20.6 The Hodge theorem for compact Kähler manifolds — p. 598
+  - 20.7 Dolbeault cohomology and the Hodge filtration — p. 598
+  - 20.8 Smooth projective varieties and algebraic de Rham cohomology — p. 598
+  - 20.9 Examples — p. 613
+  - 20.10 Polarizations — p. 613
+  - 20.11 Hodge classes and the Hodge conjecture boundary — p. 619
+  - 20.11A Periods and the position of the filtration — p. 619
+  - 20.12 Failure boundaries and nonexamples — p. 619
+  - 20.13 Machine-facing records — p. 619
+  - 20.14 Representative proof maps and tests — p. 627
+  - 20.15 Preservation and loss ledger — p. 629
+  - 20.16 Figure notes: FIG-V2-020 — p. 630
+  - 20.17 Exact source and atomic claim dossier — p. 632
+  - 20.18 Explicit non-preemption map — p. 635
+  - 20.19 TraceRef — p. 637
+  - 20.20 Obligations — p. 637
+  - 20.21 Conclusion — p. 638
+- Chapter 21. Mixed Hodge structures — p. 641
+  - Structural and mathematical principles — p. 641
+  - 21.0 Chapter contract and thesis — p. 642
+  - 21.1 Universes, ledgers, and adjacent ownership — p. 643
+  - 21.2 The definition and graded opposedness — p. 644
+  - 21.3 Morphisms, strictness, and the abelian category — p. 645
+  - 21.4 Extensions and the information beyond graded pieces — p. 646
+  - 21.5 Tensor products, duals, internal Hom, and Tate twists — p. 648
+  - 21.6 Mixed Hodge complexes and the shift ledger — p. 648
+  - 21.7 Smooth open varieties and logarithmic forms — p. 649
+  - 21.8 The Hodge and weight spectral interfaces — p. 651
+  - 21.9 General singular varieties: descent and simplicial resolution — p. 652
+  - 21.10 Functoriality, exact sequences, and relative cohomology — p. 653
+  - 21.11 Weight bounds, purity recovery, and duality — p. 654
+  - 21.12 Products, cup products, and the Hodge–Deligne invariant — p. 655
+  - 21.13 Smooth open examples — p. 655
+  - 21.14 Proper singular curves and lower weights — p. 656
+  - 21.15 Relative classes, Kummer data, and geometric extensions — p. 657
+  - 21.15A Exact reconstruction from filtrations — p. 658
+  - 21.15B Geometric exact sequences as weight calculators — p. 659
+  - 21.15C Higher-dimensional examples and boundary tests — p. 661
+  - 21.16 Nonexamples and prohibited substitutions — p. 663
+  - 21.17 Machine-facing passports, ledgers, and bounded validation — p. 663
+  - 21.17A Hypothesis matrix and proof anatomy — p. 665
+  - 21.17B Required regression vectors — p. 668
+  - 21.18 Proof and example audit ledger — p. 668
+  - 21.19 Exact source dossier — p. 669
+  - 21.20 Atomic claim map — p. 673
+  - 21.21 TraceRef and exported interfaces — p. 673
+  - 21.22 Obligations and production contract — p. 676
+- Chapter 22. Weil conjectures and the architecture of weights — p. 679
+  - Structural and mathematical principles — p. 679
+  - 22.0 Chapter contract and governing thesis — p. 680
+  - 22.1 Universes and adjacent-chapter ownership — p. 680
+  - 22.2 Source-audited attribution dossier — p. 681
+  - 22.3 Frobenius conventions: the nonnegotiable first gate — p. 682
+  - 22.4 Point counts and the zeta function — p. 684
+  - 22.5 The trace formula with compact supports — p. 685
+  - 22.6 Rationality as a determinant identity — p. 685
+  - 22.7 Cohomological factors and Betti numbers — p. 686
+  - 22.8 The smooth-proper Weil theorem — p. 686
+  - 22.9 Functional equation under exact hypotheses — p. 687
+  - 22.10 Factorwise duality and the origin of the equation — p. 687
+  - 22.11 The proof architecture of Weil I — p. 688
+  - 22.12 Weil numbers and punctual purity — p. 688
+  - 22.13 Weight arithmetic: tensor, dual, Hom, and twist — p. 689
+  - 22.14 The fundamental upper-weight theorem — p. 689
+  - 22.15 Lower bounds, the image theorem, and smooth-proper purity — p. 690
+  - 22.16 Integrality and independence of ell — p. 690
+  - 22.17 Zero-dimensional and affine examples — p. 691
+  - 22.18 Projective space and cellular factors — p. 692
+  - 22.19 Smooth projective curves — p. 692
+  - 22.20 Elliptic curves as a complete small passport — p. 693
+  - 22.21 Singular proper and smooth nonproper counterexamples — p. 693
+  - 22.22 Products, Künneth, and weight addition — p. 694
+  - 22.23 Purity is not semisimplicity or canonical splitting — p. 694
+  - 22.24 Boundary with mixed Hodge structures — p. 695
+  - 22.25 Boundary with purity and monodromy — p. 695
+  - 22.26 Boundary with decomposition and Tannakian reconstruction — p. 696
+  - 22.27 The chapter-local weight passport — p. 696
+  - 22.28 A bounded audit algorithm — p. 697
+  - 22.29 Worked theorem audits — p. 697
+  - 22.30 Atomic claim ledger — p. 698
+  - 22.31 Prohibited substitutions ledger — p. 698
+  - 22.32 Trace reference and exported interface — p. 700
+  - 22.33 Obligations and chapter-local production gates — p. 701
+  - 22.34 Source-edition audit notes — p. 701
+  - 22.35 The conjectural package separated into theorem atoms — p. 701
+  - 22.36 Base extension and the power rule — p. 702
+  - 22.37 Point-count asymptotics and error terms — p. 703
+  - 22.38 Cancellation, poles, and why weights recover factors — p. 704
+  - 22.39 Sheaf-valued L-functions and shifted weights — p. 704
+  - 22.40 Weight filtrations and strictness boundaries — p. 705
+  - 22.41 Figure interface and reading order — p. 706
+  - 22.42 From traces to determinants: a proof audit in full — p. 706
+  - 22.43 Duality, determinant signs, and middle degree — p. 707
+  - 22.44 The four weight quadrants — p. 707
+  - 22.45 Finite-field components and roots of unity — p. 708
+  - 22.46 Zeta equality, isogeny, and reconstruction limits — p. 709
+  - 22.47 Exact algebra versus floating-point evidence — p. 709
+  - 22.48 Weil II proof architecture in more detail — p. 710
+  - 22.49 A theorem-transport checklist — p. 710
+  - 22.50 Expanded claim-ledger addendum — p. 710
+  - 22.51 Finite étale schemes as convention tests — p. 711
+  - 22.52 Hypersurface estimates and theorem scope — p. 712
+  - 22.53 Status-normalized theorem matrix — p. 712
+  - 22.54 Publication and equation-label discipline — p. 713
+  - 22.55 A minimal end-to-end theorem workflow — p. 714
+  - 22.56 Final synthesis — p. 714
+- Chapter 23. Purity and monodromy — p. 716
+  - Structural and mathematical principles — p. 716
+  - 23.0 Locked contract, thesis, and atomic status — p. 717
+  - 23.1 Ownership boundaries and inherited interfaces — p. 717
+  - 23.2 Universes, coefficient worlds, types, and variance — p. 718
+  - 23.3 Exact source dossier and attribution boundaries — p. 719
+  - 23.4 Purity over a finite field — p. 720
+  - 23.5 The local Galois group and quasi-unipotence — p. 722
+  - 23.6 Nilpotent linear algebra and the monodromy filtration — p. 724
+  - 23.7 Purity of local monodromy on a curve — p. 724
+  - 23.8 Nearby cycles and vanishing cycles — p. 725
+  - 23.9 The local invariant-cycle interface — p. 726
+  - 23.10 Picard–Lefschetz as a local model — p. 727
+  - 23.11 Global geometric monodromy versus local inertia — p. 727
+  - 23.12 Semistable reduction and the weight spectral sequence — p. 728
+  - 23.13 The weight–monodromy conjecture and its proven regions — p. 729
+  - 23.14 Why weight–monodromy is stronger than quasi-unipotence — p. 730
+  - 23.15 Good reduction, finite inertia, and bad reduction — p. 730
+  - 23.16 Worked examples and nonexamples — p. 731
+  - 23.17 Filtration comparison discipline — p. 732
+  - 23.18 Preservation, loss, and transport ledgers — p. 732
+  - 23.19 Counterexample and nonimplication atlas — p. 734
+  - 23.20 Machine-facing proof maps — p. 734
+  - 23.21 Exact hypothesis audit — p. 736
+  - 23.22 Jordan blocks, centers, and explicit filtration calculations — p. 737
+  - 23.23 Semistable strata and nearby-cycle geometry — p. 738
+  - 23.24 Purity, semisimplicity, integrality, and independence of ell — p. 739
+  - 23.25 Local factors and information loss — p. 740
+  - 23.26 The complex limit-Hodge comparison — p. 740
+  - 23.27 Perverse and decomposition interfaces — p. 740
+  - 23.28 Atomic claim ledger — p. 741
+  - 23.29 Source-to-claim concordance and evidence limits — p. 741
+  - 23.30 Obligations and bounded research targets — p. 743
+  - 23.31 Final normalization and nonclaim ledger — p. 743
+  - 23.32 Summary — p. 745
+  - 23.33 Abelian varieties and the monodromy pairing — p. 745
+  - 23.34 Ramification filtrations, conductors, and monodromy — p. 745
+  - 23.35 Exact theorem-versus-conjecture matrix — p. 746
+  - 23.36 Source edition and locator audit — p. 746
+  - 23.37 Worked audit scenarios — p. 747
+  - 23.38 Final audit checklist — p. 747
+  - 23.39 Candidate release semantics — p. 747
+- Chapter 24. Perverse sheaves and the decomposition perspective — p. 750
+  - Structural and mathematical principles — p. 750
+  - 24.0 Locked contract, thesis, and atomic status — p. 751
+  - 24.1 Ownership boundaries and the exact inheritance line — p. 751
+  - 24.2 Universes, coefficient worlds, and theorem passports — p. 752
+  - 24.3 Exact source dossier — p. 752
+  - 24.4 The inherited perverse mechanism, without re-proving it — p. 755
+  - 24.5 Semisimple objects of geometric origin — p. 755
+  - 24.6 The decomposition theorem under its exact hypotheses — p. 757
+  - 24.7 Canonical graded pieces and noncanonical splittings — p. 757
+  - 24.8 Relative hard Lefschetz — p. 757
+  - 24.9 Primitive pieces and the Lefschetz pattern — p. 760
+  - 24.10 The proof architecture: from geometry to weights and back — p. 760
+  - 24.11 Intersection cohomology as the natural coefficient object — p. 762
+  - 24.12 Worked geometric profiles — p. 762
+  - 24.13 Semismall and small maps — p. 762
+  - 24.14 Verdier duality and the symmetry of supports — p. 762
+  - 24.15 Invariant-cycle consequences — p. 769
+  - 24.16 Coefficient, topology, and origin boundaries — p. 769
+  - 24.17 A precise audit of noncanonicity — p. 769
+  - 24.18 A chapter-local decomposition ledger — p. 769
+  - 24.19 Source audit and theorem passports — p. 773
+  - 24.20 Figure notes — p. 774
+  - 24.21 Atomic claim ledger — p. 775
+  - 24.22 Trace, obligations, and chapter-local gates — p. 776
+  - 24.23 Closing synthesis — p. 779
+- Chapter 25. Tannakian categories and fiber functors — p. 782
+  - Structural and mathematical principles — p. 782
+  - 25.0 Chapter contract and thesis — p. 783
+  - 25.1 Universes, terminology, and adjacent ownership — p. 783
+  - 25.2 Rigid symmetric tensor categories — p. 784
+  - 25.3 Fiber functors and neutral Tannakian categories — p. 785
+  - 25.4 Neutral reconstruction — p. 786
+  - 25.5 The coalgebra and coend architecture — p. 787
+  - 25.6 Generated pieces and finite-type criteria — p. 788
+  - 25.7 Functoriality and the reversal of arrows — p. 789
+  - 25.8 Fiber functors as torsors — p. 791
+  - 25.9 Neutralization, descent, and forms — p. 792
+  - 25.10 Non-neutral Tannakian categories and affine gerbes — p. 792
+  - 25.11 Super-Tannakian categories — p. 794
+  - 25.12 Basic examples — p. 795
+  - 25.13 Local systems and fundamental groups — p. 796
+  - 25.14 Differential and geometric realization examples — p. 797
+  - 25.15 Counterexamples and failure modes — p. 797
+  - 25.16 Invariants, subobjects, and equations for the group — p. 797
+  - 25.17 Quotients, subgroups, and exact tensor sequences — p. 799
+  - 25.18 Reconstruction passports and bounded validation — p. 800
+  - 25.18A A finite reconstruction calculation — p. 801
+  - 25.18B Extensions and unipotent symmetry — p. 802
+  - 25.18C Torsors in coordinates and descent checks — p. 803
+  - 25.18D Neutral, non-neutral, and super decision procedure — p. 804
+  - 25.19 Exact source dossier — p. 805
+  - 25.20 Atomic claim and status ledger — p. 808
+  - 25.21 TraceRef and exported interfaces — p. 808
+  - 25.22 Obligations and production contract — p. 810
+- Chapter 26. Weight-aware realization and provenance records — p. 812
+  - Structural and mathematical principles — p. 812
+  - 26.0 Locked contract, thesis, and atomic status — p. 813
+  - 26.1 Ownership boundaries and neighboring chapters — p. 814
+  - 26.2 Universes, ambient categories, and variance — p. 814
+  - 26.3 Exact source dossier — p. 816
+  - 26.4 Realization functors and theorem passports — p. 818
+  - 26.5 Mixed Hodge realization and its weights — p. 819
+  - 26.6 Frobenius weights in the ell-adic world — p. 820
+  - 26.7 Betti, de Rham, and comparison corridors — p. 821
+  - 26.8 Motivic realization corridors — p. 822
+  - 26.9 Weight structures and weight spectral sequences — p. 823
+  - 26.10 Filtrations, strictness, and noncanonical splitting — p. 824
+  - 26.11 Comparison graphs and their exact limits — p. 825
+  - 26.12 Worked realization and weight profiles — p. 827
+  - 26.13 Counterexamples and failure diagnostics — p. 829
+  - 26.14 The GAI-MUA provenance proposal layer — p. 829
+  - 26.15 Theorem and proof architecture — p. 835
+  - 26.16 Bounded validation and failure codes — p. 839
+  - 26.17 Atomic claim ledger — p. 840
+  - 26.18 Trace ledger — p. 844
+  - 26.19 Open obligations — p. 845
+  - 26.20 Isolated production and review gates — p. 845
+  - 26.21 Closing synthesis — p. 847
+- Chapter 27. Artin representability — p. 849
+  - Structural and mathematical principles — p. 849
+  - 27.0 Chapter contract: from a moduli rule to an algebraic object — p. 850
+  - 27.1 The representability question has several target classes — p. 851
+  - 27.2 The common proof architecture — p. 853
+  - 27.3 Square-zero extensions and homogeneity — p. 855
+  - 27.4 Deformations, automorphisms, and obstructions — p. 855
+  - 27.5 Formal versality is local lifting data — p. 857
+  - 27.6 Effectivity, integrability, and algebraization — p. 858
+  - 27.7 Openness of versality — p. 859
+  - 27.8 The diagonal is a representability problem — p. 860
+  - 27.9 Classical set-valued Artin criteria — p. 861
+  - 27.10 Artin’s 1974 algebraic-stack criterion — p. 862
+  - 27.11 Hall–Rydh’s modern criterion — p. 864
+  - 27.12 The spectral Deligne–Mumford criterion — p. 866
+  - 27.13 Comparing the theorem versions without blending them — p. 867
+  - 27.13A The implication graph: approximation, effectivity, algebraization, and openness — p. 868
+  - 27.13B Deformation and obstruction data as representability inputs — p. 870
+  - 27.14 Worked application patterns — p. 870
+  - 27.15 Failure atlas and counterexamples — p. 873
+  - 27.15A Diagonal recursion and target-sensitive conclusions — p. 874
+  - 27.16 A machine-oriented representability passport — p. 876
+  - 27.17 Atomic theorem and obligation ledgers — p. 878
+  - 27.18 Chapter boundaries and handoffs — p. 881
+  - 27.19 Production and audit gates — p. 882
+  - 27.20 Closing synthesis — p. 882
+  - References — p. 883
+- Chapter 28. Algebraic spaces and stacks — p. 884
+  - Structural and mathematical principles — p. 884
+  - 28.0 Chapter contract and fail-closed status discipline — p. 885
+  - 28.1 Why schemes are not the final moduli target — p. 887
+  - 28.2 Algebraic spaces: definition and internal logic — p. 888
+  - 28.3 From presheaves of groupoids to stacks — p. 889
+  - 28.4 Representable morphisms and the diagonal — p. 890
+  - 28.5 Algebraic stacks and atlases — p. 892
+  - 28.6 Two-fiber products and geometric base change — p. 893
+  - 28.7 Groupoids, quotient stacks, and orbit sheaves — p. 894
+  - 28.8 Stabilizers and inertia — p. 897
+  - 28.9 Descent of objects, morphisms, and geometric structure — p. 899
+  - 28.10 Examples as structural tests — p. 901
+  - 28.11 Presentation independence and Morita-level reasoning — p. 904
+  - 28.12 Coarse moduli, good moduli, and deliberate noncoverage — p. 905
+  - 28.13 Failure atlas: what each hypothesis prevents — p. 906
+  - 28.14 Interfaces with Chapters 27 and 29–31 — p. 906
+  - 28.15 Proposed GAI-MUA stack passport — p. 908
+  - 28.16 Atomic established-claim ledger — p. 910
+  - 28.17 Source ledger and provenance boundary — p. 910
+  - 28.18 Open obligations — p. 916
+  - 28.19 Status partition and prohibited promotions — p. 918
+  - 28.20 Closing synthesis — p. 919
+- Chapter 29. Deformation functors — p. 921
+  - Structural and mathematical principles — p. 921
+  - 29.0 Chapter contract, boundaries, and epistemic discipline — p. 922
+  - 29.1 The Artinian test category — p. 923
+  - 29.2 Pointed deformation problems and their set-valued shadows — p. 924
+  - 29.3 Small extensions and nilpotent induction — p. 925
+  - 29.4 Fiber products and the Schlessinger comparison map — p. 926
+  - 29.5 Tangent spaces and their canonical linear structure — p. 927
+  - 29.6 Smooth morphisms of functors — p. 928
+  - 29.7 Prorepresentable functors and complete local rings — p. 929
+  - 29.8 Hulls: versality with minimal tangent dimension — p. 930
+  - 29.9 The Schlessinger conditions stated exactly — p. 930
+  - 29.10 Schlessinger’s theorem — p. 932
+  - 29.11 The tangent action on a small-extension fiber — p. 935
+  - 29.12 Geometric deformations and the automorphism criterion — p. 937
+  - 29.13 Direct examples of represented deformation functors — p. 938
+  - 29.14 Rigidity, unobstructedness, and power-series hulls — p. 941
+  - 29.15 Obstruction interfaces without conflation — p. 942
+  - 29.16 Formal neighborhoods versus algebraic moduli — p. 942
+  - 29.17 Residue fields, bases, and relative deformation theory — p. 943
+  - 29.18 Set-valued, groupoid-valued, and derived formal deformation problems — p. 945
+  - 29.19 Failure modes and counterexample patterns — p. 946
+  - 29.20 A machine-checkable Schlessinger passport — p. 948
+  - 29.21 Atomic established-claim map — p. 950
+  - 29.22 Synthesis, definition, research, quarantine, and obligation ledgers — p. 950
+  - 29.23 Source ledger — p. 955
+  - 29.24 Integration handoffs — p. 955
+  - 29.25 Closing synthesis — p. 959
+- Chapter 30. Cotangent complexes — p. 961
+  - Structural and mathematical principles — p. 961
+  - 30.0 Chapter contract, scope, and epistemic discipline — p. 962
+  - 30.1 The pressure: ordinary differentials remember too little — p. 962
+  - 30.2 Historical and conceptual placement: Quillen, Illusie, and the derived calculus — p. 964
+  - 30.3 Ambient categories, grading, and variance — p. 964
+  - 30.4 Derivations as maps to split square-zero extensions — p. 966
+  - 30.5 Construction by a simplicial polynomial resolution — p. 967
+  - 30.6 Universal property and André–Quillen invariants — p. 968
+  - 30.7 The transitivity triangle — p. 969
+  - 30.8 Base change: exact hypotheses and the derived correction — p. 970
+  - 30.9 Polynomial algebras and free directions — p. 971
+  - 30.10 Quotients, conormal data, and complete intersections — p. 971
+  - 30.11 Tor amplitude, perfectness, and geometric meanings — p. 973
+  - 30.12 From rings to sheaves, ringed spaces, and schemes — p. 974
+  - 30.13 What the cotangent complex contributes to deformation theory — p. 976
+  - 30.14 Computations that separate generators, relations, and higher defects — p. 978
+  - 30.15 Derived refinements and what they actually refine — p. 981
+  - 30.16 Boundaries with representability, obstruction theories, and intersections — p. 983
+  - 30.17 Failure atlas — p. 984
+  - 30.17A André–Quillen extraction and exact sequences — p. 984
+  - 30.17B A disciplined cotangent workflow — p. 988
+  - 30.18 Exact source map and theorem records — p. 991
+  - 30.19 Atomic claim ledger — p. 993
+  - 30.20 Open obligations, adjacent concordance, and bounded research scope — p. 994
+  - 30.21 Closing synthesis — p. 994
+- Chapter 31. Obstruction theories — p. 999
+  - Structural and mathematical principles — p. 999
+  - 31.0 Chapter contract, scope, and atomic status discipline — p. 1000
+  - 31.1 Universes, bases, categories, grading, and finiteness — p. 1001
+  - 31.2 The lifting groupoid is the primary object — p. 1002
+  - 31.3 Obstruction assignments, targets, and completeness — p. 1003
+  - 31.4 The exact ringed-space automorphism–deformation–obstruction ladder — p. 1003
+  - 31.5 Torsors, origins, and automorphisms — p. 1004
+  - 31.6 Obstruction complexes — p. 1005
+  - 31.7 Cotangent complexes as intrinsic linearization — p. 1005
+  - 31.8 Classical obstruction theories over small extensions — p. 1006
+  - 31.9 The Behrend–Fantechi obstruction-theory gate — p. 1007
+  - 31.10 Perfectness, amplitude, duality, and virtual rank — p. 1008
+  - 31.11 The exact virtual-fundamental-class gate — p. 1010
+  - 31.12 Classical, perfect, and virtual are not synonyms — p. 1011
+  - 31.13 Relative theories, products, pullbacks, and compatibility — p. 1012
+  - 31.14 Derived obstruction theories and the classical shadow — p. 1013
+  - 31.15 Local obstruction sheaves and global obstruction classes — p. 1014
+  - 31.16 Worked comparison cases — p. 1014
+  - 31.17 Failure modes and prohibited promotions — p. 1017
+  - 31.18 Vanishing, semiregularity, effectivity, and algebraization — p. 1017
+  - 31.19 Proof architectures for obstruction statements — p. 1019
+  - 31.20 Machine-readable records and bounded automation — p. 1021
+  - 31.21 Exact source dossier and locator boundaries — p. 1022
+  - 31.22 Atomic claim and obligation ledger — p. 1022
+  - 31.23 A diagnostic comparison matrix — p. 1026
+  - 31.24 Chapter handoffs and conclusion — p. 1030
+- Chapter 32. Derived categories and derived functors — p. 1032
+  - Structural and mathematical principles — p. 1032
+  - 32.0 Contract, scope, and epistemic discipline — p. 1033
+  - 32.1 Primary and modern source dossier and locator policy — p. 1034
+  - 32.2 Universes, complexes, grading, and totalization conventions — p. 1035
+  - 32.3 From chain maps to the homotopy category — p. 1035
+  - 32.4 Quasi-isomorphisms and Verdier localization — p. 1038
+  - 32.5 Triangulated structure: power and limits — p. 1040
+  - 32.6 Boundedness is mathematical data — p. 1040
+  - 32.7 Adapted objects: K-injective, K-projective, and K-flat — p. 1043
+  - 32.8 Resolution independence and its proof architecture — p. 1046
+  - 32.9 Total derived functors — p. 1047
+  - 32.10 Fundamental derived operations — p. 1051
+  - 32.11 Composition of derived functors — p. 1051
+  - 32.12 Spectral sequences as filtered derived calculations — p. 1051
+  - 32.13 The standard t-structure — p. 1059
+  - 32.14 Stable and differential graded enhancements — p. 1060
+  - 32.15 Examples and counterexamples — p. 1063
+  - 32.15A A disciplined workflow for derived claims — p. 1063
+  - 32.16 Failure boundaries — p. 1063
+  - 32.17 Proposed machine records — p. 1063
+  - 32.18 Bounded research and formalization program — p. 1072
+  - 32.19 Proof architecture — p. 1073
+  - 32.20 Atomic claim and source map — p. 1073
+  - 32.21 Open obligations — p. 1075
+  - 32.22 Conclusion — p. 1078
+- Chapter 33. Derived intersections — p. 1080
+  - Structural and mathematical principles — p. 1080
+  - 33.0 Chapter contract and atomic status discipline — p. 1081
+  - 33.1 Universes, bases, models, and grading — p. 1081
+  - 33.2 Classical fiber products and their exact content — p. 1083
+  - 33.3 Homotopy pullbacks and derived fiber products — p. 1083
+  - 33.4 Tor-independence and the classical-recovery criterion — p. 1084
+  - 33.5 How a derived tensor is actually computed — p. 1085
+  - 33.6 Koszul models — p. 1086
+  - 33.7 Excess intersection as retained homology — p. 1087
+  - 33.8 Euler characteristics, K-classes, and numerical boundaries — p. 1088
+  - 33.9 Derived zero loci — p. 1089
+  - 33.10 Cotangent complexes of intersections — p. 1090
+  - 33.11 Quasi-smoothness — p. 1091
+  - 33.12 Virtual rank and virtual dimension — p. 1091
+  - 33.13 Perfect obstruction theories and virtual classes: an exact gate — p. 1093
+  - 33.14 What truncation preserves and what it loses — p. 1093
+  - 33.15 Associativity, symmetry, and coherent functoriality — p. 1095
+  - 33.16 Derived base change — p. 1096
+  - 33.17 Locality and descent — p. 1097
+  - 33.18 Proof architectures — p. 1098
+  - 33.19 Extended examples and counterexamples — p. 1100
+  - 33.20 Interfaces to derived moduli — p. 1108
+  - 33.21 Quarantined machine-facing records — p. 1109
+  - 33.22 Failure modes — p. 1110
+  - 33.23 Atomic claim audit — p. 1110
+  - 33.24 Exact sources and locator map — p. 1112
+  - 33.25 Remaining obligations — p. 1114
+  - 33.26 Closing synthesis — p. 1114
+- Chapter 34. From classical to derived moduli — p. 1117
+  - Structural and mathematical principles — p. 1117
+  - 34.0 Chapter contract, transition question, and atomic status — p. 1118
+  - 34.1 Universes, variance, models, and grading — p. 1119
+  - 34.2 What a classical moduli problem already contains — p. 1120
+  - 34.3 The derived input category changes the question — p. 1121
+  - 34.4 Restriction, truncation, and classical recovery — p. 1122
+  - 34.5 Derived enhancement is not stackification — p. 1123
+  - 34.6 Cotangent complexes as the transition’s linear interface — p. 1123
+  - 34.7 Square-zero extensions and the deformation tower — p. 1124
+  - 34.8 From obstruction theory to derived structure: a one-way implication — p. 1125
+  - 34.9 Derived intersections as local moduli charts — p. 1126
+  - 34.10 The tangent complex records more than a tangent space — p. 1128
+  - 34.11 A transition architecture with seven gates — p. 1128
+  - 34.12 Representability packages must remain separate — p. 1130
+  - 34.13 Representability limits and nonimplications — p. 1131
+  - 34.14 Examples that separate the axes — p. 1131
+  - 34.15 Comparison of classical and derived deformation data — p. 1133
+  - 34.16 Diagonals, mapping objects, and derived equivalences — p. 1134
+  - 34.17 Base change and functoriality across the transition — p. 1134
+  - 34.18 Descent, hyperdescent, and local-to-global reconstruction — p. 1135
+  - 34.19 Finiteness, boundedness, and openness — p. 1136
+  - 34.19A Equivalence and uniqueness of enhancements — p. 1136
+  - 34.19B Formal completion, algebraization, and globalization — p. 1138
+  - 34.19C Coarse spaces and derived information loss — p. 1139
+  - 34.19D Transition patterns for different kinds of moduli problem — p. 1139
+  - 34.20 Proof architectures — p. 1142
+  - 34.21 Failure boundaries — p. 1143
+  - 34.22 A chapter-local transition record — p. 1143
+  - 34.23 Bounded research and formalization programs — p. 1145
+  - 34.24 Atomic claim audit — p. 1145
+  - 34.25 Exact source IDs and locator map — p. 1146
+  - 34.26 Remaining obligations — p. 1149
+  - 34.27 Closing synthesis — p. 1149
+- Chapter 35. Arithmetic finiteness and the Mordell theorem context — p. 1151
+  - Structural and mathematical principles — p. 1151
+  - 35.0. Chapter contract and status discipline — p. 1152
+  - 35.1 Arithmetic objects and quantifiers — p. 1152
+  - 35.2 Historical sequence without theorem collapse — p. 1154
+  - 35.3 Height finiteness and the Northcott gate — p. 1154
+  - 35.4 Mordell–Weil finite generation is not Mordell finiteness — p. 1156
+  - 35.5 Rational points, integral points, and the boundary divisor — p. 1157
+  - 35.6 Chabauty’s conditional finiteness mechanism — p. 1159
+  - 35.7 The Faltings theorem cluster for abelian varieties — p. 1159
+  - 35.8 The Parshin–Faltings transformation — p. 1159
+  - 35.9 What the 1983 theorem proves, and what it leaves ineffective — p. 1163
+  - 35.10 Function-field analogues and the isotrivial exception — p. 1164
+  - 35.11 Later generalizations and alternative proof architectures — p. 1164
+  - 35.12 Hypothesis stress tests — p. 1166
+  - 35.13 Nonimplication ledger — p. 1166
+  - 35.14 Method comparison and preservation records — p. 1168
+  - 35.15 Source-critical dossier — p. 1174
+  - 35.16 Atomic claim and dependency ledger — p. 1175
+  - 35.17 Failure codes and bounded machine use — p. 1179
+  - 35.18 Remaining obligations — p. 1179
+  - 35.19 Closing synthesis — p. 1179
+- Chapter 36. Tate-type results for abelian varieties — p. 1182
+  - Structural and mathematical principles — p. 1182
+  - 36.0 Chapter contract and atomic status discipline — p. 1183
+  - 36.1 Scope, adjacent ownership, and unavailable interfaces — p. 1184
+  - 36.2 Exact source dossier and attribution firewall — p. 1184
+  - 36.3 Fields, primes, separable closures, and size policy — p. 1186
+  - 36.4 Abelian varieties, torsion, and Tate modules — p. 1187
+  - 36.5 Four comparison maps that must remain distinct — p. 1188
+  - 36.6 Tate’s finite-field Hom theorem — p. 1189
+  - 36.7 Faltings’s number-field semisimplicity and Hom comparison — p. 1191
+  - 36.8 Product reduction and block-matrix control — p. 1193
+  - 36.9 Proof architecture over finite fields — p. 1194
+  - 36.10 Proof architecture over number fields — p. 1194
+  - 36.11 Dual abelian varieties, Weil pairings, and polarizations — p. 1195
+  - 36.12 Relation to the Tate conjecture: exact and non-exact scopes — p. 1196
+  - 36.13 Integral, rational, finite-level, and compatible-system variants — p. 1197
+  - 36.14 Isogeny, quasi-isogeny, and integral lattice precision — p. 1198
+  - 36.15 Semisimplicity, commutants, and decomposition — p. 1199
+  - 36.16 Worked comparisons and diagnostic examples — p. 1200
+  - 36.17 Invalid shortcuts and failure semantics — p. 1202
+  - 36.18 Variants by base field and object class — p. 1202
+  - 36.19 The theorem passport and a verification procedure — p. 1205
+  - 36.20 Bounded research and formalization programs — p. 1207
+  - 36.21 Open and quarantined boundaries — p. 1207
+  - 36.22 Exact theorem ledger and source concordance — p. 1207
+  - 36.23 Exported interfaces and final obligations — p. 1209
+  - 36.24 Consequence closure and realization boundaries — p. 1212
+  - 36.25 Closing synthesis — p. 1214
+- Chapter 37. Period rings — p. 1217
+  - Structural and mathematical principles — p. 1217
+  - 37.0 Chapter identifiers and scope — p. 1218
+  - 37.1 Why a period ring is a change of coefficient world — p. 1218
+  - 37.2 The perfect tilt and the Witt-vector entrance — p. 1218
+  - 37.3 The de Rham completion — p. 1218
+  - 37.4 The crystalline divided-power branch — p. 1218
+  - 37.5 The semistable logarithmic extension — p. 1225
+  - 37.6 A structural comparison of the coefficient worlds — p. 1225
+  - 37.7 The exact embedding corridor — p. 1229
+  - 37.8 Representation interfaces without theorem preemption — p. 1229
+  - 37.9 Elementary calculations — p. 1229
+  - 37.10 Examples of construction choices — p. 1229
+  - 37.11 Nonexamples and invalid shortcuts — p. 1229
+  - 37.12 Construction and proof architecture — p. 1229
+  - 37.13 Topological and completion audits — p. 1240
+  - 37.14 Preservation, loss, and boundary ledgers — p. 1240
+  - 37.15 Proposed machine records — p. 1243
+  - 37.16 Formalization and research boundary — p. 1247
+  - 37.17 Exact source ledger — p. 1247
+  - 37.18 Obligations and admission boundary — p. 1251
+  - 37.19 Summary — p. 1252
+- Chapter 38. Hodge-Tate and de Rham representations — p. 1255
+  - Structural and mathematical principles — p. 1255
+  - 38.0 Chapter contract and exact ownership — p. 1256
+  - 38.1 Arithmetic base and imported period data — p. 1257
+  - 38.2 The general B-admissibility mechanism — p. 1260
+  - 38.3 Hodge–Tate representations — p. 1260
+  - 38.4 De Rham representations and filtered descent — p. 1262
+  - 38.5 From de Rham filtration to Hodge–Tate grading — p. 1264
+  - 38.6 Weight conventions and exact translation — p. 1264
+  - 38.7 Elementary and diagnostic examples — p. 1266
+  - 38.8 Categorical operations and exactness boundaries — p. 1268
+  - 38.9 Base change, potential admissibility, and descent — p. 1269
+  - 38.10 The implication hierarchy and its nonconverses — p. 1270
+  - 38.11 Proper smooth geometry and comparison criteria — p. 1272
+  - 38.12 Preservation and loss across the comparison corridor — p. 1277
+  - 38.13 Proof architectures without proof replacement — p. 1279
+  - 38.14 Proposed comparison passport — p. 1280
+  - 38.15 Failure gates and negative certificates — p. 1281
+  - 38.16 Bounded formalization and research program — p. 1283
+  - 38.17 Exact source ledger and theorem records — p. 1283
+  - 38.18 Obligations and integration boundary — p. 1285
+  - 38.19 Conclusion — p. 1288
+- Chapter 39. Crystalline and semistable comparison — p. 1289
+  - Structural and mathematical principles — p. 1289
+  - 39.0 Chapter contract and exact scope — p. 1290
+  - 39.1 Arithmetic base, rings, and conventions — p. 1291
+  - 39.2 Crystalline and semistable period modules — p. 1294
+  - 39.3 Filtered Frobenius and monodromy modules — p. 1295
+  - 39.4 Admissibility theorems and their exact variants — p. 1297
+  - 39.5 Good reduction and crystalline comparison — p. 1299
+  - 39.6 Semistable reduction and the B st-comparison — p. 1300
+  - 39.7 Examples and controlled calculations — p. 1302
+  - 39.8 Implication and nonimplication firewall — p. 1305
+  - 39.9 Integral versus rational scope — p. 1306
+  - 39.10 Proof architecture without proof replacement — p. 1307
+  - 39.11 Functoriality, exactness, and base change — p. 1309
+  - 39.12 Hypothesis matrix and failure semantics — p. 1311
+  - 39.13 Exact source dossier — p. 1316
+  - 39.14 Bounded formalization and research boundary — p. 1318
+  - 39.15 Obligations and admission boundary — p. 1319
+  - 39.16 Summary — p. 1319
+- Chapter 40. Faltings sites and topoi — p. 1322
+  - Structural and mathematical principles — p. 1322
+  - 40.0 Chapter contract and scope — p. 1323
+  - 40.1 Sites, sheaves, and topoi before arithmetic specialization — p. 1325
+  - 40.2 The morphism f:Y to X and the arithmetic specialization — p. 1327
+  - 40.3 Objects, morphisms, fibres, and finite limits — p. 1328
+  - 40.4 Coverings: corrected topology and original topology — p. 1330
+  - 40.5 Sheaves on the Faltings site — p. 1331
+  - 40.6 Coherent subsites, coherence, and enough points — p. 1333
+  - 40.7 The canonical morphisms of topoi — p. 1334
+  - 40.8 Points, specializations, and localization — p. 1336
+  - 40.9 The ringed Faltings topos — p. 1337
+  - 40.10 Local Galois descriptions — p. 1338
+  - 40.11 The comparison role — p. 1339
+  - 40.12 Faltings’s 1988 precursor — p. 1341
+  - 40.13 Faltings’s 2002 explicit construction — p. 1342
+  - 40.14 Later formulations — p. 1342
+  - 40.15 Functoriality and base change — p. 1344
+  - 40.16 Examples and nonexamples — p. 1345
+  - 40.17 Hypothesis and nonimplication ledger — p. 1346
+  - 40.18 Proof architecture and chapter-local records — p. 1347
+  - 40.19 Exact source dossier — p. 1350
+  - 40.20 Interfaces and obligations — p. 1353
+  - 40.21 Summary — p. 1354
+- Chapter 41. Almost zero objects and almost categories — p. 1356
+  - Structural and mathematical principles — p. 1356
+  - 41.0 Chapter contract and scope — p. 1357
+  - 41.1 The categorical pressure behind “almost” — p. 1357
+  - 41.2 The basic setup and its hypothesis tiers — p. 1359
+  - 41.3 Almost-zero modules — p. 1361
+  - 41.4 Element annihilation is not ideal annihilation — p. 1362
+  - 41.5 The almost category as an exact localization — p. 1363
+  - 41.6 Almost exactness — p. 1365
+  - 41.7 The right and left adjoints — p. 1367
+  - 41.8 Tensor products and Hom — p. 1370
+  - 41.9 Examples and nonexamples — p. 1373
+  - 41.10 Idempotence, flatness, and base change — p. 1375
+  - 41.11 Faltings and Gabber–Ramero formulations — p. 1377
+  - 41.12 Sheaf, topos, and universe boundaries — p. 1378
+  - 41.13 Derived boundaries — p. 1379
+  - 41.14 Explicitly prohibited promotions — p. 1380
+  - 41.15 Proof architecture — p. 1381
+  - 41.16 Chapter-local machine records — p. 1381
+  - 41.17 Exact source dossier — p. 1385
+  - 41.18 Interfaces to adjacent chapters — p. 1387
+  - 41.19 Obligations — p. 1387
+  - 41.20 Summary — p. 1388
+- Chapter 42. Almost purity — p. 1391
+  - Structural and mathematical principles — p. 1391
+  - 42.0 Chapter contract and scope — p. 1392
+  - 42.1 The arithmetic pressure — p. 1393
+  - 42.2 The valuation and almost framework — p. 1394
+  - 42.3 Almost étale algebras — p. 1395
+  - 42.4 Finite étale input and integral closure — p. 1396
+  - 42.5 Deep ramification — p. 1397
+  - 42.6 Faltings’s toroidal almost-purity theorem — p. 1398
+  - 42.7 Proof architecture of the toroidal theorem — p. 1399
+  - 42.8 Lifting almost étale algebras — p. 1401
+  - 42.9 Consequences for the integral closure — p. 1401
+  - 42.10 Ordinary nonconclusions — p. 1403
+  - 42.11 Examples and boundary cases — p. 1404
+  - 42.12 Perfectoid variants — p. 1404
+  - 42.13 Dependency and nonduplication map — p. 1406
+  - 42.14 Proof-responsibility ledger — p. 1406
+  - 42.15 Preservation, loss, and return — p. 1408
+  - 42.16 Atomic claim concordance — p. 1414
+  - 42.17 Exact source dossier — p. 1414
+  - 42.18 Obligations — p. 1417
+  - 42.19 Summary — p. 1417
+- Chapter 43. Gabber-Ramero almost ring theory — p. 1420
+  - Structural and mathematical principles — p. 1420
+  - 43.0 Chapter contract and scope — p. 1421
+  - 43.1 From Faltings’s method to a general algebraic world — p. 1423
+  - 43.2 The exact basic setup — p. 1423
+  - 43.3 Almost modules, almost algebras, and representatives — p. 1425
+  - 43.4 Finiteness is a uniform approximation problem — p. 1427
+  - 43.5 Flatness, almost projectivity, Tor, and Ext — p. 1428
+  - 43.6 Relative differentials and the almost cotangent complex — p. 1429
+  - 43.7 Flat, unramified, and étale almost morphisms — p. 1431
+  - 43.8 Nilpotent deformation theory — p. 1432
+  - 43.9 Descent and gluing — p. 1434
+  - 43.10 Almost projective modules, trace, and rank — p. 1435
+  - 43.11 Preservation and loss across the almost transformation — p. 1436
+  - 43.12 Worked examples and boundary tests — p. 1436
+  - 43.13 Counterexamples and prohibited promotions — p. 1437
+  - 43.14 Deformation and descent proof architectures — p. 1439
+  - 43.15 Chapter-local records and research programs — p. 1440
+  - 43.16 Source lineage and bibliographic boundaries — p. 1441
+  - 43.17 Unresolved and nontransferred boundaries — p. 1442
+  - 43.18 Exact source dossier — p. 1442
+  - 43.19 Interfaces to adjacent chapters — p. 1446
+  - 43.20 Obligations — p. 1446
+  - 43.21 Summary — p. 1448
+- Chapter 44. Return paths from almost to ordinary algebra — p. 1450
+  - Structural and mathematical principles — p. 1450
+  - 44.0 Chapter contract and scope — p. 1451
+  - 44.1 The return problem is a defect-elimination problem — p. 1452
+  - 44.2 The adjoint return apparatus — p. 1454
+  - 44.3 Elementary annihilator mechanisms — p. 1455
+  - 44.4 Localization and generic-fiber return — p. 1458
+  - 44.5 Bounded torsion and quantitative control ideals — p. 1458
+  - 44.6 Completion is not automatic de-almostification — p. 1461
+  - 44.7 Finiteness and presentation upgrades — p. 1462
+  - 44.8 Descent as a return mechanism — p. 1463
+  - 44.9 Trace, duality, and determinant mechanisms — p. 1465
+  - 44.10 Ordinary, almost, completed, derived, and localized statements — p. 1466
+  - 44.11 Worked examples — p. 1468
+  - 44.12 Counterexamples and failure modes — p. 1470
+  - 44.13 Proof architectures — p. 1470
+  - 44.14 Explicit anti-promotion rules — p. 1470
+  - 44.15 Proposed recovery certificates and machine gates — p. 1475
+  - 44.16 Preservation, loss, and recovery ledger — p. 1477
+  - 44.17 Exact source dossier — p. 1478
+  - 44.18 Obligations — p. 1481
+  - 44.19 Summary — p. 1481
+- Chapter 45. Correspondences and transfers — p. 1484
+  - Structural and mathematical principles — p. 1484
+  - 45.0 Locked contract, thesis, and atomic status — p. 1485
+  - 45.1 Ownership boundaries and downstream interfaces — p. 1485
+  - 45.2 Existing source IDs and exact locators — p. 1486
+  - 45.3 Universes and the classical world passport — p. 1489
+  - 45.4 Elementary finite correspondences — p. 1490
+  - 45.5 Graphs and the faithful embedding of ordinary maps — p. 1491
+  - 45.6 Composition: pull, intersect, and push on finite support — p. 1492
+  - 45.7 Category laws and proof architecture — p. 1493
+  - 45.8 Symmetric monoidal structure and external products — p. 1493
+  - 45.9 Coefficient extension and R-linear correspondences — p. 1494
+  - 45.10 Presheaves with transfers — p. 1494
+  - 45.11 Representable presheaves with transfers — p. 1495
+  - 45.12 Concrete transfer structures — p. 1496
+  - 45.13 Nisnevich sheaves with transfers — p. 1497
+  - 45.14 Transfer functoriality and base-change patterns — p. 1498
+  - 45.15 Worked calculations in the finite-correspondence category — p. 1499
+  - 45.16 Relative finite correspondences and universal integrality — p. 1501
+  - 45.17 Orientation: finite correspondences versus Chow correspondences — p. 1502
+  - 45.18 Transfer structures and motivic categories — p. 1504
+  - 45.19 Coefficient, orientation, and topology matrix — p. 1505
+  - 45.20 Detailed proof architecture for composition and transfer action — p. 1506
+  - 45.21 A hypothesis ledger for the word “finite” — p. 1508
+  - 45.22 Change of field and generic spread — p. 1509
+  - 45.23 An operational criterion for a transfer structure — p. 1510
+  - 45.24 Equality, coefficients, and the ladder of cycle relations — p. 1512
+  - 45.25 Which functorial identities are formal — p. 1514
+  - 45.26 The exact handoff to triangulated motives — p. 1515
+  - 45.27 A complete transfer-operation audit — p. 1517
+  - 45.28 Composition as an auditable coefficient calculation — p. 1518
+  - 45.29 Coefficient change for categories and transfer actions — p. 1519
+  - 45.30 Choosing the correct correspondence world — p. 1521
+- Chapter 46. Triangulated motives — p. 1524
+  - Structural and mathematical principles — p. 1524
+  - 46.0 Locked contract and atomic status discipline — p. 1525
+  - 46.1 Ownership boundaries and available neighbors — p. 1526
+  - 46.2 Existing source IDs and exact domains — p. 1526
+  - 46.2A Primary-source provenance and the modern construction break — p. 1528
+  - 46.3 Universes, base field, coefficients, and notation — p. 1530
+  - 46.4 The correspondence and transfer input — p. 1532
+  - 46.5 From transfer presheaves to transfer sheaves — p. 1532
+  - 46.6 Complexes, derived categories, and enhancement — p. 1533
+  - 46.7 Nisnevich-derived descent — p. 1534
+  - 46.8 Affine-line localization and effective motives — p. 1534
+  - 46.9 Large and geometric effective categories — p. 1535
+  - 46.10 Tensor triangulated structure — p. 1536
+  - 46.11 The Tate object and convention control — p. 1537
+  - 46.12 Cancellation and the effective embedding — p. 1538
+  - 46.13 Stable triangulated motives — p. 1538
+  - 46.14 Localization, Gysin, projective bundle, and blow-up formulas — p. 1539
+  - 46.15 Verdier localization and what the quotient forgets — p. 1540
+  - 46.15A Distinguished triangles as computational interfaces — p. 1541
+  - 46.16 Coefficients and extension of scalars — p. 1542
+  - 46.17 Topology, transfers, and base variants — p. 1543
+  - 46.18 Motives with transfers and stable motivic homotopy — p. 1543
+  - 46.19 Motivic cohomology as an outbound interface — p. 1544
+  - 46.20 Realization links — p. 1545
+  - 46.21 Six-operation boundary — p. 1545
+  - 46.22 Comparison and nonimplication matrix — p. 1546
+  - 46.22A Benchmark calculations across the construction — p. 1547
+  - 46.22B Effective and stable Hom calculations — p. 1549
+  - 46.22C Model and localization comparisons — p. 1550
+  - 46.22D Dependency and preservation architecture — p. 1551
+  - 46.22E Hypothesis passports for standard formulas — p. 1552
+  - 46.22F Realization diagnostics without overclaim — p. 1553
+  - 46.23 Open-frontier boundaries — p. 1555
+  - 46.24 Construction audit — p. 1555
+  - 46.25 Proof architectures — p. 1556
+  - 46.26 Chapter-local machine records — p. 1558
+  - 46.27 Bounded research and formalization programs — p. 1559
+  - 46.28 Atomic claim audit — p. 1559
+  - 46.29 Exact source map — p. 1560
+  - 46.30 Remaining obligations — p. 1561
+  - 46.31 Closing synthesis — p. 1561
+- Chapter 47. Motivic cohomology — p. 1563
+  - Structural and mathematical principles — p. 1563
+  - 47.0. Chapter contract and atomic status discipline — p. 1564
+  - 47.1 Universes, base, grading, and coefficient passports — p. 1564
+  - 47.2 Algebraic simplices and admissible cycles — p. 1566
+  - 47.3 Higher Chow groups and the degree-zero recovery — p. 1567
+  - 47.4 Variance: maps, correspondences, and operations — p. 1568
+  - 47.5 Homotopy invariance, localization, and support — p. 1568
+  - 47.6 Descent and the difference between local chains and global classes — p. 1570
+  - 47.7 Voevodsky’s motivic complexes — p. 1570
+  - 47.8 Representability in the effective motive category — p. 1571
+  - 47.9 The motivic-cohomology versus higher-Chow comparison — p. 1572
+  - 47.10 Coefficients, derived tensor, and Bockstein data — p. 1574
+  - 47.11 Products, signs, and Chern classes — p. 1574
+  - 47.12 Projective bundles, cellular induction, and limits of calculation — p. 1575
+  - 47.13 Fields, Milnor K-theory, and residue structure — p. 1576
+  - 47.14 Étale motivic cohomology and change of topology — p. 1577
+  - 47.15 Norm-residue theorem dependency boundary — p. 1577
+  - 47.16 Realization maps and what they preserve — p. 1578
+  - 47.17 Singular schemes, general bases, and supported variants — p. 1579
+  - 47.18 Nonimplication ledger — p. 1579
+  - 47.19 Proof architecture for the cycle comparison — p. 1580
+  - 47.20 Localization as a dependency engine — p. 1580
+  - 47.21 Coefficient replay beyond a single modulus — p. 1582
+  - 47.22 Examples as boundary tests — p. 1583
+  - 47.23 Realization dependency records — p. 1585
+  - 47.24 Bounded machine use and failure codes — p. 1585
+  - 47.25 Exact source dossier — p. 1591
+  - 47.26 Atomic claim ledger — p. 1595
+  - 47.27 Dependency ledger — p. 1598
+  - 47.28 Further obligations — p. 1599
+  - 47.29 Closing synthesis — p. 1599
+- Chapter 48. The A-1-homotopy category — p. 1603
+  - Structural and mathematical principles — p. 1603
+  - 48.0 Locked contract, scope, and atomic status discipline — p. 1604
+  - 48.1 Read-only neighbors and source dossier — p. 1605
+  - 48.2 Universes, base scheme, and the smooth site — p. 1606
+  - 48.3 Three ambient presentations — p. 1607
+  - 48.4 The Nisnevich topology — p. 1608
+  - 48.5 Affine-line localization — p. 1609
+  - 48.6 The combined unstable motivic localization — p. 1610
+  - 48.7 Morphisms and representability after localization — p. 1611
+  - 48.8 Elementary unstable calculations — p. 1612
+  - 48.9 Pointed motivic spaces without stabilization — p. 1613
+  - 48.10 Thom spaces and the pointed projective line — p. 1615
+  - 48.11 Homotopy sheaves, connectedness, and truncation — p. 1616
+  - 48.12 Base change and variance — p. 1617
+  - 48.13 Realization interfaces and their limits — p. 1618
+  - 48.14 Transfers, motives, and stabilization are different additions — p. 1619
+  - 48.15 Model categories and infinity-categorical localization — p. 1621
+  - 48.16 Representability passports and exact hypotheses — p. 1622
+  - 48.17 Comparison and nonimplication atlas — p. 1624
+  - 48.18 Proof architectures — p. 1624
+  - 48.19 Further structural consequences of localization — p. 1628
+  - 48.20 Chapter-local records and bounded checking — p. 1635
+  - 48.21 Atomic claim audit — p. 1636
+  - 48.22 Exact source-to-claim map — p. 1636
+  - 48.23 Remaining obligations — p. 1637
+  - 48.24 Closing synthesis — p. 1637
+- Chapter 49. Motivic spectra and stabilization — p. 1640
+  - Structural and mathematical principles — p. 1640
+  - 49.0 Chapter contract and atomic status discipline — p. 1641
+  - 49.1 Ownership boundaries and available adjacent candidates — p. 1642
+  - 49.2 Exact source dossier and attribution firewall — p. 1642
+  - 49.3 Universes, bases, sites, and notation — p. 1644
+  - 49.4 The unstable motivic input — p. 1645
+  - 49.5 Pointed geometric suspension coordinates — p. 1646
+  - 49.6 Why simplicial stabilization is not yet motivic stabilization — p. 1647
+  - 49.7 Sequential T-spectra — p. 1647
+  - 49.8 Symmetric motivic spectra — p. 1648
+  - 49.9 Bispectra and alternative stabilization coordinates — p. 1648
+  - 49.10 The stable infinity-category SH(S) — p. 1649
+  - 49.11 Bigraded suspension and desuspension — p. 1651
+  - 49.12 Suspension spectra and the stable Yoneda corridor — p. 1652
+  - 49.13 Thom spaces and vector-bundle suspension — p. 1652
+  - 49.14 The sphere spectrum and cellular generation — p. 1653
+  - 49.15 Ring spectra, module spectra, and represented theories — p. 1654
+  - 49.16 SH, DM, and the module comparison firewall — p. 1655
+  - 49.17 Relative functoriality before the full six operations — p. 1656
+  - 49.18 Six-functor interfaces and exact scope — p. 1657
+  - 49.19 Realization functors and grading collapse — p. 1658
+  - 49.20 Norm-residue and motivic cohomology interfaces — p. 1660
+  - 49.21 Coefficients, localization, and completion — p. 1660
+  - 49.22 Stabilization proof architecture — p. 1661
+  - 49.23 Detailed nonexamples and invalid shortcuts — p. 1662
+  - 49.24 Model and theorem passports — p. 1662
+  - 49.25 Bounded research and formalization programs — p. 1662
+  - 49.26 Open and quarantined boundaries — p. 1665
+  - 49.27 Worked stable calculations — p. 1665
+  - 49.28 Preservation matrix for model comparisons — p. 1669
+  - 49.29 Exact theorem-scope matrix — p. 1669
+  - 49.30 Source ledger and claim concordance — p. 1670
+  - 49.31 Stable output interfaces — p. 1671
+  - 49.32 Represented cohomology and exactness — p. 1672
+  - 49.33 Invertibility, dualizability, compactness, and cellularity — p. 1674
+  - 49.34 Effective, connective, and filtered stable worlds — p. 1674
+  - 49.35 Base change, fibers, and classical comparison — p. 1676
+  - 49.36 Operational verification workflow — p. 1677
+  - 49.37 Comparison with triangulated motives in detail — p. 1678
+  - 49.38 Additional integration and source obligations — p. 1680
+  - 49.39 Worked convention translations — p. 1680
+  - 49.40 Closing synthesis — p. 1682
+- Chapter 50. Norm-residue theorem dependency architecture — p. 1685
+  - Structural and mathematical principles — p. 1685
+  - 50.0 Chapter contract and epistemic partition — p. 1686
+  - 50.1 Ownership and neighboring boundaries — p. 1687
+  - 50.2 Exact source dossier and locator policy — p. 1687
+  - 50.3 The theorem passport — p. 1688
+  - 50.4 Milnor K-theory modulo ell — p. 1691
+  - 50.5 Galois cohomology and the twisted target — p. 1692
+  - 50.6 Construction and naturality of the Galois symbol — p. 1693
+  - 50.7 Roots of unity: theorem hypothesis versus proof reduction — p. 1694
+  - 50.8 Valuations, residues, and the field-to-scheme interface — p. 1694
+  - 50.9 Motivic cohomology as the comparison corridor — p. 1695
+  - 50.10 The dependency graph at theorem scale — p. 1695
+  - 50.11 Induction, Beilinson–Lichtenbaum, and Hilbert 90 — p. 1696
+  - 50.12 Prime-primary reductions and ell-special fields — p. 1696
+  - 50.13 Symbols, splitting varieties, and norm varieties — p. 1696
+  - 50.14 The Čech simplicial scheme and reduced motive — p. 1698
+  - 50.15 Special correspondences and Rost motives — p. 1699
+  - 50.16 Motivic cohomology operations — p. 1700
+  - 50.17 How the difficult nodes close the induction — p. 1700
+  - 50.18 Characteristic domains and portability — p. 1700
+  - 50.19 The mod-two corridor — p. 1700
+  - 50.20 The odd-prime corridor — p. 1702
+  - 50.21 Coefficient ladders: prime, prime power, composite, and completion — p. 1702
+  - 50.22 Consequences on the field diagonal — p. 1703
+  - 50.23 Examples that test the passports — p. 1703
+  - 50.24 Global comparison and unramified cohomology — p. 1704
+  - 50.25 Implications that do follow — p. 1705
+  - 50.26 Nonconverses and statements not supplied — p. 1705
+  - 50.27 Dependency failure modes — p. 1706
+  - 50.28 Atomic claim ledger — p. 1706
+  - 50.29 A machine-readable architecture without proof inflation — p. 1707
+  - 50.30 Consolidated dependency architecture — p. 1707
+  - 50.31 Hypothesis matrices — p. 1707
+  - 50.32 Exact functorial squares — p. 1711
+  - 50.33 Residue complexes and the meaning of unramified — p. 1712
+  - 50.34 Geometry-node audit — p. 1714
+  - 50.35 Operation-node audit — p. 1714
+  - 50.36 Consequence and nonconverse matrix — p. 1714
+  - 50.37 Historical dependency without hero compression — p. 1716
+  - 50.38 Formalization and computational boundaries — p. 1716
+  - 50.39 Source-to-node concordance — p. 1716
+  - 50.40 Root descent as a model dependency calculation — p. 1718
+  - 50.41 Closing boundary — p. 1719
+- Chapter 51. Realization functors — p. 1721
+  - Structural and mathematical principles — p. 1721
+  - 51.0 Locked contract and epistemic grammar — p. 1722
+  - 51.1 Ownership boundaries and neighboring interfaces — p. 1723
+  - 51.2 Exact chapter-local source dossier — p. 1723
+  - 51.3 Realization passports and four categorical heights — p. 1724
+  - 51.4 Source categories: pure, triangulated, and relative — p. 1727
+  - 51.5 Target passports and loss fields — p. 1728
+  - 51.6 Betti realization — p. 1729
+  - 51.7 Finite étale and ell-adic realizations — p. 1729
+  - 51.8 Algebraic de Rham realization — p. 1730
+  - 51.9 Crystalline and isocrystalline realization — p. 1732
+  - 51.10 Hodge and mixed Hodge realization — p. 1732
+  - 51.11 From cohomology theories to pure motive functors — p. 1734
+  - 51.12 Mixed-Weil realizations of constructible Beilinson motives — p. 1734
+  - 51.13 Monoidal compatibility, twists, and projectors — p. 1734
+  - 51.14 Exactness, t-structures, weights, and filtrations — p. 1736
+  - 51.15 Six-operation compatibility as a typed family — p. 1737
+  - 51.16 Comparison maps and their exact nonimplications — p. 1737
+  - 51.17 Conservativity, faithfulness, fullness, and essential image — p. 1739
+  - 51.18 Worked typed examples — p. 1739
+  - 51.19 Counterexamples and inference firewalls — p. 1743
+  - 51.20 Machine records for claims and comparisons — p. 1743
+  - 51.21 Research frontiers and unresolved boundaries — p. 1744
+  - 51.22 Source lineage and theorem transport — p. 1744
+  - 51.23 Export contracts — p. 1746
+  - 51.24 Closing synthesis — p. 1752
+- Chapter 52. Motivic six operations and open frontiers — p. 1755
+  - Structural and mathematical principles — p. 1755
+  - 52.0 Locked contract, purpose, and atomic status discipline — p. 1756
+  - 52.1 Ownership and adjacent chapter boundaries — p. 1757
+  - 52.2 Exact source dossier and locator policy — p. 1757
+  - 52.3 Universes, geometry, and coefficient fibers — p. 1757
+  - 52.4 What the six operations assert — p. 1760
+  - 52.5 Construction variant A: Cisinski–Déglise motivic triangulated categories — p. 1762
+  - 52.6 Construction variant B: presentable coefficient systems — p. 1763
+  - 52.7 Construction variant C: rational Beilinson motives — p. 1764
+  - 52.8 Construction variant D: stable motivic homotopy — p. 1765
+  - 52.9 Construction variant E: Ayoub’s quasi-projective formalism — p. 1765
+  - 52.10 Localization and support — p. 1767
+  - 52.11 Base change and exchange transformations — p. 1768
+  - 52.12 Projection formulas and tensor-Hom mates — p. 1769
+  - 52.13 Proper comparison and compact support — p. 1770
+  - 52.14 Smooth purity, Thom twists, and orientations — p. 1771
+  - 52.15 Absolute purity and singular boundaries — p. 1771
+  - 52.16 Constructible motives and operation-by-operation preservation — p. 1772
+  - 52.17 Verdier duality in the licensed Beilinson domain — p. 1772
+  - 52.18 Continuity through noetherian affine limits — p. 1773
+  - 52.19 Realization interfaces — p. 1774
+  - 52.20 Realization faces and exchange compatibility — p. 1775
+  - 52.21 Coefficient changes — p. 1776
+  - 52.22 Worked compatibility examples — p. 1777
+  - 52.23 Failure cases and nonimplications — p. 1779
+  - 52.24 Higher coherence — p. 1780
+  - 52.25 Open frontier I: integral coefficients and absolute purity — p. 1781
+  - 52.26 Open frontier II: constructibility and duality over broad bases — p. 1781
+  - 52.27 Open frontier III: stacks, equivariance, and derived geometry — p. 1781
+  - 52.28 Open frontier IV: realization, conservativity, and missing faces — p. 1781
+  - 52.29 Open frontier V: norms, transfers, and multiplicative refinement — p. 1781
+  - 52.30 Open frontier VIII: computational and formal verification — p. 1781
+  - 52.31 Nonimplication ledger — p. 1788
+  - 52.32 Atomic established-claim ledger — p. 1789
+  - 52.33 Synthesis, definition, research, quarantine, and obligation ledgers — p. 1789
+  - 52.34 Source ledger — p. 1795
+  - 52.35 Part VI handoff and closing synthesis — p. 1796
+- Chapter 53. Infinity-Categories and Equivalence — p. 1799
+  - Structural and mathematical principles — p. 1799
+  - 53.0 Scope, status, and transformation record — p. 1800
+  - 53.1 Why categorical height must rise — p. 1800
+  - 53.2 The quasicategory model — p. 1800
+  - 53.3 Alternative presentations and model independence — p. 1804
+  - 53.4 Mapping spaces and the homotopy category — p. 1809
+  - 53.5 Equivalences of morphisms, objects, and infinity-categories — p. 1809
+  - 53.6 Homotopy coherent diagrams — p. 1815
+  - 53.7 Universal properties at higher height — p. 1818
+  - 53.8 Examples and negative controls — p. 1818
+  - 53.9 Bridge to higher topoi — p. 1818
+  - 53.10 Bridge to GMLS: equivalence-aware mathematical language — p. 1818
+  - 53.11 Formalization boundary and open obligations — p. 1823
+  - 53.12 Established theorem spine and exact source dossier — p. 1825
+- Chapter 54. Limits, Colimits, and Adjunctions at Higher Height — p. 1832
+  - Structural and mathematical principles — p. 1832
+  - 54.0 Scope, boundary, status, and transformation record — p. 1833
+  - 54.1 Why universal constructions must rise in height — p. 1835
+  - 54.2 Diagrams, joins, cones, and the infinity-categories of cones — p. 1835
+  - 54.3 Basic shapes and what their higher universal properties say — p. 1838
+  - 54.4 Computation principles, functor categories, and representables — p. 1838
+  - 54.5 Cofinality and coinitiality — p. 1838
+  - 54.6 Adjunctions at higher height — p. 1844
+  - 54.7 Kan extensions as relative universal constructions — p. 1844
+  - 54.8 Model-independent statements and model-aware proofs — p. 1851
+  - 54.9 Presentability prerequisites, and no more — p. 1851
+  - 54.10 Examples, nonexamples, and diagnostic tests — p. 1851
+  - 54.11 Interfaces to higher topoi — p. 1851
+  - 54.12 GAI-MUA bridge: a Higher Universal Construction Record — p. 1851
+  - 54.13 Formalization boundary and open obligations — p. 1858
+  - 54.14 Established theorem spine and exact source dossier — p. 1861
+  - 54.15 Production metrics and completion ledger — p. 1863
+- Chapter 55. Infinity-groupoids and spaces — p. 1872
+  - Structural and mathematical principles — p. 1872
+  - 55.0 Chapter contract, status ledger, and trace — p. 1873
+  - 55.1 From horns to infinity-groupoids — p. 1874
+  - 55.2 Spaces, equivalences, and the scoped homotopy hypothesis — p. 1874
+  - 55.3 Mapping spaces and based homotopy — p. 1877
+  - 55.4 Truncation, connectivity, and Postnikov interfaces — p. 1877
+  - 55.5 Model comparisons and invariance audits — p. 1883
+  - 55.6 Limits in spaces — p. 1889
+  - 55.7 Colimits in spaces — p. 1889
+  - 55.8 Proof maps for deep equivalences — p. 1889
+  - 55.9 Examples and nonexamples — p. 1901
+  - 55.10 Why the homotopy category loses coherence — p. 1901
+  - 55.11 Interfaces with Chapters 53, 54, and 56 — p. 1901
+  - 55.12 GAI-MUA records and bounded machine interfaces — p. 1907
+  - 55.13 Figure notes — p. 1909
+  - 55.14 Theorem spine and chapter-local source dossier — p. 1910
+  - 55.15 Summary, obligations, and questions — p. 1912
+- Chapter 56. Higher topoi and hyperdescent — p. 1922
+  - Structural and mathematical principles — p. 1922
+  - 56.0 Scope, epistemic convention, and chapter contract — p. 1923
+  - 56.1 The pressure: locality after sets and groupoids — p. 1923
+  - 56.2 Universe, size, and accessibility discipline — p. 1925
+  - 56.3 Infinity-sites and sheaves of spaces — p. 1928
+  - 56.4 Čech descent as a higher limit — p. 1928
+  - 56.5 Infinity-topoi: extrinsic definition — p. 1932
+  - 56.6 Intrinsic recognition: higher Giraud axioms — p. 1933
+  - 56.7 Geometric morphisms and variance — p. 1937
+  - 56.8 Hypercovers — p. 1938
+  - 56.9 Hypercompletion — p. 1938
+  - 56.10 Descent versus hyperdescent — p. 1943
+  - 56.11 Postnikov towers and convergence caveats — p. 1947
+  - 56.12 Examples and comparison corridors — p. 1947
+  - 56.13 Nonhypercomplete and failure phenomena — p. 1947
+  - 56.14 Proof maps for HTT-level results — p. 1947
+  - 56.15 Preservation and loss ledger — p. 1952
+  - 56.16 Transformation record and figure notes — p. 1952
+  - 56.17 Exact source dossier and theorem spine — p. 1956
+  - 56.18 Formalization, certification, and review obligations — p. 1960
+  - 56.19 Summary — p. 1960
+- Chapter 57. Presentability and accessible localization — p. 1965
+  - Structural and mathematical principles — p. 1965
+  - 57.0 Chapter contract, status discipline, and trace — p. 1966
+  - 57.1 The pressure: large categories must remain generated and testable — p. 1966
+  - 57.2 Filteredness and cardinal-compact objects — p. 1968
+  - 57.3 Ind-completions — p. 1968
+  - 57.4 Accessible infinity-categories — p. 1968
+  - 57.5 Cardinal change and sharply larger ranks — p. 1971
+  - 57.6 Presentable infinity-categories — p. 1971
+  - 57.7 Accessible functors and compact control — p. 1973
+  - 57.8 Reflective and accessible localizations — p. 1973
+  - 57.9 Adjoint functor theorem variants — p. 1976
+  - 57.10 Examples and calculations — p. 1979
+  - 57.11 Nonexamples and failure modes — p. 1979
+  - 57.12 Preservation, loss, and return paths — p. 1979
+  - 57.13 Interfaces with Chapters 53–56 and the later firewall — p. 1984
+  - 57.14 GAI-MUA records and figure notes — p. 1986
+  - 57.15 Exact source dossier and theorem spine — p. 1988
+  - 57.16 Representative proof maps — p. 1992
+  - 57.17 Formalization and review obligations — p. 1992
+  - 57.18 Summary — p. 1995
+- Chapter 58. Derived algebraic geometry — p. 1998
+  - Structural and mathematical principles — p. 1998
+  - 58.0 Chapter contract, scope, and atomic status — p. 1999
+  - 58.1 Why ordinary fiber products are not enough — p. 1999
+  - 58.2 Universes, grading, and ambient categories — p. 2001
+  - 58.3 Three algebraic presentations and the characteristic boundary — p. 2002
+  - 58.4 Derived affine schemes — p. 2004
+  - 58.5 The cotangent complex — p. 2006
+  - 58.6 Derived fiber products and intersections — p. 2008
+  - 58.7 Representative intersection calculations — p. 2009
+  - 58.8 Cotangent calculations and tangent complexes — p. 2011
+  - 58.9 Square-zero extensions and deformation–obstruction theory — p. 2014
+  - 58.10 Truncation and classical recovery — p. 2018
+  - 58.11 Gluing affine pieces into derived schemes — p. 2019
+  - 58.12 Representability interfaces — p. 2021
+  - 58.13 Preservation and loss ledger — p. 2022
+  - 58.14 Failure boundaries and negative controls — p. 2023
+  - 58.15 GAI-MUA bounded records — p. 2023
+  - 58.16 Figure notes: FIG-V2-058 — p. 2027
+  - 58.17 Established theorem spine and exact source dossier — p. 2027
+  - 58.18 Formalization and review obligations — p. 2032
+  - 58.19 Summary — p. 2034
+- Chapter 59. Structured infinity-topoi — p. 2037
+  - Structural and mathematical principles — p. 2037
+  - 59.0 Chapter contract, ownership, and atomic status — p. 2038
+  - 59.1 The pressure: a sheaf of objects is not yet a geometry — p. 2038
+  - 59.2 Geometries and admissibility structures — p. 2040
+  - 59.3 Structures on an infinity-topos — p. 2041
+  - 59.4 Local factorization — p. 2042
+  - 59.5 Structured infinity-topoi and variance — p. 2042
+  - 59.6 Pregeometries — p. 2042
+  - 59.7 Transformations, Morita equivalence, and geometric envelopes — p. 2045
+  - 59.8 Classifying infinity-topoi — p. 2047
+  - 59.9 Relative spectra and scheme objects — p. 2047
+  - 59.10 Classical recovery — p. 2050
+  - 59.11 Derived and spectral interfaces without preemption — p. 2050
+  - 59.12 Preservation and loss ledger — p. 2050
+  - 59.13 Nonexamples and failure modes — p. 2054
+  - 59.14 Representative proof maps and diagnostics — p. 2054
+  - 59.15 GAI-MUA records, machine boundary, and figure — p. 2060
+  - 59.16 Exact source dossier and atomic theorem spine — p. 2063
+  - 59.17 Formalization and review obligations — p. 2067
+  - 59.18 Summary — p. 2068
+- Chapter 60. Spectral algebraic geometry — p. 2071
+  - Structural and mathematical principles — p. 2071
+  - 60.0 Chapter contract, ownership, and status discipline — p. 2072
+  - 60.1 Why spectra change algebraic geometry — p. 2072
+  - 60.2 Two universes and grading conventions — p. 2074
+  - 60.3 E infinity-rings and their classical shadows — p. 2074
+  - 60.4 Modules, tensor products, and spectral sequences — p. 2076
+  - 60.5 Spectral affine schemes — p. 2077
+  - 60.6 Spectral schemes and locality — p. 2080
+  - 60.7 Étale maps and rigidity — p. 2081
+  - 60.8 Spectral fiber products and two base-sensitive calculations — p. 2083
+  - 60.9 Cotangent complexes and topological André–Quillen theory — p. 2086
+  - 60.10 Square-zero extensions and spectral deformation theory — p. 2088
+  - 60.11 Classical truncation and spectral recovery — p. 2089
+  - 60.12 Noetherian and finiteness conditions — p. 2091
+  - 60.13 Examples and nonexamples — p. 2091
+  - 60.14 Interface with structured topoi and higher moduli — p. 2095
+  - 60.15 Preservation and loss ledger — p. 2096
+  - 60.16 Failure boundaries and negative controls — p. 2097
+  - 60.17 GAI-MUA bounded records — p. 2097
+  - 60.18 Figure notes: FIG-V2-060 — p. 2100
+  - 60.19 Exact source dossier and theorem spine — p. 2100
+  - 60.20 Machine, source, and review obligations — p. 2104
+  - 60.21 Summary and non-preemption statement — p. 2107
+- Chapter 61. Higher stacks and moduli — p. 2110
+  - Structural and mathematical principles — p. 2110
+  - 61.0 Chapter contract, ownership, and atomic status — p. 2111
+  - 61.1 Why moduli must retain automorphisms — p. 2111
+  - 61.2 Prestacks, stacks, and hyperdescent — p. 2111
+  - 61.3 Geometric contexts and representable morphisms — p. 2111
+  - 61.4 The geometricity ladder — p. 2114
+  - 61.5 Atlases, diagonals, and localic height — p. 2115
+  - 61.6 Classifying stacks — p. 2115
+  - 61.7 Quotient stacks — p. 2115
+  - 61.8 Moduli functors and tangent theory — p. 2115
+  - 61.9 Algebraicity and representability interfaces — p. 2119
+  - 61.10 Examples of moduli stacks — p. 2122
+  - 61.11 Nonexamples and failure boundaries — p. 2122
+  - 61.12 Preservation and loss ledger — p. 2122
+  - 61.13 Representative proof maps — p. 2129
+  - 61.14 Interfaces and non-preemption — p. 2129
+  - 61.15 GAI-MUA records and allocated figure — p. 2129
+  - 61.16 Exact source dossier and theorem spine — p. 2129
+  - 61.17 Formalization and review obligations — p. 2140
+  - 61.18 Summary — p. 2142
+- Chapter 62. Coherence compilers and formalization boundaries — p. 2144
+  - Structural and mathematical principles — p. 2144
+  - 62.0 Locked contract, chapter boundary, and atomic status — p. 2145
+  - 62.1 What a coherence compiler is required to compile — p. 2146
+  - 62.2 Established semantic substrate — p. 2147
+  - 62.3 The typed compiler input — p. 2147
+  - 62.4 Typing judgments and elaboration — p. 2150
+  - 62.5 The compiler pipeline as typed transformations — p. 2153
+  - 62.6 Coherence obligations as extension and lifting problems — p. 2153
+  - 62.7 Witness calculus — p. 2153
+  - 62.8 Obligation graph and claim closure — p. 2157
+  - 62.9 Normal forms and preservation contracts — p. 2158
+  - 62.10 Theorem licenses and exact source use — p. 2158
+  - 62.11 Compiler soundness and its exact limits — p. 2161
+  - 62.12 Machine interface and immutable receipt — p. 2161
+  - 62.13 Proof-assistant and formalization boundary — p. 2164
+  - 62.14 Failure taxonomy and counterexamples — p. 2165
+  - 62.15 Worked compiler designs — p. 2166
+  - 62.16 Non-preemption, trust, and theorem-versus-program boundary — p. 2169
+  - 62.17 Exact source dossier and claim map — p. 2172
+  - 62.18 Obligations, allocated-figure disposition, and duplicate recovery — p. 2174
+  - 62.19 Final contract — p. 2175
+- Chapter 63. Nonarchimedean and Adic Preliminaries — p. 2178
+  - Structural and mathematical principles — p. 2178
+  - 63.0 Chapter contract — p. 2179
+  - 63.1 Valuations as geometric points — p. 2179
+  - 63.2 f-adic rings, Tate rings, and boundedness — p. 2179
+  - 63.3 Huber pairs — p. 2187
+  - 63.4 The adic spectrum — p. 2188
+  - 63.5 Structure presheaves and the sheaf boundary — p. 2190
+  - 63.6 Examples and nonexamples — p. 2198
+  - 63.7 Proof architecture — p. 2201
+  - 63.8 Interface to perfectoid spaces — p. 2203
+  - 63.9 Computational world descriptors — p. 2205
+  - 63.10 Exact source ledger — p. 2206
+  - 63.11 Open obligations — p. 2211
+- Chapter 64. Perfectoid Fields — p. 2213
+  - Structural and mathematical principles — p. 2213
+  - 64.0 Chapter contract — p. 2214
+  - 64.1 Rank-one nondiscrete complete fields — p. 2215
+  - 64.2 Perfectoid criteria — p. 2217
+  - 64.3 Frobenius on K- circ /p — p. 2222
+  - 64.4 Construction of the tilt — p. 2223
+  - 64.5 Value groups, residue fields, and valuations — p. 2230
+  - 64.6 Examples — p. 2233
+  - 64.7 Nonexamples and failure diagnostics — p. 2237
+  - 64.8 Field-level tilting theorems and proof scope — p. 2239
+  - 64.9 Untilts: the later boundary — p. 2243
+  - 64.10 Perfectoid transformation records — p. 2245
+  - 64.11 Exact source ledger — p. 2249
+  - 64.12 Stable trace and claim ledger — p. 2251
+  - 64.13 Stable obligations and revision closure — p. 2254
+  - 64.14 Chapter execution record — p. 2256
+- Chapter 65. Perfectoid Algebras and Spaces — p. 2259
+  - Structural and mathematical principles — p. 2259
+  - 65.0 Chapter contract — p. 2260
+  - 65.1 The inherited adic interface — p. 2260
+  - 65.2 Perfectoid Tate rings: the intrinsic analytic convention — p. 2261
+  - 65.3 Perfectoid algebras over a perfectoid field — p. 2262
+  - 65.4 Characteristic-p geometry — p. 2264
+  - 65.5 Mixed-characteristic examples and nonexamples — p. 2264
+  - 65.6 Perfectoid affinoid algebras — p. 2269
+  - 65.7 Rational localization — p. 2271
+  - 65.8 Sheaf and cohomology interfaces — p. 2276
+  - 65.9 Perfectoid spaces and affinoid gluing — p. 2276
+  - 65.10 Morphisms and local algebra — p. 2276
+  - 65.11 Foundational theorem spine — p. 2283
+  - 65.12 Valuation and topology audit — p. 2283
+  - 65.13 Preservation and loss ledger — p. 2283
+  - 65.14 Dependency preview for tilting — p. 2289
+  - 65.15 Relation to the transformation kernel — p. 2290
+  - 65.16 GAI-MUA perfectoid chart certificate — p. 2290
+  - 65.17 Figure notes — p. 2293
+  - 65.18 Exact source ledger — p. 2293
+  - 65.19 Summary — p. 2295
+  - 65.20 Obligations and review gates — p. 2295
+- Chapter 66. Tilting and untilting — p. 2299
+  - Structural and mathematical principles — p. 2299
+  - 66.0 Chapter contract, scope, and epistemic key — p. 2300
+  - 66.1 Perfectoid hypotheses and the direction of travel — p. 2301
+  - 66.2 The multiplicative inverse limit — p. 2302
+  - 66.3 Tilting perfectoid fields — p. 2303
+  - 66.4 Untilting and the Witt-vector presentation — p. 2305
+  - 66.5 Perfectoid algebras and the tilting equivalence — p. 2308
+  - 66.6 Valuations and rational subsets — p. 2310
+  - 66.7 Finite étale categories and absolute Galois groups — p. 2312
+  - 66.8 Tilting perfectoid spaces — p. 2315
+  - 66.9 Nonuniqueness of untilts — p. 2316
+  - 66.10 A disciplined interface to the Fargues–Fontaine curve — p. 2319
+  - 66.11 Relative and functorial boundaries — p. 2319
+  - 66.12 Preservation, loss, and failure ledgers — p. 2320
+  - 66.13 GAI-MUA transformation and dependency trace — p. 2324
+  - 66.14 Exact source ledger — p. 2326
+  - 66.15 Notation and topology audit — p. 2329
+  - 66.16 Figure notes — p. 2329
+  - 66.17 Summary — p. 2331
+  - 66.18 Obligations — p. 2331
+- Chapter 67. Almost purity in the perfectoid setting — p. 2334
+  - Structural and mathematical principles — p. 2334
+  - 67.0 Chapter contract — p. 2335
+  - 67.1 The declared almost setup — p. 2336
+  - 67.2 Perfectoid input and generic-fiber finite étaleness — p. 2338
+  - 67.3 The perfectoid almost-purity theorem — p. 2338
+  - 67.4 Finite étale versus almost finite étale — p. 2340
+  - 67.5 Integral models — p. 2340
+  - 67.6 Representative proof mechanisms — p. 2340
+  - 67.7 Tilting interaction — p. 2344
+  - 67.8 Examples where the theorem is visible — p. 2344
+  - 67.9 What is not genuinely étale — p. 2344
+  - 67.10 Descent — p. 2344
+  - 67.11 Ramification boundaries — p. 2351
+  - 67.12 Additional examples and nonexamples — p. 2351
+  - 67.13 Proof-responsibility and formalization maps — p. 2351
+  - 67.14 Preservation, loss, and failure ledgers — p. 2357
+  - 67.15 Exact source ledger — p. 2360
+  - 67.16 Atomic status, notation, and universe audit — p. 2363
+  - 67.17 Figure notes — p. 2363
+  - 67.18 Summary and obligations — p. 2364
+- Chapter 68. The pro-etale topology — p. 2368
+  - Structural and mathematical principles — p. 2368
+  - 68.0 Chapter contract — p. 2369
+  - 68.1 Why enlarge the etale topology? — p. 2369
+  - 68.2 Pro-objects with size control — p. 2371
+  - 68.3 The corrected pro-etale site — p. 2371
+  - 68.4 Pro-finite etale objects and the point case — p. 2371
+  - 68.5 Quasicompactness, coherence, and bases — p. 2371
+  - 68.6 Affinoid perfectoid objects on the pro-etale site — p. 2371
+  - 68.7 The perfectoid torus tower — p. 2371
+  - 68.8 Additional examples and nonexamples — p. 2371
+  - 68.9 Structural sheaves on the pro-etale site — p. 2371
+  - 68.10 Etale/pro-etale comparison — p. 2371
+  - 68.11 Cohomological calculations and proof maps — p. 2371
+  - 68.12 Relative and functorial behavior — p. 2383
+  - 68.13 The scheme-theoretic pro-etale comparison — p. 2383
+  - 68.14 Preservation, loss, and failure ledgers — p. 2383
+  - 68.15 Machine-readable obligations — p. 2389
+  - 68.16 Exact source ledger — p. 2389
+  - 68.17 Atomic status, notation, topology, and universe audit — p. 2392
+  - 68.19 Summary and obligations — p. 2392
+- Chapter 69. Period sheaves — p. 2396
+  - Structural and mathematical principles — p. 2396
+  - 69.0 Chapter contract — p. 2397
+  - 69.1 Structural input from the pro-etale site — p. 2398
+  - 69.2 The Witt entrance: A inf and B inf — p. 2398
+  - 69.3 The de Rham period sheaves — p. 2398
+  - 69.4 Values and cohomology on affinoid perfectoid objects — p. 2403
+  - 69.5 Structural de Rham period sheaves — p. 2406
+  - 69.6 Connection, filtration, and local coordinates — p. 2406
+  - 69.7 The period-sheaf Poincare lemma — p. 2406
+  - 69.8 Hodge–Tate graded sheaves — p. 2406
+  - 69.9 The crystalline and semistable boundary — p. 2413
+  - 69.10 Examples — p. 2415
+  - 69.11 Nonexamples and invalid constructions — p. 2415
+  - 69.12 Functoriality, descent, and comparison interfaces — p. 2415
+  - 69.13 Representative proof maps — p. 2424
+  - 69.14 Machine records, invariants, and failures — p. 2425
+  - 69.15 Research and status boundaries — p. 2428
+  - 69.16 Exact source ledger — p. 2428
+  - 69.17 Figure notes — p. 2431
+  - 69.18 Summary and machine obligations — p. 2432
+- Chapter 70. Diamonds — p. 2435
+  - Structural and mathematical principles — p. 2435
+  - 70.0 Chapter contract — p. 2436
+  - 70.1 The ambient site of perfectoid spaces — p. 2436
+  - 70.2 Definition of a diamond — p. 2436
+  - 70.3 First examples — p. 2436
+  - 70.4 What a diamond is not — p. 2436
+  - 70.5 Diamonds are v-sheaves — p. 2436
+  - 70.6 The underlying topological space — p. 2436
+  - 70.7 Spatial diamonds — p. 2436
+  - 70.8 Morphisms of diamonds — p. 2436
+  - 70.9 Diamondification of analytic adic spaces — p. 2436
+  - 70.10 Quotient examples and failure cases — p. 2446
+  - 70.11 Representative quotient calculations — p. 2446
+  - 70.12 Relative and functorial boundaries — p. 2446
+  - 70.13 Spatial geometry and examples — p. 2446
+  - 70.14 Machine certificates — p. 2446
+  - 70.15 Preservation, loss, and failure ledgers — p. 2446
+  - 70.16 Proof and formalization architecture — p. 2457
+  - 70.17 Exact source ledger — p. 2457
+  - 70.18 Atomic status, notation, and universe audit — p. 2462
+  - 70.20 Summary and obligations — p. 2463
+- Chapter 71. v-sheaves and v-descent — p. 2466
+  - Structural and mathematical principles — p. 2466
+  - 71.0 Chapter contract — p. 2467
+  - 71.1 The v-site — p. 2468
+  - 71.2 v-sheaves and sheafification — p. 2468
+  - 71.3 v-cohomology of structural sheaves — p. 2473
+  - 71.4 v-stacks and descent data — p. 2473
+  - 71.5 Effective descent for affinoid perfectoid spaces — p. 2475
+  - 71.6 Descent for pro-etale and etale objects — p. 2477
+  - 71.7 Examples of v-covers and v-sheaves — p. 2479
+  - 71.8 Diamonds, v-sheaves, and v-stacks — p. 2479
+  - 71.9 Effective descent as a theorem, not a slogan — p. 2479
+  - 71.10 Examples of descent calculations — p. 2484
+  - 71.11 Nonexamples and failure boundaries — p. 2484
+  - 71.12 Proof-responsibility architecture — p. 2484
+  - 71.13 Machine certificates — p. 2491
+  - 71.14 Preservation, loss, and failure ledgers — p. 2491
+  - 71.15 Exact source ledger — p. 2494
+  - 71.16 Atomic status and bounded research — p. 2497
+  - 71.17 Figure notes — p. 2497
+  - 71.18 Summary and obligations — p. 2497
+- Chapter 72. Quotients, moduli, and perfectoid transformation records — p. 2501
+  - Structural and mathematical principles — p. 2501
+  - 72.0 Chapter contract — p. 2502
+  - 72.1 Three quotient levels — p. 2504
+  - 72.2 Diamond quotient certificates — p. 2504
+  - 72.3 Group actions: free quotients and stacky quotients — p. 2504
+  - 72.4 The untilt quotient Spd Qp — p. 2504
+  - 72.5 Degree-one divisors and the quotient Div-1 — p. 2511
+  - 72.6 The moduli stack BunG — p. 2511
+  - 72.7 Infinite-level Rapoport–Zink moduli — p. 2515
+  - 72.8 Part-level perfectoid transformation records — p. 2517
+  - 72.9 Proof-responsibility architecture — p. 2522
+  - 72.10 Worked examples and diagnostics — p. 2523
+  - 72.11 Failure and nonexample ledger — p. 2523
+  - 72.12 Preservation, loss, and recovery ledgers — p. 2525
+  - 72.13 Universe, source, and portability audits — p. 2528
+  - 72.14 Exact source dossier — p. 2528
+  - 72.15 Atomic status and bounded formalization — p. 2533
+  - 72.16 Figure notes — p. 2533
+  - 72.17 Obligations and admission gates — p. 2534
+  - 72.18 Closing synthesis — p. 2534
+- Chapter 73. Integral p-adic Hodge Theory — p. 2538
+  - Structural and mathematical principles — p. 2538
+  - 73.1 Scope, status, and prerequisites — p. 2539
+  - 73.2 The rational comparison corridor — p. 2540
+  - 73.3 What rationalization destroys — p. 2542
+  - 73.4 Historical transformation: from period isomorphisms to an integral mediator — p. 2546
+  - 73.5 Why A inf appears — p. 2547
+  - 73.6 The A inf-cohomology theorem — p. 2549
+  - 73.7 Almost purity and the décalage correction — p. 2552
+  - 73.8 Integral consequences and their exact hypotheses — p. 2552
+  - 73.9 Examples and diagnostic tests — p. 2555
+  - 73.10 What the theorem does not say — p. 2558
+  - 73.11 Dependency map — p. 2560
+  - 73.12 Interface to prismatic comparison certificates — p. 2560
+  - 73.13 Source dossier — p. 2560
+  - 73.14 Closing synthesis — p. 2563
+- Chapter 74. A inf and Comparison Complexes — p. 2565
+  - Structural and mathematical principles — p. 2565
+  - 74.1 Chapter contract, scope, and epistemic control — p. 2566
+  - 74.2 The tilt and the Witt-vector coefficient ring — p. 2567
+  - 74.3 Cyclotomic coordinates: epsilon, mu, and xi — p. 2569
+  - 74.4 Period-ring interfaces — p. 2572
+  - 74.5 The décalage operation L eta — p. 2574
+  - 74.6 The A Omega construction — p. 2576
+  - 74.7 The local q-de Rham complex — p. 2579
+  - 74.8 The BMS comparison complexes — p. 2582
+  - 74.9 Derived specialization and torsion calculations — p. 2584
+  - 74.10 Completeness, non-Noetherianity, and failure boundaries — p. 2588
+  - 74.11 Preservation and loss ledger — p. 2589
+  - 74.12 Stable dependencies and reserved handoffs — p. 2592
+  - 74.13 Proposed comparison-complex record — p. 2593
+  - 74.14 Notation audit — p. 2593
+  - 74.15 Source concordance and obligations — p. 2594
+  - 74.16 Chapter summary — p. 2596
+- Chapter 75. Delta-rings — p. 2599
+  - Structural and mathematical principles — p. 2599
+  - 75.1 Scope, status, and chapter contract — p. 2600
+  - 75.2 The identities of a p-derivation — p. 2601
+  - 75.3 Frobenius lifts and the p-torsion caveat — p. 2604
+  - 75.4 Basic calculations — p. 2605
+  - 75.5 Morphisms, ideals, quotients, and localization — p. 2607
+  - 75.6 Examples — p. 2609
+  - 75.7 Nonexamples and diagnostic failures — p. 2611
+  - 75.8 Free and universal constructions — p. 2612
+  - 75.9 Witt-vector interfaces — p. 2614
+  - 75.10 The delta-structure on A inf — p. 2616
+  - 75.11 Completion and topology — p. 2619
+  - 75.12 Derived boundary — p. 2620
+  - 75.13 Representative theorem proofs and proof maps — p. 2620
+  - 75.14 Transformation and dependency trace — p. 2620
+  - 75.15 Preservation and loss ledger — p. 2623
+  - 75.16 Notation audit — p. 2624
+  - 75.17 Figure disposition — p. 2624
+  - 75.18 Exact source dossier — p. 2624
+  - 75.19 Obligations and admission checks — p. 2627
+  - 75.20 Closing synthesis — p. 2629
+- Chapter 76. Prisms and bounded prisms — p. 2631
+  - Structural and mathematical principles — p. 2631
+  - 76.1 Chapter contract, scope, and status discipline — p. 2632
+  - 76.2 Cartier divisors in affine algebra — p. 2633
+  - 76.3 Derived (p,I)-completeness — p. 2635
+  - 76.4 Prisms and their morphisms — p. 2636
+  - 76.5 Orientability, orientations, and distinguished elements — p. 2637
+  - 76.6 Bounded prisms — p. 2638
+  - 76.7 Crystalline prisms — p. 2639
+  - 76.8 Breuil–Kisin prisms — p. 2640
+  - 76.9 The A inf prism — p. 2641
+  - 76.10 The q-crystalline prism — p. 2642
+  - 76.11 Perfect prisms and perfection — p. 2643
+  - 76.12 Rigidity of morphisms — p. 2643
+  - 76.13 Base change and completion boundaries — p. 2644
+  - 76.14 Counterexamples and diagnostic nonexamples — p. 2647
+  - 76.15 Representative calculations and proof maps — p. 2648
+  - 76.16 Notation and convention audit — p. 2651
+  - 76.17 Preservation and loss ledger — p. 2653
+  - 76.18 Failure ledger — p. 2653
+  - 76.19 V2 transformation and dependency trace — p. 2654
+  - 76.20 Proposed bounded-prism record — p. 2656
+  - 76.21 Exact source dossier, source proof map, and obligations — p. 2656
+  - 76.22 Chapter summary — p. 2659
+- Chapter 77. Prismatic sites — p. 2661
+  - Structural and mathematical principles — p. 2661
+  - 77.1 Chapter contract, scope, and epistemic discipline — p. 2662
+  - 77.2 The prism interface needed by the site — p. 2663
+  - 77.3 Complete flatness and the covering predicate — p. 2664
+  - 77.4 The relative prismatic site — p. 2665
+  - 77.5 Structure, reduction, and ideal sheaves — p. 2667
+  - 77.6 Why the topology and sheaves exist — p. 2667
+  - 77.7 The absolute prismatic site — p. 2668
+  - 77.8 Affine, perfect, oriented, and derived boundaries — p. 2669
+  - 77.9 Crystalline, Breuil–Kisin, and perfectoid examples — p. 2670
+  - 77.10 Functoriality in the formal scheme — p. 2672
+  - 77.11 Functoriality in the base prism and completed base change — p. 2672
+  - 77.12 The morphism to the étale topos — p. 2674
+  - 77.13 Comparison of prismatic topologies — p. 2675
+  - 77.14 Crystals and exact descent conditions — p. 2677
+  - 77.15 Representative proofs and proof maps — p. 2680
+  - 77.16 Failure modes and rejection tests — p. 2682
+  - 77.17 Trace, preservation, and downstream interface — p. 2683
+  - 77.18 Figure notes — p. 2686
+  - 77.19 Notation and universe audit — p. 2686
+  - 77.20 Exact source dossier and concordance — p. 2687
+  - 77.21 Obligations and downstream admission checks — p. 2688
+  - 77.22 Closing synthesis — p. 2690
+- Chapter 78. Prismatic cohomology — p. 2692
+  - Structural and mathematical principles — p. 2692
+  - 78.1 Chapter contract, corrected budget, and non-preemption boundary — p. 2693
+  - 78.2 Imported ringed-site interface — p. 2694
+  - 78.3 Definition of the prismatic complex — p. 2696
+  - 78.4 Multiplication, cup products, and connective structure — p. 2696
+  - 78.5 Functoriality and variance — p. 2697
+  - 78.6 Sheaf localization and hypercohomology — p. 2698
+  - 78.7 The point calculation — p. 2699
+  - 78.8 Affine computation by prismatic envelopes — p. 2700
+  - 78.9 Completed base change — p. 2701
+  - 78.10 Frobenius and its linearization — p. 2703
+  - 78.11 The Nygaard filtration — p. 2704
+  - 78.12 Properness and perfectness — p. 2706
+  - 78.13 Cohomology with prismatic coefficients — p. 2706
+  - 78.14 Derived prismatic cohomology beyond smooth algebras — p. 2707
+  - 78.15 Examples and controlled calculations — p. 2708
+  - 78.16 Counterexamples and diagnostic nonexamples — p. 2709
+  - 78.17 Representative proof maps — p. 2711
+  - 78.18 Preservation and loss ledger — p. 2714
+  - 78.19 Failure ledger — p. 2715
+  - 78.20 V2 traces, dependencies, and machine obligations — p. 2715
+  - 78.21 Proposed prismatic-cohomology record — p. 2718
+  - 78.22 Figure notes — p. 2718
+  - 78.23 Exact source dossier and obligations — p. 2719
+  - 78.24 Chapter summary — p. 2721
+- Chapter 79. Hodge-Tate, de Rham, crystalline, and etale comparisons — p. 2722
+  - Structural and mathematical principles — p. 2722
+  - 79.1 Chapter contract, corrected budget, and non-preemption — p. 2723
+  - 79.2 Imported prismatic interface and notation — p. 2724
+  - 79.3 The four exits are four different operations — p. 2725
+  - 79.4 Hodge–Tate comparison — p. 2726
+  - 79.5 De Rham comparison — p. 2727
+  - 79.6 Crystalline comparison — p. 2729
+  - 79.7 Étale comparison — p. 2730
+  - 79.8 The A inf example and recovery of integral comparisons — p. 2732
+  - 79.9 The Breuil–Kisin example as a hypothesis audit — p. 2732
+  - 79.10 Compatibility, naturality, and multiplicative level — p. 2733
+  - 79.11 A smooth proper example and the global spectral sequences — p. 2735
+  - 79.12 Comparison casebook — p. 2736
+  - 79.13 Representative proof maps — p. 2739
+  - 79.14 Preservation and loss ledger — p. 2741
+  - 79.15 Failure ledger — p. 2742
+  - 79.16 Diagnostic nonexamples — p. 2742
+  - 79.17 Machine obligations without interface pre-emption — p. 2744
+  - 79.18 Stable traces and dependency closure — p. 2744
+  - 79.19 Local definitions and bounded research direction — p. 2747
+  - 79.20 Notation audit — p. 2747
+  - 79.21 Exact source dossier — p. 2747
+  - 79.22 Source proof map and originality boundary — p. 2750
+  - 79.23 Admission obligations and rejection tests — p. 2751
+  - 79.24 Chapter summary — p. 2752
+- Chapter 80. Prismatic comparison fans and formal interfaces — p. 2754
+  - Structural and mathematical principles — p. 2754
+  - 80.1 Chapter contract, corrected budget, and explicit non-preemption — p. 2755
+  - 80.2 Imported prismatic core — p. 2756
+  - 80.3 The comparison fan — p. 2758
+  - 80.4 The Hodge–Tate edge — p. 2760
+  - 80.5 The de Rham edge — p. 2761
+  - 80.6 The crystalline edge — p. 2761
+  - 80.7 The étale edge — p. 2762
+  - 80.8 Edge gates as a hypothesis lattice — p. 2762
+  - 80.9 Base-change corridors — p. 2763
+  - 80.10 Compatibility cells — p. 2764
+  - 80.11 Preservation ledger — p. 2765
+  - 80.12 Loss and nonconservativity ledger — p. 2766
+  - 80.13 Example fan: the base point — p. 2767
+  - 80.14 Example fan: the A inf corridor — p. 2768
+  - 80.15 Example fan: the Breuil–Kisin base — p. 2768
+  - 80.16 Example fan: crystalline coefficients — p. 2769
+  - 80.17 Counterexamples and rejection cases — p. 2770
+  - 80.18 Formal validation semantics — p. 2771
+  - 80.19 Comparison certificate and audit record — p. 2774
+  - 80.20 Machine obligations and failure ledger — p. 2777
+  - 80.21 Proof maps and audit examples — p. 2777
+  - 80.22 V2 trace and downstream boundary — p. 2781
+  - 80.23 Exact source dossier — p. 2783
+  - 80.24 Obligations and admission checks — p. 2784
+  - 80.25 Chapter summary — p. 2785
+- Chapter 81. Extremally disconnected test objects — p. 2787
+  - Structural and mathematical principles — p. 2787
+  - 81.1 Chapter contract, corrected budget, and explicit boundaries — p. 2788
+  - 81.2 Ambient categories and categorical projectivity — p. 2789
+  - 81.3 Topological extremal disconnectedness — p. 2790
+  - 81.4 Gleason’s projectivity theorem — p. 2791
+  - 81.5 Boolean-algebra characterization — p. 2792
+  - 81.6 Stone–Čech compactifications as basic examples — p. 2793
+  - 81.7 Every compact Hausdorff space has an extremally disconnected cover — p. 2794
+  - 81.8 Minimal projective covers — p. 2794
+  - 81.9 Closure properties and sharp nonclosure results — p. 2795
+  - 81.10 Convergent sequences and metrizable nonexamples — p. 2796
+  - 81.11 The kappa-small test category — p. 2797
+  - 81.12 Split covers and descent simplification — p. 2798
+  - 81.13 Why the test objects are sufficient — p. 2799
+  - 81.14 Examples and construction patterns — p. 2801
+  - 81.15 Nonexamples and diagnostic failures — p. 2803
+  - 81.16 Representative proof maps — p. 2805
+  - 81.17 Categorical consequences for testing — p. 2806
+  - 81.18 Machine obligations and failure semantics — p. 2807
+  - 81.19 Preservation and loss ledger — p. 2809
+  - 81.20 Failure ledger — p. 2810
+  - 81.21 Stable traces and dependency boundary — p. 2810
+  - 81.22 Chapter-local certification definition and research direction — p. 2812
+  - 81.23 Figure notes — p. 2812
+  - 81.24 Notation and terminology audit — p. 2813
+  - 81.25 Exact source dossier — p. 2813
+  - 81.26 Source proof architecture and originality boundary — p. 2815
+  - 81.27 Admission obligations and rejection tests — p. 2816
+  - 81.28 Chapter summary — p. 2816
+- Chapter 82. Condensed sets — p. 2818
+  - Structural and mathematical principles — p. 2818
+  - 82.1 Chapter contract, corrected budget, and non-preemption — p. 2819
+  - 82.2 The cardinal-bounded pro-étale site of a point — p. 2820
+  - 82.3 Condensed sets and the explicit descent equations — p. 2822
+  - 82.4 Compact Hausdorff presentation — p. 2823
+  - 82.5 Extremally disconnected presentation — p. 2824
+  - 82.6 Cardinal enlargement — p. 2826
+  - 82.7 Topological spaces as condensed sets — p. 2827
+  - 82.8 Topological realization of a condensed set — p. 2829
+  - 82.9 Representables and the condensed Yoneda embedding — p. 2830
+  - 82.10 Discrete sets — p. 2831
+  - 82.11 Categorical structure of condensed sets — p. 2832
+  - 82.12 Projective probes and generators — p. 2835
+  - 82.13 Examples — p. 2837
+  - 82.14 Nonexamples and forbidden shortcuts — p. 2839
+  - 82.15 Representative proof maps — p. 2839
+  - 82.16 Detailed descent calculations — p. 2842
+  - 82.17 Preservation and loss ledger — p. 2844
+  - 82.18 Failure ledger — p. 2845
+  - 82.19 Trace and dependency boundary — p. 2846
+  - 82.20 Chapter-local condensed-set certificate — p. 2848
+  - 82.21 Notation audit — p. 2849
+  - 82.22 Exact source dossier — p. 2850
+  - 82.23 Obligations and admission checks — p. 2852
+  - 82.24 Chapter summary — p. 2853
+- Chapter 83. Condensed abelian groups — p. 2855
+  - Structural and mathematical principles — p. 2855
+  - 83.0 Chapter contract — p. 2856
+  - 83.1 The site and the group-valued sheaf condition — p. 2857
+  - 83.2 Extremally disconnected tests — p. 2857
+  - 83.3 Free condensed abelian groups — p. 2857
+  - 83.4 Compact projective generators — p. 2857
+  - 83.5 Condensed groups from topological groups — p. 2857
+  - 83.6 Examples internal to condensed mathematics — p. 2857
+  - 83.7 Limits, colimits, and the boundary to exactness — p. 2857
+  - 83.8 Tensor product — p. 2857
+  - 83.9 Internal Hom — p. 2857
+  - 83.10 Compact projective calculations — p. 2857
+  - 83.11 Morphisms, subobjects, and quotients — p. 2857
+  - 83.12 Further examples and nonexamples — p. 2857
+  - 83.13 Change of cardinal and global condensed objects — p. 2857
+  - 83.14 Relation to ordinary algebra and topology — p. 2857
+  - 83.15 Machine certificates — p. 2874
+  - 83.16 Preservation, loss, and failure ledgers — p. 2875
+  - 83.17 Proof and formalization architecture — p. 2876
+  - 83.18 Exact source ledger — p. 2878
+  - 83.19 Atomic status, notation, and universe audit — p. 2881
+  - 83.21 Summary and obligations — p. 2881
+- Chapter 84. Exactness in condensed categories — p. 2884
+  - Structural and mathematical principles — p. 2884
+  - 84.1 Chapter contract, corrected budget, and ownership — p. 2885
+  - 84.2 Two universes and cardinal-bounded categories — p. 2885
+  - 84.3 Imported additive interface — p. 2887
+  - 84.4 The abelian category theorem — p. 2887
+  - 84.5 Kernels, images, and cokernels — p. 2889
+  - 84.6 Epimorphisms and local surjectivity — p. 2890
+  - 84.7 Exactness detected by projective probes — p. 2891
+  - 84.8 Compact projective generators — p. 2893
+  - 84.9 Exact products and direct sums — p. 2895
+  - 84.10 Exact filtered colimits and AB6 — p. 2897
+  - 84.11 Cardinal enlargement and exactness — p. 2898
+  - 84.12 Topological abelian groups and strict exactness — p. 2899
+  - 84.13 Sheafification and exactness — p. 2902
+  - 84.14 Exact and nonexact functors — p. 2903
+  - 84.15 Representative calculations — p. 2904
+  - 84.16 Nonexamples and forbidden inferences — p. 2908
+  - 84.17 Preservation and loss ledger — p. 2908
+  - 84.18 Trace and dependency boundary — p. 2909
+  - 84.19 Chapter-local exactness certificates — p. 2911
+  - 84.20 Notation and variance audit — p. 2913
+  - 84.21 Exact source dossier — p. 2913
+  - 84.22 Obligations and admission checks — p. 2914
+  - 84.23 Chapter summary — p. 2916
+- Chapter 85. Solid modules — p. 2919
+  - Structural and mathematical principles — p. 2919
+  - 85.0. Chapter contract and boundary — p. 2920
+  - 85.1 Inherited interfaces and adjacent ownership — p. 2920
+  - 85.2 The completed free group on a profinite set — p. 2922
+  - 85.3 The Nöbeling–Specker input and measure coordinates — p. 2922
+  - 85.4 Solid abelian groups — p. 2922
+  - 85.5 The solid category theorem — p. 2922
+  - 85.6 Compact projective generators — p. 2928
+  - 85.7 Basic examples — p. 2928
+  - 85.8 Nonexamples and scope boundaries — p. 2928
+  - 85.9 Solid tensor product — p. 2928
+  - 85.10 Solid rings and solid modules — p. 2928
+  - 85.11 Solidification of modules — p. 2928
+  - 85.12 Representative proofs and proof maps — p. 2928
+  - 85.13 Exactness, preservation, and loss — p. 2928
+  - 85.14 Machine-facing records — p. 2944
+  - 85.15 Validation examples and nonexamples — p. 2944
+  - 85.16 Figure notes: FIG-V2-085 — p. 2949
+  - 85.17 Exact source and atomic claim dossier — p. 2950
+  - 85.18 Explicit non-preemption — p. 2952
+  - 85.19 TraceRef — p. 2952
+  - 85.20 Obligations — p. 2954
+  - 85.21 Conclusion — p. 2956
+- Chapter 86. Derived condensed mathematics — p. 2959
+  - Structural and mathematical principles — p. 2959
+  - 86.0. Chapter contract — p. 2960
+  - 86.1 Adjacent ownership and non-preemption — p. 2960
+  - 86.2 The ambient abelian categories — p. 2960
+  - 86.3 Complexes, quasi-isomorphisms, and the derived category — p. 2960
+  - 86.4 Resolution methods — p. 2960
+  - 86.5 Compact projective generators in the derived category — p. 2960
+  - 86.6 Derived tensor product — p. 2960
+  - 86.7 Derived Hom and Ext — p. 2960
+  - 86.8 The standard t-structure and completeness — p. 2960
+  - 86.9 Derived limits and completion — p. 2960
+  - 86.10 Evaluation, descent, and derived detection — p. 2960
+  - 86.11 Compact objects, perfect objects, and dualizability — p. 2960
+  - 86.12 Examples and nonexamples — p. 2960
+  - 86.13 Preservation, loss, and failure ledgers — p. 2960
+  - 86.14 Change of condensed rings and derived base change — p. 2982
+  - 86.15 Homotopy colimits, products, and exactness consequences — p. 2982
+  - 86.16 Representative proof maps — p. 2986
+  - 86.17 Detailed calculations — p. 2986
+  - 86.18 Classical topological categories versus derived condensation — p. 2986
+  - 86.19 Machine-facing records — p. 2995
+  - 86.20 Atomic claim and trace ledger — p. 2995
+  - 86.21 Negative test suite — p. 2997
+  - 86.22 Exact source ledger — p. 2998
+  - 86.23 Obligations and research targets — p. 3000
+  - 86.24 Summary — p. 3001
+- Chapter 87. Analytic rings — p. 3004
+  - Structural and mathematical principles — p. 3004
+  - 87.0 Chapter contract — p. 3005
+  - 87.1 The pressure: topology must determine a module theory — p. 3005
+  - 87.2 Pre-analytic rings — p. 3007
+  - 87.3 The analytic axiom — p. 3008
+  - 87.4 Complete modules — p. 3008
+  - 87.5 Structure theorem for complete modules — p. 3008
+  - 87.6 Derived complete modules — p. 3008
+  - 87.7 Maps of analytic rings and base change — p. 3008
+  - 87.8 Basic examples — p. 3008
+  - 87.9 Animated analytic rings — p. 3008
+  - 87.10 A decisive nonexample over the real numbers — p. 3008
+  - 87.11 Colimits and pushouts — p. 3008
+  - 87.12 Steady maps and localizations — p. 3008
+  - 87.13 Preservation, loss, and failure ledgers — p. 3008
+  - 87.14 Further examples and nonexamples — p. 3026
+  - 87.14A Diagnostic questions — p. 3026
+  - 87.15 Representative proof maps — p. 3026
+  - 87.15A Analytic completeness versus classical completions — p. 3026
+  - 87.16 Machine certificates and trust boundary — p. 3032
+  - 87.17 Figure notes — p. 3032
+  - 87.18 Exact source ledger — p. 3033
+  - 87.19 Obligations and admission — p. 3036
+- Chapter 88. Condensed and analytic geometry interfaces — p. 3039
+  - Structural and mathematical principles — p. 3039
+  - 88.1 Chapter contract, corrected budget, and non-preemption — p. 3040
+  - 88.2 The layered interface — p. 3041
+  - 88.3 From topological spaces to condensed sets — p. 3042
+  - 88.4 A topology-sensitive cokernel — p. 3043
+  - 88.5 Condensed rings versus analytic rings — p. 3044
+  - 88.6 The complete module category — p. 3045
+  - 88.7 Examples of analytic completeness — p. 3046
+  - 88.8 Maps of analytic rings and derived base change — p. 3047
+  - 88.9 Huber pairs as analytic inputs — p. 3047
+  - 88.10 Valuation spectra and rational opens — p. 3048
+  - 88.11 Structure sheaves and discrete adic spaces — p. 3049
+  - 88.12 Scheme-to-adic interfaces — p. 3050
+  - 88.13 Why abelian-level gluing fails — p. 3050
+  - 88.14 Rational localization as a reflective subcategory — p. 3051
+  - 88.15 Localization and base change — p. 3053
+  - 88.16 Intersections and local detection — p. 3054
+  - 88.17 Sheaf of derived analytic module categories — p. 3054
+  - 88.18 The geometric interface record — p. 3056
+  - 88.19 Examples of the interface — p. 3057
+  - 88.20 Nonexamples and failure boundaries — p. 3059
+  - 88.21 Representative proof maps — p. 3059
+  - 88.22 Machine obligations — p. 3062
+  - 88.23 Preservation and loss ledger — p. 3064
+  - 88.24 Failure ledger and obligations — p. 3064
+  - 88.25 Stable traces and dependency closure — p. 3066
+  - 88.26 Bounded research direction — p. 3067
+  - 88.27 Notation audit — p. 3068
+  - 88.28 Exact source dossier — p. 3068
+  - 88.29 Closing synthesis — p. 3070
+- Chapter 89. Proven anabelian reconstruction theorems — p. 3073
+  - Structural and mathematical principles — p. 3073
+  - 89.1 Chapter contract, status partition, and ownership — p. 3074
+  - 89.2 Universes, separable closures, and profinite topology — p. 3075
+  - 89.3 Reconstruction as a theorem-scoped functor — p. 3077
+  - 89.4 The Neukirch–Uchida theorem — p. 3078
+  - 89.5 Proof architecture for number fields — p. 3080
+  - 89.6 Outer ambiguity and uniqueness — p. 3082
+  - 89.7 Pop’s birational reconstruction theorems — p. 3082
+  - 89.8 Worked birational examples — p. 3084
+  - 89.9 Proven curve reconstruction skyline — p. 3085
+  - 89.10 Arithmetic and geometric fundamental groups — p. 3087
+  - 89.11 Finite quotients are probes, not reconstruction — p. 3088
+  - 89.12 Examples of reconstruction and failure — p. 3088
+  - 89.13 Reconstruction mechanisms and their limits — p. 3089
+  - 89.14 Preservation and loss ledger — p. 3090
+  - 89.15 Nonexamples and prohibited inferences — p. 3091
+  - 89.16 The theorem-application certificate — p. 3091
+  - 89.17 Bounded reconstruction probes — p. 3094
+  - 89.18 Figure notes — p. 3094
+  - 89.19 Stable traces and non-preemption — p. 3096
+  - 89.20 Exact source dossier — p. 3097
+  - 89.21 Portable formula and publication audit — p. 3100
+  - 89.22 Formalization and machine obligations — p. 3100
+  - 89.23 Admission obligations — p. 3101
+  - 89.24 Summary — p. 3102
+- Chapter 90. Hyperbolic curves and section problems — p. 3104
+  - Structural and mathematical principles — p. 3104
+  - 90.0 Chapter contract and theorem boundary — p. 3105
+  - 90.1 Adjacent ownership and inherited interfaces — p. 3106
+  - 90.2 Hyperbolic curves — p. 3106
+  - 90.3 The geometric fundamental group — p. 3107
+  - 90.4 The arithmetic fundamental exact sequence — p. 3107
+  - 90.5 Rational points produce sections — p. 3107
+  - 90.6 Grothendieck’s section conjecture — p. 3107
+  - 90.7 Open curves, cusps, and tangential sections — p. 3114
+  - 90.8 Abelianized shadows and Jacobian Kummer theory — p. 3114
+  - 90.9 Local and finite-quotient section tests — p. 3114
+  - 90.10 Birational section problems — p. 3119
+  - 90.11 Examples and nonexamples — p. 3119
+  - 90.12 Reconstruction and section proof maps — p. 3123
+  - 90.13 Preservation and loss ledger — p. 3123
+  - 90.14 Machine-facing records — p. 3124
+  - 90.15 Validation suite — p. 3124
+  - 90.16 Figure notes: FIG-V2-090 — p. 3128
+  - 90.17 Exact source and atomic claim dossier — p. 3130
+  - 90.18 Explicit non-preemption — p. 3133
+  - 90.19 TraceRef — p. 3133
+  - 90.20 Obligations — p. 3134
+  - 90.21 Conclusion — p. 3137
+- Chapter 91. Mochizuki’s established anabelian work — p. 3139
+  - Structural and mathematical principles — p. 3139
+  - 91.0 Chapter contract — p. 3140
+  - 91.1 Arithmetic fundamental groups — p. 3141
+  - 91.2 Relative reconstruction over sub-p-adic fields — p. 3141
+  - 91.3 Proper hyperbolic curves over number fields — p. 3144
+  - 91.4 Filtered reconstruction of p-adic local fields — p. 3146
+  - 91.5 Absolute reconstruction over number fields — p. 3146
+  - 91.6 Absolute logarithmic special-fiber reconstruction — p. 3146
+  - 91.7 Decomposition groups and Galois sections — p. 3146
+  - 91.8 Cuspidalization — p. 3146
+  - 91.9 Examples and diagnostic cases — p. 3146
+  - 91.10 Nonexamples and failure boundaries — p. 3146
+  - 91.11 Preservation and loss ledger — p. 3146
+  - 91.11A Portable formal statement discipline — p. 3157
+  - 91.12 Representative proof architecture — p. 3157
+  - 91.13 GAI-MUA theorem-scoped records — p. 3157
+  - 91.15 Exact source ledger — p. 3161
+  - 91.16 Obligations — p. 3166
+  - 91.17 Summary and admission boundary — p. 3166
+- Chapter 92. Anabelioids and Frobenioids — p. 3169
+  - Structural and mathematical principles — p. 3169
+  - 92.1 Chapter contract, corrected budget, and status firewall — p. 3170
+  - 92.2 Finite continuous actions — p. 3171
+  - 92.3 Connected anabelioids — p. 3174
+  - 92.4 Basepoints and fundamental groups — p. 3174
+  - 92.5 Scheme and field examples — p. 3176
+  - 92.6 Disconnected anabelioids — p. 3178
+  - 92.7 Anabelioid nonexamples and scope boundaries — p. 3179
+  - 92.8 Monoid conventions for Frobenioids — p. 3179
+  - 92.9 Divisor monoids on a base category — p. 3181
+  - 92.10 Elementary Frobenioids — p. 3181
+  - 92.11 The standard one-object calculation — p. 3183
+  - 92.12 Pre-Frobenioids and abstract Frobenioids — p. 3184
+  - 92.13 Morphism taxonomy — p. 3186
+  - 92.14 Reconstruction inside a Frobenioid — p. 3186
+  - 92.15 Geometric Frobenioids — p. 3189
+  - 92.16 Arithmetic Frobenioids — p. 3189
+  - 92.17 Anabelioids as Frobenioid bases — p. 3190
+  - 92.18 Counterexamples and diagnostic nonexamples — p. 3193
+  - 92.19 Representative calculations and proof maps — p. 3193
+  - 92.20 Preservation and loss ledger — p. 3196
+  - 92.21 Failure ledger — p. 3197
+  - 92.22 Trace and ownership boundary — p. 3198
+  - 92.23 Chapter-local certificates — p. 3199
+  - 92.24 Figure notes — p. 3201
+  - 92.25 Exact source dossier — p. 3202
+  - 92.26 Obligations and admission checks — p. 3203
+  - 92.27 Chapter summary — p. 3205
+- Chapter 93. IUT objects and claimed implication graph — p. 3207
+  - Structural and mathematical principles — p. 3207
+  - 93.0 Chapter identifiers and scope — p. 3208
+  - 93.1 Three-plane separation and adjacent ownership — p. 3209
+  - 93.2 The primary four-paper corpus — p. 3209
+  - 93.3 Graph semantics — p. 3211
+  - 93.4 Initial theta data — p. 3211
+  - 93.5 Hodge theaters — p. 3214
+  - 93.6 Theta-links — p. 3214
+  - 93.7 Log-links, log-shells, and the log-theta-lattice — p. 3216
+  - 93.8 Multiradiality, monoids, and indeterminacies — p. 3216
+  - 93.9 The source-asserted log-volume corridor — p. 3220
+  - 93.10 IUT IV and claimed Diophantine consequences — p. 3222
+  - 93.11 The claimed implication graph — p. 3222
+  - 93.12 Graph invariants and proof obligations — p. 3227
+  - 93.13 Examples and nonexamples — p. 3228
+  - 93.14 Consequence firewall and ledgers — p. 3228
+  - 93.15 Reconstruction interfaces inside the source graph — p. 3232
+  - 93.16 Set-theoretic species and type discipline — p. 3234
+  - 93.17 Proof-obligation maps — p. 3234
+  - 93.18 Machine-facing records — p. 3234
+  - 93.18A Formal replay versus mathematical proof — p. 3234
+  - 93.19 Figure notes: FIG-V2-093 — p. 3240
+  - 93.20 Exact source ledger — p. 3242
+  - 93.21 Atomic claims and TraceRef — p. 3244
+  - 93.22 Obligations and research targets — p. 3247
+  - 93.23 Mutation and firewall test suite — p. 3250
+  - 93.23A Toy graph for status logic — p. 3251
+  - 93.24 Summary — p. 3251
+- Chapter 94. Published critiques, responses, and current status — p. 3253
+  - Structural and mathematical principles — p. 3253
+  - 94.0 Chapter identifiers and scope — p. 3254
+  - 94.1 Adjacent ownership and the three-plane firewall — p. 3256
+  - 94.2 Status methodology — p. 3257
+  - 94.3 The classical conjecture nodes — p. 3258
+  - 94.4 Publication facts — p. 3258
+  - 94.5 The March 2018 discussions and source set — p. 3259
+  - 94.6 The Scholze–Stix critique position — p. 3259
+  - 94.7 Mochizuki’s response position — p. 3260
+  - 94.8 The disagreement graph — p. 3261
+  - 94.9 Expository parsing and its limits — p. 3262
+  - 94.10 Kirti Joshi’s 2025 report — p. 3262
+  - 94.11 Mochizuki’s October 2025 status report — p. 3263
+  - 94.12 Project LANA interim report, July 2026 — p. 3263
+  - 94.13 Current status decision — p. 3265
+  - 94.14 Evidence strength and admissibility — p. 3266
+  - 94.15 Exact critique-target semantics — p. 3267
+  - 94.16 Examples and nonexamples — p. 3269
+  - 94.17 Proof-obligation maps — p. 3269
+  - 94.18 Machine-facing evidence records — p. 3273
+  - 94.19 Machine obligations and failure semantics — p. 3274
+  - 94.20 Failure ledger — p. 3277
+  - 94.21 Figure notes — p. 3278
+  - 94.22 Stable traces and dependency closure — p. 3280
+  - 94.23 Exact source dossier — p. 3281
+  - 94.24 Obligations and admission checks — p. 3283
+  - 94.25 Closing status statement — p. 3285
+- Chapter 95. Shimura varieties and special subvarieties — p. 3287
+  - Structural and mathematical principles — p. 3287
+  - 95.0 Chapter contract — p. 3288
+  - 95.1 Inherited world and mathematical pressure — p. 3290
+  - 95.2 Source dossier and locator policy — p. 3293
+  - 95.3 Deligne’s torus and rational Hodge structures — p. 3294
+  - 95.4 Shimura data — p. 3294
+  - 95.5 Finite-level Shimura varieties — p. 3295
+  - 95.6 Algebraicity and compactification — p. 3295
+  - 95.7 Reflex fields and canonical models — p. 3295
+  - 95.8 Mumford–Tate groups and Hodge tensors — p. 3299
+  - 95.9 Special points — p. 3299
+  - 95.10 Special subvarieties — p. 3300
+  - 95.11 Weakly special subvarieties — p. 3300
+  - 95.12 Hecke maps and correspondences — p. 3302
+  - 95.13 The modular-curve laboratory — p. 3302
+  - 95.14 The Siegel modular variety — p. 3304
+  - 95.15 Hilbert, quaternionic, and Hodge-type examples — p. 3304
+  - 95.16 Special versus weakly special: exact comparison — p. 3304
+  - 95.17 André–Oort statement and status partition — p. 3306
+  - 95.18 Functional-transcendence boundary — p. 3308
+  - 95.19 Preservation, gain, and loss — p. 3309
+  - 95.20 Examples, nonexamples, and refuted promotions — p. 3309
+  - 95.21 Machine records and bounded formalization — p. 3309
+  - 95.22 Figure contract and lineage — p. 3313
+  - 95.23 Open obligations — p. 3316
+  - 95.24 Portable PDF and DOCX contract — p. 3317
+  - 95.25 Closing synthesis — p. 3318
+- Chapter 96. Pila-Zannier strategy — p. 3320
+  - Structural and mathematical principles — p. 3320
+  - 96.0 Chapter contract — p. 3321
+  - 96.1 O-minimality and definable sets — p. 3323
+  - 96.2 Pila–Wilkie counting — p. 3323
+  - 96.3 Uniformization and definable fundamental domains — p. 3327
+  - 96.4 Arithmetic complexity and Galois lower bounds — p. 3327
+  - 96.5 Functional transcendence — p. 3327
+  - 96.6 The strategy as an exponent contradiction — p. 3330
+  - 96.7 Pila–Zannier and Manin–Mumford — p. 3332
+  - 96.8 Modular-curve prototype — p. 3334
+  - 96.9 Strategy refinements — p. 3334
+  - 96.10 Nonexamples and failure modes — p. 3338
+  - 96.11 Preservation and loss ledger — p. 3338
+  - 96.12 Representative proof architecture — p. 3339
+  - 96.13 Machine records — p. 3341
+  - 96.14 Figure notes — p. 3343
+  - 96.15 Exact source dossier — p. 3344
+  - 96.16 Atomic claim map — p. 3344
+  - 96.17 Status ledger and open obligations — p. 3346
+  - 96.18 Downstream trace and conclusion — p. 3348
+- Chapter 97. Galois-orbit estimates and Colmez inputs — p. 3350
+  - Structural and mathematical principles — p. 3350
+  - 97.0 Chapter contract — p. 3351
+  - 97.1 The arithmetic lower branch — p. 3351
+  - 97.2 CM fields, types, orders, and complexity — p. 3354
+  - 97.3 Reciprocity, class groups, and the orbit image — p. 3354
+  - 97.4 Faltings height as the analytic-arithmetic bridge — p. 3354
+  - 97.5 The averaged Colmez theorem — p. 3354
+  - 97.6 From the average formula to a subpolynomial height bound — p. 3360
+  - 97.7 The isogeny bridge — p. 3360
+  - 97.8 From the primitive full-ring theorem to general CM points — p. 3364
+  - 97.9 Examples — p. 3364
+  - 97.10 Nonexamples and forbidden promotions — p. 3364
+  - 97.11 Exact dependency architecture — p. 3364
+  - 97.12 Atomic claim ledger — p. 3370
+  - 97.13 Source concordance — p. 3370
+  - 97.14 Formalization limits and machine records — p. 3370
+  - 97.15 Failure taxonomy — p. 3375
+  - 97.16 Figure notes and lineage — p. 3375
+  - 97.17 Obligations — p. 3376
+  - 97.18 Handoff summary — p. 3377
+- Chapter 98. Tsimerman and André-Oort for Ag — p. 3379
+  - Structural and mathematical principles — p. 3379
+  - 98.0 Chapter contract — p. 3380
+  - 98.1 The theorem endpoint — p. 3380
+  - 98.2 Objects, complexities, and fields — p. 3380
+  - 98.3 The dependency graph — p. 3384
+  - 98.4 The arithmetic input imported from Chapter 97 — p. 3385
+  - 98.5 Polynomial height for pre-special lifts — p. 3385
+  - 98.6 Definability on a Siegel fundamental set — p. 3385
+  - 98.7 Bounded-degree counting — p. 3385
+  - 98.8 Hyperbolic Ax–Lindemann — p. 3385
+  - 98.9 The induction on maximal special subvarieties — p. 3385
+  - 98.10 Complete proof spine — p. 3392
+  - 98.11 Examples — p. 3392
+  - 98.12 Nonexamples and failure boundaries — p. 3392
+  - 98.13 Preservation, loss, and effectivity profile — p. 3392
+  - 98.14 Machine-readable theorem assembly — p. 3398
+  - 98.15 Source dossier — p. 3400
+  - 98.16 Atomic claim ledger — p. 3400
+  - 98.17 Figure notes and lineage — p. 3403
+  - 98.18 Status separation — p. 3403
+  - 98.19 Obligations — p. 3403
+  - 98.20 Handoff and conclusion — p. 3407
+- Chapter 99. Source-audited comparison corridors — p. 3408
+  - Structural and mathematical principles — p. 3408
+  - 99.0 Chapter contract — p. 3409
+  - 99.1 Comparison is a typed relation — p. 3409
+  - 99.2 Corridor passports and firewalls — p. 3411
+  - 99.3 Classical corridor: projective GAGA — p. 3414
+  - 99.4 Higher corridor: sheaves, hyperdescent, hypercompletion — p. 3415
+  - 99.5 Perfectoid-prismatic corridor — p. 3416
+  - 99.6 Condensed and analytic corridor — p. 3418
+  - 99.7 Anabelian reconstruction corridor — p. 3418
+  - 99.8 IUT-status corridor — p. 3418
+  - 99.9 Arithmetic-moduli corridor — p. 3418
+  - 99.10 Cross-corridor nonimplications — p. 3418
+  - 99.11 Atomic claim ledger — p. 3422
+  - 99.12 Exact source dossier — p. 3424
+  - 99.13 Figure notes and lineage — p. 3427
+  - 99.14 Obligations and handoff — p. 3427
+- Chapter 100. Weight-aware invariant registries — p. 3430
+  - Structural and mathematical principles — p. 3430
+  - 100.1 Contract, scope, and adjacent boundaries — p. 3431
+  - 100.2 Why a registry is mathematically necessary — p. 3431
+  - 100.3 Universe and carrier discipline — p. 3432
+  - 100.4 Established source spine — p. 3433
+  - 100.5 The invariant-entry normal form — p. 3435
+  - 100.6 Filtration records — p. 3435
+  - 100.7 Weight assertions and purity witnesses — p. 3437
+  - 100.8 Monodromy records — p. 3437
+  - 100.9 Perverse shift records — p. 3438
+  - 100.10 Compatibility certificates and Chapter 99 — p. 3439
+  - 100.11 Loss certificates — p. 3439
+  - 100.12 Well-formedness and admission gates — p. 3441
+  - 100.13 Worked registry examples — p. 3443
+  - 100.14 Failure atlas — p. 3445
+  - 100.15 Bounded automation without proof inflation — p. 3445
+  - 100.16 Atomic claim and status ledger — p. 3447
+  - 100.17 Trace records — p. 3448
+  - 100.18 Chapter-local source concordance — p. 3449
+  - 100.19 Open obligations — p. 3449
+  - 100.20 Closing synthesis — p. 3453
+- Chapter 101. Almost-exactness profiles — p. 3454
+  - Structural and mathematical principles — p. 3454
+  - 101.0 Chapter contract — p. 3455
+  - 101.1 The inherited pressure and the transformation — p. 3458
+  - 101.2 Basic setup and hypothesis tiers — p. 3459
+  - 101.3 Three exact notions that must not be conflated — p. 3460
+  - 101.4 Localization, almost elements, and return functors — p. 3461
+  - 101.5 Preservation profile — p. 3463
+  - 101.6 Loss and return profile — p. 3464
+  - 101.7 Worked examples — p. 3465
+  - 101.8 Nonexamples and refuted inferences — p. 3467
+  - 101.9 Faltings and perfectoid interfaces — p. 3467
+  - 101.10 Condensed exactness comparison — p. 3468
+  - 101.11 Interfaces to Chapters 100 and 102 — p. 3469
+  - 101.12 Machine profile schema — p. 3470
+  - 101.13 Argument cards and mutation suite — p. 3471
+  - 101.14 Exact source dossier — p. 3474
+  - 101.15 Obligations and rejection gates — p. 3475
+  - 101.16 Chapter summary — p. 3476
+- Chapter 102. Higher-coherence compilation — p. 3478
+  - Structural and mathematical principles — p. 3478
+  - 102.0 Locked contract, thesis, and atomic status — p. 3479
+  - 102.1 Ownership and non-preemption — p. 3479
+  - 102.2 Source dossier and convention map — p. 3480
+  - 102.3 Trace, universes, and chapter record — p. 3481
+  - 102.4 The semantic target: functor infinity-categories — p. 3482
+  - 102.5 Homotopy-coherent presentations — p. 3482
+  - 102.6 Typed input language — p. 3482
+  - 102.7 Normalization and obligation generation — p. 3486
+  - 102.8 Finite presentations and infinite obligations — p. 3486
+  - 102.9 Model invariance — p. 3488
+  - 102.10 Compiler, checker, and authority boundaries — p. 3488
+  - 102.11 Compilation example: associativity and theorem compression — p. 3490
+  - 102.12 Compilation example: adjunctions and mapping spaces — p. 3490
+  - 102.13 Compilation example: a Beck–Chevalley grid — p. 3491
+  - 102.14 Compilation example: model-aware strict diagrams — p. 3492
+  - 102.15 Failure and negative-control matrix — p. 3492
+  - 102.16 Machine certificates — p. 3493
+  - 102.17 Bounded research program — p. 3493
+  - 102.18 Atomic established-claim map — p. 3495
+  - 102.19 Figure notes — p. 3496
+  - 102.20 Obligations and closure conditions — p. 3497
+  - 102.21 Operational closure checklist — p. 3498
+  - 102.22 Summary — p. 3500
+- Chapter 103. Perfectoid-prismatic dependency maps — p. 3501
+  - Structural and mathematical principles — p. 3501
+  - 103.0 Chapter contract and non-preemption boundary — p. 3502
+  - 103.1 Typed dependency-map semantics — p. 3502
+  - 103.2 Perfectoid input nodes — p. 3504
+  - 103.3 Tilting and untilting dependencies — p. 3505
+  - 103.4 Almost-purity and the return edge — p. 3506
+  - 103.5 The A inf coefficient node — p. 3507
+  - 103.6 From Frobenius to delta — p. 3508
+  - 103.7 Prism nodes and their gates — p. 3509
+  - 103.8 Site and cohomology dependencies — p. 3510
+  - 103.9 The four comparison edges — p. 3511
+  - 103.10 End-to-end proof maps — p. 3513
+  - 103.11 Examples, nonexamples, and mutation tests — p. 3514
+  - 103.12 Failure routes — p. 3515
+  - 103.13 Machine dependency-map certificate — p. 3515
+  - 103.14 Atomic claims, traces, and universes — p. 3518
+  - 103.15 Exact source dossier — p. 3520
+  - 103.16 Obligations, rejection gates, and closure — p. 3522
+- Chapter 104. Condensed-completion certificates — p. 3525
+  - Structural and mathematical principles — p. 3525
+  - 104.0 Chapter contract — p. 3526
+  - 104.1 Why “complete” is not a type — p. 3526
+  - 104.2 The four completion worlds — p. 3526
+  - 104.3 The completion-certificate schema — p. 3526
+  - 104.4 Solidification certificates — p. 3526
+  - 104.5 Analytic-completion certificates — p. 3533
+  - 104.6 Ideal-derived completion and comparison hypotheses — p. 3533
+  - 104.7 Localization, base change, and analytic-ring interfaces — p. 3533
+  - 104.8 Preservation and loss matrix — p. 3536
+  - 104.9 Examples, nonexamples, and failure routes — p. 3537
+  - 104.10 Validation and composition — p. 3539
+  - 104.11 Atomic claim ledger — p. 3542
+  - 104.12 Exact source dossier — p. 3542
+  - 104.13 Figure notes and lineage — p. 3542
+  - 104.14 Obligations and handoff — p. 3542
+- Chapter 105. Anabelian reconstruction benchmarks — p. 3547
+  - Structural and mathematical principles — p. 3547
+  - 105.0 Chapter contract and epistemic firewall — p. 3548
+  - 105.1 Adjacent ownership and non-preemption — p. 3548
+  - 105.2 Universes, arrows, and benchmark semantics — p. 3548
+  - 105.3 Common reconstruction benchmark passport — p. 3550
+  - 105.4 Field reconstruction family — p. 3550
+  - 105.5 Hyperbolic-curve reconstruction family — p. 3550
+  - 105.6 Decomposition, inertia, and local-recognition family — p. 3550
+  - 105.7 Section benchmark family — p. 3550
+  - 105.8 Anabelioid benchmark family — p. 3550
+  - 105.9 Frobenioid benchmark family — p. 3550
+  - 105.10 Cross-family adversarial suite — p. 3550
+  - 105.11 Rigorous benchmark examples and nonexamples — p. 3550
+  - 105.12 Scoring, regression, and failure certificates — p. 3550
+  - 105.13 Bounded research program — p. 3550
+  - 105.14 Atomic claim and objection ledger — p. 3550
+  - 105.15 Trace records and dependency lineage — p. 3562
+  - 105.16 Figure notes — p. 3565
+  - 105.17 Exact source dossier — p. 3565
+  - 105.18 Obligations and admission boundary — p. 3568
+- Chapter 106. IUT evidence and dispute graphs — p. 3571
+  - Structural and mathematical principles — p. 3571
+  - 106.0 Chapter contract — p. 3572
+  - 106.1 Why an evidence graph is necessary — p. 3572
+  - 106.2 Typed node system — p. 3572
+  - 106.3 Typed edges and their proof effects — p. 3572
+  - 106.4 Importing the Chapter 93 claim graph — p. 3575
+  - 106.5 Published definitions, claims, and accepted prerequisites — p. 3576
+  - 106.6 Versioned evidence chronology — p. 3576
+  - 106.7 The Scholze–Stix objection graph — p. 3577
+  - 106.8 Mochizuki’s counterposition graph — p. 3578
+  - 106.9 Later evidence without status shortcuts — p. 3579
+  - 106.10 The localized compatibility obligation — p. 3579
+  - 106.11 Prohibited inference edges — p. 3581
+  - 106.12 Examples and nonexamples — p. 3581
+  - 106.13 Query semantics and first-gap computation — p. 3581
+  - 106.14 Machine records and epistemic-firewall certificates — p. 3581
+  - 106.15 Mutation and rejection tests — p. 3586
+  - 106.16 Exact source dossier — p. 3586
+  - 106.17 Atomic claims and status ledger — p. 3588
+  - 106.18 TraceRef, ownership, and non-preemption — p. 3589
+  - 106.19 Obligations — p. 3590
+  - 106.20 Closing firewall — p. 3591
+- Chapter 107. Arithmetic-moduli strategy graphs — p. 3594
+  - Structural and mathematical principles — p. 3594
+  - 107.0 Chapter contract — p. 3595
+  - 107.1 What a strategy graph means — p. 3595
+  - 107.2 Canonical Pila–Zannier graph — p. 3598
+  - 107.3 The Ag theorem graph — p. 3599
+  - 107.4 Theorem, conditional, and research edges — p. 3599
+  - 107.5 Strategy passports — p. 3599
+  - 107.6 Examples — p. 3604
+  - 107.7 Counterexamples to invalid graph rules — p. 3604
+  - 107.8 Validation algorithm and failure certificates — p. 3604
+  - 107.9 Preservation and loss profile — p. 3607
+  - 107.10 Exact source dossier — p. 3610
+  - 107.11 Atomic claim map — p. 3611
+  - 107.12 Obligations and handoff — p. 3611
+- Chapter 108. The modern mathematical substrate of GAI-MUA — p. 3614
+  - Structural and mathematical principles — p. 3614
+  - 108.1 Final-synthesis contract and ownership boundary — p. 3615
+  - 108.2 The substrate is federated, not falsely unified — p. 3616
+  - 108.3 Universes, sizes, and the outer type language — p. 3616
+  - 108.4 The normalized substrate interface — p. 3618
+  - 108.5 Machine substrate passport — p. 3619
+  - 108.6 Composition law, status propagation, and first failure — p. 3620
+  - 108.7 Higher and derived interfaces — p. 3621
+  - 108.8 Perfectoid and prismatic interfaces — p. 3621
+  - 108.9 Condensed, solid, and completion interfaces — p. 3623
+  - 108.10 Anabelian reconstruction and the IUT firewall — p. 3624
+  - 108.11 Arithmetic-moduli strategy interface — p. 3625
+  - 108.12 Cross-domain worked examples — p. 3626
+  - 108.13 Failure atlas and nonexamples — p. 3627
+  - 108.14 Preservation and loss calculus — p. 3628
+  - 108.15 Atomic claim ledger — p. 3629
+  - 108.16 Foundation, transformation, and chapter traces — p. 3629
+  - 108.17 Exact source dossier — p. 3632
+  - 108.18 Obligations and admission gates — p. 3632
+  - 108.19 Volume III non-preemption and export contract — p. 3635
+  - 108.20 Closing synthesis — p. 3636
+- Chapter 109. Primary-source concordance for the collaborator-successor constellation — p. 3638
+  - Structural and mathematical principles — p. 3638
+  - 109.0. Scope, status discipline, and reading rule — p. 3639
+  - 109.1 Concordance objects and responsibility types — p. 3639
+  - 109.2 Edition and container concordance for EGA, SGA, and FGA — p. 3640
+  - 109.3 Grothendieck-authored source spine — p. 3643
+  - 109.4 Collaborator-authored SGA exposés and collective containers — p. 3644
+  - 109.5 Successor theorem concordance across Chapters 2–8 — p. 3646
+  - 109.6 Cross-chapter source map for Part I — p. 3651
+  - 109.7 Source-version cautions — p. 3654
+  - 109.8 Attribution and nonimplication firewall — p. 3656
+  - 109.9 Atomic synthesis, data, and research records — p. 3656
+  - 109.10 Open locator and concordance obligations — p. 3657
+  - 109.11 Primary and supplementary source register — p. 3658
+  - 109.12 Closing concordance — p. 3658
+- Chapter 110. Transformation grammar: typed operators, preservation, and failure — p. 3662
+  - Structural and mathematical principles — p. 3662
+  - 110.0. Contract, scope, and atomic status discipline — p. 3663
+  - 110.1 Typed worlds and partial transformation operators — p. 3663
+  - 110.2 Return paths and preservation strengths — p. 3663
+  - 110.3 The twelve operators at one glance — p. 3665
+  - 110.4 V2-MT-001: compare and filter — p. 3665
+  - 110.5 V2-MT-002: derive and enhance — p. 3665
+  - 110.6 V2-MT-003: almostify negligible error — p. 3665
+  - 110.7 V2-MT-004: localize and motivically stabilize — p. 3665
+  - 110.8 V2-MT-005: higherify and coherify — p. 3665
+  - 110.9 V2-MT-006: tilt across characteristics — p. 3665
+  - 110.10 V2-MT-007: refine locality — p. 3665
+  - 110.11 V2-MT-008: prismatize comparison — p. 3665
+  - 110.12 V2-MT-009: condense and solidify — p. 3665
+  - 110.13 V2-MT-010: reconstruct from anabelian shadows — p. 3665
+  - 110.14 V2-MT-011: combine definable counting with arithmetic geometry — p. 3665
+  - 110.15 V2-MT-012: audit extreme cross-world transport — p. 3665
+  - 110.16 Cross-operator nonimplication matrix — p. 3665
+  - 110.17 Classical-origin and successor-source concordance — p. 3675
+  - 110.18 Exact source register — p. 3676
+  - 110.19 Atomic claim and obligation ledger — p. 3679
+  - 110.20 Closing synthesis — p. 3681
+- Chapter 111. Comparison and realization theorem atlas — p. 3683
+  - Structural and mathematical principles — p. 3683
+  - 111.0 Locked identity, purpose, and status discipline — p. 3684
+  - 111.1 How to read an atlas row — p. 3684
+  - 111.2 FAC and coherent-sheaf finiteness atlas — p. 3686
+  - 111.3 Classical GAGA atlas — p. 3686
+  - 111.4 Pure and mixed Hodge atlas — p. 3689
+  - 111.5 Weil, weight, purity, and monodromy atlas — p. 3692
+  - 111.6 Perverse, purity, and decomposition atlas — p. 3695
+  - 111.7 Tannakian reconstruction atlas — p. 3701
+  - 111.8 Realization and comparison atlas — p. 3704
+  - 111.9 Cross-atlas compatibility matrix — p. 3707
+  - 111.10 Converse-failure atlas — p. 3710
+  - 111.11 Exact source concordance — p. 3710
+  - 111.12 Atomic claim ledger — p. 3716
+  - 111.13 Bounded validation contract — p. 3716
+  - 111.14 Closing synthesis — p. 3719
+- Chapter 112. Representability, deformation, and derived-moduli gate matrix — p. 3721
+  - Structural and mathematical principles — p. 3721
+  - 112.0 Contract, scope, and fail-closed discipline — p. 3722
+  - 112.1 Source and attribution firewall — p. 3723
+  - 112.2 Ambient passport: all later gates depend on these fields — p. 3726
+  - 112.3 Master gate matrix — p. 3728
+  - 112.4 Classical representability: from families to an algebraic target — p. 3728
+  - 112.5 Target-class matrix: schemes, spaces, and stacks — p. 3733
+  - 112.6 Deformation functor matrix: Schlessinger is formal and pointed — p. 3734
+  - 112.7 Cotangent-complex gate: one complex, several typed lifting problems — p. 3735
+  - 112.8 Obstruction-theory gate: target, class, completeness, and effectivity — p. 3737
+  - 112.9 Amplitude matrix: what each interval licenses and what remains open — p. 3739
+  - 112.10 Derived-category and derived-functor gate — p. 3739
+  - 112.11 Derived-intersection gate — p. 3740
+  - 112.12 Classical obstruction theories versus derived enhancements — p. 3741
+  - 112.13 Derived-moduli gate: tests, values, completion, and geometry — p. 3742
+  - 112.14 Cross-framework theorem matrix — p. 3744
+  - 112.15 Worked gate passport I: projective Quot and Hilbert functors — p. 3745
+  - 112.16 Worked gate passport II: relative Picard layers — p. 3747
+  - 112.17 Worked gate passport III: quotient stacks and diagonals — p. 3748
+  - 112.18 Worked gate passport IV: derived zero loci and quasi-smooth charts — p. 3749
+  - 112.19 Effectivity and completion matrix — p. 3749
+  - 112.20 Failure atlas — p. 3750
+  - 112.21 Gate-record normal form — p. 3750
+  - 112.22 End-to-end invocation protocol — p. 3755
+  - 112.23 Atomic claim ledger — p. 3755
+  - 112.24 Primary-source concordance and modern-attribution separation — p. 3756
+  - 112.25 Open obligations — p. 3759
+  - 112.26 Conclusion — p. 3760
+- Chapter 113. p-adic comparison and almost-return compatibility atlas — p. 3762
+  - Structural and mathematical principles — p. 3762
+  - 113.0 Chapter contract and atomic status discipline — p. 3763
+  - 113.1 The atlas grammar: worlds, edges, and obligations — p. 3764
+  - 113.2 Provenance firewall: Grothendieck foundations and successor results — p. 3767
+  - 113.3 Global arithmetic entrance: finiteness and Tate recovery — p. 3771
+  - 113.4 Period-ring coefficient atlas — p. 3773
+  - 113.5 Representation compatibility: admissibility and controlled loss — p. 3774
+  - 113.6 Geometric comparison atlas — p. 3776
+  - 113.7 Faltings topoi as locality mediators — p. 3777
+  - 113.8 Almost categories, purity, and the Gabber–Ramero middle layer — p. 3779
+  - 113.9 Return atlas: from almost conclusions to typed ordinary worlds — p. 3781
+  - 113.10 Integrated hypothesis-exact compatibility atlas — p. 3783
+  - 113.11 Nonconverse and anti-promotion constitution — p. 3784
+  - 113.12 Source concordance and locator states — p. 3788
+  - 113.13 Atomic claim ledger — p. 3788
+  - 113.14 Machine-facing atlas records — p. 3790
+  - 113.15 Integration and validation obligations — p. 3792
+  - 113.16 Closing synthesis — p. 3792
+- Chapter 114. Motivic localization and realization boundary ledger — p. 3795
+  - Structural and mathematical principles — p. 3795
+  - 114.0 Locked contract, scope, and atomic status discipline — p. 3796
+  - 114.1 Ownership, read-only inputs, and non-preemption — p. 3797
+  - 114.2 The classical Grothendieck boundary: cycles, motives, and standard conjectures — p. 3798
+  - 114.3 The global boundary passport — p. 3798
+  - 114.4 Correspondence and transfer boundary — p. 3800
+  - 114.5 Triangulated motives: descent, affine-line localization, and Tate inversion — p. 3801
+  - 114.6 Motivic cohomology: cycle, sheaf, categorical, and étale boundaries — p. 3802
+  - 114.7 Unstable A-1-localization — p. 3803
+  - 114.8 Motivic spectra, bigrading, and the SH-to-DM firewall — p. 3803
+  - 114.9 Norm-residue: a theorem across fields, coefficients, topologies, and residues — p. 3805
+  - 114.10 Realization passports and loss — p. 3805
+  - 114.11 Motivic six operations: typed relative systems — p. 3808
+  - 114.12 Cross-layer localization ledger — p. 3810
+  - 114.13 Base and coefficient boundary matrix — p. 3810
+  - 114.14 Tensor, monoidal, module, and norm boundaries — p. 3811
+  - 114.15 Conservativity and return-path ledger — p. 3811
+  - 114.16 Historical attribution and source chronology — p. 3813
+  - 114.17 Atomic established-claim ledger — p. 3814
+  - 114.18 Quarantine and nonimplication ledger — p. 3816
+  - 114.19 Proposed records and conservative failure semantics — p. 3820
+  - 114.20 Worked theorem-routing audits — p. 3822
+  - 114.21 Unresolved locator, integration, and review obligations — p. 3823
+  - 114.22 Exact source ledger — p. 3824
+  - 114.23 Part VI closure — p. 3826
+- Chapter 115. Higher, derived, and spectral model-comparison ledger — p. 3830
+  - Structural and mathematical principles — p. 3830
+  - 115.0. Contract, scope, and atomic status discipline — p. 3831
+  - 115.1 Model-comparison objects and strengths — p. 3831
+  - 115.2 Classical origin ledger: topoi, descent, quotients, and higher vision — p. 3832
+  - 115.3 Infinity-category model ledger — p. 3832
+  - 115.4 Infinity-groupoid and space model ledger — p. 3836
+  - 115.5 Higher-topos and hyperdescent model ledger — p. 3836
+  - 115.6 Accessible-category and localization model ledger — p. 3836
+  - 115.7 Derived-algebraic model ledger — p. 3839
+  - 115.8 Structured-infinity-topos model ledger — p. 3842
+  - 115.9 Spectral-algebraic model ledger — p. 3843
+  - 115.10 Higher-stack and moduli model ledger — p. 3844
+  - 115.11 Coherence-model and formalization ledger — p. 3845
+  - 115.12 Cross-model preservation and nonimplication matrix — p. 3852
+  - 115.13 Machine-facing comparison records — p. 3853
+  - 115.14 Exact source register — p. 3854
+  - 115.15 Atomic claim and obligation ledger — p. 3857
+  - 115.16 Closing synthesis — p. 3858
+- Chapter 116. Perfectoid, pro-etale, diamond, and v-descent transition atlas — p. 3861
+  - Structural and mathematical principles — p. 3861
+  - 116.0 Identity, scope, and atomic status — p. 3862
+  - 116.1 The model-row type — p. 3863
+  - 116.2 Adic and rational-local model atlas — p. 3864
+  - 116.3 Perfectoid fields, algebras, and spaces atlas — p. 3865
+  - 116.4 Tilting, untilting, and almost-purity atlas — p. 3867
+  - 116.5 Pro-étale site and completed structural model atlas — p. 3869
+  - 116.6 Period-sheaf transition atlas — p. 3872
+  - 116.7 Diamond model atlas — p. 3875
+  - 116.8 The v-site and effective-descent atlas — p. 3876
+  - 116.9 Transition matrix and model limits — p. 3879
+  - 116.10 Implementation and formalization checks — p. 3886
+  - 116.11 Exact source dossier — p. 3888
+  - 116.12 Atomic claim and obligation ledger — p. 3892
+  - 116.13 Closing model — p. 3893
+- Chapter 117. Prismatic comparison theorem and hypothesis concordance — p. 3895
+  - Structural and mathematical principles — p. 3895
+  - 117.0 Contract, scope, and atomic status discipline — p. 3896
+  - 117.1 Primary-source and attribution firewall — p. 3897
+  - 117.2 Ambient worlds and coefficient regimes — p. 3899
+  - 117.3 The six principal objects — p. 3901
+  - 117.4 Master concordance matrix — p. 3903
+  - 117.5 Classical and derived de Rham comparison gates — p. 3904
+  - 117.6 Derived de Rham to crystalline comparison — p. 3905
+  - 117.7 Prismatic to crystalline comparison — p. 3906
+  - 117.8 Prismatic to de Rham comparison — p. 3907
+  - 117.9 Hodge–Tate comparison and its spectral sequence — p. 3908
+  - 117.10 Filtration concordance — p. 3908
+  - 117.11 Completion concordance — p. 3909
+  - 117.12 Torsion concordance — p. 3910
+  - 117.13 Functoriality and base-change matrix — p. 3911
+  - 117.14 Testable consequences and finite diagnostics — p. 3912
+  - 117.15 Boundary with Chapters 81–82 — p. 3914
+  - 117.16 Failure atlas — p. 3915
+  - 117.17 Concordance-edge normal form — p. 3915
+  - 117.18 Bounded verification program and test vectors — p. 3920
+  - 117.19 Atomic claim ledger — p. 3921
+  - 117.20 Claim-to-source concordance — p. 3921
+  - 117.21 Compatibility cells and composed corridors — p. 3923
+  - 117.22 Review checklist and open obligations — p. 3926
+  - 117.23 Closing synthesis — p. 3928
+- Chapter 118. Condensed, solid, and analytic exactness boundary atlas — p. 3929
+  - Structural and mathematical principles — p. 3929
+  - 118.0 Chapter contract and atomic statuses — p. 3930
+  - 118.1 Model grammar: presentation, equivalence, localization, and loss — p. 3931
+  - 118.2 Classical provenance firewall: EGA, SGA, FGA, and modern theory — p. 3932
+  - 118.3 Sites and test models — p. 3937
+  - 118.4 Condensed abelian models and classical topological algebra — p. 3938
+  - 118.5 Solid models and measure completion — p. 3938
+  - 118.6 Derived condensed models — p. 3941
+  - 118.7 Analytic rings and complete module models — p. 3941
+  - 118.8 Huber pairs, adic contexts, and analytic geometry — p. 3941
+  - 118.9 Model-equivalence atlas — p. 3941
+  - 118.10 Strict non-equivalence constitution — p. 3948
+  - 118.11 Boundary to Chapters 89–92 — p. 3950
+  - 118.12 Model passports and validation records — p. 3950
+  - 118.13 Atomic claim ledger — p. 3952
+  - 118.14 Exact source concordance — p. 3953
+  - 118.15 Integration and validation obligations — p. 3956
+  - 118.16 Closing synthesis — p. 3956
+- Chapter 119. Anabelian, IUT-status, and arithmetic-moduli evidence firewall — p. 3959
+  - Structural and mathematical principles — p. 3959
+  - 119.0 Contract and atomic statuses — p. 3960
+  - 119.1 The three-plane constitution and the six-lane firewall — p. 3961
+  - 119.2 Exact classical origins and actual SGA exposé authors — p. 3962
+  - 119.3 Established anabelian reconstruction spine — p. 3963
+  - 119.4 Conditional theorem transfers and reconstruction receipts — p. 3963
+  - 119.5 Established Mochizuki work versus literal IUT — p. 3966
+  - 119.6 Literal-IUT definitions and exact primary locators — p. 3966
+  - 119.7 Disputed IUT implication corridor — p. 3967
+  - 119.8 Critiques, responses, and evidence roles — p. 3969
+  - 119.9 Verification protocol and the no-interpretation-without-proof rule — p. 3970
+  - 119.10 GCA theater research without literal-IUT contamination — p. 3971
+  - 119.11 Arithmetic-moduli corridor is independent of IUT — p. 3971
+  - 119.12 Atomic established ledger — p. 3971
+  - 119.13 Nonimplication and quarantine ledger — p. 3973
+  - 119.14 Machine records, authority separation, and failure semantics — p. 3974
+  - 119.15 Four complete firewall audits — p. 3978
+  - 119.16 Exact source and evidence ledger — p. 3979
+  - 119.17 Obligation ledger — p. 3980
+  - 119.18 Closure rule — p. 3983
+- Chapter 120. Complete Volume I-II transformation closure and machine inheritance — p. 3986
+  - Structural and mathematical principles — p. 3986
+  - 120.0 Two-volume synthesis, scope, and evidence boundary — p. 3987
+  - 120.1 Governing inputs and observed registry state — p. 3987
+  - 120.2 Exact source-provenance binding — p. 3989
+  - 120.3 Machine-checkable closure record — p. 3993
+  - 120.4 Foundation concept ledger — p. 3996
+  - 120.5 Volume II transformation ledger — p. 3996
+  - 120.6 Cross-volume interface closure ledger — p. 3998
+  - 120.7 Hypothesis and nonimplication matrix — p. 3999
+  - 120.8 Successor-attribution boundaries — p. 4002
+  - 120.9 Provenance, status, and freshness rules — p. 4004
+  - 120.10 Unresolved obligation closure — p. 4004
+  - 120.11 Test vectors — p. 4005
+  - 120.12 Explicit release blockers — p. 4007
+  - 120.13 Release decision procedure — p. 4008
+  - 120.14 Downstream and ownership boundary — p. 4010
+  - 120.15 Atomic claim ledger — p. 4011
+  - 120.16 Closing statement — p. 4011

@@ -1,0 +1,2183 @@
+# Volume IV — Algorithms of Grothendieckian Intelligence
+
+Algorithms for categorical computation and verifier-grounded mathematical discovery.
+
+2,089 pages · file `GAI-MUA-v1.0.0-Vol4-Algorithms.pdf`
+
+Page numbers below are PDF page indices.
+
+- Preface to Volume IV — p. 5
+  - 1. Algorithmization as a partial mathematical interpretation — p. 5
+  - 2. The 126-algorithm architecture — p. 5
+  - 3. Five procedure classes — p. 5
+  - 4. Categorical, mathematical, formal, and artifact interfaces — p. 5
+  - 5. Proofs, certificates, and obligations — p. 5
+  - 6. Undecidability, abstention, and resource limits — p. 5
+  - 7. Composition, failure, and non-collapse — p. 5
+  - 8. Interpretive map of the twelve parts — p. 5
+  - 9. Reading routes — p. 5
+  - 10. Dependencies on Volumes I–III — p. 5
+  - 11. Consumers in Volumes V and VI — p. 5
+  - 12. Conclusion — p. 5
+  - Acknowledgements to the underlying traditions — p. 5
+- Contents — p. 20
+- List of Figures — p. 66
+- List of Tables — p. 69
+- Architectural Prospectus — p. 70
+- Chapter 1. What It Means to Algorithmize a Mathematical Theory — p. 71
+  - 1.1 From a theory to a bounded procedure — p. 71
+  - 1.2 Typed reference resolution — p. 71
+  - 1.3 Resolver invariants — p. 71
+  - 1.4 Pseudocode and reasoning — p. 72
+  - 1.5 Certificate and failure boundary — p. 72
+  - 1.6 Negative controls — p. 72
+  - 1.7 Worked example — p. 72
+  - 1.8 Downstream Volume V contract — p. 72
+  - 1.9 Levels of algorithmization — p. 72
+  - 1.10 Composition contracts — p. 72
+  - 1.11 A second worked example: definition drift — p. 72
+  - 1.12 Review obligations — p. 72
+  - 1.13 Resolved contract ledger for ALG-001 — p. 72
+- Chapter 2. Effective Fragments, Bounds, and Undecidability — p. 79
+  - 2.1 Effectivity is a typed promise — p. 79
+  - 2.2 Typed null, unknown, and unsupported states — p. 80
+  - 2.3 Bounds and algorithm contracts — p. 80
+  - 2.4 Pseudocode and completeness boundary — p. 80
+  - 2.5 Failure certificates — p. 80
+  - 2.6 Negative controls — p. 80
+  - 2.7 Worked example: bounded dualization — p. 80
+  - 2.8 Undecidability discipline — p. 80
+  - 2.9 Proposed Volume V contracts — p. 84
+  - 2.10 Bound propagation through pipelines — p. 84
+  - 2.11 Semi-decision contracts — p. 84
+  - 2.12 Complexity statements that remain valid — p. 84
+  - 2.13 Worked example: finite versus presented monoids — p. 84
+  - 2.14 Successor-geometry firewall — p. 84
+  - 2.15 Audit consequences — p. 84
+  - 2.16 Resolved contract ledger for ALG-002 — p. 84
+- Chapter 3. Exact, Certified, Bounded, Heuristic, and Research Procedures — p. 89
+  - 3.1 Classification by output discipline — p. 89
+  - 3.2 Scope as a structured type — p. 89
+  - 3.3 Acceptance relation and invariants — p. 89
+  - 3.4 Pseudocode — p. 89
+  - 3.5 How the five classes use the checker — p. 89
+  - 3.6 Failure boundaries — p. 89
+  - 3.7 Negative controls — p. 89
+  - 3.8 Worked example: finite sheaf checking — p. 89
+  - 3.9 Proposed Volume V contract — p. 89
+  - 3.10 Class-specific correctness obligations — p. 89
+  - 3.11 The class lattice is not a promotion ladder — p. 89
+  - 3.12 Failure normalization — p. 89
+  - 3.13 Worked comparison on one task — p. 89
+  - 3.14 Adversarial class tests — p. 89
+  - 3.15 V5 implementation consequences — p. 89
+  - 3.16 Class-aware observability — p. 89
+  - 3.17 Resolved contract ledger for ALG-003 — p. 89
+- Chapter 4. Correctness, Completeness, Soundness, and Abstention — p. 100
+  - 4.1 Four judgments that must not collapse — p. 100
+  - 4.2 Epistemic and workflow products — p. 100
+  - 4.3 Legal-transition relation — p. 100
+  - 4.4 Pseudocode and invariants — p. 100
+  - 4.5 Soundness statement and proof obligation — p. 100
+  - 4.6 Failure and certificate boundary — p. 100
+  - 4.7 Negative controls — p. 100
+  - 4.8 Worked example — p. 100
+  - 4.9 Proposed Volume V contract — p. 100
+  - 4.10 Partial correctness versus total correctness — p. 100
+  - 4.11 Completeness under representation — p. 100
+  - 4.12 Minimal counterexamples and refutation — p. 100
+  - 4.13 Abstention as a positive safety property — p. 100
+  - 4.14 Worked example: candidate proof transition — p. 100
+  - 4.15 Metamorphic tests — p. 100
+  - 4.16 Remaining formal boundary — p. 100
+  - 4.17 Resolved contract ledger for ALG-004 — p. 100
+- Chapter 5. The Algorithm Contract — p. 109
+  - 5.1 The contract as the thin waist — p. 110
+  - 5.2 Typed compilation input — p. 111
+  - 5.3 V3-ARC dependencies and invariants — p. 111
+  - 5.4 Pseudocode and reasoning — p. 112
+  - 5.5 Certificate boundary — p. 112
+  - 5.6 Negative controls — p. 112
+  - 5.7 Worked example — p. 112
+  - 5.8 Contract validation checklist — p. 112
+  - 5.9 Proposed Volume V contracts — p. 115
+  - 5.10 Contract refinement and compatibility — p. 115
+  - 5.11 Canonical serialization and replay — p. 115
+  - 5.12 Contract composition example — p. 115
+  - 5.13 Worked failure trace — p. 115
+  - 5.14 Complexity and denial-of-service boundaries — p. 115
+  - 5.15 Contract-level negative controls — p. 115
+  - 5.16 Open obligations — p. 118
+  - 5.17 Fully instantiated ALG-005 contract — p. 118
+- Chapter 6. Epistemic Status and Promotion — p. 121
+  - 6.1 Promotion is a governed change of claim — p. 121
+  - 6.2 Typed source-target comparison — p. 121
+  - 6.3 Invariants at the promotion boundary — p. 121
+  - 6.4 Guard algorithm — p. 123
+  - 6.5 Failure artifacts and certificate ceiling — p. 123
+  - 6.6 Complexity and termination — p. 123
+  - 6.7 Tests, counterexamples, and negative controls — p. 123
+  - 6.8 Worked promotion trace — p. 123
+  - 6.9 Promotion evidence is claim-relative — p. 123
+  - 6.10 Dependency change, rollback, and audit — p. 123
+  - 6.11 Manuscript, executable, and proposed Volume V boundaries — p. 123
+  - 6.12 A calculus of compatible evidence — p. 123
+- Chapter 7. The Foundation Intermediate Representation — p. 130
+  - 7.1 A typed boundary, not a new foundation — p. 131
+  - 7.2 The semantic core — p. 131
+  - 7.3 Complete embedding of the algorithm contract — p. 131
+  - 7.4 Frozen formal binding profile — p. 133
+  - 7.5 Terms, binders, and judgments — p. 133
+  - 7.6 Obligations are first-class data — p. 133
+  - 7.7 Worked example — p. 133
+  - 7.8 Negative controls — p. 133
+  - 7.9 Failure and proof boundaries — p. 136
+  - 7.10 Canonicalization, transport, and artifact identity — p. 136
+  - 7.11 The foundation for later checking — p. 136
+  - 7.12 Preservation order for IR transformations — p. 136
+- Chapter 8. Typed Mathematical Signatures — p. 141
+  - 8.1 The signature boundary — p. 141
+  - 8.2 Typed input and output — p. 142
+  - 8.3 Formation, equality, and scope — p. 142
+  - 8.4 Preserved invariants — p. 142
+  - 8.5 Validation procedure — p. 144
+  - 8.6 Termination and complexity — p. 144
+  - 8.7 Failures and certificates — p. 144
+  - 8.8 Signature extension and import composition — p. 144
+  - 8.9 Worked signature — p. 144
+  - 8.10 Tests and negative controls — p. 144
+  - 8.11 Signature morphisms and conservative extension — p. 148
+  - 8.12 Worked dependent substitution and residual boundary — p. 148
+- Chapter 9. Universe, Variance, and Scope Checking — p. 151
+  - 9.1 Three checks, one typing boundary — p. 151
+  - 9.2 The explicit input world — p. 151
+  - 9.3 Contract and invariants — p. 151
+  - 9.4 The checking procedure — p. 153
+  - 9.5 Correctness and complexity — p. 153
+  - 9.6 Worked example: presheaf variance — p. 153
+  - 9.7 Scope and universe adversaries — p. 153
+  - 9.8 Adversarial negative controls — p. 153
+  - 9.9 Receipt structure and independent audit — p. 157
+  - 9.10 Composition discipline — p. 157
+  - 9.11 A checkable universe certificate — p. 157
+  - 9.12 Residual graphs, escape witnesses, and bounded replay — p. 157
+- Chapter 10. Diagram and Coherence Obligations — p. 160
+  - 10.1 The contract boundary — p. 160
+  - 10.2 Typed finite diagrams — p. 160
+  - 10.3 Squares, triangles, naturality, and pentagons — p. 160
+  - 10.4 Obligations and invariants — p. 160
+  - 10.5 Checking procedure — p. 162
+  - 10.6 Bounds and complexity — p. 162
+  - 10.7 Typed result and failure semantics — p. 162
+  - 10.8 Proof boundary — p. 162
+  - 10.9 Obligation decomposition and composition — p. 162
+  - 10.10 Worked trace: a naturality square — p. 162
+  - 10.11 Tests and counterexamples — p. 162
+  - 10.12 Presented categories and rewrite certificates — p. 170
+- Chapter 11. Source-to-IR Compilation — p. 171
+  - 11.1 The compilation boundary — p. 171
+  - 11.2 Pinned input and immutable context — p. 171
+  - 11.3 Typed stages and provenance — p. 171
+  - 11.4 Compiler procedure — p. 171
+  - 11.5 Success and its evidentiary ceiling — p. 171
+  - 11.6 Failure artifacts — p. 171
+  - 11.7 Termination and complexity — p. 171
+  - 11.8 Tests and target-mutation negative controls — p. 171
+  - 11.9 A compact compilation trace — p. 179
+- Chapter 12. Target-Fidelity Checking — p. 182
+  - 12.1 Proving the wrong target is still failure — p. 183
+  - 12.2 The source-target request — p. 184
+  - 12.3 Source hash, target hash, and fidelity identity — p. 184
+  - 12.4 The no-target-mutation rule — p. 184
+  - 12.5 Fidelity judgments and generated obligations — p. 186
+  - 12.6 Certificate and proof boundary — p. 186
+  - 12.7 Typed failures and abstention — p. 186
+  - 12.8 Termination and complexity — p. 186
+  - 12.9 Tests and counterexamples — p. 186
+  - 12.10 Downstream contract — p. 186
+- Chapter 13. Proof Receipts and Independent Replay — p. 196
+  - 13.1 Five judgments, not one — p. 196
+  - 13.2 Typed request and evidence records — p. 196
+  - 13.3 Independence and replay levels — p. 196
+  - 13.4 Proof checking and theorem truth — p. 196
+  - 13.5 Authenticity, issuance, and later use — p. 196
+  - 13.6 Auditor pseudocode — p. 196
+  - 13.7 Invariants and correctness boundary — p. 196
+  - 13.8 Termination, cost, and resource bounds — p. 206
+  - 13.9 Failures, tests, and negative controls — p. 206
+  - 13.10 Evidentiary ceiling — p. 207
+- Chapter 14. Failure Certificates and Counterexample Records — p. 209
+  - 14.1 Failure is an output, not an absence — p. 209
+  - 14.2 A closed failure algebra — p. 209
+  - 14.3 Counterexamples require semantic validation — p. 209
+  - 14.4 Minimal witnesses and honest minimality — p. 209
+  - 14.5 The ALG-011 minimizer — p. 214
+  - 14.6 Worked reduction example — p. 214
+  - 14.7 Termination and complexity bounds — p. 214
+  - 14.8 Composition and storage rules — p. 214
+  - 14.9 Tests and adversarial controls — p. 214
+  - 14.10 Proof and governance boundary — p. 214
+- Chapter 15. Effective Rings and Finite Presentations — p. 222
+  - 15.1 Finite presentation is not finite cardinality — p. 222
+  - 15.2 Supported coefficient-ring contract — p. 222
+  - 15.3 Exact presentation type — p. 223
+  - 15.4 What canonicalization preserves — p. 223
+  - 15.5 Algorithm contract and pseudocode — p. 223
+  - 15.6 Invariants and correctness boundary — p. 223
+  - 15.7 Loop invariants and verification proposition — p. 228
+  - 15.8 Termination and cost — p. 228
+  - 15.9 Worked finite presentation — p. 228
+  - 15.10 Typed failures — p. 228
+  - 15.11 Receipt and trust boundary — p. 232
+  - 15.12 Tests and negative controls — p. 232
+  - 15.13 Downstream boundary — p. 235
+- Chapter 16. Affine Scheme Construction — p. 236
+  - 16.1 Construction without illicit enumeration — p. 236
+  - 16.2 The exact presented fragment — p. 237
+  - 16.3 The affine record — p. 237
+  - 16.4 Categorical and universal-property boundary — p. 237
+  - 16.5 Algorithm contract and pseudocode — p. 237
+  - 16.6 Correctness decomposition — p. 237
+  - 16.7 Termination and complexity — p. 237
+  - 16.8 Typed failures — p. 237
+  - 16.9 Tests and counterexamples — p. 246
+  - 16.10 V3 dependencies and proposed V5 contract — p. 247
+  - 16.11 Closing boundary — p. 247
+- Chapter 17. Fiber Products and Base Change — p. 249
+  - 17.1 The affine construction is a pushout of rings — p. 249
+  - 17.2 Typed input and variance discipline — p. 249
+  - 17.3 Exact construction from presentations — p. 249
+  - 17.4 Universal-property obligations — p. 251
+  - 17.5 A worked presentation trace — p. 252
+  - 17.6 Compiler contract — p. 252
+  - 17.7 Receipt invariants and replay — p. 252
+  - 17.8 Base change as reuse of the same compiler — p. 252
+  - 17.9 Failure semantics — p. 252
+  - 17.10 Complexity and boundedness — p. 252
+  - 17.11 Tests and negative controls — p. 252
+  - 17.12 V3 dependencies and proposed V5 contract — p. 258
+  - 17.13 Trust boundary — p. 258
+- Chapter 18. Affine Covers and Scheme Gluing — p. 260
+  - 18.1 The finite gluing boundary — p. 260
+  - 18.2 Typed charts, overlaps, and variance — p. 261
+  - 18.3 Triple domains and the cocycle — p. 261
+  - 18.4 Algorithm contract and pseudocode — p. 261
+  - 18.5 Invariants — p. 261
+  - 18.6 Canonicalization and artifact identity — p. 268
+  - 18.7 Termination and complexity — p. 268
+  - 18.8 Failure artifacts — p. 268
+  - 18.9 Proof and promotion boundary — p. 269
+  - 18.10 Tests and counterexamples — p. 269
+  - 18.11 V3 dependencies and proposed V5 contract — p. 273
+  - 18.12 Downstream contract — p. 273
+- Chapter 19. Finite Categories and Sites — p. 274
+  - 19.1 The executable boundary — p. 275
+  - 19.2 From a finite poset to a finite category — p. 276
+  - 19.3 Meets as certified pullbacks — p. 277
+  - 19.4 Covering sieves and maximal generators — p. 277
+  - 19.5 Failure semantics — p. 279
+  - 19.6 Tests and negative controls — p. 281
+  - 19.7 Implementation and trust boundary — p. 282
+  - 19.8 A total typed contract for site validation — p. 282
+  - 19.9 Loop invariants and a soundness argument — p. 284
+  - 19.10 Certificate and failure semantics under composition — p. 284
+  - 19.11 Refined complexity and infrastructure limits — p. 284
+  - 19.12 Property tests, metamorphic tests, and adversarial controls — p. 284
+  - 19.13 V3 architecture dependencies and the Volume V boundary — p. 284
+  - 19.14 Compact verification obligations — p. 284
+- Chapter 20. Presheaf Construction and Functoriality — p. 289
+  - 20.1 Restriction is contravariant structure — p. 289
+  - 20.2 Typed finite presentation — p. 290
+  - 20.3 Algorithm contract: ALG-020 — p. 290
+  - 20.4 Soundness and completeness obligations — p. 291
+  - 20.5 Variance failures — p. 291
+  - 20.6 Example over the diamond site — p. 292
+  - 20.7 Negative controls — p. 292
+  - 20.8 Receipt and replay boundary — p. 293
+  - 20.9 Construction, checking, and transport are distinct operations — p. 293
+  - 20.10 Canonical representation and semantic equality — p. 293
+  - 20.11 Invariants and correctness decomposition — p. 293
+  - 20.12 Loop invariants and deterministic counterexamples — p. 293
+  - 20.13 Failure semantics and abstention — p. 293
+  - 20.14 Complexity beyond the coarse cubic bound — p. 293
+  - 20.15 Naturality and reindexing as explicit future boundaries — p. 293
+  - 20.16 Expanded tests and negative controls — p. 293
+  - 20.17 V3 dependencies and proposed V5 implementation contract — p. 299
+  - 20.18 Formalization obligations — p. 299
+- Chapter 21. Finite Sheaf-Condition Checking — p. 301
+  - 21.1 The finite equalizer problem — p. 302
+  - 21.2 Matching families — p. 303
+  - 21.3 Algorithm contract: ALG-021 — p. 304
+  - 21.4 Termination and complexity — p. 305
+  - 21.5 Soundness statement — p. 305
+  - 21.6 Worked diamond example — p. 305
+  - 21.7 Negative controls — p. 305
+  - 21.8 Figure notes and system boundary — p. 307
+  - 21.9 Exact input and normalization contract — p. 307
+  - 21.10 Equalizer ledger and loop invariants — p. 307
+  - 21.11 Hypotheses and edge cases — p. 307
+  - 21.12 Failure artifacts as replayable countermodels — p. 310
+  - 21.13 Certificate, replay, and verification limits — p. 310
+  - 21.14 Targeted tests and negative controls — p. 310
+  - 21.15 Optimization obligations — p. 312
+  - 21.16 Final contract closure — p. 312
+- Chapter 22. Cech Nerves and Cocycles — p. 315
+  - 22.1 From a cover to a simplicial object — p. 315
+  - 22.2 Algorithm contract: ALG-022 — p. 315
+  - 22.3 Simplicial identities — p. 317
+  - 22.4 Termination and complexity of the nerve — p. 317
+  - 22.5 Coefficients and cocycles — p. 317
+  - 22.6 The degree-zero boundary — p. 317
+  - 22.7 Failure artifacts and controls — p. 317
+  - 22.8 Downstream contract — p. 320
+  - 22.9 Exact constructor request and result — p. 320
+  - 22.10 Tuple engine and identity ledger — p. 320
+  - 22.11 Coefficient presentation and hypotheses — p. 320
+  - 22.12 Differential evaluation and residuals — p. 320
+  - 22.13 Termination, storage, and failure surfaces — p. 320
+  - 22.14 Certificate and replay limits — p. 320
+  - 22.15 Targeted tests and negative controls — p. 320
+  - 22.16 A finite arithmetic example — p. 320
+  - 22.17 Final two-surface contract closure — p. 320
+- Chapter 23. Descent Certification — p. 329
+  - 23.1 What this pilot descends — p. 330
+  - 23.2 Typed request and response — p. 331
+  - 23.3 Algorithm contract: ALG-024 — p. 331
+  - 23.4 Soundness of a success artifact — p. 333
+  - 23.5 Failure artifacts — p. 333
+  - 23.6 Complexity and resource boundary — p. 333
+  - 23.7 Positive example — p. 333
+  - 23.8 Negative controls — p. 333
+  - 23.9 Replay and proof boundary — p. 335
+  - 23.10 Relationship to GDRA — p. 335
+  - 23.11 Normalized inputs and exact output sum — p. 335
+  - 23.12 Compatibility trace and candidate matrix — p. 335
+  - 23.13 Hypotheses behind finite section descent — p. 335
+  - 23.14 Failure artifacts and diagnostic sufficiency — p. 335
+  - 23.15 Termination and exact cost accounting — p. 335
+  - 23.16 Independent verification interface — p. 335
+  - 23.17 Targeted test matrix — p. 335
+  - 23.18 Relationship to sheaf checking and batching — p. 341
+  - 23.19 Final descent decision boundary — p. 341
+- Chapter 24. Cover Refinement and Obstruction Localization — p. 344
+  - 24.1 Refinement is a search proposal — p. 344
+  - 24.2 Typed request and candidate — p. 344
+  - 24.3 Algorithm contract — p. 344
+  - 24.4 Obstruction localization boundary — p. 344
+  - 24.5 Complexity and deterministic budgets — p. 344
+  - 24.6 Failures and negative controls — p. 344
+  - 24.7 Downstream implementation contract — p. 347
+  - 24.8 Site-theoretic refinement semantics — p. 347
+  - 24.9 Complete typed planning envelope — p. 348
+  - 24.10 Deterministic candidate enumeration — p. 348
+  - 24.11 Candidate derivation and invariants — p. 348
+  - 24.12 Ranking without mathematical promotion — p. 348
+  - 24.13 Obstruction-localization dossiers — p. 348
+  - 24.14 Termination and bounded residuals — p. 348
+  - 24.15 Failure artifacts and certificate limits — p. 348
+  - 24.16 Targeted tests and negative controls — p. 348
+  - 24.17 Worked finite branching example — p. 348
+  - 24.18 Hypothesis ledger and validation order — p. 348
+  - 24.19 Complete planning and result types — p. 355
+  - 24.20 Candidate derivation invariants — p. 355
+  - 24.21 Ranking and downstream obstruction states — p. 355
+  - 24.22 Complexity with explicit representation costs — p. 355
+  - 24.23 Failure and certificate boundaries — p. 355
+  - 24.24 V3-ARC and proposed V5 boundary — p. 355
+  - 24.25 Extended verification campaign — p. 355
+  - 24.26 Independent checker proposition — p. 355
+  - 24.27 Resumption contract — p. 355
+  - 24.28 Edge cases in finite products — p. 355
+  - 24.29 Second worked obstruction example — p. 355
+  - 24.30 Typed localization handoff and proof ceiling — p. 355
+- Chapter 25. Hypercover Obligation Generation — p. 363
+  - 25.1 A bounded ledger, not a hypercover — p. 363
+  - 25.2 Presented finite-family prefix — p. 363
+  - 25.3 Prefix validation and obligations — p. 363
+  - 25.4 Why matching objects remain open — p. 363
+  - 25.5 Bounds, residuals, and termination — p. 363
+  - 25.6 Failure semantics and controls — p. 363
+  - 25.7 V5 implementation contract — p. 366
+  - 25.8 Mathematical shape of a matching obligation — p. 366
+  - 25.9 Complete typed request — p. 366
+  - 25.10 Structural validation pseudocode — p. 366
+  - 25.11 Boundary extraction — p. 366
+  - 25.12 Degree-zero check and higher-degree ledger — p. 366
+  - 25.13 Output invariants and bounded semantics — p. 366
+  - 25.14 Deterministic degree budget and termination — p. 371
+  - 25.15 Failure artifacts — p. 371
+  - 25.16 Certificate and replay limits — p. 371
+  - 25.17 Targeted tests and negative controls — p. 371
+  - 25.18 Minimal promotion firewall — p. 371
+  - 25.19 Stratified hypotheses — p. 371
+  - 25.20 Exact identity ranges — p. 371
+  - 25.21 Worked degree-two trace — p. 371
+  - 25.22 Matching constructor handshake — p. 371
+  - 25.23 Complexity and termination — p. 371
+  - 25.24 Reproducible failures — p. 371
+  - 25.25 Certificate and formal boundaries — p. 371
+  - 25.26 V3-ARC and proposed V5 contracts — p. 371
+  - 25.27 Canonicalization and extended tests — p. 371
+  - 25.28 Edge degrees and empty levels — p. 371
+  - 25.29 Formal soundness and completeness targets — p. 371
+  - 25.30 Operational trace and distributed execution — p. 371
+  - 25.31 Negative-control matrix — p. 371
+  - 25.32 One-row certificate boundary — p. 379
+  - 25.33 Discharge aggregation and all-degree firewall — p. 379
+- Chapter 26. Limits of Effective Topos Computation — p. 382
+  - 26.1 The boundary is part of the algorithm — p. 382
+  - 26.2 Four independent ceilings — p. 382
+  - 26.3 Computation receipts and forbidden transitions — p. 382
+  - 26.4 Portability bridges — p. 382
+  - 26.5 Resource limits are semantic outputs — p. 382
+  - 26.6 Independent verification obligations — p. 382
+  - 26.7 Red-team controls — p. 384
+  - 26.8 Closing contract — p. 384
+  - 26.9 Typed boundary policy — p. 384
+  - 26.10 Transition-checking algorithm — p. 384
+  - 26.11 Invariants of the promotion firewall — p. 384
+  - 26.12 Three transition examples — p. 387
+  - 26.13 Failure and residual artifacts — p. 387
+  - 26.14 Termination and complexity — p. 388
+  - 26.15 Certificate boundary and authority model — p. 388
+  - 26.16 V3-ARC and Volume V obligations — p. 388
+  - 26.17 Test and negative-control regime — p. 388
+  - 26.18 Bridge validation in detail — p. 388
+  - 26.19 Staleness and dependency closure — p. 388
+  - 26.20 Formal target fidelity — p. 388
+  - 26.21 Additional adversarial scenarios — p. 388
+  - 26.22 Release decision table — p. 388
+  - 26.23 Presentation, classification, and realizability are different targets — p. 392
+- Chapter 27. Finite Etale Algebra Recognition — p. 394
+  - 27.1 A theorem-sized executable fragment — p. 394
+  - 27.2 Law validation — p. 394
+  - 27.3 Why the criterion is exact here — p. 394
+  - 27.4 Algorithm — p. 394
+  - 27.5 Complexity and termination — p. 394
+  - 27.6 Failure artifacts and controls — p. 394
+  - 27.7 Complete typed envelope — p. 396
+  - 27.8 Hypotheses and invariants — p. 396
+  - 27.9 Law-checking pseudocode — p. 397
+  - 27.10 Trace construction and exact elimination — p. 397
+  - 27.11 Worked positive examples — p. 397
+  - 27.12 Worked negative examples — p. 397
+  - 27.13 Complexity with bit costs — p. 397
+  - 27.14 Certificate boundary and downstream admission — p. 397
+  - 27.15 V3-ARC and proposed V5 contracts — p. 397
+  - 27.16 Extended tests and negative controls — p. 397
+  - 27.17 Deterministic primality boundary — p. 397
+  - 27.18 Presentation transport under basis change — p. 397
+  - 27.19 Independent checker design — p. 397
+  - 27.20 Failure minimization — p. 397
+  - 27.21 Additional boundary cases — p. 397
+  - 27.22 Frobenius cross-check without contract drift — p. 397
+- Chapter 28. Etale Cover Registries — p. 406
+  - 28.1 Coverage is not membership — p. 406
+  - 28.2 Typed upstream evidence — p. 406
+  - 28.3 Indexed family semantics — p. 407
+  - 28.4 Certificate and replay boundary — p. 407
+  - 28.5 Complexity — p. 407
+  - 28.6 Failures and adversarial controls — p. 407
+  - 28.7 Complete request and result types — p. 408
+  - 28.8 Hypotheses and registry invariants — p. 408
+  - 28.9 Admission and construction pseudocode — p. 410
+  - 28.10 Why positive dimension implies a nonempty source — p. 410
+  - 28.11 Worked registry example — p. 410
+  - 28.12 Failure examples — p. 410
+  - 28.13 Complexity and termination — p. 410
+  - 28.14 Receipt anatomy and certificate boundary — p. 410
+  - 28.15 Interface boundaries to later algorithms — p. 410
+  - 28.16 V3-ARC and proposed V5 contract — p. 410
+  - 28.17 Extended tests and negative controls — p. 410
+  - 28.18 Canonical target and variance obligation — p. 410
+  - 28.19 Occurrence identity and Čech readiness — p. 410
+  - 28.20 Incremental registry updates — p. 410
+  - 28.21 Formal proof decomposition — p. 410
+  - 28.22 Registry-level independent checker — p. 410
+  - 28.23 Additional adversarial cases — p. 410
+  - 28.24 Membership and coverage are separate predicates — p. 410
+- Chapter 29. Finite Galois Categories — p. 418
+  - 29.1 The title and the executable fragment — p. 419
+  - 29.2 Group and action laws — p. 420
+  - 29.3 Computed finite invariants — p. 420
+  - 29.4 What is absent — p. 420
+  - 29.5 Complexity — p. 420
+  - 29.6 Failure artifacts and controls — p. 420
+  - 29.7 The frozen request and receipt — p. 422
+  - 29.8 Categorical reading and the missing naturality square — p. 422
+  - 29.9 Derived invariants and internal cross-checks — p. 422
+  - 29.10 Worked examples and separating examples — p. 422
+  - 29.11 Failure certificates and repair discipline — p. 422
+  - 29.12 Proof boundary, source fidelity, and architecture — p. 422
+  - 29.13 Functorial transport tests — p. 422
+  - 29.14 Detailed cost ledger — p. 422
+  - 29.15 Failure trace and minimal witness discipline — p. 422
+  - 29.16 Downstream descent boundary — p. 422
+  - 29.17 Connectedness and fixed-point traps — p. 422
+- Chapter 30. Fundamental-Group Quotient Probes — p. 429
+  - 30.1 A finite image is not the fundamental group — p. 429
+  - 30.2 Upstream admission — p. 430
+  - 30.3 Kernel and cosets — p. 430
+  - 30.4 Exact scope and firewall — p. 430
+  - 30.5 Complexity — p. 430
+  - 30.6 Controls and downstream contract — p. 430
+  - 30.7 Frozen request and exact output schema — p. 431
+  - 30.8 Quotient construction as a categorical factorization — p. 431
+  - 30.9 Invariants, complexity, and deterministic identity — p. 431
+  - 30.10 Worked quotient probes — p. 431
+  - 30.11 Failures and adversarial negative controls — p. 431
+  - 30.12 Geometric-origin firewall and proof boundary — p. 431
+  - 30.13 Independent quotient-checker contract — p. 431
+  - 30.14 Compatibility needed for quotient towers — p. 431
+  - 30.15 Complexity-sensitive adversarial cases — p. 431
+  - 30.16 Final categorical ceiling — p. 431
+  - 30.17 Probe identity, topology, and base-point ambiguity — p. 431
+- Chapter 31. Groupoid-Valued Descent — p. 439
+  - 31.1 Frozen executable class — p. 439
+  - 31.2 Typed input and output — p. 439
+  - 31.3 Hypotheses, scope, and invariants — p. 439
+  - 31.4 Exhaustive procedure — p. 441
+  - 31.5 Complexity and termination — p. 441
+  - 31.6 Failures, tests, and counterexamples — p. 441
+  - 31.7 Proof boundary, architecture, and locators — p. 442
+  - 31.8 Pair groupoids, functors, and the cocycle equation — p. 442
+  - 31.9 Worked examples — p. 442
+  - 31.10 Factorization through a finite nonabelian cocycle — p. 442
+  - 31.11 Normalization and executable invariants — p. 442
+  - 31.12 Failure artifacts and repair boundaries — p. 442
+  - 31.13 Termination proof and cost-sensitive execution — p. 448
+  - 31.14 Test families and downstream contract boundary — p. 448
+- Chapter 32. Presented Stack Atlases — p. 451
+  - 32.1 An obligation bundle, not a quotient-stack theorem — p. 452
+  - 32.2 Upstream admission and typed response — p. 453
+  - 32.3 The derived action groupoid and left-action invariant — p. 453
+  - 32.4 Five mandatory lowercase open obligations — p. 453
+  - 32.5 Procedure and invariants — p. 453
+  - 32.6 Complexity and termination — p. 453
+  - 32.7 Failures and adversarial controls — p. 453
+  - 32.8 Proof boundary, V3-ARC/V5, and locators — p. 456
+  - 32.9 The action groupoid as an internal finite groupoid — p. 456
+  - 32.10 Five obligations as typed universal-property interfaces — p. 456
+  - 32.11 Worked presentations and negative controls — p. 456
+  - 32.12 Obligation graph and admissible descendants — p. 456
+  - 32.13 Kernel pairs, orbit relations, and 2-fibre products — p. 456
+  - 32.14 Diagonal obligations as typed interfaces — p. 456
+  - 32.15 Exact construction, termination, and resource bounds — p. 456
+  - 32.16 Test matrix, failure preservation, and V5 contract — p. 462
+  - 32.17 Worked finite presented-atlas dossier — p. 463
+- Chapter 33. Diagonals, Inertia, and Stabilizers — p. 465
+  - 33.1 Frozen finite-action profile — p. 465
+  - 33.2 Typed input and output — p. 465
+  - 33.3 Stabilizers and fixed-pair inertia objects — p. 465
+  - 33.4 Invariants and finite signatures — p. 465
+  - 33.5 Exhaustive algorithm — p. 467
+  - 33.6 Complexity and termination — p. 467
+  - 33.7 Failures, tests, and separating counterexamples — p. 467
+  - 33.8 Proof boundary, V3-ARC/V5, and locators — p. 468
+  - 33.9 Stabilizers as finite equalizers — p. 468
+  - 33.10 From fixed pairs to the omitted inertia groupoid — p. 468
+  - 33.11 Worked finite profiles — p. 468
+  - 33.12 Orbit–stabilizer checks as derived invariants — p. 468
+  - 33.13 What a full inertia groupoid would require — p. 472
+  - 33.14 Signature comparison and its nonclassification boundary — p. 472
+  - 33.15 Detailed procedure, termination, and complexity — p. 473
+  - 33.16 Failure artifacts, property tests, and contract handoff — p. 473
+- Chapter 34. Six-Operation Type Signatures — p. 476
+  - 34.1 A finite language for operations, not an evaluator — p. 477
+  - 34.2 Frozen notation and coefficient boundary — p. 478
+  - 34.3 Typed registries and abstract syntax — p. 478
+  - 34.4 Type-checking algorithm — p. 480
+  - 34.5 Invariants, termination, and complexity — p. 480
+  - 34.6 Typed failures — p. 482
+  - 34.7 Fixtures and negative controls — p. 482
+  - 34.8 Architectural and source contracts — p. 482
+  - 34.9 Typing judgments and derivation certificates — p. 482
+  - 34.10 Coefficients, universes, and derived-level invariance — p. 482
+  - 34.11 DAG inference, normalization, and termination — p. 482
+  - 34.12 Failure witnesses and non-theorem semantics — p. 482
+  - 34.13 Homological test families and V3/V5 handoff — p. 486
+  - 34.14 Certificate checking and composition boundaries — p. 486
+- Chapter 35. Adjunction and Base-Change Obligations — p. 490
+  - 35.1 Obligation construction after typing — p. 490
+  - 35.2 ALG-035: adjunction-unit/counit obligation builder — p. 490
+  - 35.3 ALG-036: Beck–Chevalley obligation builder — p. 491
+  - 35.4 Cross-volume contracts and locator candidates — p. 494
+  - 35.5 Obligation DAG semantics for ALG-035 — p. 494
+  - 35.6 Finite-family multiplicity and functorial map syntax — p. 494
+  - 35.7 Mates and the construction of exchange questions — p. 494
+  - 35.8 Exact hypothesis maps and theorem-application boundaries — p. 494
+  - 35.9 Termination and parameterized complexity — p. 494
+  - 35.10 Failure artifacts and adversarial tests — p. 494
+  - 35.11 Cross-algorithm invariants and V3/V5 interfaces — p. 500
+  - 35.12 Replayable open-goal certificates — p. 500
+- Chapter 36. Projection-Formula and Duality Obligations — p. 502
+  - 36.1 Formula shape is part of the type — p. 502
+  - 36.2 ALG-037: open derived projection formula — p. 502
+  - 36.3 ALG-038: open scoped duality — p. 502
+  - 36.4 Invariants and proof boundary — p. 506
+  - 36.5 Architectural contracts and locator candidates — p. 508
+  - 36.6 Operational audit protocol for the six-operation pair — p. 508
+  - 36.7 Worked examples and negative controls — p. 509
+  - 36.8 Conformance matrix — p. 509
+  - 36.9 Final QA release lock — p. 509
+- Chapter 37. Supported Evaluators and External Proof Backends — p. 515
+  - 37.1 The obligation producer is not the authority — p. 515
+  - 37.2 Capability-separated evaluator profiles — p. 515
+  - 37.3 Open-goal export contract — p. 516
+  - 37.4 Same-code replay is not ALG-010 — p. 516
+  - 37.5 External theorem adapters — p. 517
+  - 37.6 Portability firewall — p. 517
+  - 37.7 Pseudocode and complexity — p. 517
+  - 37.8 Failures, tests, and adversarial controls — p. 517
+  - 37.9 Architectural contract and release boundary — p. 520
+  - 37.10 Transactional backend contract — p. 520
+  - 37.11 Failure witnesses and recovery discipline — p. 522
+  - 37.12 Worked routing examples and negative controls — p. 522
+  - 37.13 Backend conformance and quarantine — p. 525
+  - 37.14 Final QA backend boundary — p. 525
+- Chapter 38. Finite Nori Diagram Construction — p. 527
+  - 38.1 Frozen exact class and finite-proxy ceiling — p. 528
+  - 38.2 Exact owner request and payload schema — p. 529
+  - 38.3 Effective pairs — p. 529
+  - 38.4 Functorial incidence and boundary edges — p. 529
+  - 38.5 Path relations without categorical inflation — p. 531
+  - 38.6 Exhaustive procedure — p. 531
+  - 38.7 Invariants — p. 531
+  - 38.8 Termination and complexity — p. 533
+  - 38.9 Failure artifacts — p. 533
+  - 38.10 Tests and separating counterexamples — p. 534
+  - 38.11 Proof boundary and downstream contracts — p. 534
+  - 38.12 Formal builder contract and state model — p. 534
+  - 38.13 Six construction operations and their motives — p. 534
+  - 38.14 Failure-witness contract — p. 536
+  - 38.15 Tight resource analysis — p. 536
+  - 38.16 Extended worked example — p. 536
+  - 38.17 Negative controls for categorical inflation — p. 536
+  - 38.18 Conformance fixtures and lineage audits — p. 536
+  - 38.19 Finite fixture acceptance capsule — p. 536
+  - 38.20 Final QA finite-diagram lock — p. 536
+- Chapter 39. Realization Compilation — p. 543
+  - 39.1 From a finite diagram to exact linear data — p. 543
+  - 39.2 Exact request schema — p. 544
+  - 39.3 Functorial path checking — p. 544
+  - 39.4 Certificate payload and replay — p. 544
+  - 39.5 Algorithm — p. 544
+  - 39.6 Termination and complexity — p. 544
+  - 39.7 Typed failures — p. 544
+  - 39.8 Tests and adversarial controls — p. 544
+  - 39.9 Certificate and proof boundary — p. 551
+  - 39.10 Volume III and Volume V contracts — p. 551
+  - 39.11 Formal compiler contract — p. 551
+  - 39.12 Execution invariants — p. 552
+  - 39.13 Exact failure and counterexample witnesses — p. 552
+  - 39.14 Resource bounds including bit growth — p. 552
+  - 39.15 Detailed example — p. 552
+  - 39.16 Extended negative controls — p. 552
+  - 39.17 Consumption discipline — p. 552
+  - 39.18 Conformance and reproducibility campaign — p. 552
+  - 39.19 Final QA compilation lock — p. 552
+- Chapter 40. Multi-Realization Fusion — p. 558
+  - 40.1 Compatibility is a finite certificate, not an equivalence theorem — p. 558
+  - 40.2 Frozen algorithm contract — p. 558
+  - 40.3 The exact finite fan — p. 558
+  - 40.4 Bridge profiles and comparison matrices — p. 558
+  - 40.5 Naturality faces — p. 558
+  - 40.6 Residual witnesses — p. 561
+  - 40.7 Certificate form and invariants — p. 561
+  - 40.8 Reference pseudocode — p. 562
+  - 40.9 Termination and complexity — p. 562
+  - 40.10 Typed failures — p. 562
+  - 40.11 Tests and counterexamples — p. 562
+  - 40.12 Volume III and Volume V dependencies — p. 562
+  - 40.13 Formal fan-checking contract — p. 562
+  - 40.14 Invariants during fan traversal — p. 566
+  - 40.15 Residual semantics and preservation gates — p. 566
+  - 40.16 Resource bounds and execution strategies — p. 566
+  - 40.17 Worked three-channel fan — p. 566
+  - 40.18 Extended negative controls — p. 566
+  - 40.19 Downstream evidence discipline — p. 566
+  - 40.20 Fan conformance campaign — p. 566
+  - 40.21 Final QA fusion lock — p. 566
+- Chapter 41. Natural-Endomorphism Constraint Solving — p. 573
+  - 41.1 The executable problem is exact finite linear algebra — p. 575
+  - 41.2 Rational values are data, not approximations — p. 576
+  - 41.3 From naturality squares to scalar equations — p. 576
+  - 41.4 Affine constraints and source boundaries — p. 576
+  - 41.5 Canonical RREF and output interpretation — p. 578
+  - 41.6 Reference pseudocode — p. 578
+  - 41.7 Complexity and coefficient growth — p. 578
+  - 41.8 Failures and negative controls — p. 578
+  - 41.9 Tests and counterexamples — p. 578
+  - 41.10 V3 and V5 contracts — p. 582
+  - 41.11 Auditable elimination, incremental constraints, and proof ceilings — p. 582
+- Chapter 42. Finite Universal-Category Proxies — p. 590
+  - 42.1 Two constructors, two epistemic classes — p. 590
+  - 42.2 Typed input to the exact algebra constructor — p. 590
+  - 42.3 Exact multiplication and invariants — p. 592
+  - 42.4 ALG-043 reference algorithm — p. 592
+  - 42.5 From a finite algebra to a comodule proxy — p. 592
+  - 42.6 Certificate output and universal-scope boundary — p. 592
+  - 42.7 ALG-044 reference algorithm — p. 592
+  - 42.8 Termination and complexity — p. 592
+  - 42.9 Failure artifacts — p. 592
+  - 42.10 Exact computation and certificate versus proof — p. 592
+  - 42.11 Tests, counterexamples, and negative controls — p. 592
+  - 42.12 V3-ARC dependencies and Volume V contracts — p. 602
+  - 42.13 Basis transport, dual conventions, and finite universality audits — p. 602
+- Chapter 43. Idempotent Extraction and Decomposition — p. 610
+  - 43.1 The frozen result is an exact finite-algebra candidate — p. 610
+  - 43.2 Supported finite exact algebras — p. 610
+  - 43.3 Typed request and certificate schemas — p. 611
+  - 43.4 Invariants and candidate normalization — p. 611
+  - 43.5 Exhaustive and bounded boundaries — p. 614
+  - 43.6 Algebra-level decomposition identities are downstream checks — p. 614
+  - 43.7 Reference pseudocode — p. 614
+  - 43.8 Complexity and termination — p. 614
+  - 43.9 Failure artifacts and proof boundary — p. 614
+  - 43.10 Tests and counterexamples — p. 614
+  - 43.11 V3 and V5 contracts — p. 619
+  - 43.12 Polynomial witnesses, Peirce blocks, and scoped classification — p. 619
+- Chapter 44. Chow-Compatible Facade Validation — p. 628
+  - 44.1 Frozen contract and negative boundary — p. 628
+  - 44.2 Meaning of the triple — p. 628
+  - 44.3 Exact request schema — p. 629
+  - 44.4 Success certificate schema — p. 629
+  - 44.5 Hypotheses and invariants — p. 629
+  - 44.6 Reference pseudocode — p. 634
+  - 44.7 Termination and resource behavior — p. 634
+  - 44.8 Typed failures — p. 634
+  - 44.9 Proof and certificate boundary — p. 634
+  - 44.10 Tests and negative controls — p. 634
+  - 44.11 V3-ARC and V5 bindings — p. 640
+  - 44.12 Correspondence arithmetic, realization conservativity, and audits — p. 640
+- Chapter 45. Realization Prisms — p. 648
+  - 45.1 The prism is a finite comparison ledger — p. 649
+  - 45.2 Typed exact input — p. 650
+  - 45.3 Exact output and dispositions — p. 650
+  - 45.4 Preserved invariants — p. 650
+  - 45.5 Reference algorithm — p. 655
+  - 45.6 Termination and complexity — p. 655
+  - 45.7 Typed failures — p. 655
+  - 45.8 Conformance tests — p. 655
+  - 45.9 Proof and authority boundary — p. 659
+  - 45.10 Volume III and Volume V dependencies — p. 659
+  - 45.11 Path coherence, coverage lattices, and comparison ceilings — p. 659
+- Chapter 46. Motivic Signature Matching — p. 667
+  - 46.1 A matcher proposes comparisons; it proves nothing motivic — p. 667
+  - 46.2 Frozen algorithm contract — p. 667
+  - 46.3 Request and result schemas — p. 667
+  - 46.4 Typed alignment and normalization — p. 667
+  - 46.5 Scoring and residual semantics — p. 667
+  - 46.6 Invariants — p. 667
+  - 46.7 Reference pseudocode — p. 672
+  - 46.8 Budget, termination, and complexity — p. 672
+  - 46.9 Failure artifacts — p. 672
+  - 46.10 Tests and adversarial controls — p. 672
+  - 46.11 Volume III and Volume V contracts — p. 676
+  - 46.12 Mathematical elaboration: partial matchings, coverage, and score order — p. 676
+  - 46.13 Worked bounded example — p. 676
+  - 46.14 Complete field obligations and failure ownership — p. 678
+  - 46.15 Additional adversarial controls — p. 680
+  - 46.16 Missingness, refinement, and comparison across runs — p. 680
+  - 46.17 Explicit bounded matching ledger — p. 680
+- Chapter 47. Bridge Plans and Alignment Residues — p. 685
+  - 47.1 Planning is a heuristic operation, not mathematical discharge — p. 685
+  - 47.2 Frozen contract — p. 685
+  - 47.3 Request and result types — p. 685
+  - 47.4 Typed alignment residues — p. 685
+  - 47.5 Hypothesis formation and step synthesis — p. 688
+  - 47.6 Invariants — p. 688
+  - 47.7 Reference pseudocode — p. 690
+  - 47.8 Budget and termination — p. 690
+  - 47.9 Failures, unknowns, and safe dispositions — p. 692
+  - 47.10 Tests and negative controls — p. 693
+  - 47.11 Volume III and Volume V contracts — p. 695
+  - 47.12 Planning semantics as a constrained acyclic graph — p. 695
+  - 47.13 Worked bridge-plan example — p. 697
+  - 47.14 Expanded contract fields and lifecycle ownership — p. 697
+  - 47.15 Negative controls for planning authority — p. 699
+  - 47.16 Branching, replanning, and non-optimality — p. 699
+- Chapter 48. MUE Non-Equivalence and Failure Certificates — p. 703
+  - 48.1 Negative evidence must be exact about what failed — p. 703
+  - 48.2 Frozen algorithm contract — p. 703
+  - 48.3 Exact input and output schemas — p. 704
+  - 48.4 Exact admissibility and invariants — p. 704
+  - 48.5 Reference pseudocode — p. 707
+  - 48.6 Complexity and termination — p. 707
+  - 48.7 Failure surface — p. 707
+  - 48.8 Replay and proof boundary — p. 710
+  - 48.9 Conformance tests — p. 710
+  - 48.10 Volume III and Volume V contracts — p. 712
+  - 48.11 Logical form of a scoped separator — p. 712
+  - 48.12 Worked examples: valid and invalid negative conclusions — p. 712
+  - 48.13 Expanded contract-field matrix — p. 712
+  - 48.14 Certificate replay and compositional reuse — p. 715
+  - 48.15 Adversarial controls — p. 717
+  - 48.16 Multiple separators and minimal witness cores — p. 717
+- Chapter 49. Bounded Complexes and Derived Data — p. 720
+  - 49.1 Frozen exact contract — p. 720
+  - 49.2 Typed finite-complex request — p. 720
+  - 49.3 Grading, order, and sign conventions — p. 720
+  - 49.4 Validation invariants and receipts — p. 720
+  - 49.5 Exact procedure — p. 723
+  - 49.6 Complexity and backend cost — p. 723
+  - 49.7 Failure witnesses — p. 723
+  - 49.8 Proof boundary: complex data is not derived-category data — p. 723
+  - 49.9 Conformance and mutation tests — p. 723
+  - 49.10 Authoritative Volume III binding and Volume V proposal — p. 727
+  - 49.11 Algebraic elaboration of the square-zero predicate — p. 727
+  - 49.12 Worked exact examples — p. 727
+  - 49.13 Full contract-field obligations — p. 727
+  - 49.14 Complexity with representation-sensitive bounds — p. 731
+  - 49.15 Additional negative controls — p. 731
+  - 49.16 Presentation changes and lawful reuse — p. 731
+- Chapter 50. Spectral-Sequence Page Propagation — p. 735
+  - 50.1 Frozen one-page contract boundary — p. 735
+  - 50.2 Input page and finite-support semantics — p. 736
+  - 50.3 Differential typing and the square-zero gate — p. 736
+  - 50.4 Exact kernel/image quotient backend — p. 736
+  - 50.5 Next-page output and preserved invariants — p. 736
+  - 50.6 Reference pseudocode — p. 739
+  - 50.7 Complexity — p. 739
+  - 50.8 Typed failures and semantic firewalls — p. 739
+  - 50.9 Conformance tests — p. 739
+  - 50.10 Volume III and Volume V boundaries — p. 743
+  - 50.11 Mathematical elaboration of one-page homology — p. 743
+  - 50.12 Worked page transition over Q — p. 743
+  - 50.13 A torsion example and backend specificity — p. 743
+  - 50.14 Complete algorithm-contract fields — p. 743
+  - 50.15 Complexity and adversarial controls — p. 746
+  - 50.16 Naturality is not produced for free — p. 746
+- Chapter 51. Differentials, Filtrations, and Convergence Obligations — p. 750
+  - 51.1 Two algorithms, two epistemic ceilings — p. 750
+  - 51.2 Frozen typed interface for ALG-053 — p. 750
+  - 51.3 ALG-053 invariants and pseudocode — p. 750
+  - 51.4 Frozen typed interface for ALG-054 — p. 753
+  - 51.5 ALG-054 invariants and pseudocode — p. 756
+  - 51.6 Failure artifacts — p. 757
+  - 51.7 Required tests — p. 757
+  - 51.8 Proof boundary and V3/V5 bindings — p. 759
+  - 51.9 Operational refinement: page semantics, extension ledgers, and adversarial replay — p. 759
+  - 51.10 Worked finite boundaries — p. 764
+- Chapter 52. Cotangent and Deformation-Obstruction Records — p. 767
+  - 52.1 Frozen certificate boundary — p. 769
+  - 52.2 Theorem-scoped input — p. 769
+  - 52.3 Goal graph and result types — p. 770
+  - 52.4 Preserved invariants — p. 773
+  - 52.5 Reference pseudocode — p. 773
+  - 52.6 Complexity and termination — p. 773
+  - 52.7 Typed failures — p. 773
+  - 52.8 Tests and counterexamples — p. 773
+  - 52.9 Proof boundary — p. 778
+  - 52.10 Volume III and Volume V status — p. 778
+  - 52.11 Operational refinement: typed deformation problems and obstruction provenance — p. 778
+  - 52.12 Worked boundary cases and replay obligations — p. 784
+- Chapter 53. Finite Simplicial and Nerve Constructions — p. 787
+  - 53.1 Frozen exact contract and semantic ceiling — p. 787
+  - 53.2 Typed finite-category input — p. 787
+  - 53.3 Face and degeneracy maps — p. 787
+  - 53.4 Truncation and output record — p. 787
+  - 53.5 Exhaustive construction — p. 787
+  - 53.6 Preserved invariants — p. 787
+  - 53.7 Complexity and termination — p. 792
+  - 53.8 Failure witnesses — p. 792
+  - 53.9 Conformance tests — p. 792
+  - 53.10 V3 and V5 traceability — p. 794
+  - 53.11 Operational refinement: canonical simplices, map totality, and finite-prefix replay — p. 794
+  - 53.12 Counting checks and adversarial examples — p. 798
+- Chapter 54. Truncated Higher-Coherence Checking — p. 801
+  - 54.1 The certified claim is a finite prefix — p. 802
+  - 54.2 Frozen request and certificate schema — p. 803
+  - 54.3 Boundaries and identities — p. 803
+  - 54.4 Scope, bounds, and nonclaims — p. 803
+  - 54.5 Invariants — p. 807
+  - 54.6 Deterministic checker — p. 807
+  - 54.7 Complexity and resource semantics — p. 807
+  - 54.8 Failure artifacts — p. 807
+  - 54.9 Tests and counterexamples — p. 807
+  - 54.10 V3 and V5 contracts — p. 811
+  - 54.11 Operational refinement: obligation closure, law instantiation, and prefix separation — p. 811
+  - 54.12 Worked coherence boundaries — p. 817
+- Chapter 55. Homotopy-Coherent Transport — p. 819
+  - 55.1 The obligation-builder boundary — p. 819
+  - 55.2 Frozen typed request — p. 819
+  - 55.3 Generated higher-transport goals — p. 819
+  - 55.4 Algorithm and invariants — p. 825
+  - 55.5 Complexity — p. 827
+  - 55.6 Typed failure artifacts — p. 827
+  - 55.7 Required tests — p. 827
+  - 55.8 Proof boundary and V3/V5 contracts — p. 829
+  - 55.9 Worked transport boundaries — p. 829
+  - 55.10 Truncated coherent-transport obligation record — p. 829
+- Chapter 56. Boundaries of Infinity-Categorical Computation — p. 833
+  - 56.1 Closing contract for Part VI — p. 833
+  - 56.2 Three interfaces, three noninterchangeable meanings — p. 833
+  - 56.3 Schema boundary summaries — p. 833
+  - 56.4 Cross-algorithm invariants — p. 833
+  - 56.5 Boundary-preserving orchestration — p. 836
+  - 56.6 Termination and complexity boundary — p. 836
+  - 56.7 Failure algebra at the infinity boundary — p. 836
+  - 56.8 Required boundary tests — p. 836
+  - 56.9 Authoritative V3-ARC binding and Volume V proposals — p. 839
+  - 56.10 Final nonpromotion rule — p. 839
+  - 56.11 Motive and realization interfaces at the truncation boundary — p. 839
+  - 56.12 Exact cross-artifact contract checks — p. 839
+  - 56.13 Complexity and certificate-size ceilings — p. 839
+  - 56.14 Certificate ceilings for theorem adapters — p. 839
+  - 56.15 Closing adversarial matrix — p. 839
+  - 56.16 Minimal sufficient reporting — p. 845
+- Chapter 57. Explicit-Ideal Almost-Zero Detection — p. 847
+  - 57.1 A relative predicate, not ordinary vanishing — p. 847
+  - 57.2 Frozen request schema — p. 847
+  - 57.3 Annihilator witnesses — p. 849
+  - 57.4 Certificate schema and replay — p. 850
+  - 57.5 Algorithm — p. 850
+  - 57.6 Invariants — p. 850
+  - 57.7 Termination and complexity — p. 852
+  - 57.8 Typed failures and counterexamples — p. 852
+  - 57.9 Tests and adversarial controls — p. 852
+  - 57.10 Certificate and proof boundary — p. 854
+  - 57.11 Volume III and Volume V contracts — p. 854
+  - 57.12 Field-by-field contract audit — p. 854
+  - 57.13 Worked finite examples — p. 855
+  - 57.14 Perfectoid-facing consumption without promotion — p. 856
+  - 57.15 Refined complexity and resource preflight — p. 856
+  - 57.16 Certificate mutation and authority ceilings — p. 856
+  - 57.17 Transport across isomorphic presentations — p. 856
+  - 57.18 Batch certificates and ceiling preservation — p. 856
+  - 57.19 Final acceptance checklist — p. 856
+- Chapter 58. Explicit-Ideal Almost-Exactness Profiles — p. 861
+  - 58.1 Almost exactness is a named weakening — p. 861
+  - 58.2 Frozen algorithm contract — p. 861
+  - 58.3 The explicit almost setup — p. 862
+  - 58.4 Typed maps, complexes, and defect ledgers — p. 863
+  - 58.5 Typed scope and certificate payload — p. 864
+  - 58.6 Reference pseudocode — p. 864
+  - 58.7 Invariants — p. 864
+  - 58.8 Termination and complexity — p. 867
+  - 58.9 Failures and counterevidence — p. 867
+  - 58.10 Tests and negative controls — p. 867
+  - 58.11 Volume III and Volume V dependencies — p. 867
+  - 58.12 Exact profile expansion matrix — p. 867
+  - 58.13 Worked examples across exactness strengths — p. 869
+  - 58.14 Perfectoid and almost-purity consumption ceiling — p. 869
+  - 58.15 Complexity by defect construction — p. 869
+  - 58.16 Certificate completeness and mutation tests — p. 873
+  - 58.17 Composition and two-out-of-three boundaries — p. 874
+  - 58.18 Derived-degree and spectral-sequence ceilings — p. 874
+  - 58.19 Batch and cache discipline — p. 874
+  - 58.20 Final review questions — p. 874
+- Chapter 59. Valuations and Uniformity Records — p. 877
+  - 59.1 A bounded envelope is not a structure theorem — p. 877
+  - 59.2 Valuation input records — p. 877
+  - 59.3 Uniformity records and their limits — p. 877
+  - 59.4 Expression and precision interfaces — p. 877
+  - 59.5 Exact and bounded interfaces — p. 877
+  - 59.6 Propagation invariants — p. 877
+  - 59.7 Reference pseudocode — p. 877
+  - 59.8 Complexity and termination — p. 877
+  - 59.9 Failures and adversarial controls — p. 877
+  - 59.10 V3 and V5 contracts — p. 884
+  - 59.11 Exact request and result audit — p. 884
+  - 59.12 Worked propagation examples — p. 884
+  - 59.13 Uniformity and perfectoid counterexamples — p. 884
+  - 59.14 Perfectoid-facing binding contract — p. 884
+  - 59.15 Bit complexity and branch ceilings — p. 884
+  - 59.16 Certificate integrity and nonpromotion tests — p. 884
+  - 59.17 Correlated envelopes and subdivision — p. 890
+  - 59.18 Continuity claims from envelopes — p. 890
+  - 59.19 Aggregate numerical evidence — p. 890
+  - 59.20 Final bounded-result checklist — p. 890
+- Chapter 60. Perfectoid Affinoid Input Validation — p. 893
+  - 60.1 Frozen certificate boundary — p. 893
+  - 60.2 The theorem-scoped profiles — p. 893
+  - 60.3 Typed valuation record — p. 895
+  - 60.4 Typed Banach and affinoid records — p. 895
+  - 60.5 Frobenius admissibility — p. 895
+  - 60.6 The admissibility request and result — p. 895
+  - 60.7 Reference pseudocode — p. 895
+  - 60.8 Termination and complexity — p. 895
+  - 60.9 Failure artifacts — p. 895
+  - 60.10 Tests and negative controls — p. 895
+  - 60.11 V3 architecture and Volume V contracts — p. 903
+  - 60.12 Exact theorem-profile contract — p. 903
+  - 60.13 Characteristic-sensitive Frobenius analysis — p. 903
+  - 60.14 Power-bounded and plus-part identity — p. 903
+  - 60.15 Examples with exact admissibility ceilings — p. 906
+  - 60.16 Motive, prismatic, and tilting firewalls — p. 906
+  - 60.17 Complexity and certificate-size ceilings — p. 906
+  - 60.18 Refined failures and counterevidence — p. 906
+  - 60.19 Manuscript-only Volume V status — p. 910
+  - 60.20 Final hypothesis-coverage audit — p. 910
+  - 60.21 Inter-profile noninterchangeability — p. 910
+- Chapter 61. Typed Tilt and Untilting — p. 912
+  - 61.1 The frozen output is bounded correspondence data — p. 913
+  - 61.2 Supported bounded profiles — p. 914
+  - 61.3 Hypotheses and admission gates — p. 916
+  - 61.4 Request and result schemas — p. 917
+  - 61.5 Precision semantics — p. 917
+  - 61.6 Invariants — p. 917
+  - 61.7 Reference pseudocode — p. 921
+  - 61.8 Termination, complexity, and budgets — p. 921
+  - 61.9 Failure artifacts — p. 921
+  - 61.10 Tests and adversarial controls — p. 921
+  - 61.11 Volume III and Volume V contracts — p. 925
+  - 61.12 Geometric carriers and occurrence-sensitive rational localization — p. 925
+  - 61.13 Fontaine and Witt truncation records — p. 925
+  - 61.14 Refinement algorithm and partial-order discipline — p. 925
+  - 61.15 Strengthened invariants and certificate limits — p. 925
+  - 61.16 Failure packets and diagnostic countermodels — p. 930
+  - 61.17 Additional negative controls — p. 930
+  - 61.18 Consumer-facing claim projection — p. 931
+- Chapter 62. Pro-Etale Semantic Contracts — p. 933
+  - 62.1 Purpose and strict boundary — p. 933
+  - 62.2 Semantic layers — p. 934
+  - 62.3 Exact input schema — p. 936
+  - 62.4 Source adapter rules for ALG-061 through ALG-063 — p. 936
+  - 62.5 Finite-site and etale portability — p. 936
+  - 62.6 Output and invariants — p. 936
+  - 62.7 Reference pseudocode — p. 936
+  - 62.8 Termination and non-implementation boundary — p. 936
+  - 62.9 Typed failures — p. 936
+  - 62.10 Tests and negative controls — p. 936
+  - 62.11 V3 and V5 dependencies — p. 947
+  - 62.12 Morphism semantics beyond a topology label — p. 947
+  - 62.13 Canonical directed portability bridge — p. 947
+  - 62.14 Bounded limit and cover algorithm — p. 947
+  - 62.15 Invariants and certificate ceilings — p. 947
+  - 62.16 Failure artifacts with geometric scope — p. 952
+  - 62.17 Extended negative controls — p. 952
+  - 62.18 Restriction, overlap, and descent interfaces — p. 954
+- Chapter 63. Bounded v-Sites and Diamond Atlases — p. 956
+  - 63.1 Obligation generation, not unrestricted geometry — p. 956
+  - 63.2 The three obligation-only profiles — p. 956
+  - 63.3 Typed input schema — p. 956
+  - 63.4 Output schema and obligation states — p. 959
+  - 63.5 Invariants — p. 959
+  - 63.6 Reference pseudocode — p. 962
+  - 63.7 Complexity and termination — p. 962
+  - 63.8 Typed failures — p. 962
+  - 63.9 Tests and adversarial controls — p. 962
+  - 63.10 Proof boundary and V3/V5 dependencies — p. 965
+  - 63.11 Geometric typing for v-local data — p. 965
+  - 63.12 Quotient presentation and diagonal records — p. 966
+  - 63.13 Bounded Čech and hypercover algorithm — p. 966
+  - 63.14 Bound vectors, monotonicity, and invariants — p. 966
+  - 63.15 Certificate limits and failure artifacts — p. 969
+  - 63.16 Extended positive and negative controls — p. 969
+  - 63.17 Smallness, universes, and sheafification boundaries — p. 971
+  - 63.18 Consumer projections and obstruction preservation — p. 971
+- Chapter 64. Finite-Precision Error Discipline — p. 973
+  - 64.1 The output is an enclosure, not an exact value — p. 973
+  - 64.2 Frozen contract — p. 973
+  - 64.3 Exact envelope schema — p. 973
+  - 64.4 Primitive propagation rules — p. 973
+  - 64.5 The precision ledger — p. 973
+  - 64.6 Invariants — p. 973
+  - 64.7 Reference pseudocode — p. 980
+  - 64.8 Termination and resource accounting — p. 980
+  - 64.9 Failures and boundary artifacts — p. 980
+  - 64.10 Tests and adversarial controls — p. 980
+  - 64.11 Volume III and Volume V contracts — p. 983
+  - 64.12 Geometric provenance of valued quantities — p. 983
+  - 64.13 Matrix, polynomial, and Newton-step enclosures — p. 983
+  - 64.14 Dependency-aware propagation algorithm — p. 983
+  - 64.15 Multidimensional bounds and refinement — p. 983
+  - 64.16 Certificate limits and diagnostic failures — p. 988
+  - 64.17 Extended adversarial controls — p. 988
+  - 64.18 Residual-based checking and consumer policy — p. 990
+  - 64.19 Serialization of infinity and strict inequalities — p. 990
+- Chapter 65. Prism Validation — p. 992
+  - 65.1 A prism-axiom receipt is scoped evidence — p. 993
+  - 65.2 Frozen algorithm contract — p. 993
+  - 65.3 Typed request — p. 994
+  - 65.4 The checked hypotheses and axioms — p. 994
+  - 65.5 Receipt structure and invariants — p. 997
+  - 65.6 Reference pseudocode — p. 998
+  - 65.7 Termination and backend dependence — p. 998
+  - 65.8 Typed failures — p. 998
+  - 65.9 Tests and negative controls — p. 998
+  - 65.10 Volume III and Volume V dependencies — p. 1001
+  - 65.11 Derived completion and torsion semantics — p. 1001
+  - 65.12 Oriented prisms and distinguished elements — p. 1001
+  - 65.13 Prism morphisms and base-change limits — p. 1001
+  - 65.14 Dependency graph and bounded validation algorithm — p. 1001
+  - 65.15 Strengthened invariants and certificate limits — p. 1001
+  - 65.16 Typed failure packets — p. 1006
+  - 65.17 Extended negative controls — p. 1006
+  - 65.18 Receipt projection and downstream authority — p. 1007
+  - 65.19 Minimal acceptance criterion — p. 1007
+- Chapter 66. Frobenius and Nygaard Data — p. 1009
+  - 66.1 Structural compatibility is the complete result — p. 1009
+  - 66.2 Frozen algorithm contract — p. 1009
+  - 66.3 Typed Frobenius records — p. 1009
+  - 66.4 Typed Nygaard records — p. 1011
+  - 66.5 Request and certificate — p. 1013
+  - 66.6 Invariants — p. 1013
+  - 66.7 Reference pseudocode — p. 1015
+  - 66.8 Complexity and termination — p. 1015
+  - 66.9 Typed failures — p. 1015
+  - 66.10 Required tests — p. 1015
+  - 66.11 Replay, proof, and comparison boundary — p. 1018
+  - 66.12 Volume III and Volume V contracts — p. 1018
+  - 66.13 Manuscript-profile semantics — p. 1018
+  - 66.14 Contract decomposition and dependency discipline — p. 1020
+  - 66.15 Exactness, orientation, and change of coordinates — p. 1020
+  - 66.16 Worked contract scenarios — p. 1020
+  - 66.17 Audit obligations for a future implementation — p. 1020
+  - 66.18 Serialization and semantic-field firewall — p. 1020
+  - 66.19 Reviewer-facing claim table — p. 1020
+- Chapter 67. Prismatic Comparison Fans — p. 1025
+  - 67.1 Frozen bounded contract and claim ceiling — p. 1025
+  - 67.2 Channel-indexed input — p. 1025
+  - 67.3 Hypotheses are first-class data — p. 1025
+  - 67.4 Precision, truncation, and common comparison windows — p. 1025
+  - 67.5 Faces, commutation, and localized residues — p. 1025
+  - 67.6 Bounded construction procedure — p. 1025
+  - 67.7 Budget and complexity — p. 1025
+  - 67.8 Typed failures and witnesses — p. 1025
+  - 67.9 Conformance, boundary, and mutation tests — p. 1025
+  - 67.10 Proof boundary — p. 1032
+  - 67.11 Volume III and Volume V bindings — p. 1032
+  - 67.12 Fan identity and channel semantics — p. 1032
+  - 67.13 Map provenance and admissible relations — p. 1032
+  - 67.14 Coherence manifests and fan closure — p. 1032
+  - 67.15 Hypothesis assignment as a typed substitution — p. 1032
+  - 67.16 Precision calculus and loss accounting — p. 1032
+  - 67.17 Worked bounded fan and adversarial variants — p. 1032
+  - 67.18 Conformance obligations and unchanged status — p. 1032
+  - 67.19 Result consumption and summary discipline — p. 1032
+- Chapter 68. p-adic Provenance and Failure Modes — p. 1039
+  - 68.1 A family of scoped computations, not a theorem pipeline — p. 1039
+  - 68.2 Provenance is part of the mathematical input — p. 1039
+  - 68.3 Algorithm-specific provenance ceilings — p. 1039
+  - 68.4 Trust is attached to judgments — p. 1039
+  - 68.5 Precision and loss taxonomy — p. 1039
+  - 68.6 Failure taxonomy — p. 1044
+  - 68.7 Replay and proof boundaries — p. 1044
+  - 68.8 Negative controls and conformance tests — p. 1044
+  - 68.9 Volume III and Volume V contracts — p. 1046
+  - 68.10 Provenance lattice and claim inheritance — p. 1046
+  - 68.11 Cross-algorithm handoff contracts — p. 1046
+  - 68.12 Failure artifacts as reusable negative knowledge — p. 1046
+  - 68.13 Precision negotiation protocol — p. 1046
+  - 68.14 Adversarial provenance scenarios — p. 1046
+  - 68.15 Operational review checklist — p. 1046
+  - 68.16 Artifact state machine — p. 1046
+  - 68.17 Reproducibility versus independent verification — p. 1046
+  - 68.18 Publication controls — p. 1046
+- Chapter 69. Finite Condensed Test Sites — p. 1053
+  - 69.1 The finite object is the result — p. 1053
+  - 69.2 Mathematical profile — p. 1053
+  - 69.3 Exact request schema — p. 1053
+  - 69.4 Successful finite test-site record — p. 1053
+  - 69.5 Invariants — p. 1053
+  - 69.6 Pseudocode — p. 1058
+  - 69.7 Termination and complexity — p. 1058
+  - 69.8 Typed failures — p. 1058
+  - 69.9 Tests and adversarial controls — p. 1061
+  - 69.10 Proof boundary and V3/V5 contracts — p. 1063
+  - 69.11 Exact object-profile registry — p. 1063
+  - 69.12 Ambient embedding and fullness — p. 1063
+  - 69.13 Restricting the topology — p. 1063
+  - 69.14 Algorithmic phases and witnesses — p. 1065
+  - 69.15 Positive and negative worked examples — p. 1065
+  - 69.16 Downstream portability and unchanged contract — p. 1065
+  - 69.17 Equality, automorphisms, and skeletal reduction — p. 1065
+  - 69.18 Resource and capability profiles — p. 1065
+  - 69.19 Formal proof target — p. 1065
+  - 69.20 Registry-governance boundary — p. 1065
+- Chapter 70. Condensed Sheaf Checking — p. 1070
+  - 70.1 Exactness has a finite target — p. 1070
+  - 70.2 Why a portability bridge is mandatory — p. 1071
+  - 70.3 Input schemas — p. 1072
+  - 70.4 Output and witness schemas — p. 1072
+  - 70.5 Exhaustive finite checks — p. 1072
+  - 70.6 Preserved invariants — p. 1072
+  - 70.7 Reference pseudocode — p. 1072
+  - 70.8 Termination and complexity — p. 1072
+  - 70.9 Typed failures — p. 1072
+  - 70.10 Tests and counterexamples — p. 1072
+  - 70.11 V3 and V5 contracts — p. 1083
+  - 70.12 Native and portable input modes — p. 1083
+  - 70.13 Complete bridge obligations — p. 1083
+  - 70.14 Exact finite sheaf semantics — p. 1083
+  - 70.15 Enumeration contract and complexity controls — p. 1083
+  - 70.16 Witness and failure lifecycle — p. 1083
+  - 70.17 Scope-preserving downstream use — p. 1083
+  - 70.18 Naturality and value-profile boundaries — p. 1083
+  - 70.19 Incremental checking and cache safety — p. 1083
+  - 70.20 Formal and independent validation target — p. 1083
+  - 70.21 Final acceptance checklist — p. 1083
+- Chapter 71. Solid and Exactness Obligation Generation — p. 1089
+  - 71.1 Frozen exact boundary — p. 1089
+  - 71.2 Mathematical subject and supported fragment — p. 1089
+  - 71.3 Exact request schema — p. 1090
+  - 71.4 Theorem profile and hypothesis discipline — p. 1090
+  - 71.5 OPEN goal schema — p. 1093
+  - 71.6 Preserved invariants — p. 1093
+  - 71.7 Exact generation procedure — p. 1096
+  - 71.8 Termination and complexity — p. 1096
+  - 71.9 Typed failures — p. 1096
+  - 71.10 Conformance tests — p. 1096
+  - 71.11 V3 and V5 traceability — p. 1099
+  - 71.12 Theorem-scoped boundary package — p. 1099
+  - 71.13 Boundary handoff and non-promotion rule — p. 1104
+  - 71.14 Worked boundary trace — p. 1104
+- Chapter 72. Profinite Inverse-System and Truncation Records — p. 1107
+  - 72.1 The specified claim surface is finite compatibility — p. 1107
+  - 72.2 Mathematical orientation — p. 1107
+  - 72.3 Exact typed input — p. 1109
+  - 72.4 Result variants and frozen certificate — p. 1109
+  - 72.5 Exact theorem scope — p. 1113
+  - 72.6 Invariants — p. 1114
+  - 72.7 Validator pseudocode — p. 1114
+  - 72.8 Complexity and boundedness — p. 1114
+  - 72.9 Failure artifacts — p. 1114
+  - 72.10 Tests and counterexamples — p. 1114
+  - 72.11 Plane A and the ALG-070–ALG-080 firewall — p. 1120
+  - 72.12 V3 and V5 correspondence — p. 1120
+  - 72.13 Theorem-scoped use of a finite tower — p. 1120
+  - 72.14 Failure artifacts for theorem-scoped use — p. 1120
+  - 72.15 Extended negative controls — p. 1120
+  - 72.16 Final class and reconstruction firewall — p. 1126
+  - 72.17 Worked common-prefix dossier — p. 1126
+- Chapter 73. Outer Actions, Inner Ambiguity, and Galois Signatures — p. 1129
+  - 73.1 Why the outer class is the invariant — p. 1130
+  - 73.2 Frozen input records — p. 1131
+  - 73.3 Normalization and typed output — p. 1133
+  - 73.4 Certificate procedure — p. 1134
+  - 73.5 Binding invariants — p. 1134
+  - 73.6 Complexity and termination — p. 1136
+  - 73.7 Failure artifacts — p. 1137
+  - 73.8 Test obligations — p. 1137
+  - 73.9 Non-authoritative downstream interface preview — p. 1138
+  - 73.10 Downstream procedure, failures, and tests preview — p. 1141
+  - 73.11 V3 and V5 contracts — p. 1141
+  - 73.12 Theorem vocabulary for outer-action evidence — p. 1141
+  - 73.13 Explicit ambiguity quotient — p. 1141
+  - 73.14 Hypothesis ledger and theorem-scoped admissibility — p. 1141
+  - 73.15 Boundary compilation without representative promotion — p. 1141
+  - 73.16 Failure artifacts and negative controls — p. 1141
+  - 73.17 Non-promotion conclusion — p. 1148
+  - 73.18 Worked ambiguity trace — p. 1148
+- Chapter 74. Decomposition, Inertia, and Enriched Reconstruction Shadows — p. 1151
+  - 74.1 A shadow is structured evidence, not the recovered object — p. 1151
+  - 74.2 Mathematical profile — p. 1151
+  - 74.3 Exact typed input — p. 1152
+  - 74.4 Recovery-strength lattice and output — p. 1152
+  - 74.5 Binding invariants — p. 1152
+  - 74.6 Profiler pseudocode — p. 1156
+  - 74.7 Termination and complexity — p. 1156
+  - 74.8 Failure artifacts — p. 1159
+  - 74.9 Tests, counterexamples, and negative controls — p. 1160
+  - 74.10 Proof boundary and downstream use — p. 1160
+  - 74.11 V3 dependencies and proposed V5 implementation contracts — p. 1161
+  - 74.12 Sole-authority rule and exact theorem profile — p. 1161
+  - 74.13 Local ambiguity quotients — p. 1161
+  - 74.14 Typed witness calculus — p. 1161
+  - 74.15 Boundary compiler profile — p. 1161
+  - 74.16 Expanded failures — p. 1161
+  - 74.17 Extended negative controls — p. 1161
+  - 74.18 Final authority and non-promotion boundary — p. 1168
+  - 74.19 Worked enriched-shadow trace — p. 1168
+- Chapter 75. Theorem-Scoped Categorical Anabelian Reconstruction — p. 1170
+  - 75.1 Reconstruction is a theorem application, not a pattern match — p. 1171
+  - 75.2 The reconstruction-strength lattice — p. 1172
+  - 75.3 Exact theorem manifest — p. 1173
+  - 75.4 Typed request and evidence — p. 1173
+  - 75.5 Hypothesis closure and finite-evidence barrier — p. 1173
+  - 75.6 Independent replay and trusted boundary — p. 1176
+  - 75.7 Result variants — p. 1177
+  - 75.8 Certifier pseudocode — p. 1177
+  - 75.9 Termination and complexity — p. 1177
+  - 75.10 Failure artifacts — p. 1180
+  - 75.11 Tests, counterexamples, and negative controls — p. 1182
+  - 75.12 Proof, certificate, and non-promotion boundary — p. 1183
+  - 75.13 V3 dependencies and proposed V5 implementation contracts — p. 1183
+  - 75.14 Reconstruction dossier and theorem vocabulary — p. 1183
+  - 75.15 Complete hypothesis ledger — p. 1183
+  - 75.16 Ambiguity quotient and conclusion typing — p. 1183
+  - 75.17 Typed proof and replay witnesses — p. 1183
+  - 75.18 Boundary compiler discipline — p. 1183
+  - 75.19 Expanded failure artifacts — p. 1183
+  - 75.20 Extended negative controls — p. 1183
+  - 75.21 Reconstruction-boundary counterexample search — p. 1191
+  - 75.22 Final non-promotion statement — p. 1195
+  - 75.23 Worked theorem-adapter trace — p. 1195
+- Chapter 76. Anabelioid, Frobenioid-Inspired, Theater, and Alien-Copy Compilation — p. 1198
+  - 76.1 Status and the three-plane boundary — p. 1198
+  - 76.2 Frozen ALG-075 contract surface — p. 1198
+  - 76.3 Typed compiled profiles — p. 1198
+  - 76.4 Boundary-compiler procedure — p. 1198
+  - 76.5 Frozen ALG-076 ledger contract — p. 1198
+  - 76.6 Exact ledger construction — p. 1203
+  - 76.7 Soundness and proof boundaries — p. 1203
+  - 76.8 Complexity and termination — p. 1203
+  - 76.9 Failure artifacts — p. 1206
+  - 76.10 Positive, negative, boundary, and adversarial tests — p. 1206
+  - 76.11 Proposed Volume V contracts — p. 1208
+  - 76.12 Worked boundary compilation across the three planes — p. 1208
+  - 76.13 Transactional identity and history example — p. 1208
+  - 76.14 Invariants and audit lemmas — p. 1211
+  - 76.15 Expanded negative controls — p. 1211
+  - 76.16 Release criterion for the boundary layer — p. 1211
+  - 76.17 Minimal conformance manifest — p. 1211
+- Chapter 77. Theater-Mediated Theta Transport, Comparison Prisms, and Non-Collapse — p. 1215
+  - 77.1 Scope, status, and non-identification — p. 1215
+  - 77.2 Frozen contract surfaces — p. 1215
+  - 77.3 Link and protected-data types — p. 1216
+  - 77.4 Theater-mediated comparison request and outcomes — p. 1220
+  - 77.5 Comparison prisms and witness bundles — p. 1221
+  - 77.6 ALG-077 certification procedure — p. 1223
+  - 77.7 ALG-078 research procedure — p. 1223
+  - 77.8 ALG-079 prism validation procedure — p. 1223
+  - 77.9 Invariants and proof boundaries — p. 1229
+  - 77.10 Complexity and resource bounds — p. 1231
+  - 77.11 Failure and obstruction artifacts — p. 1232
+  - 77.12 Tests and negative controls — p. 1232
+  - 77.13 Proposed Volume V contracts — p. 1234
+  - 77.14 A capability-safe transport example — p. 1234
+  - 77.15 Research procedure with explicit branch accounting — p. 1234
+  - 77.16 Dependency-complete prism example — p. 1234
+  - 77.17 Non-collapse lemmas and limits — p. 1236
+  - 77.18 Expanded adversarial controls — p. 1236
+  - 77.19 Operational release gate — p. 1238
+  - 77.20 Checker independence and reduced failures — p. 1238
+- Chapter 78. Witness Validation, Literal-IUT Formalization, and Claim-Evidence Obligations — p. 1241
+  - 78.1 Two validators, two planes, one non-promotion boundary — p. 1242
+  - 78.2 Frozen catalogue contracts — p. 1242
+  - 78.3 The comparison prism is an explicit finite incidence object — p. 1244
+  - 78.4 Dependency-complete witness bundles — p. 1244
+  - 78.5 Claim-sensitive composition and conservative ceilings — p. 1246
+  - 78.6 ALG-079 typed request, result, and failure artifacts — p. 1247
+  - 78.7 ALG-079 reference pseudocode — p. 1249
+  - 78.8 Source-parameterized literal-IUT formalization — p. 1249
+  - 78.9 Claim, discourse, and obligation records — p. 1249
+  - 78.10 ALG-080 formalization pseudocode — p. 1249
+  - 78.11 Complexity and termination — p. 1249
+  - 78.12 Required tests and adversarial controls — p. 1249
+  - 78.13 Proof boundaries and Volume III/Volume V relations — p. 1255
+  - 78.14 Closed-world completeness for one witness request — p. 1255
+  - 78.15 Worked Plane C representation without a truth verdict — p. 1255
+  - 78.16 Taint, ceiling, and path analysis — p. 1255
+  - 78.17 Cross-plane references without cross-plane promotion — p. 1255
+  - 78.18 Additional negative and metamorphic controls — p. 1255
+  - 78.19 Acceptance boundary — p. 1259
+  - 78.20 Counterexample: complete endpoints, incomplete evidence — p. 1259
+- Chapter 79. What the Machine Must Not Claim About IUT — p. 1262
+  - 79.1 The consequence firewall is constitutional, not rhetorical — p. 1262
+  - 79.2 The four separations that cannot be collapsed — p. 1262
+  - 79.3 Forbidden attribution and source conflation — p. 1262
+  - 79.4 The protected status graph — p. 1263
+  - 79.5 Force-bearing and non-force-bearing edges — p. 1264
+  - 79.6 Direct and indirect laundering — p. 1264
+  - 79.7 Typed firewall request and decision — p. 1265
+  - 79.8 Evidence ceilings and the non-amplification law — p. 1265
+  - 79.9 Claims the machine must reject — p. 1266
+  - 79.10 Firewall pseudocode — p. 1267
+  - 79.11 Failure and incident artifacts — p. 1267
+  - 79.12 Complexity, decidability, and fail-closed behavior — p. 1267
+  - 79.13 Adversarial test matrix — p. 1267
+  - 79.14 Proof obligations for the firewall — p. 1270
+  - 79.15 Volume III and Volume V relations — p. 1270
+  - 79.16 Final machine-readable boundary — p. 1270
+  - 79.17 Worked cases at the firewall boundary — p. 1270
+  - 79.18 Direct, indirect, and presentation laundering examples — p. 1273
+  - 79.19 Fail-closed policy semantics — p. 1273
+  - 79.20 Rigorous negative controls for verdict equivalence — p. 1273
+  - 79.21 Negative controls for arithmetic promotion — p. 1273
+  - 79.22 Audit theorem and its limitations — p. 1276
+  - 79.23 Interface and logging requirements — p. 1276
+- Chapter 80. Arithmetic-Moduli Strategy Graphs — p. 1279
+  - 80.1 A strategy graph is a typed research proposal — p. 1279
+  - 80.2 Complete algorithm contract — p. 1279
+  - 80.3 Typed request and theorem cards — p. 1279
+  - 80.4 The six dependency families and their bridges — p. 1279
+  - 80.5 Graph schema and status discipline — p. 1279
+  - 80.6 Compiler pseudocode — p. 1279
+  - 80.7 Bounds and complexity — p. 1279
+  - 80.8 Typed failure artifacts — p. 1288
+  - 80.9 Negative controls and test obligations — p. 1288
+  - 80.10 Source receipts and registration obligations — p. 1289
+  - 80.11 V3 dependencies and proposed V5 contracts — p. 1289
+  - 80.12 A fully typed synthetic strategy example — p. 1289
+  - 80.13 Hypothesis matching by structured obligations — p. 1289
+  - 80.14 Strategy alternatives and dominance — p. 1289
+  - 80.15 Interaction with the literal-IUT firewall — p. 1289
+  - 80.16 Expanded negative controls — p. 1289
+  - 80.17 Verification obligations for a future implementation — p. 1295
+  - 80.18 A route-rejection trace — p. 1295
+- Chapter 81. Pila-Zannier-Tsimerman Dependency Certification — p. 1299
+  - 81.1 Certification means exact dependency matching — p. 1299
+  - 81.2 Complete algorithm contract — p. 1299
+  - 81.3 Input graph and node types — p. 1299
+  - 81.4 Exact hypothesis matching — p. 1299
+  - 81.5 Bridge certification and missing dependencies — p. 1299
+  - 81.6 Dependency-closure certificate — p. 1299
+  - 81.7 Certification pseudocode — p. 1299
+  - 81.8 Termination and complexity — p. 1299
+  - 81.9 Typed failures — p. 1308
+  - 81.10 Negative controls and conformance tests — p. 1308
+  - 81.11 Source receipts and theorem-locator discipline — p. 1310
+  - 81.12 Why closure is not proof — p. 1310
+  - 81.13 V3 dependencies and proposed V5 contracts — p. 1310
+  - 81.14 Dependency-diff workflow, bounded support search, and adversarial replay — p. 1312
+  - 81.15 A complete status-preserving review example — p. 1316
+  - 81.16 Final-QA contract lock and reproducible fixture — p. 1316
+- Chapter 82. TRE Campaign Compilation — p. 1320
+  - 82.1 Compilation is exact orchestration, not mathematical endorsement — p. 1320
+  - 82.2 Architectural dependencies and inherited invariants — p. 1320
+  - 82.3 Exact request anatomy — p. 1321
+  - 82.4 The typed execution DAG — p. 1321
+  - 82.5 Compilation procedure — p. 1323
+  - 82.6 Budgets, termination, and complexity — p. 1323
+  - 82.7 Success and failure artifacts — p. 1323
+  - 82.8 Tests, countermodels, and negative controls — p. 1323
+  - 82.9 Worked compilation trace — p. 1323
+  - 82.10 Pre-execution review checklist — p. 1323
+  - 82.11 Event semantics, resumable compilation, and execution-envelope tests — p. 1323
+  - 82.12 Branch joins, evidence retention, and terminal completeness — p. 1334
+  - 82.13 Final-QA contract lock and deterministic campaign fixture — p. 1337
+- Chapter 83. TNCA Obstruction-to-World Synthesis — p. 1339
+  - 83.1 Two algorithms and one non-promotion boundary — p. 1341
+  - 83.2 Volume III dependencies — p. 1342
+  - 83.3 Exact intake for a heuristic classifier — p. 1342
+  - 83.4 Deficit candidates and heuristic ranking — p. 1343
+  - 83.5 Classifier pseudocode — p. 1344
+  - 83.6 Independent creation triage — p. 1344
+  - 83.7 Candidate-world contract anatomy — p. 1344
+  - 83.8 Research synthesis procedure — p. 1346
+  - 83.9 The ALG-085 validation boundary — p. 1346
+  - 83.10 Budgets and failure artifacts — p. 1346
+  - 83.11 Tests, countermodels, and negative controls — p. 1346
+  - 83.12 Worked obstruction-to-world trace — p. 1346
+  - 83.13 Reviewable obligation closure — p. 1346
+  - 83.14 Causal challenge, delta normalization, and bounded world search — p. 1346
+  - 83.15 Candidate comparison without world ranking — p. 1357
+  - 83.16 Successor candidates and non-erasing research memory — p. 1360
+  - 83.17 Final-QA paired contract and causal counterexample — p. 1360
+- Chapter 84. TNCA Operator Retrieval and Composition — p. 1363
+  - 84.1 Retrieval produces sourced candidates, not applicable theorems — p. 1363
+  - 84.2 Volume III and source-registry dependencies — p. 1363
+  - 84.3 Complete request anatomy — p. 1363
+  - 84.4 Operator candidate records — p. 1363
+  - 84.5 Hard applicability gates precede ranking — p. 1363
+  - 84.6 Heuristic retrieval and ranking — p. 1366
+  - 84.7 Opaque downstream composition-consumer guidance — p. 1366
+  - 84.8 Retrieval-only pseudocode — p. 1367
+  - 84.9 Budgets, termination, and complexity — p. 1367
+  - 84.10 Success, residual, exhaustion, and failure artifacts — p. 1367
+  - 84.11 Downstream synthesis and the ALG-085 boundary — p. 1367
+  - 84.12 Tests, countermodels, and negative controls — p. 1367
+  - 84.13 Worked retrieval trace and opaque downstream example — p. 1367
+  - 84.14 Query compilation, corpus coverage, and opaque downstream guidance — p. 1367
+  - 84.15 Applicability review packets and negative-evidence preservation — p. 1379
+  - 84.16 Retrieval-regression suites and corpus mutation — p. 1382
+  - 84.17 Final-QA corpus fixture and disposition oracle — p. 1382
+- Chapter 85. TNCA Preservation and Countermodel Tests — p. 1386
+  - 85.1 Validation is a certificate boundary — p. 1386
+  - 85.2 Proposed architecture and implementation contracts — p. 1387
+  - 85.3 What a candidate world must expose — p. 1387
+  - 85.4 Exact typed request — p. 1387
+  - 85.5 Output sum and certificate — p. 1387
+  - 85.6 Validation procedure — p. 1387
+  - 85.7 Complexity and budgets — p. 1387
+  - 85.8 Failure taxonomy — p. 1387
+  - 85.9 Required tests and countermodels — p. 1394
+  - 85.10 Worked preservation dossier — p. 1395
+  - 85.11 Proof and promotion boundary — p. 1395
+  - 85.12 Probe generation, countermodel validation, and coverage lattices — p. 1395
+  - 85.13 Metamorphic tests, contamination controls, and replay comparison — p. 1402
+  - 85.14 Validation handoff and obligation-by-obligation disposition — p. 1404
+  - 85.15 Final-QA validation fixture and exact counterexample boundary — p. 1404
+- Chapter 86. TNRA World Routing — p. 1407
+  - 86.1 Routing is heuristic choice, not world correctness — p. 1407
+  - 86.2 Frozen P0 bindings and proposed V5 contracts — p. 1407
+  - 86.3 The route problem — p. 1407
+  - 86.4 Exact typed input — p. 1408
+  - 86.5 Cost model and ranking profile — p. 1408
+  - 86.6 Output contract — p. 1408
+  - 86.7 Routing pseudocode — p. 1408
+  - 86.8 Complexity and resource budget — p. 1408
+  - 86.9 Failure modes and abstention — p. 1408
+  - 86.10 Required tests and countermodels — p. 1408
+  - 86.11 Worked route-ranking example — p. 1416
+  - 86.12 Route certificates, dominance, and finite optimality — p. 1416
+  - 86.13 Compositional route semantics — p. 1416
+  - 86.14 Adversarial routing and answer independence — p. 1416
+  - 86.15 Incremental registries, cache safety, and revocation — p. 1416
+  - 86.16 Sharpened resource analysis — p. 1416
+  - 86.17 Proposed V5 implementation contract — p. 1416
+  - 86.18 Certificate checking protocol — p. 1416
+  - 86.19 Operational failure recovery — p. 1416
+  - 86.20 Additional falsification matrix — p. 1416
+  - 86.21 Proof boundary — p. 1416
+- Chapter 87. TNRA Localization and Materialization — p. 1424
+  - 87.1 A bounded representation is not the world — p. 1424
+  - 87.2 Frozen P0 bindings and proposed implementation aliases — p. 1425
+  - 87.3 Localization and materialization are distinct — p. 1425
+  - 87.4 Exact typed request — p. 1425
+  - 87.5 Bounds, truncation, and loss — p. 1425
+  - 87.6 Output contract — p. 1425
+  - 87.7 Materialization pseudocode — p. 1425
+  - 87.8 Complexity and budget accounting — p. 1425
+  - 87.9 Failure modes — p. 1425
+  - 87.10 Required tests and countermodels — p. 1434
+  - 87.11 Downstream consumption — p. 1435
+  - 87.12 Worked bounded representation — p. 1435
+  - 87.13 Dependency closure and exactness interiors — p. 1435
+  - 87.14 Approximation envelopes and refinement order — p. 1435
+  - 87.15 Covers, overlaps, and higher-dimensional cost — p. 1435
+  - 87.16 Canonicalization, identity, and deduplication — p. 1435
+  - 87.17 Certificate structure and independent validation — p. 1435
+  - 87.18 Storage, streaming, and resource bounds — p. 1435
+  - 87.19 Proposed V5 materializer contract — p. 1435
+  - 87.20 Failure recovery and downstream proof obligations — p. 1435
+  - 87.21 Validation test layers — p. 1435
+  - 87.22 Additional counterexamples — p. 1435
+  - 87.23 Proof boundary — p. 1435
+- Chapter 88. TNRA Local Solver Dispatch — p. 1444
+  - 88.1 Dispatch is an exact planning operation, not solver authority — p. 1444
+  - 88.2 Upstream architecture and downstream proposals — p. 1444
+  - 88.3 Exact request contract — p. 1445
+  - 88.4 Capability-safe admissibility — p. 1445
+  - 88.5 Deterministic planning pseudocode — p. 1445
+  - 88.6 Success artifact and non-authorities — p. 1445
+  - 88.7 Termination and resource budgets — p. 1445
+  - 88.8 Failure algebra — p. 1445
+  - 88.9 Negative controls — p. 1445
+  - 88.10 Conformance and falsification tests — p. 1451
+  - 88.11 Concurrency, retries, and revocation — p. 1452
+  - 88.12 Auditability without secret expansion — p. 1452
+  - 88.13 Plan certificates and bipartite feasibility — p. 1452
+  - 88.14 Capability attenuation and non-amplification — p. 1452
+  - 88.15 Side-effect transactions and idempotency — p. 1452
+  - 88.16 Fairness, priorities, and starvation — p. 1452
+  - 88.17 Concurrency interference model — p. 1452
+  - 88.18 Solver output envelopes — p. 1452
+  - 88.19 Sharpened complexity and scheduling bounds — p. 1452
+  - 88.20 Proposed V5 dispatcher contract — p. 1452
+  - 88.21 Independent plan verification and stale-plan semantics — p. 1452
+  - 88.22 Test oracle discipline — p. 1452
+  - 88.23 Additional counterexamples and recovery rules — p. 1452
+  - 88.24 Hand-off boundary — p. 1452
+- Chapter 89. TNRA Gluing, Transport, and Promotion — p. 1461
+  - 89.1 Three boundaries, not one success path — p. 1463
+  - 89.2 Frozen P0 bindings and proposed V5 aliases — p. 1463
+  - 89.3 A mandatory sum type for gluing modes — p. 1463
+  - 89.4 Mathematical descent contract — p. 1463
+  - 89.5 Nonmathematical policy merge contract — p. 1463
+  - 89.6 Gluing pseudocode — p. 1463
+  - 89.7 Closed public result algebra — p. 1463
+  - 89.8 Directed world transport — p. 1463
+  - 89.9 Preservation and loss — p. 1463
+  - 89.10 Transport pseudocode and results — p. 1463
+  - 89.11 External promotion gate — p. 1463
+  - 89.12 Termination and budgets — p. 1463
+  - 89.13 Failure semantics — p. 1463
+  - 89.14 Negative controls — p. 1463
+  - 89.15 Proposed conformance tests — p. 1477
+  - 89.16 Checker independence and stale evidence — p. 1478
+  - 89.17 Descent certificates as structured evidence — p. 1478
+  - 89.18 Obstruction localization and minimal witnesses — p. 1478
+  - 89.19 Higher descent and truncation discipline — p. 1478
+  - 89.20 Policy merge algebra and information order — p. 1478
+  - 89.21 Transport composition and path dependence — p. 1478
+  - 89.22 Transported target fidelity — p. 1478
+  - 89.23 Staleness, revocation, and epoch coherence — p. 1478
+  - 89.24 Sharpened resource model — p. 1478
+  - 89.25 Proposed V5 implementation contracts — p. 1478
+  - 89.26 Verification result algebras — p. 1478
+  - 89.27 Promotion dossier tests — p. 1488
+  - 89.28 Counterexamples to semantic laundering — p. 1488
+  - 89.29 Final boundary — p. 1488
+- Chapter 90. Twin-Engine Coupling — p. 1491
+  - 90.1 A research loop with a fixed truth boundary — p. 1491
+  - 90.2 Proposed architecture bindings — p. 1491
+  - 90.3 Immutable accepted truth — p. 1491
+  - 90.4 Exact campaign input — p. 1491
+  - 90.5 Campaign state and append-only events — p. 1491
+  - 90.6 Coupling semantics — p. 1491
+  - 90.7 Controller pseudocode — p. 1491
+  - 90.8 Preventing semantic drift — p. 1491
+  - 90.9 Oscillation, novelty, and progress — p. 1491
+  - 90.10 Budgets and termination — p. 1491
+  - 90.11 Result and failure algebra — p. 1491
+  - 90.12 External promotion and successor truth snapshots — p. 1491
+  - 90.13 Negative controls — p. 1491
+  - 90.14 Proposed test plan — p. 1500
+  - 90.15 Replay and reproducibility limits — p. 1501
+  - 90.16 Campaign invariants and transition certificates — p. 1501
+  - 90.17 Obstruction taxonomy and causal discipline — p. 1501
+  - 90.18 Candidate-world validation ladder — p. 1501
+  - 90.19 Campaign scheduling and partial-order execution — p. 1501
+  - 90.20 Information gain without truth scores — p. 1501
+  - 90.21 Branching, merging, and campaign identity — p. 1501
+  - 90.22 Oscillation equivalence and novelty attacks — p. 1501
+  - 90.23 External decisions and asynchronous boundaries — p. 1501
+  - 90.24 Replay equivalence and nondeterminism — p. 1501
+  - 90.25 Sharpened resource and liveness analysis — p. 1501
+  - 90.26 Proposed V5 campaign-runtime contract — p. 1501
+  - 90.27 Failure-certificate preservation — p. 1501
+  - 90.28 Campaign certificates and audit queries — p. 1501
+  - 90.29 Research value without autonomous truth — p. 1501
+- Chapter 91. GRA Operator-Event Extraction — p. 1510
+  - 91.1 Purpose and epistemic ceiling — p. 1510
+  - 91.2 What an operator event records — p. 1510
+  - 91.3 Full input contract — p. 1511
+  - 91.4 Source lineage and span fidelity — p. 1511
+  - 91.5 Success output and artifact envelope — p. 1511
+  - 91.6 Extraction and ranking procedure — p. 1511
+  - 91.7 Budget, termination, and complexity — p. 1511
+  - 91.8 Failure semantics and abstention — p. 1511
+  - 91.9 Experiment record and reproducibility — p. 1511
+  - 91.10 Dependencies and ownership — p. 1511
+  - 91.11 Tests and negative controls — p. 1517
+  - 91.12 Reviewer handoff checklist — p. 1519
+  - 91.13 Complete contract summary — p. 1519
+  - 91.14 Event identity, equivalence, and non-equivalence — p. 1519
+  - 91.15 Preservation invariants and postconditions — p. 1519
+  - 91.16 Rule evaluation and conflict resolution — p. 1519
+  - 91.17 Worked extraction example — p. 1519
+  - 91.18 Exhaustion, retries, and failure precedence — p. 1519
+  - 91.19 Complexity refinements and storage bounds — p. 1523
+  - 91.20 Extended negative-control matrix — p. 1523
+  - 91.21 Consumer contract and audit queries — p. 1524
+  - 91.22 Conformance criteria — p. 1524
+- Chapter 92. Higher Cognitive Graph Construction — p. 1527
+  - 92.1 Graphs of proposals, not automatic mathematics — p. 1527
+  - 92.2 Typed layers and their boundaries — p. 1527
+  - 92.3 Full input contract — p. 1528
+  - 92.4 Node, edge, and cell types — p. 1528
+  - 92.5 Boundary typing and cell validity — p. 1528
+  - 92.6 Success output and graph delta — p. 1528
+  - 92.7 Construction procedure — p. 1528
+  - 92.8 Budget, termination, and complexity — p. 1528
+  - 92.9 Failure semantics — p. 1528
+  - 92.10 Experiment record — p. 1528
+  - 92.11 Dependencies and proposed implementation boundary — p. 1528
+  - 92.12 Tests and adversarial controls — p. 1536
+  - 92.13 Rendered-view noninterference — p. 1537
+  - 92.14 Complete contract summary — p. 1537
+  - 92.15 Graph well-formedness invariants — p. 1537
+  - 92.16 Canonical identity and collision semantics — p. 1537
+  - 92.17 Path semantics without accidental composition — p. 1537
+  - 92.18 Cell admission and witness discipline — p. 1537
+  - 92.19 Transactional construction and exhaustion — p. 1537
+  - 92.20 Refined complexity model — p. 1537
+  - 92.21 Worked graph example — p. 1537
+  - 92.22 Query contracts and non-authoritative analytics — p. 1542
+  - 92.23 Extended negative controls — p. 1542
+  - 92.24 Consumer and update contracts — p. 1543
+  - 92.25 Conformance evidence — p. 1543
+- Chapter 93. GRA-TRE Ensemble Adjudication — p. 1546
+  - 93.1 Adjudication records disagreement — p. 1546
+  - 93.2 Compared artifacts and authority separation — p. 1546
+  - 93.3 Full input contract — p. 1546
+  - 93.4 Scope alignment before comparison — p. 1546
+  - 93.5 Claim decomposition and disagreement taxonomy — p. 1546
+  - 93.6 Success output — p. 1546
+  - 93.7 Experiment-plan contract — p. 1546
+  - 93.8 Adjudication procedure — p. 1546
+  - 93.9 Budgets, termination, and complexity — p. 1546
+  - 93.10 Failure, abstention, and escalation — p. 1546
+  - 93.11 Experiment and replay record — p. 1546
+  - 93.12 Dependencies and proposed Volume V services — p. 1546
+  - 93.13 Tests and negative controls — p. 1555
+  - 93.14 Evidence-strength preservation — p. 1557
+  - 93.15 Complete contract summary — p. 1557
+  - 93.16 Adjudication invariants — p. 1557
+  - 93.17 Normalization without charitable mutation — p. 1557
+  - 93.18 Evidence applicability calculus — p. 1557
+  - 93.19 Agreement lattice and aggregation — p. 1557
+  - 93.20 Independence and correlation assessment — p. 1557
+  - 93.21 Experiment selection as constrained set cover — p. 1557
+  - 93.22 Worked adjudication example — p. 1557
+  - 93.23 Failure precedence and transactional output — p. 1557
+  - 93.24 Complexity and scaling limits — p. 1562
+  - 93.25 Extended controls and metamorphic tests — p. 1562
+  - 93.26 Consumer, appeal, and successor records — p. 1563
+  - 93.27 Conformance criteria — p. 1563
+- Chapter 94. Structure-Motif Mining — p. 1566
+  - 94.1 Repetition proposes a question — p. 1566
+  - 94.2 Frozen contract — p. 1566
+  - 94.3 Typed input and authority envelope — p. 1566
+  - 94.4 Motif grammar and occurrence identity — p. 1566
+  - 94.5 Attribution is part of the candidate — p. 1566
+  - 94.6 Support without truth — p. 1569
+  - 94.7 Mining procedure — p. 1570
+  - 94.8 Budget and complexity — p. 1570
+  - 94.9 Success and failure records — p. 1570
+  - 94.10 Adversarial tests and negative controls — p. 1570
+  - 94.11 A bounded example — p. 1573
+  - 94.12 Review and selection remain external — p. 1573
+  - 94.13 Frozen P0 bindings and proposed Volume V target — p. 1573
+  - 94.14 Handoff to language formation — p. 1574
+  - 94.15 Motif identity and observational equivalence — p. 1574
+  - 94.16 Mining invariants — p. 1574
+  - 94.17 Typed matching semantics — p. 1574
+  - 94.18 Candidate generation and anti-unification — p. 1574
+  - 94.19 Support profiles and sensitivity — p. 1574
+  - 94.20 Failure precedence and partial results — p. 1574
+  - 94.21 Refined complexity analysis — p. 1578
+  - 94.22 Worked motif example with controls — p. 1578
+  - 94.23 Motif lifecycle and downstream contracts — p. 1578
+  - 94.24 Extended negative controls — p. 1578
+  - 94.25 Consumer and rerun policy — p. 1580
+  - 94.26 Conformance criteria — p. 1580
+- Chapter 95. Lexicon and Notation Formation — p. 1583
+  - 95.1 Names and glyphs are proposals — p. 1583
+  - 95.2 Frozen contracts — p. 1583
+  - 95.3 Lexicon request and result types — p. 1584
+  - 95.4 Attribution and denotation discipline — p. 1584
+  - 95.5 Lexical collision model — p. 1587
+  - 95.6 Lexicon formation procedure — p. 1587
+  - 95.7 Notation request and result types — p. 1587
+  - 95.8 Collision, parsing, and accessibility constraints — p. 1587
+  - 95.9 Notation-forging procedure — p. 1590
+  - 95.10 Budget and complexity — p. 1590
+  - 95.11 Failures, adversarial tests, and negative controls — p. 1590
+  - 95.12 A collision-and-accessibility example — p. 1592
+  - 95.13 Review packages — p. 1593
+  - 95.14 Frozen P0 bindings and proposed V5 aliases — p. 1593
+  - 95.15 Handoff to grammar synthesis — p. 1593
+  - 95.16 Identity, normalization, and successor invariants — p. 1593
+  - 95.17 Typed resolution decisions — p. 1595
+  - 95.18 Resource accounting and denial-of-service bounds — p. 1595
+  - 95.19 End-to-end worked example — p. 1595
+  - 95.20 Proof ceiling and strengthened negative controls — p. 1595
+  - 95.21 Conformance matrix and audit procedure — p. 1599
+  - 95.22 Additional edge cases — p. 1599
+- Chapter 96. Grammar and Formation-Rule Synthesis — p. 1603
+  - 96.1 A rule-shaped object is not yet a valid inference — p. 1603
+  - 96.2 Frozen contract — p. 1603
+  - 96.3 Input contract — p. 1603
+  - 96.4 Candidate syntax and judgment types — p. 1603
+  - 96.5 Formation-rule contract — p. 1603
+  - 96.6 Inference-rule contract — p. 1606
+  - 96.7 Attribution, denotation, collision, and accessibility — p. 1606
+  - 96.8 Synthesis procedure — p. 1606
+  - 96.9 Static checks and their ceiling — p. 1606
+  - 96.10 Budget and complexity — p. 1606
+  - 96.11 Result and typed failures — p. 1606
+  - 96.12 Adversarial tests — p. 1606
+  - 96.13 Negative controls — p. 1611
+  - 96.14 Grounding-readiness gate — p. 1611
+  - 96.15 Proposed V3 and V5 bindings — p. 1611
+  - 96.16 Handoff to semantic grounding — p. 1611
+  - 96.17 Rule-package identity and well-formedness invariants — p. 1611
+  - 96.18 Derivation objects and rule dependencies — p. 1614
+  - 96.19 Substitution and context transport checker — p. 1614
+  - 96.20 Search procedure, pruning, and resource bounds — p. 1614
+  - 96.21 Failure lattice and repair semantics — p. 1614
+  - 96.22 Worked synthesis example — p. 1614
+  - 96.23 Proof ceiling and additional negative controls — p. 1619
+  - 96.24 Conformance and bounded completeness — p. 1620
+  - 96.25 Final handoff checklist — p. 1620
+- Chapter 97. Formal Semantic Grounding — p. 1623
+  - 97.1 The certificate is an interpretation, not a truth oracle — p. 1623
+  - 97.2 Mathematical object being checked — p. 1624
+  - 97.3 Exact input contract — p. 1625
+  - 97.4 Output algebra — p. 1625
+  - 97.5 Grounding procedure — p. 1625
+  - 97.6 Failure semantics — p. 1625
+  - 97.7 Complexity and termination — p. 1630
+  - 97.8 Required verification suite — p. 1630
+  - 97.9 Proof boundary and architectural bindings — p. 1631
+  - 97.10 Worked boundary cases — p. 1631
+  - 97.11 Grounding graph invariants — p. 1631
+  - 97.12 Assignment validation and coherence — p. 1634
+  - 97.13 Rule validation obligations — p. 1634
+  - 97.14 Resource model and incremental grounding — p. 1636
+  - 97.15 Worked examples and counterexamples — p. 1636
+  - 97.16 Strengthened failure witnesses and negative controls — p. 1637
+  - 97.17 Proof ceiling and handoff contract — p. 1639
+  - 97.18 Certificate verification and revocation — p. 1639
+  - 97.19 Conformance summary — p. 1639
+- Chapter 98. Theory Reconstruction and Axiom Management — p. 1642
+  - 98.1 Reconstruction is a research result — p. 1643
+  - 98.2 Shared theory records — p. 1644
+  - 98.3 ALG-100: Theory Reconstructor contract — p. 1644
+  - 98.4 ALG-101: Axiom Dependency Analyzer contract — p. 1644
+  - 98.5 ALG-102: Axiom Minimizer contract — p. 1644
+  - 98.6 ALG-103: Target-Fidelity Certifier contract — p. 1649
+  - 98.7 Failure catalogue — p. 1649
+  - 98.8 Complexity and decidability — p. 1649
+  - 98.9 Required tests — p. 1649
+  - 98.10 Proof boundary and V3/V5 correspondence — p. 1655
+  - 98.11 Reconstruction dossier and review protocol — p. 1655
+  - 98.12 Theory identity and reconstruction invariants — p. 1655
+  - 98.13 Obligation ledger and reconstruction loop — p. 1655
+  - 98.14 Dependency hypergraphs and nondependence evidence — p. 1655
+  - 98.15 Minimization regimes and exact guarantees — p. 1655
+  - 98.16 Directional fidelity matrix — p. 1655
+  - 98.17 Resource bounds and scheduling — p. 1662
+  - 98.18 Worked axiom-management example — p. 1662
+  - 98.19 Strengthened negative controls and proof ceiling — p. 1662
+  - 98.20 Conformance, audit, and release gates — p. 1665
+  - 98.21 Final operational checklist — p. 1665
+- Chapter 99. GCA Context and Cover Algorithms — p. 1668
+  - 99.1 Context construction has no truth authority — p. 1668
+  - 99.2 Typed context as an environment — p. 1669
+  - 99.3 ALG-104 exact input contract — p. 1670
+  - 99.4 ALG-104 output and procedure — p. 1670
+  - 99.5 Cover kinds and the site barrier — p. 1670
+  - 99.6 ALG-105 input and output contracts — p. 1670
+  - 99.7 Cover-planning procedure — p. 1670
+  - 99.8 Failure semantics — p. 1670
+  - 99.9 Complexity and termination — p. 1670
+  - 99.10 Required tests — p. 1670
+  - 99.11 Proof and execution boundaries — p. 1679
+  - 99.12 Handoff to GDRA — p. 1679
+  - 99.13 Canonical evidence algebra — p. 1679
+  - 99.14 Compiler invariants and failure precedence — p. 1679
+  - 99.15 Validation and planning pseudocode — p. 1682
+  - 99.16 Refined complexity contract — p. 1682
+  - 99.17 Extended conformance and counterexample suite — p. 1682
+  - 99.18 Minimal witnesses and review checklist — p. 1687
+- Chapter 100. GCA Obstruction and Universe-Shift Algorithms — p. 1689
+  - 100.1 Obstruction is retained evidence — p. 1689
+  - 100.2 Complete contract anatomy — p. 1689
+  - 100.3 Repair and shift semantics — p. 1689
+  - 100.4 Budget model — p. 1689
+  - 100.5 Pseudocode — p. 1689
+  - 100.6 Failure artifacts — p. 1689
+  - 100.7 Tests and counterexamples — p. 1689
+  - 100.8 Worked contract cases — p. 1696
+  - 100.9 Admission and audit obligations — p. 1696
+  - 100.10 Correctness statement and proof obligations — p. 1696
+  - 100.11 Proposed Volume III and Volume V contracts — p. 1698
+  - 100.12 Obstruction conservation law — p. 1698
+  - 100.13 Candidate type system and status machine — p. 1698
+  - 100.14 Transactional search pseudocode — p. 1698
+  - 100.15 Complexity and completeness boundaries — p. 1698
+  - 100.16 Failure precedence, tests, and counterexamples — p. 1698
+  - 100.17 Discharge criteria and audit matrix — p. 1706
+- Chapter 101. GDRA Descent Execution — p. 1708
+  - 101.1 Decomposition is not automatically descent — p. 1709
+  - 101.2 Two execution kinds — p. 1710
+  - 101.3 Complete contract anatomy — p. 1710
+  - 101.4 Coverage, overlaps, and effectivity ceilings — p. 1710
+  - 101.5 Budget and complexity discipline — p. 1710
+  - 101.6 Pseudocode — p. 1710
+  - 101.7 Runtime handoff and worker discipline — p. 1710
+  - 101.8 Failure artifacts — p. 1710
+  - 101.9 Tests and counterexamples — p. 1710
+  - 101.10 Worked execution cases — p. 1718
+  - 101.11 Plan admission and deterministic replay — p. 1718
+  - 101.12 Security and authority boundaries — p. 1718
+  - 101.13 Correctness and termination obligations — p. 1718
+  - 101.14 Proposed Volume III and Volume V contracts — p. 1720
+  - 101.15 Specified graph semantics — p. 1720
+  - 101.16 State machine and evidence ownership — p. 1723
+  - 101.17 Strict admission and execution pseudocode — p. 1723
+  - 101.18 Resource and capability invariants — p. 1723
+  - 101.19 Refined complexity contract — p. 1723
+  - 101.20 Extended tests and counterexamples — p. 1723
+  - 101.21 Closure theorem for a fixed plan — p. 1727
+- Chapter 102. GDRA Gluing and Promotion — p. 1729
+  - 102.1 Two gates, two kinds of judgment — p. 1729
+  - 102.2 Complete overlap contract anatomy — p. 1729
+  - 102.3 Compatibility, effectivity, and gluing — p. 1729
+  - 102.4 Overlap budgets and pseudocode — p. 1731
+  - 102.5 Overlap failure artifacts — p. 1731
+  - 102.6 Complete promotion contract anatomy — p. 1731
+  - 102.7 Promotion pseudocode and complexity — p. 1731
+  - 102.8 Promotion failure artifacts — p. 1731
+  - 102.9 Tests and counterexamples — p. 1731
+  - 102.10 Worked gluing cases — p. 1738
+  - 102.11 Receipt-consumption law — p. 1738
+  - 102.12 Audit and replay requirements — p. 1738
+  - 102.13 Correctness obligations — p. 1738
+  - 102.14 Proposed Volume III and Volume V contracts — p. 1738
+  - 102.15 Compatibility certificate normal form — p. 1738
+  - 102.16 Complete-family and coherence invariants — p. 1738
+  - 102.17 Strict overlap pseudocode — p. 1743
+  - 102.18 Promotion lattice and policy semantics — p. 1743
+  - 102.19 Strict promotion pseudocode — p. 1743
+  - 102.20 Complexity and revocation behavior — p. 1743
+  - 102.21 Extended tests and counterexamples — p. 1743
+  - 102.22 Final cross-gate invariant — p. 1749
+- Chapter 103. AURORA World, Witness, and Identity Checking — p. 1750
+  - 103.1 Experimental calculus without epistemic promotion — p. 1750
+  - 103.2 Frozen contracts and trust boundary — p. 1750
+  - 103.3 The typed AURORA world — p. 1751
+  - 103.4 Witnesses are predicate-bound — p. 1751
+  - 103.5 ALG-110: world and manifestation checking — p. 1751
+  - 103.6 The identity ladder is not a quotient — p. 1751
+  - 103.7 ALG-112: reconstruction remains research-only — p. 1756
+  - 103.8 Termination, complexity, and budgets — p. 1756
+  - 103.9 Failure artifacts — p. 1756
+  - 103.10 Tests and negative controls — p. 1756
+  - 103.11 Volume III and Volume V proposals — p. 1759
+  - 103.12 Target-fidelity discipline for experimental worlds — p. 1760
+  - 103.13 Obligation ledger and exact residual semantics — p. 1760
+  - 103.14 Exact failures, replay packets, and minimization — p. 1760
+  - 103.15 Conformance matrix and adversarial controls — p. 1760
+  - 103.16 Worked dossier: compression, equivalence, and reconstruction — p. 1764
+  - 103.17 Consumer obligations and prohibited shortcuts — p. 1764
+  - 103.18 Constitutional conclusion — p. 1764
+- Chapter 104. Language Validation and Target Fidelity — p. 1768
+  - 104.1 A language may elaborate and still say the wrong thing — p. 1768
+  - 104.2 Frozen algorithm boundaries — p. 1768
+  - 104.3 The language package contract — p. 1768
+  - 104.4 Formal semantic grounding — p. 1768
+  - 104.5 Source and target identities — p. 1768
+  - 104.6 ALG-006: mutation detection before proof search — p. 1768
+  - 104.7 ALG-103: directional translation obligations — p. 1768
+  - 104.8 What an ALG-010 receipt must bind — p. 1768
+  - 104.9 Language validation as a composite contract — p. 1768
+  - 104.10 Termination, budgets, and complexity — p. 1768
+  - 104.11 Failure taxonomy — p. 1768
+  - 104.12 Tests and negative controls — p. 1768
+  - 104.13 Volume III and Volume V proposals — p. 1777
+  - 104.14 Fidelity obligations as first-class artifacts — p. 1777
+  - 104.15 Type-directed source-target alignment — p. 1777
+  - 104.16 Exact failure envelopes and diagnostic separation — p. 1777
+  - 104.17 Layered tests, negative controls, and release gates — p. 1777
+  - 104.18 Worked fidelity dossier — p. 1782
+  - 104.19 Coverage accounting and consumer rules — p. 1782
+  - 104.20 Constitutional conclusion — p. 1782
+- Chapter 105. Type-Directed Mathematical Retrieval — p. 1786
+  - 105.1 Retrieval proposes sources; it does not manufacture evidence — p. 1786
+  - 105.2 Frozen contracts — p. 1786
+  - 105.3 Exact retrieval request — p. 1786
+  - 105.4 Source-attributed candidate schema — p. 1786
+  - 105.5 Type-directed indexing — p. 1786
+  - 105.6 Retrieval procedure — p. 1789
+  - 105.7 Ranking is not validation — p. 1789
+  - 105.8 Context assembly without source laundering — p. 1789
+  - 105.9 Handoff to ALG-114 proof-state search — p. 1789
+  - 105.10 Target lock and premise discipline — p. 1789
+  - 105.11 Termination and resource accounting — p. 1789
+  - 105.12 Failure taxonomy — p. 1789
+  - 105.13 Tests and negative controls — p. 1789
+  - 105.14 Evaluation — p. 1795
+  - 105.15 Authoritative Volume III bindings and Volume V proposals — p. 1795
+  - 105.16 Query typing and obligation-preserving unification — p. 1796
+  - 105.17 Source lineage, freshness, and contradiction controls — p. 1796
+  - 105.18 Exact retrieval failures and abstention artifacts — p. 1796
+  - 105.19 Retrieval-to-search interface obligations — p. 1796
+  - 105.20 Expanded tests and negative-control corpus — p. 1796
+  - 105.21 Worked retrieval trace — p. 1803
+  - 105.22 Consumer-side invariants — p. 1804
+  - 105.23 Constitutional conclusion — p. 1804
+- Chapter 106. Proof-State Search and Tactic Planning — p. 1807
+  - 106.1 Search proposes; replay decides — p. 1807
+  - 106.2 Frozen algorithm contract — p. 1807
+  - 106.3 Exact request schema — p. 1808
+  - 106.4 Proof states and tactic plans — p. 1808
+  - 106.5 Planning and expansion pseudocode — p. 1808
+  - 106.6 Budget semantics — p. 1808
+  - 106.7 Success and failure artifacts — p. 1808
+  - 106.8 Independent replay path — p. 1808
+  - 106.9 Tests and mutation campaign — p. 1808
+  - 106.10 V3 and V5 contract proposals — p. 1816
+  - 106.11 Operational observability and campaign comparison — p. 1816
+  - 106.12 Formal obligations generated by search — p. 1816
+  - 106.13 Tactic contracts and typed action effects — p. 1816
+  - 106.14 Exact failure artifacts and search residuals — p. 1816
+  - 106.15 Test architecture and negative controls — p. 1816
+  - 106.16 Worked search trace — p. 1821
+  - 106.17 Consumer and scheduler obligations — p. 1821
+  - 106.18 Closing invariant — p. 1823
+- Chapter 107. Lemma Discovery and Proof Repair — p. 1825
+  - 107.1 Two proposal engines, two different risks — p. 1826
+  - 107.2 Frozen contracts — p. 1826
+  - 107.3 Obstruction records — p. 1828
+  - 107.4 Lemma invention request and output — p. 1828
+  - 107.5 Lemma invention pseudocode — p. 1828
+  - 107.6 Repair request and edit grammar — p. 1828
+  - 107.7 Repair pseudocode — p. 1828
+  - 107.8 Budget contracts — p. 1828
+  - 107.9 Failure artifacts — p. 1828
+  - 107.10 Independent replay and lemma admission — p. 1828
+  - 107.11 Tests and adversarial mutations — p. 1828
+  - 107.12 V3 and V5 proposals — p. 1837
+  - 107.13 Review ledger and human intervention — p. 1837
+  - 107.14 Closing boundary — p. 1842
+- Chapter 108. Counterexample and Small-Model Search — p. 1845
+  - 108.1 Asymmetric evidence — p. 1845
+  - 108.2 Frozen algorithm contract — p. 1846
+  - 108.3 Formal request schema — p. 1846
+  - 108.4 Bounds are semantic — p. 1846
+  - 108.5 Candidate generation and witness replay — p. 1846
+  - 108.6 Pseudocode — p. 1846
+  - 108.7 Counterexample certificate — p. 1846
+  - 108.8 Unknown and failure artifacts — p. 1846
+  - 108.9 Completeness contracts — p. 1846
+  - 108.10 Representative model profiles — p. 1864
+  - 108.11 Tests and mutations — p. 1864
+  - 108.12 V3 and V5 proposals — p. 1865
+  - 108.13 Closing rule — p. 1865
+- Chapter 109. Obstruction-Driven Conjecture Generation — p. 1874
+  - 109.1 Conjectures begin where a checked route stops — p. 1874
+  - 109.2 Obstructions are typed evidence about a route — p. 1874
+  - 109.3 The complete request and result — p. 1874
+  - 109.4 From obstruction patterns to candidate statements — p. 1874
+  - 109.5 Falsifiers are part of the conjecture type — p. 1874
+  - 109.6 Budgeted pipeline — p. 1879
+  - 109.7 Resource and termination contract — p. 1879
+  - 109.8 Failure semantics — p. 1879
+  - 109.9 Negative controls — p. 1882
+  - 109.10 Evaluation tests — p. 1883
+  - 109.11 Volume III and Volume V proposals — p. 1883
+  - 109.12 Proof boundary and handoff — p. 1883
+- Chapter 110. Novelty, Equivalence, and Duplicate Detection — p. 1891
+  - 110.1 Similarity is a retrieval signal, not a verdict — p. 1891
+  - 110.2 A ladder of comparison relations — p. 1891
+  - 110.3 Closed request and output types — p. 1891
+  - 110.4 Representation channels — p. 1891
+  - 110.5 Scope alignment precedes similarity interpretation — p. 1891
+  - 110.6 Candidate retrieval and obligation compilation — p. 1891
+  - 110.7 Equivalence is proof-bearing and directional — p. 1891
+  - 110.8 Novelty is an open-world claim — p. 1891
+  - 110.9 Budgets and complexity — p. 1891
+  - 110.10 Failure semantics — p. 1891
+  - 110.11 Negative controls — p. 1900
+  - 110.12 Evaluation tests — p. 1900
+  - 110.13 Volume III and Volume V proposals — p. 1900
+  - 110.14 Proof and publication boundary — p. 1900
+- Chapter 111. Multi-Agent Debate as Candidate Generation — p. 1909
+  - 111.1 Debate expands the candidate set — p. 1909
+  - 111.2 Typed debate contract — p. 1909
+  - 111.3 Participants are proposal channels — p. 1909
+  - 111.4 Information partitions and contamination — p. 1909
+  - 111.5 Turn artifacts — p. 1909
+  - 111.6 Candidate acceptance is mechanical and conservative — p. 1909
+  - 111.7 Debate pipeline — p. 1909
+  - 111.8 Stopping rules and budgets — p. 1909
+  - 111.9 Adjudication without authority laundering — p. 1909
+  - 111.10 Failure modes — p. 1909
+  - 111.11 Negative controls — p. 1917
+  - 111.12 Evaluation design — p. 1918
+  - 111.13 Reproducibility and replay — p. 1918
+  - 111.14 Volume III architecture proposal — p. 1918
+  - 111.15 Volume V implementation proposals — p. 1918
+  - 111.16 Proof boundary — p. 1918
+  - 111.17 Discovery and counterexample workbench — p. 1918
+- Chapter 112. Human, Prover, and Machine Adjudication — p. 1930
+  - 112.1 Adjudication is an authority boundary — p. 1930
+  - 112.2 The adjudication case contract — p. 1930
+  - 112.3 Independent evidence is a policy predicate — p. 1930
+  - 112.4 ALG-010 and the proof-receipt boundary — p. 1930
+  - 112.5 Adjudication procedure — p. 1933
+  - 112.6 Human and machine responsibilities — p. 1933
+  - 112.7 Tests and negative controls — p. 1933
+  - 112.8 Complexity, cost, and operational limits — p. 1937
+  - 112.9 Artifacts and downstream contracts — p. 1937
+  - 112.10 Evidence-closure workflow for discovery cases — p. 1937
+- Chapter 113. Benchmark Constitution — p. 1947
+  - 113.1 A benchmark is a frozen public contract — p. 1947
+  - 113.2 The complete constitution — p. 1948
+  - 113.3 Metric semantics and abstention — p. 1948
+  - 113.4 Leakage constitution — p. 1950
+  - 113.5 ALG-120: calibration and abstention — p. 1950
+  - 113.6 ALG-121: reproducibility manifests — p. 1951
+  - 113.7 ALG-122: resource and complexity accounting — p. 1952
+  - 113.8 Freeze, amendment, and retirement — p. 1953
+  - 113.9 Tests and negative controls — p. 1953
+  - 113.10 Complexity and total evaluation cost — p. 1955
+  - 113.11 Artifacts and V3/V5 proposals — p. 1955
+  - 113.12 Constitution for proof-discovery and counterexample benchmarks — p. 1955
+- Chapter 114. Unit, Property, Metamorphic, and Proof-Replay Tests — p. 1968
+  - 114.1 Four test families, four kinds of evidence — p. 1968
+  - 114.2 The test-suite contract — p. 1968
+  - 114.3 Unit tests — p. 1968
+  - 114.4 Property tests — p. 1968
+  - 114.5 Metamorphic relations require declared semantics — p. 1968
+  - 114.6 Proof-replay tests and ALG-010 — p. 1968
+  - 114.7 Integrated test runner — p. 1978
+  - 114.8 Required fixtures and negative controls — p. 1978
+  - 114.9 Coverage and failure quality — p. 1981
+  - 114.10 Complexity and cost — p. 1981
+  - 114.11 Verification harness for proof discovery and refutation — p. 1981
+  - 114.12 Artifacts and V3/V5 proposals — p. 1989
+- Chapter 115. End-to-End GMUS-GMLS Campaigns — p. 1993
+  - 115.1 What an end-to-end result means — p. 1994
+  - 115.2 Architecture and implementation proposals — p. 1994
+  - 115.3 Typed campaign input — p. 1996
+  - 115.4 Typed outputs and receipt lineage — p. 1996
+  - 115.5 Class-preserving execution — p. 1996
+  - 115.6 Reference orchestration pseudocode — p. 1999
+  - 115.7 Benchmark suites — p. 1999
+  - 115.8 Metrics — p. 1999
+  - 115.9 Negative controls — p. 1999
+  - 115.10 Reproducibility and resource protocol — p. 2007
+  - 115.11 External promotion boundary — p. 2007
+  - 115.12 Proof boundary — p. 2007
+  - 115.13 Discovery-governance state machine — p. 2007
+  - 115.14 Composed contract and non-amplification invariants — p. 2007
+  - 115.15 Governed execution and branch reconciliation — p. 2007
+  - 115.16 Complexity, certificates, and failure algebra — p. 2007
+  - 115.17 Counterexample-driven and integration tests — p. 2007
+  - 115.18 Independent challenge and handoff protocol — p. 2015
+  - 115.19 Minimal operational example — p. 2015
+- Chapter 116. Calibration, Abstention, and Failure Quality — p. 2019
+  - 116.1 Confidence is not truth — p. 2019
+  - 116.2 V3 and V5 evaluation boundaries — p. 2020
+  - 116.3 Frozen evaluation input — p. 2020
+  - 116.4 Outcome types and label force — p. 2020
+  - 116.5 Abstention as a first-class action — p. 2020
+  - 116.6 Calibration metrics — p. 2020
+  - 116.7 Failure quality is more than failure frequency — p. 2020
+  - 116.8 Failure-quality metrics — p. 2020
+  - 116.9 Evaluation pseudocode — p. 2025
+  - 116.10 Benchmark protocol — p. 2025
+  - 116.11 Budgets — p. 2025
+  - 116.12 Negative controls — p. 2025
+  - 116.13 Reproducibility requirements — p. 2027
+  - 116.14 Proof and promotion boundary — p. 2027
+  - 116.15 Governance of the evaluation lifecycle — p. 2027
+  - 116.16 Typed evaluator contract and certificate boundaries — p. 2027
+  - 116.17 Invariants and exact evaluation procedure — p. 2027
+  - 116.18 Complexity and statistical failure surfaces — p. 2027
+  - 116.19 Counterexamples, tests, and integration boundaries — p. 2027
+  - 116.20 Decision-aware and counterfactual audit — p. 2034
+  - 116.21 Reporting checklist — p. 2034
+- Chapter 117. Cost, Scaling, and Reproducibility — p. 2038
+  - 117.1 Reproducing an execution is not verifying its claim — p. 2038
+  - 117.2 Four identities and the reproducibility closure — p. 2038
+  - 117.3 Full contract surface for ALG-121 — p. 2038
+  - 117.4 Manifest construction procedure — p. 2038
+  - 117.5 Replay semantics and comparison classes — p. 2038
+  - 117.6 Full contract surface for ALG-122 — p. 2044
+  - 117.7 Accounting procedure and cost decomposition — p. 2044
+  - 117.8 Timeout, unknown, failure, and censoring — p. 2047
+  - 117.9 Benchmark variance and scaling evidence — p. 2048
+  - 117.10 Supply-chain and execution boundaries — p. 2048
+  - 117.11 Failure artifacts — p. 2048
+  - 117.12 Tests and negative controls — p. 2048
+  - 117.13 Volume III and Volume V proposals — p. 2051
+  - 117.14 The claim ceiling — p. 2051
+  - 117.15 Discovery-run governance and custody — p. 2051
+  - 117.16 Cross-contract invariants and certificate lattice — p. 2051
+  - 117.17 Governed seal, execute, replay, and account procedure — p. 2051
+  - 117.18 Complexity and scaling contract — p. 2051
+  - 117.19 Failure, counterexample, and adversarial test matrix — p. 2057
+  - 117.20 Cross-platform portability and differential replay — p. 2058
+  - 117.21 Minimal divergence example — p. 2058
+- Chapter 118. Reference Repository and Implementation Milestones — p. 2062
+  - 118.1 A repository map is not an implementation claim — p. 2062
+  - 118.2 The truthful status ledger — p. 2062
+  - 118.3 Recorded pilot inventory, ALG-018 through ALG-042 — p. 2063
+  - 118.4 Current tree and target repository — p. 2064
+  - 118.5 Schema registry and artifact law — p. 2064
+  - 118.6 Fixture constitution — p. 2067
+  - 118.7 Validator separation — p. 2068
+  - 118.8 CI, replay, and the Lean adapter — p. 2069
+  - 118.9 Staged implementation contracts through ALG-126 — p. 2069
+  - 118.10 Series integration contract — p. 2074
+  - 118.11 Source and figure registration — p. 2075
+  - 118.12 Release gates — p. 2075
+  - 118.13 Risk ledger — p. 2076
+  - 118.14 Milestone map — p. 2076
+  - 118.15 Final handoff — p. 2077
+  - 118.16 Repository governance plane — p. 2077
+  - 118.17 Typed registry and milestone contracts — p. 2077
+  - 118.18 Admission and stale-propagation procedure — p. 2077
+  - 118.19 Repository invariants and complexity — p. 2077
+  - 118.20 Failure, counterexample, and integration test gates — p. 2077
+  - 118.21 Vertical-slice drill and release rehearsal — p. 2085
+  - 118.22 Maintainer acceptance checklist — p. 2085

@@ -1,0 +1,2018 @@
+# Volume III — Architecture of the Grothendieckian Machine
+
+Architecture of a verification-first Grothendieckian mathematical AI.
+
+1,815 pages · file `GAI-MUA-v1.0.0-Vol3-Architecture.pdf`
+
+Page numbers below are PDF page indices.
+
+- Preface to Volume III — p. 5
+  - The architectural turn — p. 5
+  - From mathematical distinctions to typed obligations — p. 5
+  - Mathematical universes as computational subjects — p. 5
+  - Immutable artifacts and the memory of reasoning — p. 5
+  - Epistemic states and the prohibition of status inflation — p. 5
+  - Authority, proof, and operations — p. 5
+  - GMUS: the mathematical-universe system — p. 5
+  - GMLS: language, context, and descent — p. 5
+  - AURORA and the experimental boundary — p. 5
+  - The GMUS–GMLS interface — p. 5
+  - Interfaces to Volumes I and II — p. 5
+  - Interfaces to Volumes IV, V, and VI — p. 5
+  - Reading routes through the volume — p. 5
+  - Architectural limits and open obligations — p. 5
+  - Security, recovery, and the duty to preserve meaning — p. 5
+  - Conclusion: what this volume offers — p. 5
+  - Intellectual acknowledgements — p. 5
+- Contents — p. 21
+- List of Figures — p. 64
+- List of Tables — p. 68
+- Architectural Prospectus — p. 69
+  - Principal subsystems — p. 69
+- Chapter 1. From Mathematical Foundations to Machine Obligations — p. 70
+  - 1.1 The constitutional conversion — p. 70
+  - 1.2 Foundation concepts as engineering obligations — p. 70
+  - 1.3 Status is part of the type — p. 72
+  - 1.4 The protected assets of a mathematical machine — p. 75
+  - 1.5 The two systems as non-authoritative producers — p. 77
+  - 1.6 Immutable exchange, not mutable truth — p. 81
+  - 1.7 Target fidelity precedes proof — p. 81
+  - 1.8 Threats at the constitutional boundary — p. 81
+  - 1.9 Archival design lineage and supersession — p. 81
+  - 1.10 Lowering transition, composition, and measurable boundary — p. 86
+  - 1.11 Chapter status ledger — p. 86
+- Chapter 2. The Mathematical Universe as the Unit of Computation — p. 88
+  - 2.1 From expressions to worlds — p. 88
+  - 2.2 Source snapshots are part of a world declaration — p. 88
+  - 2.3 The MathematicalWorld contract — p. 88
+  - 2.4 Categorical IR — p. 88
+  - 2.5 Universal properties remain obligations until witnessed — p. 88
+  - 2.6 Homotopical IR — p. 88
+  - 2.7 Truncation is semantic data — p. 88
+  - 2.8 World maps and controlled transport — p. 93
+  - 2.9 Coherence as a first-class object — p. 93
+  - 2.10 Validation is a typed judgment — p. 93
+  - 2.11 Two worked contract traces — p. 93
+  - 2.12 World-scoped system transactions — p. 97
+  - 2.13 Conformance obligations — p. 97
+  - 2.14 Formal object, metaphor firewall, transition, and measurement — p. 100
+  - 2.15 Chapter status ledger — p. 100
+  - Canonical figures — p. 101
+- Chapter 3. The Five Planes of GAI-MUA — p. 105
+  - 3.1 Separation by authority, not presentation — p. 105
+  - 3.2 Cross-plane handoffs preserve subjects and authority ceilings — p. 105
+  - 3.3 Plane A: mathematical meaning — p. 105
+  - 3.4 Plane B: proposal and discovery — p. 105
+  - 3.5 Plane C: certified computation — p. 105
+  - 3.6 Plane D: evidence and governance — p. 105
+  - 3.7 Plane E: operations — p. 105
+  - 3.8 Component placement and ceilings — p. 105
+  - 3.9 Event and replay constitution — p. 108
+  - 3.10 The proof boundary in typed detail — p. 108
+  - 3.11 Trust zones and deny-by-default capabilities — p. 113
+  - 3.12 The three Anabelian-IUT boundaries — p. 113
+  - 3.13 The inert EvolutionContract — p. 115
+  - 3.14 Reference implementation correspondence — p. 115
+  - 3.15 Constitutional adversarial suite — p. 116
+  - 3.16 Handoff transition, composition, and measurable authority boundary — p. 117
+  - 3.17 Chapter status ledger — p. 117
+- Chapter 4. Epistemic Status as a Machine-Enforced Type — p. 119
+  - 4.1 Status is an index, not a score — p. 119
+  - 4.2 The seven status constructors — p. 119
+  - 4.3 Status assertions and subject aspects — p. 120
+  - 4.4 Relation strength remains orthogonal — p. 120
+  - 4.5 Dependency admission is role-sensitive — p. 120
+  - 4.6 Truncation, coherence, and effectivity remain visible — p. 123
+  - 4.7 Requests, dossiers, and decisions — p. 123
+  - 4.8 Publication is a different authority — p. 123
+  - 4.9 Authority identity is a typed value — p. 123
+  - 4.10 Failure algebra — p. 123
+  - 4.11 Worked governance traces — p. 123
+  - 4.12 Constitutional status invariants — p. 123
+  - 4.13 Status views for different consumers — p. 130
+  - 4.14 Status transition, composition, and measurable decision boundary — p. 130
+  - 4.15 Deferred figure obligation — p. 130
+  - 4.16 Status ledger — p. 130
+- Chapter 5. The Operational Rising Sea — p. 133
+  - 5.1 Structural elevation as a controlled research operation — p. 133
+  - 5.2 Obstruction begins the GMUS workflow — p. 133
+  - 5.3 Operators are typed hypotheses — p. 133
+  - 5.4 Candidate worlds retain proposal genealogy — p. 133
+  - 5.5 MUE probes without motive inflation — p. 133
+  - 5.6 Task plans bind execution before it begins — p. 133
+  - 5.7 TNRA executes and checks before disposition — p. 133
+  - 5.8 Residuals and non-equivalence are positive research products — p. 133
+  - 5.9 Recovery and transport preserve direction and loss — p. 133
+  - 5.10 External eligibility is outside GMUS — p. 133
+  - 5.11 The complete GMUS record and boundary envelope — p. 133
+  - 5.12 Language deficits begin the GMLS workflow — p. 133
+  - 5.13 GCA proposes cognitive covers — p. 133
+  - 5.14 GDRA executes the admitted plan — p. 133
+  - 5.15 Local results remain attributable — p. 133
+  - 5.16 Compatibility is not effectivity — p. 133
+  - 5.17 Bundle readiness is not proof — p. 133
+  - 5.18 AURORA produces experimental type judgments — p. 133
+  - 5.19 World and language identities remain separate — p. 133
+  - 5.20 The GMLS boundary envelope — p. 133
+  - 5.21 The coupled cycle avoids circular authority — p. 133
+  - 5.22 Worked GMUS campaign — p. 133
+  - 5.23 Worked GMLS campaign — p. 133
+  - 5.24 Rising-sea acceptance matrix — p. 133
+  - 5.25 Failure-preserving refinement — p. 149
+  - 5.26 Campaign recovery is a governed research product — p. 149
+  - 5.27 Campaign transition, composition, and measurable gain boundary — p. 149
+  - 5.28 No active evolution — p. 149
+  - 5.29 Status ledger — p. 149
+  - Canonical figures — p. 152
+- Chapter 6. System I, System II, and the Trusted Boundary — p. 155
+  - 6.1 Two generative systems outside the proof root — p. 155
+  - 6.2 What trusted means — p. 155
+  - 6.3 The proof-to-publication path — p. 155
+  - 6.4 Target mutation atlas — p. 155
+  - 6.5 Capability tokens — p. 157
+  - 6.6 The trust boundary envelope — p. 157
+  - 6.7 Trust zones — p. 157
+  - 6.8 The three Anabelian-IUT boundaries — p. 157
+  - 6.9 Exact boundary threats — p. 157
+  - 6.10 Boundary decisions — p. 157
+  - 6.11 Replay, idempotency, and resource discipline — p. 157
+  - 6.12 Boundary walk-throughs — p. 157
+  - 6.13 Threat-to-control correspondence — p. 157
+  - 6.14 Trusted-boundary conformance obligations — p. 166
+  - 6.15 Compositional trust without transitive authority — p. 167
+  - 6.16 Boundary transition, composition, and measurable enforcement surface — p. 167
+  - 6.17 EvolutionContract remains inert — p. 167
+  - 6.18 Reference-implementation correspondence — p. 167
+  - 6.19 Deferred figure obligation — p. 169
+  - 6.20 Status ledger — p. 169
+- Chapter 7. Immutable Artifact Envelopes — p. 171
+  - 7.1 Prior-research disposition — p. 171
+  - 7.2 Three identities, three subjects — p. 171
+  - 7.3 Canonical bytes are part of meaning — p. 171
+  - 7.4 Schema identity precedes payload identity — p. 171
+  - 7.5 Source snapshots and exact locators — p. 171
+  - 7.6 Typed edges rather than generic relation labels — p. 171
+  - 7.7 Sealing, supersession, correction, and retraction — p. 171
+  - 7.8 Append-only status events — p. 171
+  - 7.9 Events, idempotency, and order — p. 171
+  - 7.10 Replay is a comparison, not retroactive proof — p. 171
+  - 7.11 Threat-oriented identity review — p. 171
+  - 7.12 Canonicalization ambiguity — p. 171
+  - 7.13 Hash confusion — p. 171
+  - 7.14 Content substitution — p. 171
+  - 7.15 GMUS exchange correspondence — p. 171
+  - 7.16 GMLS exchange correspondence — p. 179
+  - 7.17 Typed contract ledger — p. 179
+  - 7.18 Interface correspondence — p. 179
+  - 7.19 State-machine projection — p. 179
+  - 7.20 Status ledger — p. 179
+  - 7.21 End-to-end artifact transaction — p. 184
+  - 7.22 Artifact-identity decision table — p. 184
+  - 7.23 Cross-runtime canonicalization dispute trace — p. 186
+- Chapter 8. Foundation and Transformation Reference Schemas — p. 188
+  - 8.1 Prior-research disposition — p. 188
+  - 8.2 References are typed semantic bindings — p. 188
+  - 8.3 Transformation references describe directed change — p. 188
+  - 8.4 Reference-resolution judgments — p. 188
+  - 8.5 Source and authority threats — p. 188
+  - 8.6 Source poisoning — p. 188
+  - 8.7 Locator drift — p. 188
+  - 8.8 Provenance forgery — p. 188
+  - 8.9 GMUS reference obligations — p. 188
+  - 8.10 GMLS semantic-anchor obligations — p. 188
+  - 8.11 Typed contract ledger — p. 197
+  - 8.12 Interface correspondence — p. 197
+  - 8.13 State-machine projection — p. 197
+  - 8.14 Status ledger — p. 197
+  - 8.15 Reference-binding adjudication patterns — p. 198
+  - 8.16 Binding review questions — p. 198
+  - 8.17 Dual-reference evolution trace — p. 198
+- Chapter 9. Mathematical World Specifications — p. 202
+  - 9.1 Prior-research disposition — p. 202
+  - 9.2 A specification is stronger than a world name — p. 202
+  - 9.3 Equality and equivalence levels — p. 203
+  - 9.4 Universe and size discipline — p. 203
+  - 9.5 The semantic world kernel — p. 203
+  - 9.6 Homotopical semantics are ambient — p. 203
+  - 9.7 World-substitution threat boundary — p. 203
+  - 9.8 GMUS candidate-world genealogy — p. 203
+  - 9.9 GMLS world-language separation — p. 203
+  - 9.10 Typed contract ledger — p. 203
+  - 9.11 Interface correspondence — p. 203
+  - 9.12 State-machine projection — p. 203
+  - 9.13 Status ledger — p. 203
+  - 9.14 World-admission decision procedure — p. 211
+  - 9.15 Partial higher-world admission trace — p. 211
+- Chapter 10. Maps, Variance, Base Change, and Preservation Profiles — p. 215
+  - 10.1 Prior-research disposition — p. 215
+  - 10.2 World maps are directed semantic records — p. 215
+  - 10.3 Variance belongs to each argument and operation — p. 215
+  - 10.4 Base change is a square plus a comparison cell — p. 215
+  - 10.5 Preservation, loss, unknown, and forbidden — p. 215
+  - 10.6 Transport and target-mutation threats — p. 220
+  - 10.7 GMUS comparison and recovery dossiers — p. 220
+  - 10.8 GMLS translation and three-plane routing — p. 220
+  - 10.9 Typed contract ledger — p. 224
+  - 10.10 Interface correspondence — p. 224
+  - 10.11 State-machine projection — p. 224
+  - 10.12 Status ledger — p. 224
+  - 10.13 Composition and base-change audit — p. 225
+  - 10.14 Map-admission outcomes — p. 225
+  - 10.15 Failure-preserving composite transport trace — p. 225
+- Chapter 11. Assumptions, Bounds, and Supported Fragments — p. 228
+  - 11.1 Prior-research disposition — p. 228
+  - 11.2 Assumptions form a typed context — p. 228
+  - 11.3 Bounds are semantic limitations — p. 228
+  - 11.4 Supported fragments are closed declarations — p. 228
+  - 11.5 Adjudication and failure algebra — p. 228
+  - 11.6 Cycle, stale-escape, and resource threats — p. 228
+  - 11.7 Dependency-cycle abuse — p. 228
+  - 11.8 Stale escape — p. 228
+  - 11.9 Resource exhaustion — p. 228
+  - 11.10 GMUS bounded task semantics — p. 228
+  - 11.11 GMLS ceilings and capability-limited execution — p. 228
+  - 11.12 Typed contract ledger — p. 228
+  - 11.13 Typed contract ledger — p. 228
+  - 11.14 Interface correspondence — p. 228
+  - 11.15 State-machine projection — p. 228
+  - 11.16 GMUS and GMLS artifact correspondence — p. 228
+  - 11.17 Status ledger — p. 239
+  - 11.18 Bounded system-routing dossier — p. 240
+  - 11.19 Integrated source-revision trace — p. 240
+  - 11.20 Integrated higher-world and base-change trace — p. 240
+  - 11.21 Integrated GMUS finite-proxy campaign — p. 240
+  - 11.22 Integrated GMLS descent and language campaign — p. 240
+  - 11.23 Integrated publication and evolution trace — p. 240
+  - 11.24 Fragment intersection and cross-system routing trace — p. 240
+- Chapter 12. Proof Receipts, Failure Certificates, and Replay — p. 248
+  - 12.1 Prior-research disposition — p. 248
+  - 12.2 Immutable theorem card — p. 249
+  - 12.3 Formal task and target hash — p. 249
+  - 12.4 Translation witnesses and fidelity — p. 249
+  - 12.5 Target-mutation failures — p. 249
+  - 12.6 Pinned environment — p. 249
+  - 12.7 Proof candidate — p. 249
+  - 12.8 Kernel replay — p. 249
+  - 12.9 Axiom and dependency closure — p. 249
+  - 12.10 Proof receipt — p. 249
+  - 12.11 Failure certificates — p. 254
+  - 12.12 General replay manifests — p. 254
+  - 12.13 Proof-path state machine — p. 254
+  - 12.14 Status eligibility and publication — p. 254
+  - 12.15 Negative conformance cases — p. 254
+  - 12.16 Receipt closure, failure continuity, and replay accountability — p. 256
+  - 12.17 Counterfactual replay and receipt sufficiency — p. 256
+  - 12.18 Receipt-transplant and replay threats — p. 256
+  - 12.19 Proof receipt transplant — p. 256
+  - 12.20 Event replay and conflict — p. 256
+  - 12.21 Replay discipline — p. 256
+  - 12.22 TNRA disposition ordering and evidence — p. 256
+  - 12.23 GMLS descent, obstruction, and experimental evidence — p. 256
+  - 12.24 Typed contract ledger — p. 267
+  - 12.25 Interface correspondence — p. 267
+  - 12.26 State-machine projection — p. 267
+  - 12.27 Failure algebra — p. 267
+  - 12.28 Status ledger — p. 267
+  - 12.29 Worked proof, failure, and replay dossier — p. 272
+  - 12.30 Mixed proof-evidence and failure trace — p. 272
+  - 12.31 Scoped status after mixed evidence — p. 272
+- Chapter 13. Versioned Registries and Dependency Closure — p. 276
+  - 13.1 Prior-research disposition — p. 276
+  - 13.2 Registry identity — p. 276
+  - 13.3 Versioned entries — p. 276
+  - 13.4 Dependency closure — p. 276
+  - 13.5 Supersession is not automatic substitution — p. 276
+  - 13.6 Retraction and historical addressability — p. 279
+  - 13.7 Monotonic stale-receipt propagation — p. 279
+  - 13.8 Registry and status governance — p. 279
+  - 13.9 Event application and registry forks — p. 279
+  - 13.10 Negative conformance cases — p. 279
+  - 13.11 Closure receipts across registry epochs — p. 280
+  - 13.12 Repair frontiers and closure alternatives — p. 280
+  - 13.13 Registry, capability, publication, and evolution threats — p. 280
+  - 13.14 Registry rollback and fork — p. 280
+  - 13.15 Capability escalation — p. 280
+  - 13.16 Publication divergence — p. 280
+  - 13.17 EvolutionContract command smuggling — p. 280
+  - 13.18 GMUS registry closure — p. 280
+  - 13.19 GMLS registry closure — p. 280
+  - 13.20 Staleness and publication integration — p. 280
+  - 13.21 Typed contract ledger — p. 288
+  - 13.22 Interface correspondence — p. 288
+  - 13.23 State-machine projection — p. 288
+  - 13.24 Deny-by-default control profile — p. 288
+  - 13.25 Threat-to-test correspondence — p. 290
+  - 13.26 Reference-implementation correspondence — p. 291
+  - 13.27 Declarative adversarial matrix — p. 292
+  - 13.28 Status ledger — p. 293
+  - 13.29 Registry, fork, and publication incident walkthroughs — p. 302
+  - 13.30 Cross-cutting threat and conformance atlas — p. 302
+  - 13.31 Semantic authority matrix — p. 302
+  - 13.32 Semantic parity review protocol — p. 302
+  - 13.33 Registry freshness edge-case dossier — p. 302
+  - 13.34 Closure projection for distinct consumers — p. 302
+  - 13.35 Unresolved obligations — p. 302
+- Chapter 14. The Contract of the Mathematical Universe System — p. 311
+  - 14.1 GMUS responsibilities and campaign contract — p. 312
+  - 14.2 Artifact identity and provenance — p. 312
+  - 14.3 GMUS-GMLS constitutional interface — p. 316
+  - 14.4 Global trust and adversarial boundary for Part III — p. 316
+  - 14.5 GMUS categorical and homotopical semantics — p. 318
+  - 14.6 GMUS campaign lifecycle and replay root — p. 321
+  - 14.7 GMUS language ingress and world binding — p. 324
+  - 14.8 Part III containment policy for GMUS and MUE — p. 327
+- Chapter 15. MUE as a Structured, Non-Vectorial Latent Space — p. 331
+  - 15.1 Structured latent substrate — p. 331
+  - 15.2 Latent-substrate categorical and homotopical semantics — p. 336
+  - 15.3 MUE configuration snapshots and replay — p. 340
+  - 15.4 MUE semantic-anchor boundary — p. 340
+  - 15.5 Opaque-vector and identity-collapse threats — p. 340
+  - 15.6 Mathematical-principle figure specification — p. 340
+- Chapter 16. Geometric, Cohomological, and Representation Signatures — p. 347
+  - 16.1 Signature families and comparison discipline — p. 347
+  - 16.2 Signature-level categorical and homotopical semantics — p. 347
+  - 16.3 Signature lineage, component identity, and replay — p. 355
+  - 16.4 Signature-to-language qualification preservation — p. 356
+  - 16.5 Signature comparison and shadow-inflation threats — p. 356
+  - 16.6 Categorical contracts and invariant ceilings — p. 356
+- Chapter 17. Finite Nori Diagrams as Computable Motivic Proxies — p. 365
+  - 17.1 Finite-proxy construction and use — p. 365
+  - 17.2 Nori-proxy evidence and target fidelity — p. 369
+  - 17.3 Finite-proxy lineage, selection provenance, and replay — p. 374
+  - 17.4 Finite-proxy language views and qualifier durability — p. 376
+  - 17.5 Proxy-to-motive laundering and closure threats — p. 376
+- Chapter 18. MUF-H: Universal Factorization Under Explicit Bounds — p. 380
+  - 18.1 Bounded factorization architecture — p. 380
+  - 18.2 MUF-H evidence and target fidelity — p. 385
+  - 18.3 MUF-H attempt lineage and replay — p. 391
+  - 18.4 Quantifier-preserving language export — p. 393
+  - 18.5 Solver and universality threat boundary — p. 393
+- Chapter 19. Idempotents and the Chow-Compatible Facade — p. 398
+  - 19.1 Exact-projector facade architecture — p. 398
+  - 19.2 Projector evidence and target fidelity — p. 398
+  - 19.3 Projector lineage and facade replay — p. 405
+  - 19.4 Idempotent notation and Chow-scope discipline — p. 406
+  - 19.5 Exact-projector attack surface — p. 406
+- Chapter 20. Realization Prisms, Alignment, and Bridge Hypotheses — p. 411
+  - 20.1 Prism and bridge architecture — p. 411
+  - 20.2 Realization evidence and target fidelity — p. 411
+  - 20.3 Prism lineage, bridge provenance, and replay — p. 420
+  - 20.4 Directional comparison language — p. 422
+  - 20.5 Prism-face and bridge-hypothesis threats — p. 422
+  - 20.6 Cross-chapter proof-authority contract — p. 422
+- Chapter 21. MUE Failure Modes and Non-Equivalence Records — p. 430
+  - 21.1 Typed failure semantics — p. 430
+  - 21.2 Failure lineage and replay — p. 434
+  - 21.3 Failure-sensitive language obligations — p. 437
+  - 21.4 Negative-claim and failure-preservation threats — p. 437
+  - 21.5 Dependency edges and closure — p. 437
+  - 21.6 Versioning and lifecycle events — p. 442
+  - 21.7 MUE replay manifests — p. 442
+  - 21.8 Freshness propagation — p. 444
+  - 21.9 Consolidated invariants — p. 444
+  - 21.10 Illustrative declarative adversarial cases — p. 446
+  - 21.11 Consolidated compatibility and freshness rules — p. 446
+  - 21.12 Illustrative conformance cases — p. 452
+  - 21.13 Anabelian-plane separation and operational nonclaims — p. 452
+  - 21.14 Deny-by-default capability profile — p. 452
+  - 21.15 Illustrative Part III threat checklist — p. 452
+  - 21.16 Unresolved obligations — p. 456
+  - 21.17 Operational nonclaims for Part III — p. 458
+  - 21.18 Constitutional synthesis and acceptance conditions — p. 458
+- Chapter 22. The Topos Reasoning Engine — p. 460
+  - 22.1 Registry binding — p. 460
+  - 22.2 Part IV E-admission gate — p. 461
+  - 22.3 An orchestrator for reasoning among mathematical worlds — p. 461
+  - 22.4 The constitutional contract — p. 461
+  - 22.5 Three boundaries, not one — p. 461
+  - 22.6 Inputs to TRE — p. 461
+  - 22.7 Outputs from TRE — p. 461
+  - 22.8 Consumption of MUE, GCL, and bounded MUF-H — p. 469
+  - 22.9 TNCA and TNRA ownership — p. 469
+  - 22.10 GRA as a parallel research architecture — p. 469
+  - 22.11 The TRE campaign state machine — p. 469
+  - 22.12 No self-certification — p. 469
+  - 22.13 Epistemic discipline — p. 475
+  - 22.14 Failure-preserving orchestration — p. 475
+  - 22.15 Reference-implementation nonclaims — p. 475
+  - 22.16 Inert evolution boundary — p. 475
+  - 22.17 Chapter boundary — p. 475
+  - 22.18 Status ledger — p. 475
+  - 22.19 Registry conformance summary — p. 477
+  - 22.20 TRE contract specializations — p. 478
+  - 22.21 Interfaces — p. 478
+  - 22.22 Conformance and negative tests — p. 478
+  - 22.23 Integrated figure — TRE constitutional boundary — p. 488
+  - 22.24 Eligibility assembly under unresolved branch evidence — p. 489
+  - 22.25 Implementation boundary — p. 489
+- Chapter 23. Twin-Engine Semantics and Shared Artifacts — p. 490
+  - 23.1 Registry binding — p. 490
+  - 23.2 Canonical twin-engine lifecycles — p. 491
+  - 23.3 Creation and reasoning are different semantic acts — p. 491
+  - 23.4 Cooperation occurs through a shared immutable record fabric — p. 492
+  - 23.5 The TNCA-to-TNRA handoff is governed by predicates — p. 493
+  - 23.6 TNRA-to-TNCA feedback does not reverse authority — p. 493
+  - 23.7 Campaigns and task plans are related but not identical — p. 501
+  - 23.8 Payload dispositions and outer dispositions must remain separate — p. 501
+  - 23.9 No twin-engine component possesses promotion authority — p. 503
+  - 23.10 Concurrency is snapshot-based and failure preserving — p. 503
+  - 23.11 Retry and successor rules — p. 503
+  - 23.12 Twin-engine state machines — p. 503
+  - 23.13 Contract invariants — p. 503
+  - 23.14 Contract-level test catalogue — p. 511
+  - 23.15 Threat and failure analysis — p. 511
+  - 23.16 Acceptance criteria and downstream obligations — p. 511
+  - 23.17 Artifact and event schema anchor — p. 511
+  - 23.18 Integrated figures — twin-engine semantics and artifact exchange — p. 511
+  - 23.19 Concurrent successor case — p. 517
+  - 23.20 Implementation boundary — p. 517
+- Chapter 24. TNCA Input: Obstruction and Expressivity Pressure — p. 519
+  - 24.1 Registry binding — p. 519
+  - 24.2 Identity, status, and authority — p. 520
+  - 24.3 Negative information is typed information — p. 520
+  - 24.4 Semantic deduplication and escalation — p. 521
+  - 24.5 Obstruction sources — p. 521
+  - 24.6 Expressivity versus exhaustion — p. 521
+  - 24.7 MUE residuals and faces — p. 521
+  - 24.8 GMLS language deficits — p. 521
+  - 24.9 Language-pressure classification and routing — p. 521
+  - 24.10 Minimal extension questions — p. 521
+  - 24.11 Aggregates, conflicts, and cycles — p. 521
+  - 24.12 Creation request gate — p. 521
+  - 24.13 Intake dispositions — p. 521
+  - 24.14 Intake discrimination example — p. 526
+  - 24.15 Chapter boundary — p. 526
+- Chapter 25. TNCA World Synthesis — p. 528
+  - 25.1 Registry binding — p. 528
+  - 25.2 Candidate world deltas as first-class artifacts — p. 529
+  - 25.3 Typed extension and restriction — p. 529
+  - 25.4 Change axes — p. 532
+  - 25.5 Preservation, loss, and unknown profiles — p. 532
+  - 25.6 Consistency obligations — p. 532
+  - 25.7 Conservativity obligations — p. 537
+  - 25.8 Candidate WorldMaps — p. 537
+  - 25.9 World-synthesis procedure — p. 537
+  - 25.10 Diagnostic probes — p. 537
+  - 25.11 Sandbox lifecycle — p. 537
+  - 25.12 Admission boundary — p. 537
+  - 25.13 Worked synthesis trace: locality refinement — p. 537
+  - 25.14 Worked synthesis trace: coefficient extension — p. 537
+  - 25.15 Worked synthesis trace: categorical-height lift — p. 537
+  - 25.16 Worked synthesis trace: logic change — p. 537
+  - 25.17 Contract definitions — p. 545
+  - 25.18 WorldSynthesisRequest — p. 545
+  - 25.19 CandidateWorldDelta — p. 545
+  - 25.20 TypedWorldChangeEntry — p. 545
+  - 25.21 LogicChangeProfile — p. 545
+  - 25.22 UniverseChangeProfile — p. 545
+  - 25.23 LocalityChangeProfile — p. 545
+  - 25.24 CategoricalHeightChangeProfile — p. 545
+  - 25.25 CoefficientChangeProfile — p. 545
+  - 25.26 PreservationLossUnknownProfile — p. 545
+  - 25.27 ConsistencyConservativityObligationSet — p. 545
+  - 25.28 CandidateWorldMapBundle — p. 545
+  - 25.29 WorldSandboxPlan — p. 545
+  - 25.30 WorldSandboxDossier — p. 545
+  - 25.31 ExplorationAdmissionRequest — p. 545
+  - 25.32 ExplorationAdmissionJudgment — p. 545
+  - 25.33 Interfaces — p. 545
+  - 25.34 Conformance obligations — p. 545
+  - 25.35 Integrated figures — candidate-world synthesis — p. 552
+  - 25.36 Audit of a mixed-axis candidate — p. 558
+  - 25.37 Implementation boundary — p. 558
+- Chapter 26. TNCA Operator Selection from Volumes I-II — p. 559
+  - 26.1 Registry binding — p. 559
+  - 26.2 Identity, status, and authority — p. 560
+  - 26.3 Pinned registry and source-fidelity posture — p. 560
+  - 26.4 Exact world, variance, and preservation gates — p. 562
+  - 26.5 Non-authoritative scoring and terminal dispositions — p. 562
+  - 26.6 Exact registry resolution — p. 562
+  - 26.7 Role-sensitive applicability — p. 562
+  - 26.8 Foundation families — p. 562
+  - 26.9 Transformation families — p. 562
+  - 26.10 Composition order and typing — p. 562
+  - 26.11 GRA proposal boundary — p. 562
+  - 26.12 GMLS anchors and qualifiers — p. 562
+  - 26.13 Three Anabelian-IUT planes — p. 562
+  - 26.14 Conflict and successor discipline — p. 562
+  - 26.15 Source and plane firewall — p. 562
+  - 26.16 Distinguishing unsupported from out of scope — p. 562
+  - 26.17 Chapter boundary — p. 562
+- Chapter 27. TNCA Sandbox, Countermodels, and Admission — p. 569
+  - 27.1 Registry binding — p. 569
+  - 27.2 Identity, status, and authority — p. 570
+  - 27.3 Admission means bounded permission, not endorsement — p. 570
+  - 27.4 Bounded model and countermodel semantics — p. 570
+  - 27.5 Satisfiability, consistency, and conservativity — p. 571
+  - 27.6 Validator, capability, and replay controls — p. 571
+  - 27.7 Deny-by-default manifest — p. 571
+  - 27.8 Capability freshness and expiry — p. 571
+  - 27.9 Independent roles — p. 571
+  - 27.10 Countermodel discipline — p. 571
+  - 27.11 Resource-bomb resistance — p. 571
+  - 27.12 Post-seal integrity — p. 571
+  - 27.13 Replay and divergence — p. 571
+  - 27.14 Fork and split views — p. 571
+  - 27.15 Exploration-only admission — p. 571
+  - 27.16 Cross-plane and gluing attacks — p. 571
+  - 27.17 Security matrix — p. 571
+  - 27.18 Capability-expiration race — p. 577
+  - 27.19 Chapter boundary — p. 577
+- Chapter 28. TNRA Task Compilation and World Routing — p. 579
+  - 28.1 Registry binding — p. 579
+  - 28.2 Canonical TNRA ownership — p. 580
+  - 28.3 TNRA’s constitutional role — p. 580
+  - 28.4 Exact GMLS-bound input — p. 580
+  - 28.5 Exact ownership of the TaskPlan — p. 580
+  - 28.6 Target fidelity before route selection — p. 583
+  - 28.7 Compilation of the TaskPlan — p. 586
+  - 28.8 World routing as directed semantic search — p. 586
+  - 28.9 Capability and budget profiles — p. 589
+  - 28.10 Checker assignment — p. 592
+  - 28.11 Execution DAG — p. 593
+  - 28.12 Task identities — p. 595
+  - 28.13 World-map evidence — p. 596
+  - 28.14 Unsupported routes — p. 596
+  - 28.15 Outer COMPUTED, PARTIAL, and FAILED discipline — p. 596
+  - 28.16 Worked route traces — p. 596
+  - 28.17 Contract specializations — p. 596
+  - 28.18 State-machine specializations — p. 596
+  - 28.19 Conformance obligations — p. 596
+  - 28.20 Closing discipline — p. 610
+  - 28.21 Integrated figures — task compilation and world routing — p. 610
+  - 28.22 Route comparison with unequal evidence — p. 616
+  - 28.23 Implementation boundary — p. 616
+- Chapter 29. TNRA Localization and Bounded Materialization — p. 617
+  - 29.1 Registry binding — p. 617
+  - 29.2 Localization as a typed operation — p. 618
+  - 29.3 Local fragments and their boundaries — p. 620
+  - 29.4 Restriction data — p. 620
+  - 29.5 Bounded materialization — p. 620
+  - 29.6 Coefficient bounds — p. 620
+  - 29.7 Degree, dimension, and categorical-height bounds — p. 620
+  - 29.8 Truncation profiles — p. 620
+  - 29.9 Locality profiles — p. 620
+  - 29.10 Cache identity and semantic identity — p. 620
+  - 29.11 Omitted data as a first-class artifact — p. 628
+  - 29.12 Resource accounting — p. 628
+  - 29.13 Staleness and dependency epochs — p. 632
+  - 29.14 Local task generation — p. 632
+  - 29.15 Worked trace: a bounded local cohomological comparison — p. 632
+  - 29.16 Typed contract specializations — p. 636
+  - 29.17 Interface specializations — p. 636
+  - 29.18 State-machine specializations — p. 636
+  - 29.19 Adversarial and conformance tests — p. 636
+  - 29.20 Exact nonclaims — p. 642
+  - 29.21 Closing boundary — p. 646
+  - 29.22 Cache-relative localization case — p. 646
+  - 29.23 Implementation boundary — p. 646
+- Chapter 30. TNRA Computation, Proof Search, and Counterexample Search — p. 648
+  - 30.1 Registry binding — p. 648
+  - 30.2 Identity, status, and authority — p. 649
+  - 30.3 Evidence kinds do not collapse — p. 649
+  - 30.4 Replay, closure, hypothesis checks, and scoped refutation — p. 649
+  - 30.5 Unknown, timeout, exhaustion, and assembly — p. 649
+  - 30.6 One target identity across the proof path — p. 649
+  - 30.7 Canonical target-proof mutation classes — p. 649
+  - 30.8 Dispatch and adapter selection — p. 649
+  - 30.9 Target-fidelity firewall — p. 649
+  - 30.10 Proof search boundary — p. 649
+  - 30.11 Counterexample search boundary — p. 649
+  - 30.12 Failure and negative meaning — p. 649
+  - 30.13 GCL and MUE interaction — p. 649
+  - 30.14 GCA, GDRA, DDA, and AURORA roles — p. 649
+  - 30.15 Three Anabelian-IUT planes — p. 649
+  - 30.16 Search bounds and safety — p. 649
+  - 30.17 Computation bundle — p. 649
+  - 30.18 Result semantics — p. 649
+  - 30.19 Frontier accounting example — p. 658
+  - 30.20 Chapter boundary — p. 658
+- Chapter 31. TNRA Gluing and Descent — p. 659
+  - 31.1 Registry binding — p. 659
+  - 31.2 Ownership firewall — p. 660
+  - 31.3 DDA-to-GDRA-to-TRE path — p. 660
+  - 31.4 Purpose and scope — p. 660
+  - 31.5 The descent context — p. 660
+  - 31.6 Local sections — p. 660
+  - 31.7 Restrictions and overlap maps — p. 660
+  - 31.8 Cocycle and higher coherence — p. 660
+  - 31.9 Descent data and assembly obligations — p. 660
+  - 31.10 GDRA ownership — p. 666
+  - 31.11 TNRA orchestration and consumption — p. 666
+  - 31.12 Obstruction records — p. 666
+  - 31.13 Repair — p. 666
+  - 31.14 Cover refinement — p. 666
+  - 31.15 Bundle assembly — p. 666
+  - 31.16 Independent validation — p. 666
+  - 31.17 Prohibition on token-string gluing — p. 666
+  - 31.18 Operational state model — p. 666
+  - 31.19 Descent contracts — p. 666
+  - 31.20 Cover Admission Contract — p. 666
+  - 31.21 Local Section Admission Contract — p. 666
+  - 31.22 Overlap Materialization Contract — p. 666
+  - 31.23 Restriction Contract — p. 666
+  - 31.24 Overlap Comparison Contract — p. 666
+  - 31.25 Coherence Validation Contract — p. 666
+  - 31.26 Obstruction Emission Contract — p. 666
+  - 31.27 Descent Execution Contract — p. 666
+  - 31.28 Assembly Construction Contract — p. 666
+  - 31.29 Candidate Comparison Contract — p. 666
+  - 31.30 Independent Validation Contract — p. 666
+  - 31.31 Certificate Issuance Contract — p. 666
+  - 31.32 TNRA Consumption Contract — p. 666
+  - 31.33 Local Repair Contract — p. 666
+  - 31.34 Cover Refinement Contract — p. 666
+  - 31.35 No-Token-Gluing Enforcement Contract — p. 666
+  - 31.36 Conformance and adversarial tests — p. 666
+  - 31.37 Basic strict gluing — p. 666
+  - 31.38 Pairwise agreement with triple failure — p. 666
+  - 31.39 Weak coherence accepted — p. 666
+  - 31.40 Missing quadruple coherence — p. 666
+  - 31.41 Unsupported higher horizon — p. 666
+  - 31.42 Empty overlap proved — p. 666
+  - 31.43 Unmaterialized overlap — p. 666
+  - 31.44 Wrong map orientation — p. 666
+  - 31.45 Noninvertible transition — p. 666
+  - 31.46 Explicit lax fragment — p. 666
+  - 31.47 Schema mismatch — p. 666
+  - 31.48 Adapter with information loss — p. 666
+  - 31.49 Alpha-equivalent local terms — p. 666
+  - 31.50 Same name, different object — p. 666
+  - 31.51 Token concatenation attack — p. 666
+  - 31.52 Model reconciliation attack — p. 666
+  - 31.53 Majority-vote attack — p. 666
+  - 31.54 Numerical tolerance — p. 666
+  - 31.55 Successful local repair — p. 666
+  - 31.56 Repair scope drift — p. 666
+  - 31.57 Successful refinement — p. 666
+  - 31.58 Refinement by omission — p. 666
+  - 31.59 Refinement budget exhaustion — p. 666
+  - 31.60 Candidate restriction failure — p. 666
+  - 31.61 Multiple candidates — p. 666
+  - 31.62 Equivalent candidates — p. 666
+  - 31.63 Primary-validator disagreement — p. 666
+  - 31.64 Shared-cache contamination — p. 666
+  - 31.65 Digest substitution — p. 666
+  - 31.66 Stale certificate — p. 666
+  - 31.67 Scope mismatch — p. 666
+  - 31.68 Descent package consumed as global — p. 666
+  - 31.69 Certificate wording boundary — p. 666
+  - 31.70 Local failure isolation — p. 666
+  - 31.71 Independent obstruction set — p. 666
+  - 31.72 Degeneracy and unit check — p. 666
+  - 31.73 Projection confusion — p. 666
+  - 31.74 Associator sensitivity — p. 666
+  - 31.75 Partial totalization extension — p. 666
+  - 31.76 Policy-restricted overlap — p. 666
+  - 31.77 Revocation during execution — p. 666
+  - 31.78 Replay determinism — p. 666
+  - 31.79 Nondeterministic backend disclosure — p. 666
+  - 31.80 No general theorem test — p. 666
+  - 31.81 Integrated figures — descent, gluing, and repair — p. 666
+  - 31.82 Weak-coherence assembly case — p. 684
+  - 31.83 Implementation boundary — p. 684
+- Chapter 32. TNRA Transport and Promotion — p. 686
+  - 32.1 Registry binding — p. 686
+  - 32.2 Canonical external-eligibility terminology — p. 687
+  - 32.3 Eligibility actor and transport gate — p. 687
+  - 32.4 Purpose and constitutional boundary — p. 687
+  - 32.5 Transport as a typed request — p. 687
+  - 32.6 Source world, target world, and direction — p. 687
+  - 32.7 Variance is independent of direction — p. 687
+  - 32.8 Preservation, loss, and unknown information — p. 687
+  - 32.9 Lifecycle gate before transport — p. 687
+  - 32.10 Recovery assessment — p. 687
+  - 32.11 Creation of the target-world artifact — p. 687
+  - 32.12 Target fidelity — p. 687
+  - 32.13 Compatibility and freshness — p. 697
+  - 32.14 Use of proof evidence — p. 697
+  - 32.15 Eligibility-candidate inputs — p. 697
+  - 32.16 TRE assembly of ExternalEligibilityRequest — p. 697
+  - 32.17 External status and publication authority — p. 697
+  - 32.18 Required interfaces and contracts — p. 697
+  - 32.19 Canonical conformance tests — p. 697
+  - 32.20 Threat boundaries — p. 706
+  - 32.21 Acceptance rule — p. 706
+  - 32.22 One-way transport with retained loss — p. 711
+  - 32.23 Implementation boundary — p. 711
+- Chapter 33. Coupled Learning Without Mutable Truth — p. 712
+  - 33.1 Registry binding — p. 712
+  - 33.2 Identity, status, and authority — p. 713
+  - 33.3 Observational feedback, not an updating loop — p. 713
+  - 33.4 Immutable observations and dormant successors — p. 713
+  - 33.5 Compatibility without silent equivalence — p. 713
+  - 33.6 Immutable outcome summaries — p. 713
+  - 33.7 Read-only telemetry — p. 713
+  - 33.8 Successor identities — p. 713
+  - 33.9 No mutable truth — p. 713
+  - 33.10 Routing observations — p. 713
+  - 33.11 Candidate policies and components — p. 713
+  - 33.12 GMLS feedback — p. 713
+  - 33.13 Cross-engine cycles — p. 713
+  - 33.14 Historical replay — p. 713
+  - 33.15 Offline evaluation boundary — p. 713
+  - 33.16 Volume and publication ownership — p. 713
+  - 33.17 Evolution and ownership closure — p. 713
+  - 33.18 Confounded routing observation — p. 713
+  - 33.19 Chapter boundary — p. 713
+  - 33.20 Integrated figure — immutable coupled feedback — p. 713
+- Chapter 34. The Grothendieckian Research Architecture — p. 722
+  - 34.1 Constitutional purpose — p. 722
+  - 34.2 Why GRA is parallel — p. 722
+  - 34.3 Component topology — p. 723
+  - 34.4 Immutable research artifacts — p. 723
+  - 34.5 Relation to GMUS — p. 723
+  - 34.6 Relation to TRE — p. 723
+  - 34.7 Relation to GMLS — p. 723
+  - 34.8 Cross-Part producer and consumer boundaries — p. 723
+  - 34.9 Typed trust-boundary ingress and egress — p. 730
+  - 34.10 Threat boundaries and safe dispositions — p. 731
+  - 34.11 Non-authority constitution — p. 732
+  - 34.12 Operational and mathematical nonclaims — p. 732
+  - 34.13 Chapter boundary — p. 732
+  - 34.14 Status ledger — p. 732
+  - 34.15 Ordered research transaction — p. 734
+  - 34.16 Concurrent research lanes and causal accounting — p. 738
+  - 34.17 Inherited controls and trust boundaries — p. 740
+  - 34.18 Reference-implementation correspondence — p. 740
+  - Canonical figures — p. 741
+- Chapter 35. Corpus Normalization and Source Fidelity — p. 743
+  - 35.1 Stable contract surface — p. 743
+  - 35.2 Fidelity as an architectural requirement — p. 743
+  - 35.3 Exact bytes and source-object identity — p. 744
+  - 35.4 Works, editions, copies, and renditions — p. 744
+  - 35.5 Locators as reproducible addresses — p. 745
+  - 35.6 Quotation, paraphrase, and translation artifacts — p. 746
+  - 35.7 Claim-to-locator review — p. 746
+  - 35.8 OCR and extraction uncertainty — p. 746
+  - 35.9 Formula and token boundaries — p. 748
+  - 35.10 Canonicalization versus interpretation — p. 749
+  - 35.11 Source manifests — p. 749
+  - 35.12 Immutable normalized records — p. 749
+  - 35.13 Loss, ambiguity, and non-equivalence — p. 749
+  - 35.14 Validation and release gates — p. 751
+  - 35.15 Replay closure and source drift — p. 751
+  - 35.16 Source-fidelity implementation correspondence — p. 752
+  - 35.17 Integration rule — p. 752
+  - 35.18 Adversarial corpus controls and typed failures — p. 752
+  - 35.19 Render-safe notation without semantic weakening — p. 761
+  - Canonical figures — p. 761
+- Chapter 36. Operator-Event Extraction — p. 764
+  - 36.1 Stable Part V surface — p. 764
+  - 36.2 Extraction as source-bounded hypothesis formation — p. 764
+  - 36.3 The operator-event ontology — p. 764
+  - 36.4 Typed occurrence versus mathematical operator — p. 766
+  - 36.5 Argument roles — p. 766
+  - 36.6 Variance and direction — p. 767
+  - 36.7 Scope, assumptions, and target — p. 767
+  - 36.8 Source locators and documentary binding — p. 767
+  - 36.9 Contextual qualifiers — p. 767
+  - 36.10 Negative evidence — p. 770
+  - 36.11 Unknowns and alternatives — p. 771
+  - 36.12 Confidence and status — p. 771
+  - 36.13 Extraction flow — p. 771
+  - 36.14 Forbidden inferences — p. 773
+  - 36.15 Downstream boundary — p. 773
+  - 36.16 Status ledger — p. 773
+  - 36.17 Parser passes and preservation of alternatives — p. 774
+  - 36.18 Semantic passes and target fidelity — p. 774
+  - 36.19 Identity resolution across occurrences and concepts — p. 774
+  - 36.20 Conservative deduplication — p. 774
+  - 36.21 Human and prover review hooks — p. 774
+  - 36.22 Residuals as first-class outputs — p. 774
+  - 36.23 Budgets, progress, and termination — p. 774
+  - 36.24 Inputs and outputs — p. 774
+  - 36.25 Typed contracts — p. 778
+  - 36.26 Canonical state machine — p. 778
+  - 36.27 Pseudocode-level algorithm architecture — p. 778
+  - 36.28 Invariants — p. 778
+  - 36.29 Failure taxonomy — p. 786
+  - 36.30 Declarative tests and exact negative cases — p. 786
+  - 36.31 Distributed discourse and event assembly — p. 787
+  - 36.32 Event families, composites, and factorization — p. 787
+  - 36.33 Assembly-specific failures and review questions — p. 787
+  - 36.34 Provenance, authority, and nonclaims — p. 791
+  - 36.35 Figure anchor semantics — p. 791
+  - Canonical figures — p. 791
+- Chapter 37. Higher Cognitive Graphs — p. 795
+  - 37.1 Graph scope and stable surface — p. 795
+  - 37.2 Qualification and higher-structure naming gate — p. 795
+  - 37.3 Core identity and reference types — p. 795
+  - 37.4 Shared lifecycle envelope — p. 795
+  - 37.5 Typed node contract — p. 795
+  - 37.6 Typed hyperedge contract — p. 795
+  - 37.7 Path contract — p. 795
+  - 37.8 Comparison cell contract — p. 795
+  - 37.9 Higher-coherence proposal contract — p. 795
+  - 37.10 Witness-or-obligation gate — p. 795
+  - 37.11 Graph delta contract — p. 795
+  - 37.12 Fork and merge contracts — p. 795
+  - 37.13 State-transition relations — p. 795
+  - 37.14 Construction as a typed projection — p. 795
+  - 37.15 Incremental successors — p. 814
+  - 37.16 Typed traversals — p. 814
+  - 37.17 Path semantics — p. 814
+  - 37.18 Conflict representation — p. 814
+  - 37.19 Replay — p. 814
+  - 37.20 Closure — p. 814
+  - 37.21 Semantic edge inflation — p. 814
+  - 37.22 Transitive-closure laundering — p. 814
+  - 37.23 Higher cells and coherence debt — p. 814
+  - 37.24 Cycles, echo, and consensus fallacies — p. 814
+  - 37.25 Epochs, staleness, and mixed-time graphs — p. 814
+  - 37.26 Poisoning and adversarial graph formation — p. 814
+  - 37.27 Contradictory sources — p. 814
+  - 37.28 Quarantine as non-destructive containment — p. 814
+  - 37.29 Architectural test obligations — p. 814
+  - 37.30 Query certificates and bounded graph answers — p. 823
+  - 37.31 Graph updates as obligation generation — p. 823
+  - 37.32 Worked graph: two transformation traditions — p. 823
+  - 37.33 Query security and adversarial shaping — p. 823
+  - 37.34 Threat boundary and downstream use — p. 823
+  - Canonical figures — p. 823
+- Chapter 38. Descendant Branches and Transformation Lineages — p. 827
+  - 38.1 Stable Part V surface — p. 827
+  - 38.2 Genealogy is not similarity — p. 827
+  - 38.3 Three identities — p. 828
+  - 38.4 Historical-source facts and their limits — p. 828
+  - 38.5 Architectural purpose — p. 828
+  - 38.6 Lineage records and semantic deltas — p. 830
+  - 38.7 Immutable judgment envelopes and computed ceilings — p. 830
+  - 38.8 Parentage as a typed claim — p. 830
+  - 38.9 Transformation events — p. 830
+  - 38.10 Source-to-descendant traceability — p. 830
+  - 38.11 Transformation-registry bindings — p. 834
+  - 38.12 Forks — p. 835
+  - 38.13 Merges — p. 835
+  - 38.14 Common ancestors — p. 835
+  - 38.15 Preservation, loss, unknown, and inapplicability — p. 835
+  - 38.16 Disputed ancestry — p. 837
+  - 38.17 Supersession is not descent — p. 837
+  - 38.18 Non-equivalence without negative overclaim — p. 837
+  - 38.19 Immutable genealogy — p. 837
+  - 38.20 Replay and correction — p. 837
+  - 38.21 Lineage-laundering controls — p. 837
+  - 38.22 GRA boundaries and operational flow — p. 840
+  - 38.23 Contract surface — p. 840
+  - 38.24 Declarative conformance and adversarial tests — p. 840
+  - 38.25 Failure-preserving genealogy — p. 842
+  - 38.26 Open-ended lineage without mutable truth — p. 842
+  - 38.27 Temporal coordinates and causal restraint — p. 842
+  - 38.28 Lineage query algebra under uncertainty — p. 842
+  - 38.29 Worked lineage: fork, merge, and ceiling propagation — p. 842
+- Chapter 39. Formal Semantic Operator Proposals — p. 848
+  - 39.1 Authority-limited proposal surface — p. 848
+  - 39.2 Typed contract projection — p. 848
+  - 39.3 From operator events to semantic operators — p. 849
+  - 39.4 Typed proposal schema — p. 849
+  - 39.5 Semantic signature, domain, and codomain — p. 849
+  - 39.6 Variance is argument-specific — p. 849
+  - 39.7 Assumptions, bounds, and supported fragment — p. 849
+  - 39.8 Preservation, loss, and unknown — p. 849
+  - 39.9 Expected utility is a defeasible hypothesis — p. 849
+  - 39.10 Falsification plan — p. 849
+  - 39.11 Compilation toward TRE — p. 849
+  - 39.12 Adjudication and lifecycle — p. 849
+  - 39.13 Non-authority boundary — p. 849
+  - 39.14 Target fidelity precedes performance — p. 849
+  - 39.15 Compatibility with WorldSpec — p. 849
+  - 39.16 Countermodel obligations — p. 865
+  - 39.17 Novelty versus renaming — p. 865
+  - 39.18 No inverse, equivalence, or universality by inference — p. 866
+  - 39.19 Typed rejection and residuals — p. 866
+  - 39.20 Preflight review contracts — p. 866
+  - 39.21 Adversarial test suite — p. 869
+  - 39.22 Operator-law obligation bundles — p. 869
+  - 39.23 Cross-world proposal example — p. 869
+  - 39.24 Sequential falsification under finite budgets — p. 869
+  - 39.25 Handoff readiness without inflation — p. 869
+  - Canonical figures — p. 869
+- Chapter 40. GRA-TRE Ensemble Adjudication — p. 875
+  - 40.1 Constitutional ensemble boundary — p. 875
+  - 40.2 Purpose and scope — p. 875
+  - 40.3 Normative terms and records — p. 875
+  - 40.4 Separation of proposal and evaluation roles — p. 875
+  - 40.5 Exact subject binding — p. 877
+  - 40.6 Proposal formation and admissibility — p. 877
+  - 40.7 Evaluation dimensions — p. 877
+  - 40.8 Disagreement matrices — p. 879
+  - 40.9 Evidence ceilings — p. 879
+  - 40.10 Aggregation and predeclared routing rules — p. 879
+  - 40.11 Ties and non-consensus — p. 879
+  - 40.12 External-authority routing boundary — p. 879
+  - 40.13 Immutable ensemble outcomes and supersession — p. 879
+  - 40.14 Prohibition on consensus-to-proof laundering — p. 879
+  - 40.15 Threat model — p. 879
+  - 40.16 Participant identity and Sybil resistance — p. 884
+  - 40.17 Collusion and correlated-failure controls — p. 885
+  - 40.18 Independence declarations — p. 885
+  - 40.19 Capability epochs — p. 885
+  - 40.20 Replay and freshness architecture — p. 885
+  - 40.21 Evidence and contribution integrity — p. 888
+  - 40.22 Budget architecture — p. 888
+  - 40.23 Termination and liveness — p. 889
+  - 40.24 Architectural verification tests — p. 890
+  - 40.25 Dependence-adjusted aggregation — p. 890
+  - 40.26 Commit-reveal and evidence escrow — p. 890
+  - 40.27 Worked proceeding: correlated majority and lawful non-consensus — p. 890
+  - 40.28 Closure packet and downstream replay — p. 890
+  - 40.29 Terminal nonclaims — p. 890
+- Chapter 41. The Contract of the Mathematical Language System — p. 895
+  - 41.1 The Part VI thin waist — p. 895
+  - 41.2 Acyclic package constitution — p. 895
+  - 41.3 The authority lattice — p. 895
+  - 41.4 Language artifacts are immutable proposals — p. 895
+  - 41.5 Five authorities that must remain separate — p. 895
+  - 41.6 The typed language package — p. 898
+  - 41.7 Component responsibilities inside GMLS — p. 898
+  - 41.8 Proposal, review, and activation state — p. 898
+  - 41.9 Validation judgments must remain disjoint — p. 898
+  - 41.10 Capability, budget, and replay obligations — p. 898
+  - 41.11 EvolutionContract remains inert — p. 898
+  - 41.12 Threat boundaries — p. 898
+  - 41.13 Negative cases — p. 898
+  - 41.14 Reference-implementation correspondence — p. 906
+  - 41.15 Proposed contract and test concepts — p. 907
+  - 41.16 Additional integration controls — p. 907
+  - 41.17 Constitutional role — p. 907
+  - 41.18 Reuse of the inherited artifact fabric — p. 907
+- Chapter 42. From Structure Motifs to Lexical Primitives — p. 912
+  - 42.1 First definitions — p. 912
+  - 42.2 Evidence discipline at the lexical boundary — p. 912
+  - 42.3 Scope and status — p. 912
+  - 42.4 Structure motifs as source-bound observations — p. 912
+  - 42.5 Extraction as hypothesis formation — p. 912
+  - 42.6 Typed lexical primitives — p. 912
+  - 42.7 World bindings — p. 912
+  - 42.8 Ambiguity retention — p. 912
+  - 42.9 Source locators and provenance — p. 912
+  - 42.10 Admissibility review — p. 912
+  - 42.11 Lifecycle — p. 921
+  - 42.12 Threat cases — p. 921
+  - 42.13 Figure narrative: the mathematical-principle anchor — p. 921
+  - 42.14 Closing principle — p. 921
+  - 42.15 Additional integration controls — p. 921
+  - 42.16 Meaning begins before notation — p. 921
+  - 42.17 The lexical primitive contract — p. 921
+  - 42.18 Symbol identity and surface realization — p. 921
+  - 42.19 Namespace, world, and version binding — p. 921
+  - 42.20 Overloaded notation without guessed meaning — p. 921
+  - 42.21 Binder behavior and substitution — p. 921
+  - 42.22 Continuing example: the Cover language — p. 921
+  - Canonical figures — p. 921
+- Chapter 43. Notation as Typed Compression — p. 931
+  - 43.1 The authoritative representation — p. 931
+  - 43.2 Compression under explicit conditions — p. 931
+  - 43.3 Notation profiles — p. 931
+  - 43.4 Reversibility and partial reversibility — p. 931
+  - 43.5 Alpha-equivalence is not semantic identity — p. 931
+  - 43.6 Ambiguity budgets — p. 931
+  - 43.7 Loss records — p. 931
+  - 43.8 Unicode, confusables, and visual trust — p. 931
+  - 43.9 Accessibility as a notation contract — p. 931
+  - 43.10 Exact source fidelity — p. 931
+  - 43.11 Lifecycle — p. 931
+  - 43.12 Denial cases — p. 931
+  - 43.13 Declarative tests — p. 931
+  - 43.14 Closing boundary — p. 931
+  - 43.15 Additional integration controls — p. 931
+  - 43.16 Security and ambiguity handling — p. 931
+  - 43.17 Continuing example: notation for Cover — p. 931
+- Chapter 44. Grammar, Formation, and Inference Rules — p. 944
+  - Rule packages and semantic preservation — p. 944
+  - 44.1 Scope and claim discipline — p. 944
+  - 44.2 Typed grammar as an architectural object — p. 944
+  - 44.3 Sorts and sort discipline — p. 946
+  - 44.4 Contexts and environments — p. 946
+  - 44.5 Judgments — p. 946
+  - 44.6 Binding — p. 948
+  - 44.7 Substitution — p. 948
+  - 44.8 Formation and well-scopedness — p. 948
+  - 44.9 Inference-rule schemas — p. 948
+  - 44.10 Versioned rule packages — p. 951
+  - 44.11 The GMLS boundary — p. 951
+  - 44.12 Component contracts — p. 951
+  - 44.13 Package state machine — p. 951
+  - 44.14 Failure certificates — p. 951
+  - 44.15 Validation and test matrix — p. 951
+  - 44.16 Metatheoretic obligations — p. 951
+  - 44.17 Architectural boundary — p. 951
+  - Additional integration controls — p. 951
+  - Continuing example: five rule classes — p. 951
+- Chapter 45. Formal Semantic Interpretation — p. 961
+  - Semantic anchors without null-field contradictions — p. 961
+  - Interpretation of a formal language — p. 961
+  - 45.1 Purpose and Scope — p. 962
+  - 45.2 Pinned Mathematical Worlds — p. 962
+  - 45.3 Source Signatures and Theories — p. 962
+  - 45.4 Typed Carriers, Maps, and Relations — p. 962
+  - 45.5 Interpreting Terms and Formulas — p. 962
+  - 45.6 Satisfaction as a Scoped Relation — p. 965
+  - 45.7 Partial Interpretations — p. 965
+  - 45.8 Residual Obligations — p. 965
+  - 45.9 Transport Between Worlds and Interpretations — p. 965
+  - 45.10 Coherence — p. 965
+  - 45.11 Source-Target Fidelity — p. 965
+  - 45.12 Immutable Interpretation Artifacts — p. 965
+  - 45.13 Lifecycle — p. 965
+  - 45.14 Interpretation Contracts — p. 965
+  - 45.15 Contract Tests and Semantic Tests — p. 965
+  - 45.16 Architectural Boundary and Responsible Use — p. 965
+  - Additional integration controls — p. 973
+  - Interpretation is a relation, not an upgrade — p. 973
+  - Continuing example: scoped interpretation — p. 973
+- Chapter 46. Theory Reconstruction Without Placeholder Truths — p. 976
+  - 46.1 Separate theory records — p. 976
+  - 46.2 Reconstruction is obligation preserving — p. 976
+  - 46.3 Reconstruction is not completion by any means available — p. 976
+  - 46.4 The reconstruction request — p. 976
+  - 46.5 Source closure — p. 976
+  - 46.6 Definitions, axioms, and theorems are different node kinds — p. 976
+  - 46.7 The dependency DAG — p. 976
+  - 46.8 The six forbidden substitutions — p. 976
+  - 46.9 Placeholder truth as a semantic attack — p. 976
+  - 46.10 Candidate theory packages — p. 976
+  - 46.11 Residuals are first-class mathematical artifacts — p. 976
+  - 46.12 Abstention — p. 976
+  - 46.13 Quarantine — p. 976
+  - 46.14 Independent validation — p. 976
+  - 46.15 TRE routing — p. 976
+  - 46.16 Figure anchor — honest reconstruction as an obligation-preserving map — p. 976
+  - 46.17 System obligations — p. 976
+  - 46.18 The authority ceiling — p. 988
+  - 46.19 Additional integration controls — p. 988
+  - 46.20 Adversarial model — p. 988
+  - 46.21 Continuing example: candidate gluing reconstruction — p. 988
+  - Canonical figures — p. 988
+- Chapter 47. Axiom Dependency, Minimization, and Independence — p. 993
+  - The fully bound analysis context — p. 993
+  - 47.1 Dependency questions are context questions — p. 993
+  - 47.2 Declared assumptions and used assumptions — p. 993
+  - 47.3 Exact extraction is exact relative to evidence — p. 993
+  - 47.4 World and scope binding — p. 993
+  - 47.5 Proof-receipt dependencies — p. 993
+  - 47.6 Reachability is computation, not theorem — p. 997
+  - 47.7 Four meanings of minimization — p. 997
+  - 47.8 Independence results as first-class claims — p. 997
+  - 47.9 Incomplete, opaque, and inconsistent traces — p. 997
+  - 47.10 Immutable dependency snapshots — p. 997
+  - 47.11 Architectural contracts — p. 997
+  - 47.12 State model — p. 997
+  - 47.13 Conformance tests — p. 997
+  - 47.14 Architectural outputs and mathematical conclusions — p. 997
+  - Additional integration controls — p. 997
+  - Scope and input contract — p. 997
+  - The deletion trial — p. 997
+  - Proof replay and dependency pruning — p. 997
+  - Continuing example: bounded axiom analysis — p. 997
+- Chapter 48. Language Validation and Versioning — p. 1008
+  - Release closure before lifecycle action — p. 1008
+  - 48.1 Purpose and scope — p. 1008
+  - Final cross-part routing matrix — p. 1008
+  - 48.2 Immutable LanguagePackage versions — p. 1008
+  - 48.3 Validation contract — p. 1008
+  - 48.4 Registry closure — p. 1008
+  - 48.5 Compatibility profiles — p. 1012
+  - 48.6 Migration contracts — p. 1012
+  - 48.7 Publication contract — p. 1012
+  - 48.8 Activation requests — p. 1012
+  - 48.9 Capability epochs — p. 1015
+  - 48.10 Deprecation and supersession — p. 1015
+  - 48.11 Fork and quarantine — p. 1015
+  - 48.12 EvolutionContract is inert — p. 1015
+  - 48.13 Replay contract — p. 1015
+  - 48.14 Derived state — p. 1019
+  - 48.15 Contract invariants — p. 1019
+  - 48.16 Conformance tests — p. 1019
+  - 48.17 Required outcome — p. 1019
+  - Additional integration controls — p. 1019
+  - CH-06-08 — Validation Architecture — p. 1019
+  - Continuing example: release without authority inflation — p. 1025
+- Chapter 49. Contexts, Goals, and Scope — p. 1028
+  - 49.1 Constitutional boundary — p. 1028
+  - 49.2 GCA constitution — p. 1030
+  - 49.3 Effective cognition contract — p. 1030
+  - 49.4 ContextSpec — p. 1030
+  - 49.5 GoalSpec — p. 1030
+  - 49.6 ScopeAndBound — p. 1030
+  - 49.7 Context variants in a continuing case — p. 1030
+  - 49.8 Extension and restriction laws — p. 1030
+  - 49.9 World–language binding — p. 1030
+  - 49.10 Status orthogonality — p. 1030
+  - 49.11 State progression and deterministic terminals — p. 1030
+  - 49.12 Closed-carrier walkthrough: freezing the question before locality — p. 1030
+  - 49.13 Contract tests — p. 1030
+  - 49.14 Registry binding — p. 1030
+  - Canonical figures — p. 1030
+- Chapter 50. Covers and Local Cognitive Sections — p. 1045
+  - 50.1 Purpose and boundary — p. 1045
+  - 50.2 Typed context maps — p. 1046
+  - 50.3 Exact cover semantics — p. 1046
+  - 50.4 Coverage obligations — p. 1046
+  - 50.5 Restriction-map semantics — p. 1046
+  - 50.6 Local cognitive sections — p. 1046
+  - 50.7 Local section lifecycle — p. 1046
+  - 50.8 Overlap preparation — p. 1046
+  - 50.9 Refinement — p. 1046
+  - 50.10 Hypercover admission — p. 1046
+  - 50.11 Bound cover admission and section accountability — p. 1046
+  - 50.12 GCA planning state — p. 1046
+  - 50.13 Worked closed-cover dossier and effectivity firewall — p. 1046
+  - 50.14 Failure semantics and paired tests — p. 1062
+  - 50.15 Bounds and non-descent claims — p. 1062
+  - Canonical figures — p. 1062
+- Chapter 51. Overlap Compatibility and Obstruction Objects — p. 1068
+  - 51.1 Overlap compatibility — p. 1068
+  - 51.2 Closed compatibility and effectivity case study — p. 1079
+  - 51.3 Obstruction registry and taxonomy — p. 1079
+  - 51.4 Registry contract — p. 1079
+  - 51.5 Minimal interfaces — p. 1079
+  - 51.6 Variant contracts — p. 1079
+  - 51.7 Witness-specific validation rules — p. 1085
+  - 51.8 Terminal precedence — p. 1085
+  - 51.9 Deterministic validator semantics — p. 1085
+  - 51.10 Obstruction consumption rules — p. 1085
+  - 51.11 Authority ceilings — p. 1085
+  - 51.12 State transitions — p. 1085
+  - 51.13 Paired deterministic tests — p. 1085
+  - Canonical figures — p. 1091
+- Chapter 52. Reflection and Failure-Directed Refinement — p. 1093
+  - 52.1 Reflection and Refinement Defenses — p. 1094
+- Chapter 53. Universe Shifts as Structured Recovery — p. 1110
+  - 53.1 Established-background status and exact-source ledger — p. 1110
+  - 53.2 Named universe profiles — p. 1111
+  - 53.3 Relative size predicates — p. 1111
+  - 53.4 Pure enlargement — p. 1111
+  - 53.5 Embeddings and equivalences — p. 1111
+  - 53.6 Localization, quotient, and completion — p. 1111
+  - 53.7 Directed transport — p. 1111
+  - 53.8 Preservation and loss — p. 1111
+  - 53.9 Target-native witnesses — p. 1111
+  - 53.10 Identity creation — p. 1111
+  - 53.11 Return obligations — p. 1111
+  - 53.12 Red-team nonclaims — p. 1111
+  - 53.13 Structured recovery — p. 1111
+  - 53.14 Bounded recovery campaigns — p. 1111
+  - 53.15 Rollback without pretending the shift never occurred — p. 1111
+  - 53.16 Operational failures during universe recovery — p. 1111
+  - 53.17 Typed authority surface — p. 1111
+  - 53.18 Typed records — p. 1111
+  - 53.19 Authority matrix — p. 1111
+  - 53.20 Terminal state machine — p. 1129
+  - 53.21 Minimal paired test inventory — p. 1129
+- Chapter 54. Translation Treaties, Anabelian Theater Worlds, and Witnesses — p. 1134
+  - 54.1 Three-plane Theater and source/status firewall — p. 1134
+  - 54.2 Treaty registry and composition discipline — p. 1136
+- Chapter 55. GCA Service Architecture and Memory — p. 1160
+  - 55.1 Service architecture — p. 1160
+  - 55.2 Service constitution and ownership — p. 1160
+  - 55.3 Threat and trust model — p. 1160
+  - 55.4 The architectural rule — p. 1160
+  - 55.5 Request and result envelopes — p. 1160
+  - 55.6 Immutable memory artifacts — p. 1160
+  - 55.7 The context registry — p. 1160
+  - 55.8 The cover service — p. 1160
+  - 55.9 The overlap checker — p. 1160
+  - 55.10 The obstruction store — p. 1160
+  - 55.11 The reflection planner — p. 1160
+  - 55.12 The treaty service — p. 1160
+  - 55.13 Routing and orchestration — p. 1160
+  - 55.14 Event logs — p. 1160
+  - 55.15 Replay — p. 1160
+  - 55.16 Capability boundaries — p. 1160
+  - 55.17 Failure semantics — p. 1160
+  - 55.18 External authorities — p. 1160
+  - 55.19 End-to-end operation — p. 1160
+  - 55.20 Contract and lifecycle summary — p. 1160
+  - 55.21 Tenant-bound immutable memory views — p. 1160
+  - 55.22 Security boundary consolidation — p. 1160
+  - 55.23 Immutable memory maintenance — p. 1160
+  - 55.24 Cross-service rollback and compensation — p. 1160
+  - 55.25 Operational incident handling — p. 1160
+  - 55.26 Exact TRE handoff — p. 1176
+  - 55.27 Reference-implementation correspondence — p. 1176
+- Chapter 56. The Grothendieckian Descent Reasoning Architecture — p. 1179
+  - 56.1 The constitutional problem: completion is not descent — p. 1179
+  - 56.2 Exact inheritance dossier and provenance ceiling — p. 1179
+  - 56.3 What is inherited, what is transformed, what is refused — p. 1180
+  - 56.4 The original carrier: a campaign as an evidence product — p. 1180
+  - 56.5 Invariants: laws that must survive every transition — p. 1180
+  - 56.6 Transition system with success, partial, and failure branches — p. 1180
+  - 56.7 Authority ceiling and public interfaces — p. 1180
+  - 56.8 Failure algebra and recovery semantics — p. 1180
+  - 56.9 Worked campaign: source-bounded descent for a comparison statement — p. 1180
+  - 56.10 Adversarial cases that define the architecture — p. 1180
+  - 56.11 Test interpretation: what the current vectors do and do not establish — p. 1180
+  - 56.12 Implementation boundary and receipts still missing — p. 1180
+  - 56.13 Exact V1 and V2 inheritance — p. 1180
+  - 56.14 Intended consumers in Volumes IV–VI — p. 1180
+  - 56.15 Formal composition semantics and proof obligations — p. 1180
+  - 56.16 Novelty dossier and nonclaims — p. 1180
+- Chapter 57. Universe Towers and Task Decomposition — p. 1193
+  - 57.1 Why a hierarchy of sandboxes is mathematically insufficient — p. 1193
+  - 57.2 External inheritance with exact paths, hashes, and locators — p. 1193
+  - 57.3 The original transformation: from fixed levels to an indexed universe tower — p. 1193
+  - 57.4 Formal carriers and exact type intentions — p. 1193
+  - 57.5 Representability and admission are different judgments — p. 1193
+  - 57.6 Task graphs: operational acyclicity and mathematical coverage — p. 1193
+  - 57.7 Composition laws for nested decomposition — p. 1193
+  - 57.8 Transition system and durable semantics — p. 1193
+  - 57.9 Semantically allocated figure — p. 1193
+  - 57.10 Authority ceiling and interface boundary — p. 1200
+  - 57.11 Failure and recovery semantics — p. 1200
+  - 57.12 Worked campaign: arithmetic geometry across three fibers — p. 1200
+  - 57.13 Counterexamples and adversarial cases — p. 1200
+  - 57.14 Tests and the meaning of a future pass — p. 1200
+  - 57.15 Implementation boundary — p. 1200
+  - 57.16 Exact V1 and V2 anchors — p. 1200
+  - 57.17 Intended Volume IV–VI consumers — p. 1200
+  - 57.18 The decomposition judgment as a research object — p. 1200
+  - 57.19 Novelty dossier and honest status — p. 1200
+- Chapter 58. Cover Planning — p. 1209
+  - 58.1 Planning is not local execution — p. 1209
+  - 58.2 Research inheritance and exact dispositions — p. 1209
+  - 58.3 Comparison with established architecture — p. 1210
+  - 58.4 Cover semantics and the higher-face firewall — p. 1210
+  - 58.5 Strict non-null carriers — p. 1210
+  - 58.6 Cover compilation as a constrained construction — p. 1210
+  - 58.7 Invariants — p. 1210
+  - 58.8 Full lifecycle: success, failure, refusal, and recovery — p. 1210
+  - 58.9 Refinement and invalidation geometry — p. 1216
+  - 58.10 Authority separation — p. 1216
+  - 58.11 Worked case I: exceptional locus in a finite classification — p. 1217
+  - 58.12 Worked case II: arithmetic-geometry source and computation campaign — p. 1217
+  - 58.13 Adversarial counterexamples — p. 1217
+  - 58.14 Figures and their authority — p. 1217
+  - 58.15 Required conformance and adversarial vectors — p. 1222
+  - 58.16 Failure preservation and recovery policy — p. 1222
+  - 58.17 Interface to Chapter 59 — p. 1223
+  - 58.18 Decision profiles and the meaning of a coverage receipt — p. 1223
+  - 58.19 Formal planning properties and open proof obligations — p. 1223
+  - 58.20 Source fidelity inside planning — p. 1223
+  - 58.21 Operational complexity, observability, and denial of service — p. 1223
+  - 58.22 Worked case III: documentation build as a hostile cover problem — p. 1223
+  - 58.23 Evidence and epistemic boundary — p. 1223
+  - 58.24 Cross-volume traceability — p. 1223
+- Chapter 59. Local Agent Execution Under Capability Boundaries — p. 1229
+  - 59.1 From admitted plan to bounded local cell — p. 1229
+  - 59.2 Research inheritance and exact dispositions — p. 1229
+  - 59.3 Relation to established systems security — p. 1230
+  - 59.4 Strict non-null execution carriers — p. 1230
+  - 59.5 Assignment, sandbox, and result types — p. 1230
+  - 59.6 Effective permission and tenant isolation — p. 1230
+  - 59.7 Lease, fencing, cancellation, and late output — p. 1230
+  - 59.8 Idempotency and duplicate effects — p. 1230
+  - 59.9 Resource conservation and termination — p. 1230
+  - 59.10 Authority separation — p. 1230
+  - 59.11 Complete worker lifecycle — p. 1238
+  - 59.12 Failure artifact and retry eligibility — p. 1238
+  - 59.13 Worked cell I: finite presentation normalization — p. 1238
+  - 59.14 Worked cell II: source extraction with tenant isolation — p. 1238
+  - 59.15 Adversarial counterexamples — p. 1238
+  - 59.16 Sandbox enforcement and host trust — p. 1238
+  - 59.17 Deterministic replay and its limit — p. 1238
+  - 59.18 Recovery, compensation, and stale state — p. 1238
+  - 59.19 Figures — p. 1238
+  - 59.20 Required conformance vectors — p. 1244
+  - 59.21 Capability derivation for subtools — p. 1244
+  - 59.22 Mathematical semantics of a candidate local section — p. 1244
+  - 59.23 Supply-chain and executable identity — p. 1246
+  - 59.24 Worked cell III: bounded proof search with no false negative theorem — p. 1246
+  - 59.25 Worked cell IV: duplicate effect with uncertain completion — p. 1246
+  - 59.26 Validation request construction and forgery resistance — p. 1246
+  - 59.27 Observability without capability leakage — p. 1246
+  - 59.28 Recovery state matrix — p. 1246
+  - 59.29 Evidence boundary — p. 1249
+  - 59.30 Cross-volume traceability and handoff — p. 1249
+- Chapter 60. Local Validation and Artifact Memory — p. 1251
+  - 60.1 The distinctions on which local memory depends — p. 1251
+  - 60.2 Governing architecture and exact inheritance dossier — p. 1251
+  - 60.3 The immutable envelope precedes every local type — p. 1252
+  - 60.4 Candidate sections are proposals, not failed receipts — p. 1252
+  - 60.5 Validation requests and checker profiles — p. 1252
+  - 60.6 Judgments and validation receipts — p. 1252
+  - 60.7 Memory entries, indexes, and views — p. 1252
+  - 60.8 Contamination is a lineage relation, not a stigma bit — p. 1252
+  - 60.9 Staleness is predicate-relative — p. 1252
+  - 60.10 Restriction records and the capability ladder — p. 1252
+  - 60.11 Invariants — p. 1259
+  - 60.12 Lifecycle with reachable failure and recovery — p. 1261
+  - 60.13 Composition and concurrency — p. 1261
+  - 60.14 Worked example: a local cohomology dossier — p. 1261
+  - 60.15 Counterexamples that the architecture must preserve — p. 1261
+  - 60.16 Independent authority and separation of duties — p. 1261
+  - 60.17 Interface contract — p. 1261
+  - 60.18 Positive, negative, adversarial, and recovery vectors — p. 1261
+  - 60.19 Implementation decomposition and reachable operational failures — p. 1265
+  - 60.20 Operational reading of the judgment variants — p. 1265
+  - 60.21 Query semantics for partitioned artifact memory — p. 1265
+  - 60.22 Contamination and staleness interaction matrix — p. 1265
+  - 60.23 Evaluating a bounded sheaf-memory request — p. 1265
+  - 60.24 End-to-end recovery scenario — p. 1265
+  - 60.25 Admission questions for a future implementation — p. 1265
+  - 60.26 Cross-volume traceability — p. 1265
+  - 60.27 Evidence boundary — p. 1265
+- Chapter 61. Overlap Checks, Cocycles, and Obstructions — p. 1272
+  - 61.1 Compatibility is indexed by a face — p. 1272
+  - 61.2 Governing evidence and exact adaptation dossier — p. 1272
+  - 61.3 The overlap nerve and oriented faces — p. 1272
+  - 61.4 Projection specifications — p. 1272
+  - 61.5 Units and dimensions — p. 1272
+  - 61.6 Variance and orientation — p. 1272
+  - 61.7 Comparison modes are disjoint variants — p. 1272
+  - 61.8 Checker profiles and judgments — p. 1272
+  - 61.9 Pairwise obligations — p. 1272
+  - 61.10 Triple cocycles — p. 1272
+  - 61.11 Higher faces and coherence towers — p. 1272
+  - 61.12 The face-indexed coherence ledger — p. 1272
+  - 61.13 Obstruction records and cores — p. 1272
+  - 61.14 Effectivity firewall — p. 1272
+  - 61.15 Rejection of unconditional glue=1.0 — p. 1272
+  - 61.16 Invariants — p. 1282
+  - 61.17 Lifecycle with failure and recovery — p. 1283
+  - 61.18 Worked example: pairwise pass, triangular failure — p. 1283
+  - 61.19 Worked example: units and variance — p. 1283
+  - 61.20 Counterexample laboratory — p. 1285
+  - 61.21 Independent authority — p. 1285
+  - 61.22 Interface contract — p. 1285
+  - 61.23 Positive, negative, adversarial, and recovery vectors — p. 1285
+  - 61.24 Semantically allocated figures — p. 1288
+  - 61.25 Interpreting dimensions without overgeneralizing — p. 1291
+  - 61.26 Admissibility of checker profiles — p. 1291
+  - 61.27 Coherence without effectivity: a concrete separation — p. 1291
+  - 61.28 Repair propagation from an obstruction core — p. 1291
+  - 61.29 Completeness and replay obligations for a ledger — p. 1291
+  - 61.30 Implementation decomposition and operational failures — p. 1291
+  - 61.31 Cross-volume traceability — p. 1291
+  - 61.32 Evidence boundary — p. 1291
+- Chapter 62. Repair, Cover Refinement, and Re-execution — p. 1297
+  - 62.1 Repair begins with an obstruction, not a retry button — p. 1297
+  - 62.2 Governing dossier and exact provenance — p. 1297
+  - 62.3 Originality and adaptation dossier — p. 1297
+  - 62.4 The immutable repair subject — p. 1300
+  - 62.5 AttemptLineageRef and conserved resource accounting — p. 1300
+  - 62.6 Obstruction-bound repair types — p. 1300
+  - 62.7 A well-founded lexicographic decrease — p. 1300
+  - 62.8 Oscillation prevention — p. 1300
+  - 62.9 Successor-only reauthorization — p. 1300
+  - 62.10 Compensation is not erasure — p. 1300
+  - 62.11 Counterevidence retention and scoped discharge — p. 1300
+  - 62.12 Transition system and disjoint repair results — p. 1300
+  - 62.13 Composition and branch semantics — p. 1300
+  - 62.14 Detailed campaign: repairing a failed triple overlap — p. 1300
+  - 62.15 Detailed campaign: source repair with an external effect — p. 1300
+  - 62.16 Adversarial cases and required recovery — p. 1300
+  - 62.17 Interface contracts and implementation obligations — p. 1300
+  - 62.18 Verification campaign — p. 1300
+  - 62.19 Preservation obligations for every accepted edge — p. 1310
+  - 62.20 Failure-to-recovery matrix — p. 1310
+  - 62.21 Detailed campaign: conflicting repairs and branch comparison — p. 1311
+  - 62.22 Detailed campaign: bounded counterexample search — p. 1311
+  - 62.23 Crash, replay, and partial-commit recovery — p. 1311
+  - 62.24 Figure allocation and cross-volume traceability — p. 1311
+  - 62.25 Reporting discipline — p. 1311
+  - 62.26 No-execution boundary — p. 1311
+- Chapter 63. Gluing Certificates and Verifier-Gated Promotion — p. 1316
+  - 63.1 A certificate must not hide what was actually checked — p. 1316
+  - 63.2 Exact provenance and executable counterevidence — p. 1316
+  - 63.3 Originality and adaptation dossier — p. 1318
+  - 63.4 Four boundaries: compatibility, coherence, effectivity, and gluing — p. 1319
+  - 63.5 The gluing dossier — p. 1319
+  - 63.6 EvidenceClassRequirement is verifier input — p. 1319
+  - 63.7 Independent certification architecture — p. 1319
+  - 63.8 Effectivity judgments — p. 1319
+  - 63.9 Replay evidence — p. 1319
+  - 63.10 One disjoint result algebra — p. 1319
+  - 63.11 The proof_status: NONE and external-only boundary — p. 1319
+  - 63.12 Certification and eligibility transitions — p. 1319
+  - 63.13 Revocation and invalidation propagation — p. 1319
+  - 63.14 Replay divergence — p. 1327
+  - 63.15 Detailed campaign: coherent data with unknown effectivity — p. 1327
+  - 63.16 Detailed campaign: complete bounded workflow certification — p. 1327
+  - 63.17 Adversarial campaign: unconditional gate and perfect glue — p. 1327
+  - 63.18 Additional adversarial cases — p. 1327
+  - 63.19 Interface contracts — p. 1327
+  - 63.20 Invariants and proof obligations — p. 1327
+  - 63.21 Verification campaign — p. 1327
+  - 63.22 Closure checking as a deterministic relation — p. 1330
+  - 63.23 The workflow certification receipt — p. 1330
+  - 63.24 Detailed campaign: revocation fan-out — p. 1330
+  - 63.25 Detailed campaign: independent replay divergence — p. 1330
+  - 63.26 Detailed campaign: external proof without promotion — p. 1330
+  - 63.27 Failure and recovery table — p. 1330
+  - 63.28 Reporting and consumer obligations — p. 1334
+  - 63.29 Figure allocation — p. 1334
+  - 63.30 Cross-volume traceability — p. 1334
+  - 63.31 No-execution truth — p. 1334
+- Chapter 64. Scope and Epistemic Constitution of AURORA — p. 1337
+  - Constitutional vector lineage — p. 1337
+  - 64.1 A constitution before a calculus — p. 1337
+  - 64.2 Governing lineage and exact dispositions — p. 1337
+  - 64.3 Generated-draft caveat as a transitive obligation — p. 1338
+  - 64.4 Novelty comparison without novelty inflation — p. 1338
+  - 64.5 Constitutional placement in the top architecture — p. 1338
+  - 64.6 Primitive constitutional carriers — p. 1341
+  - 64.7 Formation judgments and their limited force — p. 1341
+  - 64.8 Model obligations and the distinction between syntax and meaning — p. 1341
+  - 64.9 Authority ceiling as a non-compositional invariant — p. 1341
+  - 64.10 Lifecycle, guarded transitions, and successor discipline — p. 1341
+  - 64.11 Constitutional invariants — p. 1341
+  - 64.12 Worked case: a bounded relational declaration — p. 1341
+  - 64.13 Worked refusal: a major-conjecture claim — p. 1341
+  - 64.14 Worked boundary: imported proof receipts — p. 1341
+  - 64.15 Countermodels to unsafe constitutional shortcuts — p. 1341
+  - 64.16 Refusal and failure taxonomy — p. 1341
+  - 64.17 Open formal obligations — p. 1341
+  - 64.18 Intended implementation tests — p. 1349
+  - 64.19 Interfaces to Chapters 65–70 and later volumes — p. 1349
+  - 64.20 Constitutional conclusion — p. 1349
+- Chapter 65. Worlds and Manifestations — p. 1351
+  - World-and-manifestation vector lineage — p. 1351
+  - 65.1 The world is not the object, and the view is not the world — p. 1351
+  - 65.2 Exact source and audit lineage — p. 1351
+  - 65.3 Comparison with established ideas — p. 1352
+  - 65.4 Core distinction: profile, edition, world, and model — p. 1352
+  - 65.5 Typed carriers — p. 1352
+  - 65.6 Formation rules — p. 1352
+  - 65.7 Structural composition and import — p. 1352
+  - 65.8 World ownership and the read-only AURORA boundary — p. 1352
+  - 65.9 Allocated system view — p. 1352
+  - 65.10 Registration and manifestation lifecycle — p. 1357
+  - 65.11 Non-collapse invariants — p. 1357
+  - 65.12 Worked example: one polynomial, two semantic roles — p. 1357
+  - 65.13 Worked example: the same curve under different worlds — p. 1357
+  - 65.14 Worked example: a view that hides rather than denies — p. 1357
+  - 65.15 Worked example: reflection without self-membership — p. 1357
+  - 65.16 Countermodels to unsafe world handling — p. 1357
+  - 65.17 Failure and refusal semantics — p. 1357
+  - 65.18 Semantic and metatheoretic obligations — p. 1357
+  - 65.19 Intended implementation tests — p. 1363
+  - 65.20 Interfaces to the rest of Part IX — p. 1363
+  - 65.21 A small algebra of identity-indexed views — p. 1363
+  - 65.22 Conclusion — p. 1363
+- Chapter 66. Transport, Witnesses, and Obstructions — p. 1366
+  - Transport-vector lineage — p. 1366
+  - 66.1 Scope and epistemic ceiling — p. 1366
+  - 66.2 Controlling evidence and exact provenance — p. 1366
+  - 66.3 Exact PriorResearchDisposition — p. 1367
+  - 66.4 Adaptation and project-local proposed-synthesis dossier — p. 1367
+  - 66.5 Exact figure references and status — p. 1369
+  - 66.6 Typed domains and syntax — p. 1373
+  - 66.7 Judgment forms — p. 1373
+  - 66.8 Formation and checking rules — p. 1373
+  - 66.9 Direction, variance, and reverse obligations — p. 1373
+  - 66.10 Witness validity and independence — p. 1373
+  - 66.11 Row-wise preservation, loss, and conservative aggregation — p. 1373
+  - 66.12 Composition and path dependence — p. 1373
+  - 66.13 Invariants and non-collapse constraints — p. 1373
+  - 66.14 Lifecycle and terminal precedence — p. 1379
+  - 66.15 Worked derivation I: directional row checking — p. 1379
+  - 66.16 Worked derivation II: composition creates new obligations — p. 1380
+  - 66.17 Countermodels to invalid inferences — p. 1380
+  - 66.18 Failure artifacts and recovery — p. 1380
+  - 66.19 Adversarial and conformance tests — p. 1380
+  - 66.20 Implementation and verification boundary — p. 1383
+  - 66.21 Semantic review matrix for transport strength — p. 1384
+  - 66.22 Failure artifact anatomy and replay discipline — p. 1384
+  - 66.23 Worked adversarial campaign: from plausible arrow to forbidden promotion — p. 1384
+  - 66.24 Independent-review checklist — p. 1384
+  - 66.25 Cross-volume trace — p. 1384
+  - 66.26 Chapter conclusion — p. 1384
+- Chapter 67. Descent and Reconstruction Types — p. 1389
+  - Descent-reconstruction execution lineage — p. 1389
+  - 67.1 Scope: separating local agreement from global existence — p. 1389
+  - 67.2 Controlling evidence and exact provenance — p. 1389
+  - 67.3 Exact PriorResearchDisposition — p. 1390
+  - 67.4 Adaptation and original-delta dossier — p. 1390
+  - 67.5 Exact figure reference and status — p. 1392
+  - 67.6 Typed domains and syntax — p. 1393
+  - 67.7 Judgment forms — p. 1393
+  - 67.8 Formation rules for local data and restrictions — p. 1393
+  - 67.9 Cocycle and higher-overlap rules — p. 1393
+  - 67.10 Effectivity firewall — p. 1393
+  - 67.11 Reconstruction formation and bounded uniqueness — p. 1393
+  - 67.12 Ambiguity as a first-class result — p. 1393
+  - 67.13 Composition, refinement, and path dependence — p. 1393
+  - 67.14 Invariants and non-collapse constraints — p. 1393
+  - 67.15 Lifecycle and guarded branches — p. 1400
+  - 67.16 Worked derivation I: pairwise pass, cocycle failure — p. 1400
+  - 67.17 Worked derivation II: coherent data with open effectivity — p. 1400
+  - 67.18 Worked derivation III: profile collision and ambiguity preservation — p. 1400
+  - 67.19 Worked derivation IV: bounded uniqueness without universal uniqueness — p. 1400
+  - 67.20 Countermodels to invalid reconstruction claims — p. 1400
+  - 67.21 Failure artifacts and successor recovery — p. 1400
+  - 67.22 Adversarial and conformance tests — p. 1400
+  - 67.23 Implementation and metatheory boundary — p. 1404
+  - 67.24 Interface and authority boundary — p. 1405
+  - 67.25 Completeness matrix for a descent datum — p. 1405
+  - 67.26 Reconstruction equivalence, selection, and consumer policy — p. 1406
+  - 67.27 Worked derivation V: inconsistent profile versus incomplete generator — p. 1406
+  - 67.28 Worked derivation VI: refinement reveals hidden loss — p. 1406
+  - 67.29 Adversarial audit campaign: manufacturing a global object — p. 1406
+  - 67.30 Independent-review checklist — p. 1406
+  - 67.31 Cross-volume trace — p. 1406
+  - 67.32 Chapter conclusion — p. 1406
+- Chapter 68. The Identity Ladder — p. 1411
+  - Identity-ladder receipt lineage — p. 1411
+  - 68.1 Identity is a request for authority — p. 1411
+  - 68.2 Source, locator, and generated-provenance dossier — p. 1411
+  - 68.3 Bounded novelty and delta dossier — p. 1413
+  - 68.4 The explicitly ordered ladder — p. 1415
+  - 68.5 Formal environment and carrier closure — p. 1416
+  - 68.6 Typed witnesses by rung — p. 1416
+  - 68.7 Disjoint judgments and serialization — p. 1416
+  - 68.8 Non-equivalence boundaries — p. 1416
+  - 68.9 Formation, elimination, and refusal judgments — p. 1421
+  - 68.10 Composition without upgrading — p. 1421
+  - 68.11 Request lifecycle — p. 1422
+  - 68.12 Why a boolean API cannot be repaired by better documentation — p. 1422
+  - 68.13 Elimination budgets are consumer contracts — p. 1422
+  - 68.14 Native and alien bridge protocol — p. 1424
+  - 68.15 Persistence, API, index, and cache obligations — p. 1424
+  - 68.16 A complete campaign example — p. 1424
+  - 68.17 Refusal quality and human review — p. 1424
+  - 68.18 Detailed cases — p. 1424
+  - 68.19 Countermodels and failure boundaries — p. 1424
+  - 68.20 Adversarial vector dossier — p. 1424
+  - 68.21 Invariants and open obligations — p. 1430
+  - 68.22 Authority and cross-volume boundary — p. 1431
+- Chapter 69. History, Compression, and Non-Collapse — p. 1432
+  - History-compression vector binding — p. 1432
+  - 69.1 A summary must not become its own past — p. 1432
+  - 69.2 Exact source and generated-provenance dossier — p. 1433
+  - 69.3 Bounded novelty and delta dossier — p. 1433
+  - 69.4 History as a formal carrier — p. 1436
+  - 69.5 Provenance retention closure — p. 1436
+  - 69.6 Compression is relative to purpose and snapshot — p. 1436
+  - 69.7 The five-way loss ledger — p. 1436
+  - 69.8 Reversible compression has four noninterchangeable meanings — p. 1436
+  - 69.9 Irreversible compression and counterevidence — p. 1436
+  - 69.10 Compression transitions — p. 1436
+  - 69.11 Composition of histories and compressions — p. 1436
+  - 69.12 Derivability-relative non-collapse — p. 1436
+  - 69.13 Observation history, authority history, and payload history — p. 1436
+  - 69.14 Recovery claims as quantified contracts — p. 1436
+  - 69.15 Derivability after compression — p. 1446
+  - 69.16 Retention classes and lifecycle policy — p. 1446
+  - 69.17 Operational metrics without semantic inflation — p. 1447
+  - 69.18 Extended adversarial scenarios — p. 1447
+  - 69.19 Allocated figure — p. 1447
+  - 69.20 Detailed cases — p. 1449
+  - 69.21 Failure and countermodel dossier — p. 1449
+  - 69.22 Adversarial vector dossier — p. 1449
+  - 69.23 Invariants and metatheory still open — p. 1452
+  - 69.24 Authority ceiling and traceability — p. 1453
+- Chapter 70. A Small Formal Kernel and Its Open Obligations — p. 1454
+  - Kernel-vector successor binding — p. 1454
+  - 70.1 The point of making the kernel smaller — p. 1454
+  - 70.2 Source closure, hashes, and exact locators — p. 1454
+  - 70.3 Inheritance, adaptation, and claimed delta — p. 1456
+  - 70.4 Edition object and lexical boundary — p. 1457
+  - 70.5 The K0 grammar — p. 1457
+  - 70.6 Contexts and well-formedness — p. 1457
+  - 70.7 Universe and formation judgments — p. 1457
+  - 70.8 Equality judgments are disjoint — p. 1457
+  - 70.9 Non-collapse is an enforcement policy, not a theorem claim — p. 1457
+  - 70.10 Substitution and reduction — p. 1465
+  - 70.11 Declared decidable fragments — p. 1465
+  - 70.12 Checker boundary and trust partition — p. 1465
+  - 70.13 Worked derivations — p. 1465
+  - 70.14 Rejected derivations — p. 1469
+  - 70.15 Ambiguity and failure cases — p. 1469
+  - 70.16 Adversarial input suite — p. 1469
+  - 70.17 Non-executed implementation pseudocode — p. 1472
+  - 70.18 Semantic and model obligations — p. 1472
+  - 70.19 Metatheory obligation registry — p. 1472
+  - 70.20 State machine and recovery — p. 1477
+  - 70.21 Output envelope — p. 1477
+  - 70.22 Cross-volume trace — p. 1477
+  - 70.23 What this chapter establishes—and does not — p. 1477
+- Chapter 71. The GMUS-GMLS Boundary — p. 1481
+  - 71.1 A constitutional boundary, not a shared mutable mind — p. 1481
+  - 71.2 Evidence ledger and exact disposition — p. 1481
+  - 71.3 Subjects and non-collapse — p. 1482
+  - 71.4 The immutable CouplingCycleManifest — p. 1482
+  - 71.5 Typed authority and freeze roles — p. 1482
+  - 71.6 Non-cyclic authority — p. 1482
+  - 71.7 Transfer and disposition types — p. 1482
+  - 71.8 Interfaces and transition semantics — p. 1482
+  - 71.9 Boundary invariants — p. 1482
+  - 71.10 Non-circular acceptance criteria — p. 1489
+  - 71.11 Worked campaign: a finite pullback language — p. 1489
+  - 71.12 Countercampaign: mutual approval is not validation — p. 1489
+  - 71.13 Failures and successor-only recovery — p. 1489
+  - 71.14 Adversarial vectors — p. 1490
+  - 71.15 Manifest freeze protocol under concurrency — p. 1491
+  - 71.16 Authority closure, delegation, and emergency action — p. 1491
+  - 71.17 Replay, taint, retraction, and boundary memory — p. 1491
+  - 71.18 Worked campaign: concurrent consumers and one capability — p. 1491
+  - 71.19 Boundary acceptance dossier — p. 1491
+  - 71.20 Implementation boundary and exact cross-volume edges — p. 1494
+- Chapter 72. Structure-to-Language Compilation — p. 1496
+  - 72.1 Compilation is a directional account of information — p. 1496
+  - 72.2 Evidence ledger and adaptation boundaries — p. 1496
+  - 72.3 Allocated figure set — p. 1497
+  - 72.4 Request, accepted transfer, and source snapshot — p. 1500
+  - 72.5 The information profile — p. 1500
+  - 72.6 Preservation obligations — p. 1500
+  - 72.7 Loss profile and cumulative accounting — p. 1500
+  - 72.8 Source fidelity — p. 1500
+  - 72.9 Stage artifacts and the residual algebra — p. 1500
+  - 72.10 Motifs and lexical primitives — p. 1500
+  - 72.11 Syntax, elaboration, and canonicalization — p. 1500
+  - 72.12 Semantic anchors and equality discipline — p. 1500
+  - 72.13 Theory candidates without theorem laundering — p. 1500
+  - 72.14 Compilation judgment and non-circularity — p. 1500
+  - 72.15 State machine and interfaces — p. 1507
+  - 72.16 Worked campaign: restriction and pullback — p. 1507
+  - 72.17 Counterexample: equality almost everywhere — p. 1507
+  - 72.18 Failure and recovery analysis — p. 1507
+  - 72.19 Adversarial vectors — p. 1509
+  - 72.20 Composition laws for information, preservation, and loss — p. 1510
+  - 72.21 Stage-specific obligations — p. 1510
+  - 72.22 Validation design and falsifiable criteria — p. 1511
+  - 72.23 Worked campaign: local sections without false globalization — p. 1511
+  - 72.24 Countercampaign: source citation laundering — p. 1511
+  - 72.25 Release handoff without activation — p. 1511
+  - 72.26 Implementation boundary and exact cross-volume edges — p. 1511
+  - Canonical figures — p. 1511
+- Chapter 73. Language-to-World Feedback — p. 1516
+  - 73.1 The return path carries pressure, not truth — p. 1516
+  - 73.2 Exact provenance and inherited obligations — p. 1516
+  - 73.3 What can return from language use — p. 1517
+  - 73.4 Causal separation before return — p. 1517
+  - 73.5 Return-flow carriers and the common boundary — p. 1517
+  - 73.6 Target fidelity is checked twice — p. 1517
+  - 73.7 Residual accounting and the prohibition on convenient forgetting — p. 1517
+  - 73.8 Activation separation — p. 1517
+  - 73.9 Lifecycle and interface behavior — p. 1517
+  - 73.10 Invariants that define a conforming return path — p. 1517
+  - 73.11 Worked route I: the world already knows the distinction — p. 1523
+  - 73.12 Worked route II: bounded pressure on the world — p. 1523
+  - 73.13 Adversarial cases — p. 1523
+  - 73.14 Failure taxonomy and successor-only recovery — p. 1523
+  - 73.15 Cycle return semantics and exact nonclaims — p. 1523
+- Chapter 74. Bidirectional Translation Treaties — p. 1527
+  - 74.1 A bidirectional treaty is not a reversible function — p. 1527
+  - 74.2 Provenance, inheritance, and originality boundary — p. 1527
+  - 74.3 Version identity precedes translation — p. 1528
+  - 74.4 Directional semantics — p. 1528
+  - 74.5 Pair construction and the weakest-direction rule — p. 1528
+  - 74.6 Equality strengths and non-collapse — p. 1528
+  - 74.7 Preservation, loss, unknown, and residual ledgers — p. 1528
+  - 74.8 Explicit composition — p. 1528
+  - 74.9 Why an inverse is never inferred — p. 1528
+  - 74.10 Lifecycle and state derivation — p. 1528
+  - 74.11 Drift detection across treaty versions — p. 1528
+  - 74.12 Worked treaty I: typed structure with lost history — p. 1528
+  - 74.13 Worked treaty II: composition through a proof language — p. 1528
+  - 74.14 Adversarial treaty cases — p. 1528
+  - 74.15 Failures and recovery — p. 1528
+  - 74.16 Conformance invariants and exact nonclaims — p. 1528
+- Chapter 75. The Coupled Rising-Sea Cycle — p. 1538
+  - 75.1 A cycle is a manifested experiment — p. 1538
+  - 75.2 Source inheritance and disposition — p. 1538
+  - 75.3 Defensible innovation dossier — p. 1538
+  - 75.4 Formal carriers and the coupled recurrence — p. 1538
+  - 75.5 Two-stage freeze and identity law — p. 1538
+  - 75.6 Progress preorder, strict progress, and incomparability — p. 1538
+  - 75.7 Bilateral bounded fixed point — p. 1542
+  - 75.8 Invariants and transition obligations — p. 1542
+  - 75.9 Detailed campaign trace: bounded coherence constructor — p. 1542
+  - 75.10 Detailed campaign trace: apparent improvement by scope loss — p. 1542
+  - 75.11 Failure proofs and explicit obligations — p. 1542
+  - 75.12 Successor-only state and cross-cycle evidence isolation — p. 1542
+  - 75.13 Immutable CouplingCycleManifest — p. 1542
+  - 75.14 Cycle steps and obligation ledger — p. 1542
+  - 75.15 Progress semantics — p. 1542
+  - 75.16 Semantic and operational state separation — p. 1548
+  - 75.17 Fixed-point obligations — p. 1548
+  - 75.18 State transitions — p. 1548
+  - 75.19 Interfaces — p. 1548
+  - 75.20 Closure — p. 1548
+  - 75.21 Failure and recovery — p. 1548
+  - 75.22 Worked cycle — p. 1548
+  - 75.23 False-progress defenses — p. 1548
+  - 75.24 Positive and adversarial vectors — p. 1548
+  - 75.25 Figure references — p. 1551
+  - 75.26 Implementation boundary and downstream edges — p. 1551
+  - Canonical figures — p. 1551
+- Chapter 76. Deadlock, Oscillation, and Semantic Drift — p. 1555
+  - 76.1 Coordination failures need semantic definitions — p. 1555
+  - 76.2 Source inheritance and disposition — p. 1555
+  - 76.3 Innovation dossier: diagnosis without covert control — p. 1555
+  - 76.4 Frozen detector context and carriers — p. 1557
+  - 76.5 Enabledness and the wait-for graph — p. 1557
+  - 76.6 Deadlock definition and counterevidence — p. 1557
+  - 76.7 Oscillation as recurrence without progress — p. 1557
+  - 76.8 Frozen external measures for semantic drift — p. 1557
+  - 76.9 Interactions and deterministic precedence — p. 1557
+  - 76.10 Intervention triggers and no-effect requests — p. 1561
+  - 76.11 Absorbing findings and repair-state protocol — p. 1561
+  - 76.12 Campaign trace A: circular treaty-anchor wait — p. 1561
+  - 76.13 Campaign trace B: compression/expansion oscillation — p. 1561
+  - 76.14 Campaign trace C: improving score with denominator drift — p. 1561
+  - 76.15 Campaign trace D: notation-only successor — p. 1561
+  - 76.16 Failure proofs and detector obligations — p. 1561
+  - 76.17 Detector cross-examination and adversarial burden — p. 1561
+  - 76.18 Semantic and operational state — p. 1561
+  - 76.19 Enabled transitions and wait-for graph — p. 1561
+  - 76.20 Oscillation — p. 1565
+  - 76.21 Semantic drift profile and judgment — p. 1565
+  - 76.22 State transitions and detection interface — p. 1565
+  - 76.23 Typed branch-freeze authority — p. 1565
+  - 76.24 Recovery plan — p. 1565
+  - 76.25 Worked coordination diagnoses — p. 1565
+  - 76.26 Detector integrity — p. 1565
+  - 76.27 Invariants — p. 1565
+  - 76.28 Positive and adversarial vectors — p. 1568
+  - 76.29 Figure references — p. 1568
+  - 76.30 Implementation boundary and downstream edges — p. 1568
+- Chapter 77. Human and Prover Intervention — p. 1570
+  - 77.1 Intervention is a typed boundary, not a master key — p. 1570
+  - 77.2 Exact P10 evidence ledger — p. 1570
+  - 77.3 Formal carrier and request type — p. 1571
+  - 77.4 Human, prover, and joint decisions — p. 1571
+  - 77.5 Authority-effect algebra and no laundering — p. 1571
+  - 77.6 Freeze and unfreeze protocol — p. 1571
+  - 77.7 Target changes and fidelity — p. 1577
+  - 77.8 Waivers and non-waivable obligations — p. 1577
+  - 77.9 Proof results and receipt discipline — p. 1577
+  - 77.10 Concurrent decisions and deterministic precedence — p. 1577
+  - 77.11 Transition system — p. 1577
+  - 77.12 Interfaces and validation order — p. 1577
+  - 77.13 Invariants — p. 1581
+  - 77.14 Failure and recovery matrix — p. 1582
+  - 77.15 Worked campaign A: one-way treaty plus checked lemma — p. 1582
+  - 77.16 Worked campaign B: quarantine, waiver attempt, and controlled unfreeze — p. 1582
+  - 77.17 Adversarial vectors — p. 1582
+  - 77.18 Implementation boundary and cross-volume edges — p. 1584
+- Chapter 78. End-to-End Research Campaigns — p. 1586
+  - 78.1 A campaign is a closed causal record — p. 1586
+  - 78.2 Exact P10 evidence ledger — p. 1586
+  - 78.3 The campaign carrier — p. 1588
+  - 78.4 Typed graph and edge contracts — p. 1588
+  - 78.5 Dependency closure and freshness — p. 1588
+  - 78.6 Node transactions and checkpoints — p. 1588
+  - 78.7 Forward closure — p. 1588
+  - 78.8 Return closure — p. 1593
+  - 78.9 Non-circular exit — p. 1594
+  - 78.10 Incidents, quarantine, and retraction — p. 1594
+  - 78.11 Replay descriptor and outcomes — p. 1594
+  - 78.12 Campaign closure and handoff — p. 1594
+  - 78.13 State machine and interfaces — p. 1594
+  - 78.14 Invariants — p. 1594
+  - 78.15 Failure and recovery — p. 1599
+  - 78.16 Worked campaign A: finite-site language with partial gluing — p. 1599
+  - 78.17 Worked campaign B: source retraction after apparent success — p. 1599
+  - 78.18 Worked campaign C: crash, duplicate event, and return-closure repair — p. 1599
+  - 78.19 Adversarial vectors — p. 1599
+  - 78.20 Implementation boundary — p. 1602
+  - 78.21 Cross-volume edges — p. 1602
+- Chapter 79. Trusted Kernel and Untrusted Proposal Engines — p. 1605
+  - 79.1 The boundary that makes formal evidence intelligible — p. 1605
+  - 79.2 Inheritance and project-local synthesis dossier — p. 1605
+  - 79.3 Principal and control graph — p. 1606
+  - 79.4 Formal carriers and contract surface — p. 1608
+  - 79.5 Trusted-computing-base minimization — p. 1609
+  - 79.6 Decision ownership and allowed questions — p. 1609
+  - 79.7 Target fidelity before kernel authority — p. 1611
+  - 79.8 Three-seal invocation and transition discipline — p. 1611
+  - 79.9 Worked target-mismatch cases — p. 1611
+  - 79.10 Receipt scope and non-accumulation — p. 1611
+  - 79.11 Failure, containment, and successor recovery — p. 1611
+  - 79.12 Positive and adversarial vectors — p. 1614
+  - 79.13 Implementation and evidence ceiling — p. 1614
+  - 79.14 Cross-volume trace — p. 1615
+- Chapter 80. Proof-Assistant and Certified-Solver Adapters — p. 1617
+  - 80.1 An adapter transports obligations, not truth — p. 1617
+  - 80.2 Inheritance and project-local synthesis dossier — p. 1617
+  - 80.3 The bidirectional evidence prism — p. 1618
+  - 80.4 Fidelity relation taxonomy — p. 1620
+  - 80.5 Formal carriers and chapter contracts — p. 1620
+  - 80.6 Adapter classes and their different trust bases — p. 1621
+  - 80.7 Transition system and interfaces — p. 1621
+  - 80.8 Kernel replay and receipt scope — p. 1621
+  - 80.9 Explicit rejection of trivial and placeholder evidence — p. 1621
+  - 80.10 Worked target-mismatch cases — p. 1621
+  - 80.11 Failure and successor recovery — p. 1621
+  - 80.12 Positive and adversarial vectors — p. 1627
+  - 80.13 Security and reproducibility constraints — p. 1627
+  - 80.14 Implementation and evidence ceiling — p. 1627
+  - 80.15 Cross-volume trace — p. 1628
+  - Canonical figures — p. 1628
+- Chapter 81. Promotion Policy and Independent Replay — p. 1631
+  - 81.1 Promotion is neither evaluation nor publication — p. 1631
+  - 81.2 Exact evidence base and scope — p. 1631
+  - 81.3 Seven authorities and their non-transfer rule — p. 1632
+  - 81.4 Formal carriers — p. 1634
+  - 81.5 Locks, decision, application, activation, publication — p. 1634
+  - 81.6 Independent replay is a bounded relation — p. 1634
+  - 81.7 Policy snapshots, waivers, and decision scope — p. 1634
+  - 81.8 Replay assignment, environment acquisition, and independence grades — p. 1634
+  - 81.9 Separate status, activation, and publication matrices — p. 1634
+  - 81.10 State machines without a CURRENT terminal — p. 1634
+  - 81.11 Invariants — p. 1634
+  - 81.12 Failure, containment, and recovery — p. 1641
+  - 81.13 Worked incident: a matching replay that must not promote — p. 1641
+  - 81.14 Declared vectors and adversarial coverage — p. 1641
+  - 81.15 Evidence required for any stronger status — p. 1641
+  - Canonical figures — p. 1643
+- Chapter 82. Mathematical Security and Capability Isolation — p. 1645
+  - 82.1 Security protects effects, secrets, tenants, and meanings — p. 1645
+  - 82.2 Exact source and audit register — p. 1645
+  - 82.3 Permission atoms and the meet law — p. 1646
+  - 82.4 Formal carriers — p. 1648
+  - 82.5 Tenant boundary — p. 1648
+  - 82.6 Operating-system sandbox boundary — p. 1651
+  - 82.7 Hostile path ingress — p. 1651
+  - 82.8 Secret containment — p. 1652
+  - 82.9 Authority-cycle exclusion — p. 1652
+  - 82.10 Confused deputies and end-to-end effect authority — p. 1652
+  - 82.11 Lifecycle and commit-time revocation — p. 1652
+  - 82.12 Invariants — p. 1652
+  - 82.13 Failures and recovery — p. 1655
+  - 82.14 Worked incident: archive ingress, secret bait, and stale commit — p. 1655
+  - 82.15 Adversarial vectors — p. 1655
+  - 82.16 Reference-executed status and remaining closure conditions — p. 1655
+- Chapter 83. Resource Budgets and Termination Discipline — p. 1658
+  - 83.1 Why a resource limit changes the meaning of an answer — p. 1658
+  - 83.2 Exact source ledger and honest adaptation — p. 1658
+  - 83.3 Formal carriers — p. 1660
+  - 83.4 Conservation and anti-laundering laws — p. 1660
+  - 83.5 Dimension ownership and compositional accounting — p. 1660
+  - 83.6 Normative invariants — p. 1660
+  - 83.7 Termination disciplines by algorithm class — p. 1665
+  - 83.8 Exhaustion artifacts are scientific outputs — p. 1665
+  - 83.9 Layered terminal precedence — p. 1665
+  - 83.10 Transition system and interfaces — p. 1666
+  - 83.11 Worked cases — p. 1666
+  - 83.12 Failure algebra and recovery — p. 1666
+  - 83.13 Adversarial and conformance vectors — p. 1666
+  - 83.14 Implementation gap and evidence required — p. 1669
+  - 83.15 Downstream obligations — p. 1670
+- Chapter 84. Observability Without Semantic Distortion — p. 1671
+  - 84.1 Seeing a run is not knowing its truth — p. 1671
+  - 84.2 Exact source ledger and adaptation boundary — p. 1671
+  - 84.3 Event and trace carriers — p. 1674
+  - 84.4 Integrity, authenticity, completeness, and truth — p. 1674
+  - 84.5 Signed evidence under compromise and partial trust — p. 1675
+  - 84.6 Metric contracts and the no-monitoring-to-truth firewall — p. 1675
+  - 84.7 Tenant, secret, and viewer boundaries — p. 1675
+  - 84.8 Sampling and its semantic effects — p. 1675
+  - 84.9 Ordering and causal limits — p. 1675
+  - 84.10 Completeness and perturbation receipts — p. 1675
+  - 84.11 Lifecycle and authority-preserving interfaces — p. 1675
+  - 84.12 Schema evolution, retention, and reconstructibility — p. 1675
+  - 84.13 Worked cases — p. 1675
+  - 84.14 Failure modes and bounded recovery — p. 1675
+  - 84.15 Adversarial and conformance vectors — p. 1675
+  - 84.16 Implementation gap and required evidence — p. 1683
+  - 84.17 Downstream obligations — p. 1684
+- Chapter 85. Reproducible Builds and Experimental Manifests — p. 1685
+  - 85.1 Reconstruction is a closure claim — p. 1685
+  - 85.2 Exact source lineage and proposed-synthesis comparison — p. 1685
+  - 85.3 Formal carriers — p. 1686
+  - 85.4 Deterministic environment profile — p. 1686
+  - 85.5 Experimental closure beyond a seed — p. 1691
+  - 85.6 PDF and DOCX normalization profiles — p. 1691
+  - 85.7 Independent rebuild protocol — p. 1693
+  - 85.8 Invariants — p. 1693
+  - 85.9 State transitions, failure, and recovery — p. 1693
+  - 85.10 Allocated vectors and drills — p. 1695
+  - 85.11 Evidence boundary and cross-volume consumers — p. 1695
+- Chapter 86. Incident, Retraction, and Supersession Protocols — p. 1698
+  - 86.1 Correction is append-only control — p. 1698
+  - 86.2 Exact source lineage and proposed-synthesis comparison — p. 1699
+  - 86.3 Immutable history and current-use projection — p. 1699
+  - 86.4 Formal correction carriers — p. 1699
+  - 86.5 Authority topology — p. 1699
+  - 86.6 Rollback protocol — p. 1699
+  - 86.7 Degraded cutover cases — p. 1699
+  - 86.8 Retraction, quarantine, and supersession — p. 1699
+  - 86.9 Notification and publication correction — p. 1699
+  - 86.10 Invariants — p. 1699
+  - 86.11 State transitions — p. 1699
+  - 86.12 Failure and recovery matrix — p. 1699
+  - 86.13 Closure criteria and reopening — p. 1709
+  - 86.14 Allocated vectors and detailed drills — p. 1709
+  - 86.15 Evidence boundary and exact consumers — p. 1709
+- Chapter 87. Technology-Neutral Normative Architecture — p. 1712
+  - 87.1 The constitutional thin waist — p. 1712
+  - 87.2 Root evidence and exact locators — p. 1712
+  - 87.3 Defensible novelty dossier — p. 1713
+  - 87.4 Claim-level upstream bindings — p. 1714
+  - 87.5 Normative language and carrier types — p. 1716
+  - 87.6 Canonical byte profile NCB-1 — p. 1716
+  - 87.7 Semantic model and independent oracle — p. 1716
+  - 87.8 Consistency and durability model — p. 1716
+  - 87.9 Authority topology — p. 1719
+  - 87.10 Interface transitions — p. 1719
+  - 87.11 Non-circular acceptance predicate — p. 1719
+  - 87.12 Positive and adversarial cases — p. 1719
+  - 87.13 Failure, containment, and recovery — p. 1719
+  - 87.14 Explicit downstream blockers — p. 1719
+- Chapter 88. Polyglot Reference Implementation — p. 1724
+  - 88.1 A profile specification, not an implementation announcement — p. 1724
+  - 88.2 Exact source and prototype dossier — p. 1724
+  - 88.3 Defensible novelty dossier — p. 1725
+  - 88.4 Thin-waist ABI PABI-1 — p. 1726
+  - 88.5 Version and compatibility law — p. 1726
+  - 88.6 Independent golden oracle — p. 1726
+  - 88.7 Lean 4 profile — p. 1726
+  - 88.8 Rust profile — p. 1726
+  - 88.9 TypeScript profile — p. 1726
+  - 88.10 Python profile — p. 1726
+  - 88.11 Cross-language invocation and receipt — p. 1726
+  - 88.12 Differential, property, and fuzz criteria — p. 1726
+  - 88.13 Lifecycle and non-circular judgment — p. 1726
+  - 88.14 Positive and adversarial vectors — p. 1726
+  - 88.15 Failure, recovery, and retained residuals — p. 1726
+  - 88.16 Explicit downstream blockers — p. 1726
+  - Canonical figures — p. 1726
+- Chapter 89. Migration from Existing Prototypes — p. 1736
+  - 89.1 The migration obligation is a bounded refinement claim — p. 1736
+  - 89.2 Inherited source and adaptation dossier — p. 1736
+  - 89.3 Formal migration domain and denominator — p. 1737
+  - 89.4 Asset ledger, identity, and dispositions — p. 1737
+  - 89.5 Field, behavior, and status maps — p. 1737
+  - 89.6 Frozen comparators and shadow execution — p. 1737
+  - 89.7 Lifecycle and transition guards — p. 1737
+  - 89.8 Non-circular cutover and rollback predicates — p. 1737
+  - 89.9 Discrepancy governance — p. 1737
+  - 89.10 Detailed migration cases — p. 1737
+  - 89.11 Concurrent writes, partial scope, and decommission — p. 1737
+  - 89.12 Adversarial vectors and genuine blockers — p. 1737
+  - 89.13 Failure, recovery, and evidence boundary — p. 1737
+- Chapter 90. End-to-End Integration Milestones — p. 1747
+  - 90.1 A milestone is a frozen decision problem — p. 1747
+  - 90.2 Inherited source and adaptation dossier — p. 1747
+  - 90.3 Formal objects — p. 1749
+  - 90.4 Immutable evidence packages — p. 1749
+  - 90.5 Gate invariants and independent decisions — p. 1749
+  - 90.6 Frozen gate predicates for M0-M5 — p. 1749
+  - 90.7 Waivers, thresholds, and validity — p. 1749
+  - 90.8 Acceptance, invalidation, and propagation — p. 1749
+  - 90.9 Lifecycle and interfaces — p. 1749
+  - 90.10 Detailed milestone cases — p. 1749
+  - 90.11 Decision conflict, quorum, and the release firewall — p. 1749
+  - 90.12 Adversarial vectors and downstream blockers — p. 1749
+  - 90.13 Failure, recovery, and evidence boundary — p. 1749
+- Chapter 91. Architecture Benchmarks — p. 1759
+  - 91.1 What an architecture benchmark measures — p. 1759
+  - 91.2 Exact source and adaptation dossier — p. 1759
+  - 91.3 Formal benchmark objects — p. 1760
+  - 91.4 Tasks, immutable datasets, and holdouts — p. 1760
+  - 91.5 Custody and contamination — p. 1760
+  - 91.6 External oracles and adjudication — p. 1764
+  - 91.7 Baselines and ablations — p. 1764
+  - 91.8 Metrics, units, denominators, and unknowns — p. 1764
+  - 91.9 Costs and stopping rules — p. 1764
+  - 91.10 Comparison, aggregation, and decision protocol — p. 1764
+  - 91.11 Invariants and lifecycle — p. 1767
+  - 91.12 Detailed cases and adversarial protocols — p. 1767
+  - 91.13 Evidence boundary and figure reference — p. 1767
+- Chapter 92. Failure Taxonomy and Red-Team Program — p. 1771
+  - 92.1 Failure must remain typed and open — p. 1771
+  - 92.2 Exact source and adaptation dossier — p. 1771
+  - 92.3 Taxonomy epochs and formal records — p. 1772
+  - 92.4 Threat × control × environment coverage — p. 1772
+  - 92.5 Attack and mutation manifests — p. 1772
+  - 92.6 Oracles, independence, and safe execution — p. 1772
+  - 92.7 Findings, incidents, mitigations, and residual risk — p. 1772
+  - 92.8 Independent retest and regression — p. 1772
+  - 92.9 Successor-only REOPENED semantics — p. 1772
+  - 92.10 Non-exhaustive coverage receipts — p. 1772
+  - 92.11 Campaign stopping, severity, and disclosure protocol — p. 1772
+  - 92.12 Invariants and lifecycle — p. 1772
+  - 92.13 Detailed positive and negative cases — p. 1772
+  - 92.14 Adversarial campaign protocol — p. 1772
+  - 92.15 Evidence boundary and figure reference — p. 1772
+  - Canonical figures — p. 1772
+- Chapter 93. Research Roadmap to Volumes IV-VI — p. 1785
+  - 93.1 The research claim and its present limit — p. 1785
+  - 93.2 External source and adaptation dossier — p. 1785
+  - 93.3 Stable endpoint and edge identities — p. 1787
+  - 93.4 Exact edge register — p. 1787
+  - 93.5 Formal roadmap graph and invariants — p. 1788
+  - 93.6 Stages from V3 to V4-V6 — p. 1790
+  - 93.7 Work packages, ledgers, and resource envelopes — p. 1790
+  - 93.8 Lifecycle, transitions, and independently checkable exits — p. 1792
+  - 93.9 Failure algebra and recovery — p. 1794
+  - 93.10 Worked dependency scenarios — p. 1794
+  - 93.11 Adversarial one-way and stale-edge cases — p. 1794
+  - 93.12 Evidence-snapshot disposition and falsifiable next actions — p. 1794
+- Modern AI Related Work and Novelty Matrix — p. 1798
+  - Scope and evidence discipline — p. 1798
+  - Retrieval and context assembly — p. 1798
+  - Formal mathematics and proof-assistant boundaries — p. 1798
+  - Automated and learned theorem proving — p. 1800
+  - Agents, debate, and distributed mathematical work — p. 1800
+  - Verification, provenance, and execution security — p. 1800
+  - Reinforcement learning and causal evaluation — p. 1800
+  - Benchmarking, contamination, and evidence calibration — p. 1800
+  - Governance and non-endorsement — p. 1800
+  - Novelty matrix — p. 1800
+  - Claim language licensed by the current evidence — p. 1804
+  - Residual citation and comparison needs — p. 1804
+  - Project source ledger — p. 1806
