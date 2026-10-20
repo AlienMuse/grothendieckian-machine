@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.23480696"><img src="assets/hero.png" alt="GAI-MUA: The Grothendieckian Machine — six worlds, one coherence" width="100%"></a>
+  <a href="https://doi.org/10.5281/zenodo.23480696"><img src="assets/hero.svg" alt="GAI-MUA: The Grothendieckian Machine — the D6 honeycomb of six worlds and one coherence" width="100%"></a>
 </p>
 
 <p align="center">
@@ -58,8 +58,9 @@ The work is, at once:
   hypotheses and source-aware proof lineage;
 - **a study in mathematical method and genealogy** — how a theorem, a definition or a research program
   actually entered the record, down to the smallest supporting source unit;
-- **an architecture for AI for mathematics** — in which every claim carries its world, its hypotheses, its
-  source, and its proof receipt, and in which failure is an output rather than an error;
+- **an architecture for AI for mathematics** — in which a world carries its ambient category, invariants and
+  supported boundary; a theorem its hypotheses, dependency closure, source lineage, proof receipts and epistemic
+  status; a bridge what it preserves and what it loses — and in which failure is an output rather than an error;
 - **a research program in governed self-evolution** — for systems that improve their retrieval, proof search
   and policies while mathematical truth stays attached to source, proof, and review.
 
@@ -73,12 +74,12 @@ the result returns to the original question.
 
 ```mermaid
 flowchart LR
-    P["Problem <i>p</i> in world <i>W</i><br/>(a failed or open judgment)"] --> O["Obstruction profile<br/>what structure is missing"]
-    O --> F["World change <i>F : W → W′</i><br/>hypotheses · preserved · forgotten"]
-    F --> C["Work in <i>W′</i><br/>proof · computation · search"]
-    C -->|receipts| R["Return to <i>W</i><br/>descent · comparison · reconstruction"]
+    P["Problem p in world W<br/>(a failed or open judgment)"] --> O["Obstruction profile<br/>what structure is missing"]
+    O --> F["World change F : W → W′<br/>hypotheses · preserved · forgotten"]
+    F --> C["Work in W′<br/>proof · computation · search"]
+    C -->|receipts| R["Return to W<br/>descent · comparison · reconstruction"]
     C -->|counterexample · unknown · timeout| X["Informative failure<br/>part of the mathematical state"]
-    R --> A["Answer in <i>W</i><br/>at its exact relation strength"]
+    R --> A["Answer in W<br/>at its exact relation strength"]
     X -.-> O
 ```
 
@@ -197,7 +198,8 @@ Preface, the complete table of contents, and Chapter 1 of Volume I.
 - **A research architecture, not a completed universal solver.** Completion claims are confined to exact
   local results.
 - **Specification and implementation are separate.** Volumes III–VI contain normative architectures,
-  contracts and reference-platform designs; they do not claim that an implementation already exists.
+  proposed contracts and reference-platform designs. Implementation status is a separate claim, carried only by
+  allocated components, executables, tests, replay receipts and release evidence.
 - **Coverage is selective despite its scale.** Complete hypotheses and proofs remain in the primary and
   modern sources, which the work cites at the level of the smallest supporting unit.
 - **Analogy has a bounded role.** Descent language applied to software, publication or co-evolution stays an
@@ -225,7 +227,7 @@ use that mirror if GitHub downloads are slow in your region.
 
 To refer to the work in general, cite the **concept DOI** [10.5281/zenodo.23480696](https://doi.org/10.5281/zenodo.23480696), which always
 resolves to the latest edition. To refer to this exact edition, cite the version DOI
-[10.5281/zenodo.23480697](https://doi.org/10.5281/zenodo.23480697). GitHub's **“Cite this repository”** button uses
+[10.5281/zenodo.23480697](https://doi.org/10.5281/zenodo.23480697). GitHub's **Cite this repository** button uses
 [CITATION.cff](CITATION.cff).
 
 > Liu, V. (2026). *GAI-MUA: The Grothendieckian Machine — A Mathematical Universe Architecture for Verifiable
@@ -250,7 +252,8 @@ resolves to the latest edition. To refer to this exact edition, cite the version
 
 Every release file is listed in [`SHA256SUMS`](SHA256SUMS), signed by the author's OpenPGP key
 (`DA1A 1AEF D8B2 C17C FF3F 1D1B 3905 0F50 7A4F EC17`, also at [github.com/AlienMuse.gpg](https://github.com/AlienMuse.gpg)), timestamped by two
-RFC 3161 authorities, and anchored in the Bitcoin blockchain through OpenTimestamps.
+independent RFC 3161 authorities (FreeTSA and DigiCert), and anchored in the Bitcoin blockchain through
+OpenTimestamps.
 
 ```sh
 sha256sum -c SHA256SUMS --ignore-missing          # integrity

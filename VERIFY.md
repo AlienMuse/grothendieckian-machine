@@ -48,12 +48,20 @@ gh release verify v1.0.0 -R AlienMuse/grothendieckian-machine
 gh release verify-asset v1.0.0 GAI-MUA-v1.0.0-Vol1-Foundations.pdf -R AlienMuse/grothendieckian-machine
 ```
 
-`SHA256SUMS.tsr` is an RFC 3161 timestamp token over `SHA256SUMS`:
+`SHA256SUMS.tsr` is an RFC 3161 timestamp token over `SHA256SUMS` from FreeTSA:
 
 ```sh
 openssl ts -reply -in SHA256SUMS.tsr -text          # shows the time
 openssl ts -verify -data SHA256SUMS -in SHA256SUMS.tsr \
-    -CAfile freetsa-cacert.pem -untrusted freetsa-tsa.crt     # https://freetsa.org/files/
+    -CAfile timestamps/freetsa-cacert.pem -untrusted timestamps/freetsa-tsa.crt
+```
+
+A second, independent token over the same file comes from DigiCert. Its certificate chain up to the public
+*DigiCert Trusted Root G4* is in `timestamps/digicert-chain.pem`; verify against your system's CA bundle:
+
+```sh
+openssl ts -verify -data SHA256SUMS -in timestamps/SHA256SUMS.digicert.tsr \
+    -CAfile /etc/ssl/certs/ca-certificates.crt -untrusted timestamps/digicert-chain.pem
 ```
 
 `SHA256SUMS.ots` anchors the same file in the Bitcoin blockchain (<https://opentimestamps.org>):
