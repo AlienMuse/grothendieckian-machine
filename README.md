@@ -207,6 +207,25 @@ Preface, the complete table of contents, and Chapter 1 of Volume I.
 - **Disputed mathematics remains disputed.** The treatment of IUT records sources, critiques and responses
   as distinct events behind an explicit firewall.
 
+## The series
+
+<table>
+  <tr>
+    <td width="150" valign="top" align="center">
+      <a href="https://github.com/AlienMuse/topos-native-intelligence"><img src="https://raw.githubusercontent.com/AlienMuse/topos-native-intelligence/main/assets/cover.png" alt="Cover of GM-Omega-Infinity: Topos-Native Intelligence" width="130"></a>
+    </td>
+    <td valign="top">
+      This work is Series 01 of the WiseMotif Monograph of Mathematical Intelligence and the central part of the
+      Grothendieckian Programme: it sets out how mathematical worlds are built, compared and transported.<br><br>
+      <b>Series 02 — <a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a></b>
+      (<a href="https://doi.org/10.5281/zenodo.23538544">doi:10.5281/zenodo.23538544</a>) is the meta-reasoning
+      kernel of the Programme — five volumes bound as one, 4,020 pages — and asks what an intelligence must be,
+      internally, if it is to reason inside those worlds. A context is a site, the evidence it carries is a sheaf
+      over that site, and a conclusion is a global section that exists only where the local evidence glues.
+    </td>
+  </tr>
+</table>
+
 ## Download
 
 | | File | Pages | Size |
@@ -296,6 +315,7 @@ find it.
     <b>GAI-MUA: The Grothendieckian Machine</b> · Research Architecture Edition 1 · version 1.0.0<br>
     WiseMotif Monograph of Mathematical Intelligence, Series 01 · Mathematics and Artificial Intelligence ·
     <a href="https://wisemotif.ai">WiseMotif.ai</a><br>
+    Series 02: <a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a><br>
     © 2026 Vincent Liu · The name <i>Grothendieckian Machine</i> denotes a research architecture developed in this
     work; it carries no attribution of design or endorsement to Alexander Grothendieck.
   </sub>

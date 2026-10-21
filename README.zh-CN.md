@@ -183,6 +183,24 @@ flowchart LR
 - **类比的作用有界。** 把下降的语言用于软件、发布或协同演化，在给出 site、覆盖、重叠、上闭链与有效性数据之前，始终只是类比。
 - **有争议的数学仍是有争议的。** 对 IUT 的处理把文献、批评与回应作为不同事件记录，并设有明确的防火墙。
 
+## 系列
+
+<table>
+  <tr>
+    <td width="150" valign="top" align="center">
+      <a href="https://github.com/AlienMuse/topos-native-intelligence"><img src="https://raw.githubusercontent.com/AlienMuse/topos-native-intelligence/main/assets/cover.png" alt="《GM-Omega-Infinity: Topos-Native Intelligence》封面" width="130"></a>
+    </td>
+    <td valign="top">
+      本书是 WiseMotif Monograph of Mathematical Intelligence 的第一部（Series 01），也是 Grothendieckian Programme
+      的核心部分：它阐明数学世界如何被构造、比较与迁移。<br><br>
+      <b>第二部（Series 02）——<a href="https://github.com/AlienMuse/topos-native-intelligence">《GM-Omega-Infinity: Topos-Native Intelligence》</a></b>
+      （<a href="https://doi.org/10.5281/zenodo.23538544">doi:10.5281/zenodo.23538544</a>）是该 Programme 的元推理内核
+      （meta-reasoning kernel），五卷合一、4,020 页。它追问：一个智能系统若要在这些世界内部推理，其内部必须是什么。
+      上下文是一个 site，它所承载的证据是 site 上的层，结论是整体截面——只有在局部证据能够粘合之处它才存在。
+    </td>
+  </tr>
+</table>
+
 ## 下载
 
 | | 文件 | 页数 | 大小 |
@@ -252,6 +270,7 @@ ots verify SHA256SUMS.ots                          # 存在时间
     <b>GAI-MUA: The Grothendieckian Machine</b> · Research Architecture Edition 1 · version 1.0.0<br>
     WiseMotif Monograph of Mathematical Intelligence, Series 01 · Mathematics and Artificial Intelligence ·
     <a href="https://wisemotif.ai">WiseMotif.ai</a><br>
+    第二部：<a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a><br>
     © 2026 Vincent Liu · <i>Grothendieckian Machine</i> 指本书提出的研究架构；该名称不表示 Alexander Grothendieck
     本人参与设计或认可。
   </sub>
